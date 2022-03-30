@@ -236,10 +236,15 @@ A very simple and direct (if not shocking) answer is because I'm of
 Northwestern European descent[fn:3], and what many of the poets of the
 so-called Romantic Era were going after was a nature-based
 spirituality specifically for us Europeans, one that, strangely
-enough, would combine 1) dark, mysterious, gothy things with 2) pagan bits
-and bobs, as well as 3) a new take on Christianity---all three poles
-embedded in Nature. I'm saying I feel it in my /folk-soul/, in my
-genetic memory---tribal, and unpolitically correct as that may seem.
+enough, would combine
+
+1. dark, mysterious, gothy things with
+2. pagan bits and bobs
+3. a more "poetic" take on Christianity
+
+---all three poles embedded in Nature. I'm saying I feel it in my
+/folk-soul/, in my genetic memory---tribal, and unpolitically correct
+as that may seem.
 
 Story: During my misspent youth (which, by the way, just wrapped up a
 few weeks ago), I once tried to join a back-to-the-land/nature commune
@@ -266,14 +271,15 @@ German--- were /finally/ getting around to something real.
 ** I took a classic English lit class once. I don't remember any "European nature spirituality."
 
 That's because your "classic English lit class" was no doubt taught by
-a clueless academe[fn:4] who himself knew only the standard clichés
-about Romanticism. I realised something about Romanticism, namely,
-that what the academes were saying and what I was getting from just
-reading the poems and looking at the art were two completely different
-animals. It's come to the point that I don't want /any/ additional
-information---not of the authors, not of the times or influences. I
-simply want to read and adsorb the actual materials. Better to heed
-what John Keats' character in the 2009 film /Bright Star/ says
+a clueless academe[fn:4] who himself only repeated the standard
+recycled clichés about Romanticism[fn:5]. I finally realised something
+very important about Romanticism, namely, that what the academes were
+saying and what I was getting from just reading the poems and looking
+at the art were two completely different animals. I've become very
+particular about "additional information"---about the authors, about
+their times and influences[fn:6]. I simply want to read and adsorb the
+actual materials. Consider what John Keats' character in the 2009 film
+/Bright Star/ says
 
 #+begin_quote
 A poem needs understanding through the senses. The point of diving in
@@ -287,36 +293,41 @@ the soul to accept mystery.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bASfrZYnkvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
-Right. The point is not to analyse each and every tree, but to
-luxuriate in, wade out into the deepest realisation possible of the
-forest as a whole. Never before did poetry reach so far into the
-whole, into the intuitive and unexplainable as in the nineteenth
-century in the era of /Romanticism/[fn:5].
+Right. The point is not to analyse to death each and every tree, but
+to take in the deepest realisation possible of the forest as a
+whole. Never before did poetry reach so far into the whole, into the
+intuitive and unexplainable as in the nineteenth century in the era of
+/Romanticism/[fn:7] in places like England and Germany. And yes, very
+many academes just don't get Romanticism. They're the people who
+immediately swim to shore.
 
-Here are some choice lines from Emily Brontë's /Shall Earth no more
-inspire thee?/, where she has Earth beseeching the human to /come back
-and dwell with me/
+** Very well, academes don't get it, but again, "European nature spirituality?"
+
+WUTHERING will initially center on Emily Brontë, whom I shall call
+/Haworth Emily/ henceforth[fn:8]. Here are some choice
+lines from her /Shall Earth no more inspire thee?/, where she has
+Earth beseeching the human to ... /come back and dwell with me/
 
 #+begin_verse
 ...Thy mind is ever moving
 In regions dark to thee;
-Recall its useless roving—
+Recall its useless roving---
 Come back and dwell with me.
 
 I know my mountain breezes
-Enchant and soothe thee still—
+Enchant and soothe thee still---
 I know my sunshine pleases
 Despite thy wayward will.
 ...
 Then let my winds caress thee;
-Thy comrade let me be—
+Thy comrade let me be---
 Since nought beside can bless thee,
 Return and dwell with me.
 #+end_verse
 
-And so I say again, just read the poems and let that suffice. Take
+And so I say again, /just read the poems and let that suffice/. Take
 them in. Give them time. Here's a WUTHERING litmus test, a short /Dark
-Romantic/ poem from /Haworth/[fn:6] Emily called /Fall leaves fall/
+Romantic/ poem from Haworth Emily called /Fall leaves fall/
 
 #+begin_verse
 Fall, leaves, fall; die, flowers, away;
@@ -328,6 +339,8 @@ Blossom where the rose should grow;
 I shall sing when night’s decay
 Ushers in a drearier day.
 #+end_verse
+
+
 
 
 
@@ -349,25 +362,96 @@ Haworth Emily's poetry.
 
 
 
-** But how can you just ignore what the experts have said?
+** 
 
 Because I must. Keats lake.
 
-** Aren't you just idealising, romanticising the life, the people back then?
+
+
+
+
+** Aren't you just projecting your interpretation on Romanticism? Aren't you just idealising, /romanticising/ the life, the people back then?
 
 I can say definitively they were a few shades more "real" than we
-clone-bunny suburbanites are. Emily-Annette dialogue.
+clone-bunny suburbanites are. Here's some dialogue from my not really
+published book /Emily of Wolkeld/.[fn:9] In this scene Annette is visiting the
+Whitmore's Wolkeld estate, the two girls walking the lane up to the
+neglected manor house Wolkeld Hall, talking about /Jane Eyre/ and her
+existence with the Rivers family as a school marm
 
-** Aren't you just projecting your interpretation on Romanticism?
+#+begin_quote
+“No, no, of course not.” Emily groaned and shook her hands in
+frustration. “I know it sounds mad, but I want that life.”
 
-Right, and how am I any better than any of these bad academes?
+“What life?”
 
-** Aren't you just adding to the culture/lifestyle wars?
+“Why, Jane Eyre’s! At least the one she had with the Rivers family.”
+Emily stopped and looked up into the oak limbs. “I know I didn’t
+explain it very well, but that was the life, the church I was
+imagining.”
 
-Yes. Admitted. I'm not a native[fn:7]. As a relative newcomer I've
+Annette jumped a pace ahead, wheeled around, and, shaking her index
+finger admonishingly, exclaimed, “Well, you can’t have it!”
+
+Emily laughed brightly at her friend’s petulant theatrics.
+
+“What?!” exclaimed Annette, joining in the laughter. “Is it my
+accent?”
+
+“No, Annette, no. It’s just how you said that.”	
+
+Emily straightened up, took a breath, and began walking again. Annette
+fell in beside her. “No, really, imagine being a school teacher back
+then in that country parish. Earning a pittance. Living in a stone
+cottage. All around is a Yorkshire semi-wilderness. And nowhere on the
+planet is anything even vaguely modern, nothing that could save a
+person from an infected—toe.”
+
+“Harsh,” said Annette, “harsh, but I suppose thrilling for it. And it
+was exactly that harshness, those real boundaries and limits that
+elicited the beauty.”
+
+“Would you go back if you could? If there were a time machine, would
+you go back?”
+
+The tall German threw her head back and forced her chest out. After a
+big inhale-exhale, she said, “I’d go back. I would.”
+
+“Even if it meant an earlier death?”
+
+“Because I’m a baron’s daughter, and I would have a definite place.”
+
+“And you don’t have a place here?”
+
+Just then a wind burst caused a shower from the branches above. Emily
+	glanced over at her friend, wondering if she had pushed too
+	hard. Annette finally spoke: “My true self would be growing in
+	proper soil. And my death . . . I would trust my death, came
+	it early or late.”
+
+“You would accept an early death?”
+
+“Death cannot be rejected, so our acceptance of it is irrelevant. Our
+lives, our deaths are in God’s hands.”
+#+end_quote
+
+
+So no, I'm not romanticising any part of it. Just the opposite. Life
+in the first half of the nineteenth century was much harsher than
+today's. But it was more real for it.
+
+I look at today's fecklessness, our relatively facile lives and wonder
+if a dose of harshness isn't what we need. I'm hardly original with
+this idea. There are so many who have advocated harshness---in
+carefully measured doses, that is. Which makes it really just posing,
+theatre. Alas.
+
+** Aren't you just adding to the culture/lifestyle wars? Why worry about themes and symbols so much?
+
+Yes. Admitted. I'm not a native[fn:10]. As a relative newcomer I've
 mostly thought I shouldn't oppose the existing cultural /Gestalt/ of
 this area; but it always galled me that the dominant subculture, what
-I call /Neo-Klondike/ misses what I sense up here.
+I call /Neo-Klondike/ misses entirely what I sense up here.
 
 
 
@@ -438,7 +522,7 @@ Let's start by saying the vast majority of Americans have no idea of
 what monarchism really is, havig been fed all their lives a steady
 diet of misinformation and Hollywood sensationalism. The monarchism
 I'm on about started after the very nasty Dark Ages and matured into
-/manorial/ monarchism (MM)[fn:8] in the medieval Europe.
+/manorial/ monarchism (MM)[fn:11] in the medieval Europe.
 
 As viewed from thirty-thousand feet, MM was a system devised to
 properly manage a relatively sparse resources balance sheet on a
@@ -493,7 +577,7 @@ fantasies and slobbery.
 
 The short answer is yes. In my youth I was a great advocate of the
 "Star Trek" future, a techno-Utopia as promised by classic science
-fiction. But then I learned about the /Jevons Paradox/[fn:9], which
+fiction. But then I learned about the /Jevons Paradox/[fn:12], which
 basically says we never really get more with less from each
 progressive improvement in technology. It is primarily for this
 diminishing returns from technology that I've been forced to give up
@@ -643,22 +727,37 @@ the sixteenth century.
 scholar who may analyse the individual trees very well but can't see
 the forest.
 
-[fn:5] Just wait, I've got Romantic Era poetry that will blow you
+[fn:5] ...many of whom are actually Romanticism haters, e.g.,
+modernists. Imagine reading a review of a symphony orchestra written
+by a country and western fan.
+
+[fn:6] All too often the modern academe invents, projects, imagines
+something he wants to see in the bygone era, thus, we get a
+revisionist /hagiography/, i.e., a subjective, facts-optional,
+out-of-context account of a saint.
+
+[fn:7] Just wait, I've got Romantic Era poetry that will blow you
 away. You'll think modern lit is just some conspiracy to hide and
 cover up this vastly superior work. More on this conspiracy later...
 
-[fn:6] The Brontë sisters hardly ever left the Yorkshire village of
-Haworth. I refer to Emily Brontë as Haworth Emily and Emily Dickinson
-as Amherst Emily.
+[fn:8] The Brontë sisters hardly ever left the Yorkshire village of
+Haworth. Emily Brontë will be known as /Haworth/ Emily and her
+sister-in-letters Emily Dickinson as /Amherst/ Emily.
 
-[fn:7] Actually no one is, as there was no one definite group here
+[fn:9] /Emily of Wolkeld/ is about Lady Emily Whitmore, a
+nineteen-year-old English earl's daughter and her German baron's
+daughter friend Annette /Freiin/ von der Surwitz. They are desperately
+trying to figure out their roles as peers, their /noblesse oblige/ in
+modern times.
+
+[fn:10] Actually no one is, as there was no one definite group here
 Pre-Columbian. Still, most of us would say the Ojibwa were the first
 peoples here.
 
-[fn:8] Manorial in the sense that manors throughout the land were
+[fn:11] Manorial in the sense that manors throughout the land were
 their version of the Communist agricultural collectives.
 
-[fn:9] In economics, the Jevons paradox (sometimes Jevons' effect)
+[fn:12] In economics, the Jevons paradox (sometimes Jevons' effect)
 occurs when technological progress or government policy increases the
 efficiency with which a resource is used (reducing the amount
 necessary for any one use), but the rate of consumption of that
