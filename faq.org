@@ -1,0 +1,669 @@
+#+TITLE:
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+# #path:http://orgmode.org/org-info.js +HTML_HEAD: <link
+# #rel="stylesheet" href="../data/stylesheet.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+
+@@html:<label for="mn-demo" class="margin-toggle">⊕</label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/WutheringSmall2.png]]
+\\
+\\
+@@html:</span>@@
+
+@@html:<label for="mn-demo" class="margin-toggle">⊕</label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/InlandSeaDType2.png]]
+@@html:</span>@@
+
+
+* WUTHERING faq/interview/manifesto
+
+Allow me to repeat my statement
+
+#+begin_quote
+This site will explore the mysterious allure of the Inland Sea, which
+may lie close to what some of the poets of the nineteenth century, the
+/Romanticists/, were on about.
+#+end_quote
+
+then I'll discuss other things.
+
+** Why have you renamed Lake Superior to /The Inland Sea/?
+
+Simply put, it's too big and grand and epic and sublime a body of
+water to just be called a lake.  For me a lake is something that
+can be looked across, from one shore to the far shore. Or if the far
+shore is over the horizon, then maybe only at a few widest places can
+I not see to the other side.
+
+Really now, do you think the world's largest body of fresh water
+surface-wise (31,700 square miles)---bigger than lots of bodies called
+seas, for example, the Aral Sea, the Dead Sea, the Salton Sea---is
+just a lake? I don't. I think it's a /sea/. It's a sea the same way
+it's the boreal /forest/, not the boreal thicket or copse or grove or
+even woods. The Ojibwa name /gichi-gami/ means "great sea."  The
+French explorers came up with the name /le lac supérieur/ meaning the
+"upper lake," by which they merely meant above Lake Huron. This was
+then anglicised to Lake Superior. A comedy of geographic-cartographic
+errors, I'd say.
+
+Perhaps /Inland Sea/ is vague; there are other bodies of water around
+the world referred to as such. As a book title, James Fenimore Cooper
+called Lake Ontario the Inland Sea. And with /Operation Inland
+Seas/ the U.S. Navy referred to all of the Great Lakes as the inland
+seas when, upon its completion in 1959, they sent a flotilla up the
+St. Lawrence Seaway. But vague is good. It means we're being local and
+/vernacular/, /provincial/, if not /parochial/ about our sea. Bully
+for us.
+
+My ulterior motive is to raise a sense of majesty and mystery in a
+poetic sense. That's all, really. Saying Inland Sea or The Inland Sea
+is a bit like saying /world/ or /globe/ instead of /planet/. It
+invokes. It engenders allure. Then Inland Sea begs renaming /North Shore/ to
+/North Coast/. Though I suppose calling these three northeastern
+Minnesota counties the /Arrowhead/ will do; but this, too, is
+problematic, as it leaves out the continuation of this boreal forest
+across the Canadian border. Oh well.
+
+** What do you mean by /wuthering/?
+
+One main difference between indoors and outdoors is that outdoors
+there is typically a naturally-occuring breeze or *wind*. And if we
+have wind as strong as it can be up here on the North Coast of the
+Inland Sea, then we have /wuthering/.[fn:1] @@html:<label
+for="mn-demo" class="margin-toggle">⊕</label> <input type="checkbox"
+id="mn-demo" class="margin-toggle"> <span class="marginnote">@@
+[[file:images/EBFramed1.png]] \\
+Emily Brontë @@html:</span>@@ Though it is ironic that my favourite
+poet, *Emily Jane Brontë*, wrote the novel /*Wuthering* Heights/,
+which I have not read. My former wife read it and didn't like it, and
+I've always taken her opinion as final.
+
+** Why would you connect this place with Romanticism?
+
+To be sure, insisting this unique place of sea and land is something
+other than what the prevailing image influencers and tourist brochures
+are painting it as is surely fraught. I presuppose
+
+a) I know what Romanticism is, and,
+b) a place's narrative-mythology (NM) is fungible.
+
+Let me address 2 first. To my mind this place of wilderness and water
+is distinctive to the point of defying description, definition, any
+sort of label. Occupied permanently only /post/-Columbian by the
+Ojibwa people, they joined by French traders, finally settled by
+mainly Scandinavian immigrants, the North Coast has not seen permanent
+human habitation for long enough to settle on an NM. But since the
+1970s when my Boomer generation, arriving from urban/suburban places
+like the Twin Cities and Chicago, began to outnumber the Scandi
+locals, as well as the steady replacement of mining and timber
+industries with tourism, there's been something of a consensus around
+the idea that we are a /lost, discontiguous county of Alaska/. This
+new NM I call *Neo-Klondikism*.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iKY5NC2pgio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Neo-Klondike is backwoods northern frontier where protagonists of all
+possible genders wear flannel shirts, woolen pants with a sheathed
+knife on the leather belt, hobnail-derivative boots---exchanged for
+Steger mukluks in the winter. The official narrators would be Jack
+London and Robert Service---with non-boreal Ernest Hemingway as an
+honorary bard[fn:2]. Our official TV shows would be /Northern
+Exposure/ and especially /The Red Green Show/. Our official music is
+anything twangy, at least half of it containing banjo.
+
+And yet Neo-Klondike is a complete divorce from anything Ojibwa,
+French, or Scandinavian, specifically from Scandinavia, a place with a
+long tradition of just this sort of humans embedded deep in boreal
+forest NM. Yes, if you peruse the children's books at the Duluth
+Public Library you will find a full selection of Germanic-Scandinavian
+NM picture books from Elsa Beskow, Astrid Lundgren, Sibylle von
+Olfers, Selma Lagerlöf, Hans Christian Andersen, and John Bauer,
+supported by Germanic-British NM from Tolkien, Arthur Rackam, and
+many others. Yes, we have a North House Folk School, a supposed
+cultural vestige from Scandinavia, but you won't hear Swedish folk
+bands Väsen or Garmarna or cow-calling (/kulning/) at any of Folk
+School's major musical events, rather, usually just twangy stuff.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTjlM8_KLwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+No, for anything Scandi-NM, for any sort of Lindgren's /Bullerby/
+you'll find only the faintest echoes on today's North Coast.
+
+** Neo-Klondike needs competition from another reimagining, rebranding?
+
+There seems to be two general relocators to the North Coast---well-off
+retirees who see this as a picturesque place for their dessert years,
+and those people wanting to get away from somewhere less desirable and
+restart their lives. With this second group *authenticity* is a big
+motivator. Like so many of us, we came from sterile, conformist,
+cookie-cutter urban-suburban landscapes devoid of nature, allowing for
+very little humanity. We grew up as part of the nameless, faceless
+grey modern masses, and as young adults we set out searching for
+something, somewhere real. So we made this one big jump out of the
+middle-, upper-middle-class to be here.
+
+My description of Neo-Klondike was meant to be amusing, and what I
+mean /WUTHERING/ to be will probably /not/ appeal to a
+Neo-Klondiker. If you're a Neo-Klondiker you've found your haven, your
+hermitage. You've gone through your rebirth, this faux-Alaska
+lifestyle being a perfect 180-degrees away from your suburban
+clone-bunny past. Even though I grew up in suburban America, I can't
+do Neo-Klondike.
+
+** So why did you come here in the first place?
+
+In 2003, I, my wife Kristine at the time, and twin boys, came up to
+the North Coast from Kristine's home in Kansas. Ostensibly, we were
+looking for an anti-bourgeois, back-to-the-land life. We had been big
+earners in the Matrix, I programming, she health management. But as
+time marched on we realised we were not really interested in this
+endless episode of /The Red Green Show/ after all. Kristine had a big
+door-stop complete edition of Jane Austen, which she read every night
+before bed. She would read it cover-to-cover, then start over
+again. And she was Mennonite, a curious people with similar
+social-psychology to the Mormons, that is, insular, self-contained,
+not really looking for alternative lifestyles. Her head really wasn't
+in it.
+
+As the years played out I had many moments of "oh fecal matter" when I
+realised that I was just not vibrating on this quasi-hillbilly with
+Hemingway sprinkles wavelength. At some point we were in full
+disillusionment mode, and yet we were stuck, having abandoned our
+yuppie careers and no real interest in making some career in the
+tourist-based Neo-Klondike economy. Finally, Kristine decided to
+become a Mennonite pastor, and so in 2014 we relocated to the
+Mennonite heartland of Northern Indiana. There our marriage hit the
+rocks, I never a good match for her Mennonite world, let alone as a
+Mennonite pastor's spouse.
+
+But one shared thing was our love of English and German culture,
+especially that of the eighteenth and nineteenth century. It was our
+escapism from North Coast escapism.
+
+** Really though, how is some 19th-century Romanticism template overlay better than Neo-Klondike?
+
+A very simple and direct (if not shocking) answer is because I'm of
+Northwestern European descent[fn:3], and what many of the poets of the
+so-called Romantic Era were going after was a nature-based
+spirituality specifically for us Europeans, one that, strangely
+enough, would combine 1) dark, mysterious, gothy things with 2) pagan bits
+and bobs, as well as 3) a new take on Christianity---all three poles
+embedded in Nature. I'm saying I feel it in my /folk-soul/, in my
+genetic memory---tribal, and unpolitically correct as that may seem.
+
+Story: During my misspent youth (which, by the way, just wrapped up a
+few weeks ago), I once tried to join a back-to-the-land/nature commune
+in Wisconsin where everyone was white like me but pretending to be
+Native American. I'd always been a great admirer of the Native
+American nature-based belief system and initially thought this was
+very cool. But at some point it became obvious that, no, I was
+witnessing a classic example of /cultural appropriation/. Something a
+Dakota man at the Pine Ridge Reservation once said to me came back,
+"You're like stray dogs hanging around the village." He meant whites
+trying to be native. Obviously, he wasn't buying "we're all just
+mix-and-match."
+
+I had explored proto-European spiritual movements; but so many seemed
+just too kooky, if not tainted with fascism, to weird, over-the-top
+Nazism. The difference between hippie Odinists versus the far-Right
+skinhead Odinists was just too ephemeral.
+
+At some point I started reading the poetry of *Emily Brontë*, then
+others of her era, and it gradually sunk in that the late-eighteenth-,
+early-nineteenth-century poets of Romanticism---mainly English and
+German--- were /finally/ getting around to something real.
+
+** I took a classic English lit class once. I don't remember any "European nature spirituality."
+
+That's because your "classic English lit class" was no doubt taught by
+a clueless academe[fn:4] who himself knew only the standard clichés
+about Romanticism. I realised something about Romanticism, namely,
+that what the academes were saying and what I was getting from just
+reading the poems and looking at the art were two completely different
+animals. It's come to the point that I don't want /any/ additional
+information---not of the authors, not of the times or influences. I
+simply want to read and adsorb the actual materials. Better to heed
+what John Keats' character in the 2009 film /Bright Star/ says
+
+#+begin_quote
+A poem needs understanding through the senses. The point of diving in
+a lake is not immediately to swim to the shore, but to be in the lake,
+to luxuriate in the sensation of water. You do not "work the lake
+out." It is an experience beyond thought. Poetry soothes and emboldens
+the soul to accept mystery.
+#+end_quote
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bASfrZYnkvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Right. The point is not to analyse each and every tree, but to
+luxuriate in, wade out into the deepest realisation possible of the
+forest as a whole. Never before did poetry reach so far into the
+whole, into the intuitive and unexplainable as in the nineteenth
+century in the era of /Romanticism/[fn:5].
+
+Here are some choice lines from Emily Brontë's /Shall Earth no more
+inspire thee?/, where she has Earth beseeching the human to /come back
+and dwell with me/
+
+#+begin_verse
+...Thy mind is ever moving
+In regions dark to thee;
+Recall its useless roving—
+Come back and dwell with me.
+
+I know my mountain breezes
+Enchant and soothe thee still—
+I know my sunshine pleases
+Despite thy wayward will.
+...
+Then let my winds caress thee;
+Thy comrade let me be—
+Since nought beside can bless thee,
+Return and dwell with me.
+#+end_verse
+
+And so I say again, just read the poems and let that suffice. Take
+them in. Give them time. Here's a WUTHERING litmus test, a short /Dark
+Romantic/ poem from /Haworth/[fn:6] Emily called /Fall leaves fall/
+
+#+begin_verse
+Fall, leaves, fall; die, flowers, away;
+Lengthen night and shorten day;
+Every leaf speaks bliss to me
+Fluttering from the autumn tree.
+I shall smile when wreaths of snow
+Blossom where the rose should grow;
+I shall sing when night’s decay
+Ushers in a drearier day.
+#+end_verse
+
+
+
+
+
+
+Yes, yes, the irony of introspective, contemplative nature-based
+Wordsworthian-Brontëan poetry coming out of Britain's most
+imperialistic, Manifest Destiny times is schizophrenic for
+certain. And no, I don't think many "got it," much less could really
+do much with it back then. And yet Romantic aesthetics has come
+roaring back for me, stronger and more relevant than ever before.
+
+Gottfried Keller Hans Magnus' lament. Lament in general throughout
+Haworth Emily's poetry.
+
+
+
+
+
+
+** But how can you just ignore what the experts have said?
+
+Because I must. Keats lake.
+
+** Aren't you just idealising, romanticising the life, the people back then?
+
+I can say definitively they were a few shades more "real" than we
+clone-bunny suburbanites are. Emily-Annette dialogue.
+
+** Aren't you just projecting your interpretation on Romanticism?
+
+Right, and how am I any better than any of these bad academes?
+
+** Aren't you just adding to the culture/lifestyle wars?
+
+Yes. Admitted. I'm not a native[fn:7]. As a relative newcomer I've
+mostly thought I shouldn't oppose the existing cultural /Gestalt/ of
+this area; but it always galled me that the dominant subculture, what
+I call /Neo-Klondike/ misses what I sense up here.
+
+
+
+** Politics?
+
+Left, Right? Preferably neither nor. To me, today's political world is
+like a junkyard of toxic memes, a procession of good cop, bad cop
+entrapment schemes one after the other. Since the vibe of the Inland
+Sea is what I'm really trying to capture, today's topsy-turvy,
+house-of-mirros politics doesn't really need me adding my two cents
+very often.
+
+But since this is a tell-all FAQ I will come out and say point-blank I
+believe American Democracy is failing. If you must know I'm a
+*Monarchist*. What? You can't be serious! How can you possibly be a
+Monarchist? Either you're just being a kooky contrarian---or you've
+been watching too much /Downton Abbey/.
+
+It's taken me quite a while to become a Monarchist, but the seeds were
+planted in my head while in Europe (seven years total; Germany,
+Switzerland). To be sure, very many layers of scales fell from my eyes
+while in Europe, one set being the issue of political systems. As some
+wise and intelligent Germans enlightened me, there are really only two
+political systems: Monarchism and Not-Monarchism. Not-Monarchism comes
+in two flavours, namely, republican-representational systems commonly
+referred to as democracies, and autocratic systems known as
+dictatorships.
+
+If there is one political belief we've all been taught from an early
+age to accept unquestioningly, that would be democracy. But as was
+pointed out to me, democracy really only works in the most optimal
+settings and perfect conditions, i.e., societies that are relatively
+peaceful and prosperous. In other words, only when the sun is shining
+and the winds are calm does democracy seem to function---at all. And
+so if we look at a map of the world, only those places in the very
+well developed world have what we'd call functioning democracies,
+everywhere else, dysfunctional democracies of various stripes, out to
+dictatorships.
+
+Why is democracy only for the rich and stable? Because it is
+representational, and that means /everyone/---including all the "bad
+sorts," all the people you don't like, don't get along with, all the
+unintelligent and uninformed rubes---get to participate. A democratic
+elections put one group in power while the others are left out. Part
+and parcel of every democracy are factions and so-called "special
+interests." But of course political groupings can be rather benign
+when the sun is shining and the breezes are gentle.
+
+Special interests, parties, factions, lobbyists scurrying to-and-fro,
+this group in, that group out---none of it seems so bad when times are
+good. But once any real problems or disagreements arise, these
+divisions come out with a vengeance. And if things are really bad, the
+power blocks grab their weapons and force their will upon society. One
+gang is in power and their enemies, their opponents are liquidated. So
+democracy and dictatorship are just two sides of the same coin. This
+means no amount of vigilance or resolve can stop a dictator from
+rising when the sun goes behind a cloud or the wind picks
+up. Dictators simply come with the territory when the going gets
+rough.
+
+Seen in this light, we might lift ourselves above all of today's
+tail-chasing and squabbling and see it all as just a transition period
+from the one form of Not-monarchism to the other.
+
+** ...so what is monarchism?
+
+Let's start by saying the vast majority of Americans have no idea of
+what monarchism really is, havig been fed all their lives a steady
+diet of misinformation and Hollywood sensationalism. The monarchism
+I'm on about started after the very nasty Dark Ages and matured into
+/manorial/ monarchism (MM)[fn:8] in the medieval Europe.
+
+As viewed from thirty-thousand feet, MM was a system devised to
+properly manage a relatively sparse resources balance sheet on a
+continent already for many thousands of years fully occupied and
+settled. That is to say, not having an entire (stolen) Continent
+brimming with resources and space at their disposal, Europeans had to
+be careful space- and resource-wise on their old sod... Hence, MM had
+to strike an environmental balance, and it had to have teeth to
+enforce this balance. MM was tight, stingy, and, when necessary,
+harsh---just like the land. Simply put, MM was a perfect, organic,
+natural adaptation mirroring closely the conditions, the environmental
+reality at hand. Tight resources translated into tight social norms
+and boundaries. Life was stratified, hierarchical, and on a
+budget. Stasis, maintenance, and niche behaviors, were called for, not
+growth and dynamism, not every peasant gets to go anywhere and do
+anything he wanted to. For such an old place as Europe, there was no
+"go West young man" after overpopulating and using up the local
+resources as there was in North America.
+
+** ...so monarchism is mainly a sort of "deep" environmentalism, right? 
+
+Very much so. Everything monarchical was primarily rooted in the
+necessity of a real and functioning environmentalism.  /For what shall
+it profit a man, if he shall gain the whole world, and lose his own
+soul?/ wasn't just a nice biblical quote. And so all of modern
+"progress"---our great rights and freedoms, the long list defeated
+diseases and solved medical infirmities, the abundance of food in
+stores and supermarkets, our magical high-tech---what does any of it
+matter if we devolve into degenerates and crash the planet
+environmentally? Then the whole MM scheme to limit, control, suppress
+humans to not exceed the *real* limits of the land, of reality on this
+planet will once again seem genial. It already does to me.
+
+Basically, democracy has descended into the masses voting for /more/,
+that is, /evermore/ prosperity, /evermore/ ease and comfort. And those
+two dodgy economic systems born of the Industrial Revolution,
+capitalism and socialism, vie to give the voters what they really
+want. Yes, science and technology have afforded us many "more with
+less" boons, but at some point this whole business of evermore people
+demanding evermore resources (evermore-evermore) will have to yield to
+reality.
+
+Consider the fact that you and I are consuming upwards of one hundred
+times more resources and energy per capita than our ancestors from the
+year 1800 did. How can that go on? It can't. So I guess I'm not all
+that concerned about everyone's rights or prosperity or ease and
+comfort if we fall apart as a society or render the Earth
+uninhabitable. At some point structure and stability must win over
+fantasies and slobbery.
+
+** You're not just a monarchist, but a Luddite too...
+
+The short answer is yes. In my youth I was a great advocate of the
+"Star Trek" future, a techno-Utopia as promised by classic science
+fiction. But then I learned about the /Jevons Paradox/[fn:9], which
+basically says we never really get more with less from each
+progressive improvement in technology. It is primarily for this
+diminishing returns from technology that I've been forced to give up
+on any sort of modern take on environmentalism.  Again, it, like so
+many other modern variations, assumes that we can save the planet if
+we simply change how we're applying, deploying technology. Sorry, but
+we're long past any tweaks. And no, Elon Musk and EVs will not save
+us. The backlog of intractable environmental problems created by
+evermore-evermore cannot be solved by the capitalist-socialist
+industrialist state simply recombining itself.
+
+And I could not avoid how modern sci-fi has taken a decidedly dark
+turn into what came to be known as /cyberpunk/, typically a
+near-future /dystopian/ modern-realist fiction. Everything cyberpunk
+was nightmarish---mainly because futuristic technology and human
+social-psychology do not play well together.
+
+But the camel's back was broken when Mark Zuckerberg announced his big
+push into virtual reality with /Meta/. We've sat through films like
+/Ex Machina/ and /Her/. We've read Neal Stephenson and William
+Gibson. Now we're supposed to actually step into those nightmares
+waiting to happen?
+
+** So you think we should forsake all of these science and technology advancements?
+
+I don't see a choice. I'm not a /prepper/ or a doomsday conspiracy
+theorist, but really, how can this work? At the human psychological
+level, we are creating a world of "smart" devices that are not human,
+that cannot truly integrate or assimilate with our unique logic and
+emotion tuning. At best artificial intelligence will /simulate/
+humanness---something truly creepy at best, disastrous in all
+inevitability.
+
+I don't know how much of a Christian I am, but let's say God created
+us and tuned us to be this very specific balance between our logical
+neocortex and our limbic system emotions. We understand this about one
+another and make adjustments accordingly. But will the legions of AI
+be able to truly join in with this social-psychology? No. Or if it
+does, the results will be disastrous for us.
+
+
+Between God's Creation and
+
+EB come back and dwell with me....
+
+
+Sierra Club environmentalism is a sham, a hoax.
+The heart of any sort of environmental realism
+
+** Local trumps politics, lifestyle wars
+
+** Stilted, flowery English?
+
+First, I like to capitalise nouns. All nouns in German are
+capitalised, and it's a practice used in Romantic poetry. and Hemingway was an idiot.
+
+Hemingway saw Nature as a harsh testing grounds for manhood---full
+stop. And so many of his protagonists wound up twisted by this
+test---or at least made even more antisocial
+
+** Where did you get all these crazy ideas?
+
+My Grandmother, who was a Whitmore, and more English than the
+Queen. She was doing the Dowager Countess Violet from /Downton Abbey/
+long before Julian Fellowes even thought of trading in his Led
+Zeppelin albums for Bach and Elgar. She ran her own little DA in a
+small town in Southern Illinois, and spoke longingly of how more
+cultured and civilised life "back East" (Zanesville, Ohio, her
+parents' home town) was. She "turned us onto" the Victorian Era.
+
+From that base I went to Germany and Switzerland, which I consider my
+Hogwarts, where I was sorted into Ravenclaw, aka, the Intelligentsia.
+
+** Aren't you avoiding reality and living in the Past?
+
+Short answer: yes. But the Past is such a nice place.
+
+** Somebody told me you're a racist...
+
+I'm a very strange mixture of Left and Right on the subject of my
+Race. AncestryDNA says I'm half Scottish (my mother was a Lumsden),
+then a quarter English (my paternal grandmother was English) and the
+rest German and Swedish, as my name, Bottorff, (or von Bottorff) is
+German, an old aristocratic-patrician house that gave up titles and
+wealth to follow Luther in the sixteenth century. We're not really
+Swedish, but our DNA can be found in Sweden since lots of patrician
+Germans fled religious persecution and resettled at the behest of the
+Scandinavian Protestants in Scandinavia. Similarly, after a few
+generations in Basel, Switzerland, my branch, at the behest of Queen
+Anne, came to America in 1711...
+
+...and I'm not really comfortable with that...as in this is not my
+land. And no I'm not any sort of Manifest Destiny white
+supremacist-racialist, either. I'm Northwestern European and very
+happy with my choice of ancestry, and very protective-proud of my
+Western Culture, especially as it hit its Zenith in the nineteenth
+century, the so-called /Romantic Era/, also called the Victorian Era,
+or as I call it the /Glorious Nineteenth/.
+
+But having pride in being Northwest European and mad about the
+Glorious Nineteenth---and not really interested in multi-cultural
+mash-ups---has put me on the outs with many hard-liners. No, I don't
+"celebrate diversity." Have you ever noticed how the extremely
+colour-blind multiculture-multiracial advocates themselves tend to
+never bring a dish to the ethnic-race potluck? They want to sit on top
+of all the diversity and control it, actually. To me, every race,
+creed, ethnic group needs to have a homeland, a safe place where they
+don't have to know or adapt to any of the idiosyncrasies of any other
+group, a place where they are completely autonomous and
+self-determining. And so must we, the Northwest Europeans
+be---although
+
+** ...but aren't you just living in the past?
+
+Oh, yes, mainly because the present is rolling down the lee side of
+the Glorious Nineteenth, is the short answer. Not to mention how we're
+about to forfeit everything due to mass insanity and environmental
+apocalypse.
+
+** ...but I thought you were into STEM and computers and...
+
+Yes, I was. I've always been a searcher and philosophically tangled up
+in the meaning and purpose of life. For the longest time I saw the
+exponential
+
+** Life philosophy?
+
+Life is hard. And if we get away from its hardness and harshness for
+too long, we go loopy.
+
+* Footnotes
+
+[fn:1] *wuthering*: adj; mainly Northern English; (of weather)
+characterized by strong winds. /It's a wuthering day on the moors today./
+
+[fn:2] This would exclude Sigurd F. Olson (1899 – 1982) an true
+long-time Arrowhead bard, but who was decidedly Scandinavian
+impressionistic in the spirit of Robert Frost. Boomer buy-in for
+Sigurd was minimal.
+
+[fn:3] According to AncestryDNA I'm Scottish, English, German, and
+Swedish, although the Swedish is probably a "false positive" as my
+German ancestors fled religious persecution to Protestant Sweden in
+the sixteenth century.
+
+[fn:4] I'm using *academe* in the derogatory sense as a pedantic
+scholar who may analyse the individual trees very well but can't see
+the forest.
+
+[fn:5] Just wait, I've got Romantic Era poetry that will blow you
+away. You'll think modern lit is just some conspiracy to hide and
+cover up this vastly superior work. More on this conspiracy later...
+
+[fn:6] The Brontë sisters hardly ever left the Yorkshire village of
+Haworth. I refer to Emily Brontë as Haworth Emily and Emily Dickinson
+as Amherst Emily.
+
+[fn:7] Actually no one is, as there was no one definite group here
+Pre-Columbian. Still, most of us would say the Ojibwa were the first
+peoples here.
+
+[fn:8] Manorial in the sense that manors throughout the land were
+their version of the Communist agricultural collectives.
+
+[fn:9] In economics, the Jevons paradox (sometimes Jevons' effect)
+occurs when technological progress or government policy increases the
+efficiency with which a resource is used (reducing the amount
+necessary for any one use), but the rate of consumption of that
+resource rises due to increasing demand.[1] The Jevons paradox is
+perhaps the most widely known paradox in environmental economics.[2]
+However, governments and environmentalists generally assume that
+efficiency gains will lower resource consumption, ignoring the
+possibility of the paradox arising. (Taken from Wikipedia)
