@@ -71,25 +71,24 @@ may lie close to what some of the poets of the nineteenth century, the
 /Romanticists/, were on about.
 #+end_quote
 
-then I'll discuss other things.
+and explain what I mean...
 
 ** Why have you renamed Lake Superior to /The Inland Sea/?
 
 Simply put, it's too big and grand and epic and sublime a body of
-water to just be called a lake.  For me a lake is something that
-can be looked across, from one shore to the far shore. Or if the far
-shore is over the horizon, then maybe only at a few widest places can
-I not see to the other side.
+water to just be called a lake.  For me a lake is something that can
+be looked across, from one shore to the far shore. Or maybe at only a
+few widest places can I not see to the other side.
 
 Really now, do you think the world's largest body of fresh water
 surface-wise (31,700 square miles)---bigger than lots of bodies called
 seas, for example, the Aral Sea, the Dead Sea, the Salton Sea---is
-just a lake? I don't. I think it's a /sea/. It's a sea the same way
-it's the boreal /forest/, not the boreal thicket or copse or grove or
-even woods. The Ojibwa name /gichi-gami/ means "great sea."  The
-French explorers came up with the name /le lac supérieur/ meaning the
-"upper lake," by which they merely meant above Lake Huron. This was
-then anglicised to Lake Superior. A comedy of geographic-cartographic
+just a lake? I don't. I think it's definitely a /sea/. We have a sea
+the same way we have the boreal /forest/, not the boreal thicket or
+copse or grove or even woods. The Ojibwa name /gichi-gami/ means
+"great sea."  The French explorers came up with the name /le lac
+supérieur/ meaning the "upper lake" above Lake Huron. This was then
+anglicised to Lake Superior. A comedy of geographic-cartographic
 errors, I'd say.
 
 Perhaps /Inland Sea/ is vague; there are other bodies of water around
@@ -98,53 +97,52 @@ called Lake Ontario the Inland Sea. And with /Operation Inland
 Seas/ the U.S. Navy referred to all of the Great Lakes as the inland
 seas when, upon its completion in 1959, they sent a flotilla up the
 St. Lawrence Seaway. But vague is good. It means we're being local and
-/vernacular/, /provincial/, if not /parochial/ about our sea. Bully
-for us.
+/vernacular/, /provincial/, if not /parochial/ about our sea. Let them
+deal with us.
 
-My ulterior motive is to raise a sense of majesty and mystery in a
+One ulterior motive is to raise a sense of majesty and mystery in a
 poetic sense. That's all, really. Saying Inland Sea or The Inland Sea
-is a bit like saying /world/ or /globe/ instead of /planet/. It
-invokes. It engenders allure. Then Inland Sea begs renaming /North Shore/ to
-/North Coast/. Though I suppose calling these three northeastern
-Minnesota counties the /Arrowhead/ will do; but this, too, is
-problematic, as it leaves out the continuation of this boreal forest
-across the Canadian border. Oh well.
+is a bit like saying /world/ or /globe/ instead of /planet/. It's
+evocative. It engenders allure. Inland Sea then begs renaming /North
+Shore/ to /North Coast/.
 
 ** What do you mean by /wuthering/?
 
 One main difference between indoors and outdoors is that outdoors
-there is typically a naturally-occuring breeze or *wind*. And if we
-have wind as strong as it can be up here on the North Coast of the
-Inland Sea, then we have /wuthering/.[fn:1] @@html:<label
-for="mn-demo" class="margin-toggle">⊕</label> <input type="checkbox"
-id="mn-demo" class="margin-toggle"> <span class="marginnote">@@
+typically has a naturally-occurring breeze or *wind*. And if we have
+wind as strong as it can be up here on the North Coast of the Inland
+Sea, then we have /wuthering/.[fn:1] @@html:<label for="mn-demo"
+class="margin-toggle">⊕</label> <input type="checkbox" id="mn-demo"
+class="margin-toggle"> <span class="marginnote">@@
 [[file:images/EBFramed1.png]] \\
-Emily Brontë @@html:</span>@@ Though it is ironic that my favourite
-poet, *Emily Jane Brontë*, wrote the novel /*Wuthering* Heights/,
-which I have not read. My former wife read it and didn't like it, and
-I've always taken her opinion as final.
+Emily Jane Brontë @@html:</span>@@ Though it is ironic that my
+favourite poet, *Emily Jane Brontë*, wrote the novel /*Wuthering*
+Heights/, which I have not read. My former wife read it and did not
+care for it, and I've always taken her opinion as final.
 
 ** Why would you connect this place with Romanticism?
 
 To be sure, insisting this unique place of sea and land is something
 other than what the prevailing image influencers and tourist brochures
-are painting it as is surely fraught. I presuppose
+are painting it as will certainly ruffle some feathers. I presuppose
 
 a) I know what Romanticism is, and,
-b) a place's narrative-mythology (NM) is fungible.
+b) a place's image, symbols, its narrative, its mythology can be
+   fungible.
 
-Let me address 2 first. To my mind this place of wilderness and water
-is distinctive to the point of defying description, definition, any
-sort of label. Occupied permanently only /post/-Columbian by the
-Ojibwa people, they joined by French traders, finally settled by
-mainly Scandinavian immigrants, the North Coast has not seen permanent
-human habitation for long enough to settle on an NM. But since the
+Let me address number two first. To my mind this landscape of
+wilderness and water is distinctive to the point of defying
+description, definition, any sort of label, really. Occupied
+permanently only /post/-Columbian by the Ojibwa people, they soon
+after joined by French traders, finally settled by mainly Scandinavian
+immigrants, the North Coast has not seen permanent human habitation
+for long enough to settle on any narrative or mythology. But since the
 1970s when my Boomer generation, arriving from urban/suburban places
 like the Twin Cities and Chicago, began to outnumber the Scandi
 locals, as well as the steady replacement of mining and timber
 industries with tourism, there's been something of a consensus around
-the idea that we are a /lost, discontiguous county of Alaska/. This
-new NM I call *Neo-Klondikism*.
+the idea that we are a /lost, discontiguous county of Alaska/. This I
+call *Neo-Klondikism*.
 
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iKY5NC2pgio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -152,25 +150,26 @@ new NM I call *Neo-Klondikism*.
 
 Neo-Klondike is backwoods northern frontier where protagonists of all
 possible genders wear flannel shirts, woolen pants with a sheathed
-knife on the leather belt, hobnail-derivative boots---exchanged for
+knife on a leather belt, hobnail-derivative boots---exchanged for
 Steger mukluks in the winter. The official narrators would be Jack
 London and Robert Service---with non-boreal Ernest Hemingway as an
-honorary bard[fn:2]. Our official TV shows would be /Northern
-Exposure/ and especially /The Red Green Show/. Our official music is
-anything twangy, at least half of it containing banjo.
+honorary bard[fn:2]. Our official TV shows are /Northern Exposure/ and
+especially /The Red Green Show/. Our official music is anything
+twangy, banjos never enough of them.
 
-And yet Neo-Klondike is a complete divorce from anything Ojibwa,
-French, or Scandinavian, specifically from Scandinavia, a place with a
+And yet Neo-Klondike is completely divorced from anything Ojibwa,
+French, or Scandinavian---especially from Scandinavia, a place with a
 long tradition of just this sort of humans embedded deep in boreal
-forest NM. Yes, if you peruse the children's books at the Duluth
-Public Library you will find a full selection of Germanic-Scandinavian
-NM picture books from Elsa Beskow, Astrid Lundgren, Sibylle von
-Olfers, Selma Lagerlöf, Hans Christian Andersen, and John Bauer,
-supported by Germanic-British NM from Tolkien, Arthur Rackam, and
-many others. Yes, we have a North House Folk School, a supposed
-cultural vestige from Scandinavia, but you won't hear Swedish folk
-bands Väsen or Garmarna or cow-calling (/kulning/) at any of Folk
-School's major musical events, rather, usually just twangy stuff.
+forest mythology. Yes, if you peruse the children's books at the
+Duluth Public Library you will find a full selection of
+Germanic-Scandinavian narrative myth picture books from Elsa Beskow,
+Astrid Lundgren, Sibylle von Olfers, Selma Lagerlöf, Hans Christian
+Andersen, and John Bauer, supported by Germanic-British narrative
+mythology from Tolkien, Arthur Rackam, to name just a few. And yes, we
+have the /North House Folk School/, a supposed cultural vestige from
+Scandinavia. But you won't hear Swedish folk bands Väsen or Garmarna
+or cow-calling (/kulning/) or hardanger fiddle at any of Folk School's
+major musical events, usually just twangy stuff.
 
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTjlM8_KLwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -302,6 +301,10 @@ many academes just don't get Romanticism. They're the people who
 immediately swim to shore.
 
 ** Very well, academes don't get it, but again, "European nature spirituality?"
+
+One of the big motivators for me was all of the academe analyses of
+Romanticism, Dark Romanticism, the Sublime, etc. /Somebody/ has to
+counter their dull tedium!
 
 WUTHERING will initially center on Emily Brontë, whom I shall call
 /Haworth Emily/ henceforth[fn:8]. Here are some choice
