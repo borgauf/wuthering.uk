@@ -102,30 +102,6 @@ Bay
 <span class="cap">East Bay, March 23, 2022</span>
 #+end_export
 
-** A clean poetic slate
-
-John Keats' character in the 2009 film /Bright Star/ says
-
-#+begin_quote
-A poem needs understanding through the senses. The point of diving in
-a lake is not immediately to swim to the shore, but to be in the lake,
-to luxuriate in the sensation of water. You do not work the lake
-out. It is an experience beyond thought. Poetry soothes and emboldens
-the soul to accept mystery.
-#+end_quote
-
-#+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bASfrZYnkvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#+end_export
-
-Right. The point is not to analyse each and every tree, but to
-luxuriate in the realisation of the forest as a whole. Never before
-did poetry reach so far into the whole, into the intuitive and
-unexplainable as it did in the nineteenth century in the era of
-/Romanticism/.
-
-
-
 
 so it escapes the scientific scalpels and tweezers
 of scholarly research. Basically, one reads...and one
