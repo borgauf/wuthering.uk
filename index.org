@@ -31,9 +31,7 @@
 # #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
 # #Neo-Euler
 #+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
-#
 #+PROPERTY: header-args:latex+ :exports results :fit yes
-#
 #+STARTUP: showall
 #+STARTUP: align
 #+STARTUP: indent
