@@ -73,12 +73,12 @@ Grand Marais, MN, 55604 \\
 USA \\
 @@html:</span>@@
 
-#+begin_export html
-<img src="./images/inlandsea20220322_3.png" width="730" alt="Inland Sea">
-<span class="cap">Inland Sea, March 22, 2022</span>
-#+end_export
+# #+begin_export html
+# <img src="./images/inlandsea20220322_3.png" width="730" alt="Inland Sea">
+# <span class="cap">Inland Sea, March 22, 2022</span>
+# #+end_export
 
-** The week so far
+** 6th of April, 2022
 
 This has been a typical North Coast (NC) early Spring week (March
 20---26) of weather confusion. It was sunny and relatively mild,
