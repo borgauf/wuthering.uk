@@ -55,7 +55,7 @@ USA \\
 @@html:</span>@@
 
 #+begin_export html
-<img src="./images/Wuthering4.png" alt="title">
+<img src="./images/Wuthering6.png" alt="title">
 #+end_export
 
 
