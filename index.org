@@ -67,7 +67,7 @@ century, the /Romanticists/, were on about.  \\
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
 /Correspondence/ \\
-Laurence von Bottorff \\
+Lawrence Bottorff \\
 P.O. Box 1302 \\
 Grand Marais, MN, 55604 \\
 USA \\
