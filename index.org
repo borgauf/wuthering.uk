@@ -68,8 +68,6 @@ USA \\
 # \\
 # @@html:</span>@@
 
-* 
-
 # @@html:<label for="mn-demo" class="margin-toggle"> </label> <input
 # type="checkbox" id="mn-demo" margin="-1rem -1rem 1rem -1rem"
 # class="margin-toggle"> <span class="marginnote">@@ This site will
@@ -86,7 +84,7 @@ USA \\
 # <span class="cap">Inland Sea, March 22, 2022</span>
 # #+end_export
 
-** 6th of April, 2022
+* 6th of April, 2022
 
 This has been a typical North Coast (NC) early Spring week (March
 20---26) of weather confusion. It was sunny and relatively mild,
