@@ -44,10 +44,6 @@
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 
-#+begin_export html
-<img src="./images/Wuthering5.png" alt="title">
-#+end_export
-
 @@html:<label for="mn-demo" class="margin-toggle"> </label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
@@ -57,6 +53,12 @@ P.O. Box 1302 \\
 Grand Marais, MN, 55604 \\
 USA \\
 @@html:</span>@@
+
+#+begin_export html
+<img src="./images/Wuthering5.png" alt="title">
+#+end_export
+
+
 
 # @@html:<label for="mn-demo" class="margin-toggle"> </label>
 # <input type="checkbox" id="mn-demo" class="margin-toggle">
