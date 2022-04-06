@@ -44,13 +44,23 @@
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 
-@@html:<label for="mn-demo" class="margin-toggle"> </label>
-<input type="checkbox" id="mn-demo" class="margin-toggle">
-<span class="marginnote">@@
-[[file:images/Wuthering9.png]]
-\\
-\\
-@@html:</span>@@
+#+begin_export html
+<img src="./images/Wuthering5.png" alt="title">
+#+end_export
+
+/Correspondence/ \\
+Lawrence Bottorff \\
+P.O. Box 1302 \\
+Grand Marais, MN, 55604 \\
+USA \\
+
+# @@html:<label for="mn-demo" class="margin-toggle"> </label>
+# <input type="checkbox" id="mn-demo" class="margin-toggle">
+# <span class="marginnote">@@
+# [[file:images/Wuthering9.png]]
+# \\
+# \\
+# @@html:</span>@@
 
 * 
 
@@ -63,15 +73,15 @@
 #  \\
 # @@html:</span>@@
 
-@@html:<label for="mn-demo" class="margin-toggle"> </label>
-<input type="checkbox" id="mn-demo" class="margin-toggle">
-<span class="marginnote">@@
-/Correspondence/ \\
-Lawrence Bottorff \\
-P.O. Box 1302 \\
-Grand Marais, MN, 55604 \\
-USA \\
-@@html:</span>@@
+# @@html:<label for="mn-demo" class="margin-toggle"> </label>
+# <input type="checkbox" id="mn-demo" class="margin-toggle">
+# <span class="marginnote">@@
+# /Correspondence/ \\
+# Lawrence Bottorff \\
+# P.O. Box 1302 \\
+# Grand Marais, MN, 55604 \\
+# USA \\
+# @@html:</span>@@
 
 # #+begin_export html
 # <img src="./images/inlandsea20220322_3.png" width="730" alt="Inland Sea">
