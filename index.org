@@ -98,7 +98,7 @@ come-and-go. Winds are moderate. Not like yesterday's, the 5th, when a
 very strong north-east wind ripped across the sea.
 
 #+begin_export html
-<img src="./images/Eastbay20220323_1.png" width="730" alt="Inland Sea">
+<img src="./images/cloudridge20220406_1.png" width="730" alt="Clouded ridge">
 <span class="cap">East Bay, March 23, 2022</span>
 #+end_export
 
