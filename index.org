@@ -99,7 +99,7 @@ very strong north-east wind ripped across the sea.
 
 #+begin_export html
 <img src="./images/cloudridge20220406_1.png" width="730" alt="Clouded ridge">
-<span class="cap">East Bay, March 23, 2022</span>
+<span class="cap">Clouded Sawtooth Ridge, April 6, 2022</span>
 #+end_export
 
 
