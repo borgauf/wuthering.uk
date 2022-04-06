@@ -46,7 +46,7 @@
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 
-@@html:<label for="mn-demo" class="margin-toggle"></label>
+@@html:<label for="mn-demo" class="margin-toggle"> </label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
 [[file:images/Wuthering9.png]]
@@ -56,7 +56,7 @@
 
 * 
 
-@@html:<label for="mn-demo" class="margin-toggle"></label> <input
+@@html:<label for="mn-demo" class="margin-toggle"> </label> <input
 type="checkbox" id="mn-demo" margin="-1rem -1rem 1rem -1rem"
 class="margin-toggle"> <span class="marginnote">@@ This site will
 explore the mysterious allure of the Inland Sea and the Boreal Forest,
@@ -65,7 +65,7 @@ century, the /Romanticists/, were on about.  \\
  \\
 @@html:</span>@@
 
-@@html:<label for="mn-demo" class="margin-toggle"></label>
+@@html:<label for="mn-demo" class="margin-toggle"> </label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
 /Correspondence/ \\
