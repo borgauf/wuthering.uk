@@ -106,16 +106,16 @@ Sea then begs renaming /North Shore/ to /North Coast/. Done.
 ** What do you mean by /wuthering/?
 
 One main difference between indoors and outdoors is that outdoors
-often has a naturally-occurring breeze or *wind*. And if we have
-wind as strong as it can be up here on the North Coast of the Inland
-Sea, then we have /wuthering/.[fn:1] @@html:<label for="mn-demo"
+often has a naturally-occurring breeze or *wind*. And if the wind is
+up as it can be up here on the North Coast of the Inland Sea, then we
+have /wuthering/.[fn:1] @@html:<label for="mn-demo"
 class="margin-toggle">⊕</label> <input type="checkbox" id="mn-demo"
 class="margin-toggle"> <span class="marginnote">@@
 [[file:images/EBFramed1.png]] \\
 Emily Jane Brontë @@html:</span>@@ Though it is ironic that my
 favourite poet, *Emily Jane Brontë*, wrote the novel /*Wuthering*
 Heights/, which I have not read. My former wife read it and did not
-care for it, and I've always taken her opinion as final.
+care for it, and I've always deferred to her opinion.
 
 ** Why would you connect this place with Romanticism?
 
@@ -124,7 +124,7 @@ other than how the prevailing image influencers and tourist brochures
 are painting it will certainly ruffle some feathers. I presuppose
 
 a) I know what Romanticism is, and,
-b) symbols, image, narrative, mythology are fungible.
+b) symbolism, image, narrative, mythology are fungible.
 
 Let me address number two first. At least for me, this landscape of
 wilderness and water is distinctive to the point of defying
@@ -132,43 +132,42 @@ description, definition, labels of any sort. Occupied permanently only
 /post/-Columbian by the Ojibwa people, soon thereafter joined by
 French traders, finally settled by mainly Scandinavian immigrants,
 this North Coast of the Inland Sea has not seen permanent human
-habitation for long enough to be contained by any one narrative or
+habitation long enough to be contained by any one narrative or
 mythology. But since the 1970s when my Boomer generation began
 arriving from urban-suburban places like the Twin Cities and Chicago,
-parallel to the steady replacement of the fading mining and timber
-industries with tourism, there has been something of a consensus
-around the idea that we are a /lost, discontiguous county of
-Alaska/. This is what I jokingly call *Neo-Klondikism*.
+parallel to the steady replacement of the mining and timber industries
+with tourism, there has been something of a consensus formed around
+the idea that we are a /lost, discontiguous county of Alaska/. This is
+what I jokingly call *Neo-Klondikism*.
 
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iKY5NC2pgio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
-My definition of Neo-Klondike would be a backwoods northern frontier
-/anti/-aesthetic where protagonists of all possible genders wear
-flannel shirts, woolen pants with a sheathed knife on a leather belt,
-and lumberjack hobnail-derivative boots---exchanged for Steger mukluks
-in the winter. The official narrators are Jack London and Robert
-Service---with non-boreal Ernest Hemingway as an honorary
-bard[fn:2]. Our official TV shows are /Northern Exposure/ and
+The Neo-Klondike backwoods northern frontier /anti/-aesthetic would
+have us wearing flannel shirts, woolen pants with a sheathed knife on
+a leather belt, and lumberjack hobnail-derivative boots---exchanged
+for Steger mukluks in the winter. The official narrators are Jack
+London and Robert Service---with non-boreal Ernest Hemingway as an
+honorary bard[fn:2]. Our official TV shows are /Northern Exposure/ and
 especially /The Red Green Show/. The official music is anything
 twangy. Banjos? Never enough of them.
 
 And yet Neo-Klondike is completely divorced from anything Ojibwa,
-French, or Scandinavian. Despite having so many people of Scandinavian
-descent here, Neo-Klondike is a total about-face from anything from
-Scandinavia, an ancestral parallel world with a long tradition of just
-this sort of humans embedded deep in boreal forest mythology. Granted,
-if you peruse the children's books at the Duluth Public Library you
-will find a full selection of Scandinavia-based picture books from
-Elsa Beskow, Astrid Lundgren, Sibylle von Olfers, Selma Lagerlöf, Hans
-Christian Andersen, and John Bauer, supported by Germanic-British
-narrative mythology from Tolkien, Arthur Rackam, to name just a
-few. And yes, we have the /North House Folk School/, a supposed
-cultural vestige from Scandinavia. But you won't hear Swedish folk
-bands Väsen or Garmarna, or cow-calling (/kulning/) or hardanger
-fiddle at any of the Folk School's major musical events; instead,
-twang and lots of it.
+French, or Scandinavian. Especially this last group. Despite having so
+many people of Scandinavian descent here on the North Coast,
+Neo-Klondike is a total about-face from Scandinavia, an ancestral
+parallel world with a long tradition of just this sort of humans
+embedded deep in boreal forest narrative mythology. Granted, if you
+peruse the children's books at the Duluth Public Library you will find
+a full selection of Scandinavia-based picture books from Elsa Beskow,
+Astrid Lundgren, Sibylle von Olfers, Selma Lagerlöf, Hans Christian
+Andersen, and John Bauer, supported by Germanic-British narrative
+mythology from Tolkien, Arthur Rackam, to name just a few. And yes, we
+have the /North House Folk School/, a supposed cultural vestige from
+Scandinavia. But you won't hear Swedish folk bands Väsen or Garmarna,
+or cow-calling (/kulning/) or hardanger fiddle at any of the Folk
+School's major musical events; just a lot of imported twang.
 
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTjlM8_KLwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -178,144 +177,158 @@ $\mathfrak{Fazit}$[fn:3]: For anything of Scandinavian mythology, for any
 sort of Lindgren's /Bullerby/ you'll find only the faintest echoes on
 today's North Coast.
 
-** Neo-Klondike needs competition from another reimagining, rebranding?
+** Do we really need another reimagining, rebranding?
 
 There would seem to be two general types of relocators to the North
-Coast---well-off retirees who want, need this place to be a quiet,
-picturesque place for their dessert years, and those people wanting to
-get away from somewhere less desirable and restart their lives. With
-this second group *authenticity* is a big motivator.
+Coast---well-off retirees who want a quiet, picturesque place for
+their dessert years, and those people wanting to get away from
+somewhere less desirable and restart their lives. With this second
+group *authenticity* is a big motivator.
 
-Like so many of us, We grew up as part of the nameless, faceless grey
-modern masses We came from sterile, conformist, cookie-cutter
+So many of us grew up in sterile, conformist, cookie-cutter
 urban-suburban landscapes very short on nature and flogging a
-high-pressure narrative of over-achieving and materialism. But then as
-young adults we set out searching for something, somewhere real and
-authentic. And so we made this big jump out of the middle-,
-upper-middle-class to be here[fn:4].
+high-pressure over-achieving materialist lifestyle. But as adults we
+set out searching for something, somewhere more real and
+authentic. And so we made this big jump out of the middle- and
+upper-middle-class to be far from the madding crowds[fn:4].
 
-I mean to be amusing with my stereotyping of Neo-Klondike, and what I
-mean /WUTHERING/ to be will probably /not/ appeal to a
-dyed-in-the-Filson-wool Neo-Klondiker, cruelly roasted or not. If
-you're any sort of true Neo-Klondiker you've found your haven, your
-hermitage. You've gone through your rebirth/rebranding and this
-faux-Alaska lifestyle is the 180-degrees turn away from your suburban
-clone-bunny past that you desired. Even though I too grew up in
-upper-middle-class suburban America, I can't buy into
-Neo-Klondike. All I really mean WUTHERING to be is a second opinion,
-not a serious competitor. And no matter how persuasive and
-illuminating I may wax, the majority of you will not be persuaded to
-part with your bit parts in our ad-libbed Paul Bunyanesque drama.
+I mean to be amusing with my stereotyping of Neo-Klondike. And what I
+mean WUTHERING to be will probably /not/ appeal to the
+dyed-in-the-Filson-wool Neo-Klondiker, amused or no. If you are a
+full-purchase Neo-Klondiker you've found your haven, your
+hermitage. You've gone through your rebirth/rebranding and this little
+corner of pretend Alaska is exactly that 180-degrees opposite to your
+suburban clone-bunny past that you were looking for. But it's just not
+for me. Even though I too grew up in white upper-middle-class suburban
+America, I can't buy into Neo-Klondike[fn:5]. At this point I only
+mean WUTHERING to be a second opinion, not a serious competitor. I
+don't mean this to be "authenticity wars." And it probably won't,
+because no matter how persuasive and illuminating I may wax, I'm sure
+the majority of you will not be convinced to part with your bit parts
+in our Paul Bunyanesque drama[fn:6]. But I must say something---just
+to see if anyone else is having similar thoughts and doubts.
 
 ** So if you're not with the program why did you come here in the first place---why did you stay?
 
-In 2003, I, my wife Kristine at the time, and our twin boys, came up
+In 2003, Kristine, my wife at the time, our twin boys, and I came up
 to the North Coast from Kristine's home in Kansas. We had been good
-earners in the Matrix---I programming, she management. But we had
+earners in the Matrix---I programming, she management; but we had
 become disillusioned with the rat-race and were casting about for some
 sort of anti-bourgeois, back-to-the-land alternative. This region
-seemed just the spot. But as we settled in and time marched on, we
+seemed just the spot with its population of alternative-thinking
+back-to-the-land people. But as we settled in and time marched on, we
 realised we were not really meant for this endless episode of /The Red
-Green Show/ where college-educated people wore Carhartt and
-Wintergreen and dumbed down their conversations as if invisible
-Alaskan trappers standing close by should not be offended with "fancy
-talk."
+Green Show/ after all, where college-educated people wore Carhartt and
+Wintergreen and seemed to be dumbing down conversations as if worried
+invisible Alaskan trappers standing close by would be offended by
+"fancy talk."
 
 As I now realise, Kristine had given up much earlier than I. For
 example, every night before bed she would read from her complete
-edition of Jane Austen, a big door stop of a book. This she would read
-cover-to-cover, and then start over again. But even more divergent,
-she was Mennonite, a curious Protestant sect with similar
-social-psychology to the Mormons, that is, insular, self-contained,
-not really looking for alternative lifestyles. Her head really wasn't
-in it---and as I later found out, it never really was.
+edition of Jane Austen, a big door stop of a book. She would read it
+cover-to-cover, then start over again. And of course she was
+Mennonite, a curious Protestant sect with similar social-psychology to
+the Mormons, that is, insular, self-contained, not really looking for
+alternative lifestyles. Kristine's head really wasn't in it---and as I
+later found out (the hard way), it never really was.
 
-And so as the years of sitting on the fence played out and our boys
-grew up[fn:5], I had many moments of "oh fecal matter" when I realised
-that I was just not vibrating on this quasi-hillbilly with Hemingway
+And so as the years of sitting on the fence dragged on, this and that
+idea couldn't reach consensus, and our boys grew up[fn:7], I had
+increasingly many moments of "oh fecal matter" when I realised that I
+just could not vibrate on this quasi-hillbilly with Hemingway
 sprinkles wavelength. At some point we had both reached full
 disillusionment mode, and yet we were stuck, having abandoned our
-yuppie careers and with no interest in making some go of it in this
+yuppie careers but with no interest in making some go of it in this
 tourist-hustle economy. Eventually, Kristine decided to become a
 Mennonite pastor, and so in 2014 we relocated to the Mennonite
-heartland of Northern Indiana. There our marriage hit the rocks, such
-an iconoclast as I never a good match for her Mennonite world, let
-alone as a Mennonite pastor's spouse.
+heartland of Northern Indiana. There our marriage finally hit the
+rocks, such an iconoclast as I never a good match for her Mennonite
+world, let alone as a Mennonite pastor's spouse.
 
 But one shared thing was our love of English and German culture,
 especially that of the eighteenth and nineteenth century. It had
-developed into our escapism from North Coast escapism.
+become escapism from North Coast escapism.
 
-** How is some 19th-century Romanticism template overlay better than Neo-Klondike?
+** Again, how is some 19th-century Romanticism template overlay supposed to be better than Neo-Klondike?
 
 A very simple and direct (if not shocking) answer is because I (and
-probably you) are of Northwestern European descent[fn:6], and what
-many of the poets thrown together under the rubric /Romanticsim/ were
-going after was a nature-based spirituality specifically for
-Northwestern Europe. Strangely enough this would combine three
-distinctive poles
+probably you) are of Northwestern European descent[fn:8], and what
+many of the poets and visionary people thrown together under the
+rubric /Romanticsim/ were going after was a nature-based spirituality
+specifically for Northwestern Europe. Strangely enough this would
+combine three distinctive poles
 
-1. dark, mysterious, melancholy, gothy[fn:7] things;
+1. dark, mysterious, melancholic, gothy[fn:9] things;
 2. European pagan bits and pieces;
 3. a more "poetic," less "imperative" take on Christianity
 
 ---all of this embedded in *Nature* (capitalised). And so I feel in my
 /folk-soul/, in my genetic memory---as tribal, identitarian, and
 unpolitically correct as that may seem---the briefest glimpses of
-something /beyond/, something /sublime/[fn:8] when I read my Romantic
-Era poets. And most importantly, it would seem to happen in this
-New World setting.
+something /beyond/, something /sublime/[fn:10] when I read my Romantic
+Era poets. And most importantly, it would seem to apply perfectly to
+this North Coast setting.
 
-Story: During my misspent youth (which, by the way, just wrapped up a
-few weeks ago), I once tried to join a back-to-nature commune in
+Short story: During my misspent youth (which, by the way, just wrapped
+up a few weeks ago), I once tried to join a back-to-nature commune in
 Wisconsin where everyone was white like me but pretending to be Native
 American. I'd always been a great admirer of the Native American
 nature-based belief system and initially thought this was very
-cool. But at some point it became obvious that, no, I was witnessing
-just another bone-headed example of /cultural
-appropriation/. Something a Dakota man at the Pine Ridge Reservation
-once said to me came back, "You're like stray dogs hanging around the
-village." He meant whites trying to be native. Obviously, he wasn't
-buying into "we're all just mix-and-match" multiculturalism.
+cool. But at some point it became obvious that I was witnessing just
+another bone-headed example of /cultural appropriation/. Something a
+Dakota man at the Pine Ridge Reservation once said to me came back,
+"You're like stray dogs hanging around the village." He meant whites
+trying to be native. Obviously, he wasn't buying into "we're all just
+mix-and-match" multiculturalism.
 
-I had explored proto-European spiritual movements; but so many seemed
-just too marginal-kooky, out to completely over-the-top Nazi. Trying
-to keep the hippie, earth-pagan Odinists separate from the far-Right
-skinhead Odinists was just too problematic.
+I had also explored proto-European spiritual movements; but so many
+seemed just too marginal-kooky, out to completely over-the-top
+Nazi. Trying to keep the hippie, earth-pagan Odinists separate from
+the far-Right skinhead Odinists was just too problematic. And then of
+course various Eastern dabbling. But Buddhism, Hinduism, and Taoism
+just seemed like the stray dog problem anew. My destiny was not
+grafting onto somebody else's culture or ways.
 
-One of my first "roots" experiences was back in the Army circa 1975
+One of my first "roots" experiences was back in the Army, circa 1975,
 when I was stationed in Germany deep in the Bavarian-Bohemian
 Forest. There I read /Lord of the Rings/, which resonated in that
 Bavarian version of the Shire very powerfully. I lived with a local
 family just below a haunted castle ruins. My landlady believed in
 ghosts and witches, and her son-in-law swore he and his brother had
-once found dwarf tunnels[fn:9].
+once found dwarf tunnels[fn:11].
 
 At some point I started reading the poetry of *Emily Brontë*, then
-others of her era. At some point it began to sink in that the
+others of her era. Slowly but surely it began to sink in that the
 late-eighteenth-, early-nineteenth-century poets of
 Romanticism---mainly English and German--- were /finally/ getting
-around to something real, reaching into that nexus of Nature
-dreaming us and we Nature[fn:10].
+around to something real, reaching into that nexus of "Nature dreaming
+us dreaming Nature"[fn:12] that I had found back in the 1970s reading,
+for example, T.C. McLuhan's /Touch the Earth/, a collection of Native
+American wise sayings. Emily et al. were saying virtually the same
+thing!
 
-*So instead of chasing after gurus and shamans and wise-people from
-other cultures and races, why don't we just rediscover our own?*
-Wouldn't that be a step towards real authenticity, and not just these
-modern appropriation-approximations thereof?
+And so my conclusion was to stop chasing after gurus and shamans and
+wise-people from other cultures and races, to stop lifestyle
+mix-and-match and to simply rediscover my own people at their best
+moments. The early nineteen century of England and Germany was
+something I, a seeker from the late-twentieth-century suburbs, could
+finally call authentic.
 
-The immediate answer to this is that it's not easy. Our real
-wise-men/women, our real gurus and shamans were people like the
-Haworth and Amherst Emilies, now buried and largely forgotten. And
+** But all that Romanticism stuff has faded into the past. You want to revive it?
+
+The immediate answer to this is that, no, it's not an easy task. Our
+real wise-people, our real gurus and shamans were people like the
+Haworth and Amherst Emilies,  now buried and largely forgotten. And
 whenever they are unearthed they're routinely misunderstood and
 misrepresented by so many of our latter-day agenda-pushers and
-clueless academes[fn:11].
+clueless academes[fn:13].
 
 Our candidates for wise-people showed us novices no easy
 path. Exhibit-A of the thorny, rocky road to "Northwestern
 enlightenment" would be Haworth Emily who died at age twenty-nine from
 what was thought to be anorexia and tuberculosis---probably even more
 exacerbated by Haworth's unsafe drinking water. Here's a passage from
-my book /Emily of Wolkeld/[fn:12]
+my book /Emily of Wolkeld/[fn:14]
 
 #+begin_quote
 She [Emily Whitmore] went back to the window, set the book [collected
@@ -325,12 +338,10 @@ when she wrote it? How cold was the room? How hopeless were her
 suppressed needs? How fraught was her life?
 #+end_quote
 
-Later, Emily
-
 No, the Brontë sisters would never appear on the cover of a New
 Age Buddhist magazine at the Amazon Whole Foods checkout. That's why
 so much of Haworth Emily's lines are so full of anguish and
-lament. Here's the last stanzas of her /Song/[fn:13]
+lament. Here's the last stanzas of her /Song/[fn:15]
 
 #+begin_verse
 ...let them fight for honour’s breath,
@@ -366,7 +377,7 @@ Romanticism---early. Even in Edgar Allan Poe's times, publishers were
 "through" with Romanticism/Dark Romanticism. But Poe would sneak
 around them and manage to get his blockbusters published in this
 newspaper, that magazine. /The Raven/, for example, went
-viral---especially in Europe[fn:14]. As did /Annabel Lee/. As of
+viral---especially in Europe[fn:16]. As did /Annabel Lee/. As of
 course his gothic crime and horror stories.
 
 Especially throughout the later half of the Nineteenth, the
@@ -408,12 +419,12 @@ other way around, from my perspective.
 
 That's because your "classic English lit class" was no doubt taught by
 a clueless academe who himself only repeated the standard
-recycled clichés about Romanticism[fn:15]. I finally realised something
+recycled clichés about Romanticism[fn:17]. I finally realised something
 very important about Romanticism, namely, that what the academes were
 saying and what I was getting from just reading the poems and looking
 at the art were two completely different animals. I've become very
 particular about "additional information"---about the authors, about
-their times and influences[fn:16]. I simply want to read and adsorb the
+their times and influences[fn:18]. I simply want to read and adsorb the
 actual materials. Consider what John Keats' character in the 2009 film
 /Bright Star/ says
 
@@ -433,7 +444,7 @@ Right. The point is not to analyse to death each and every tree, but
 to take in the deepest realisation possible of the forest as a
 whole. Never before did poetry reach so far into the whole, into the
 intuitive and unexplainable as in the nineteenth century in the era of
-/Romanticism/[fn:17] in places like England and Germany. And yes, very
+/Romanticism/[fn:19] in places like England and Germany. And yes, very
 many academes just don't get Romanticism. They're the people who
 immediately swim to shore.
 
@@ -444,7 +455,7 @@ Romanticism, Dark Romanticism, the Sublime, etc. /Somebody/ has to
 counter their dull tedium!
 
 WUTHERING will initially center on Emily Brontë, whom I shall call
-/Haworth Emily/ henceforth[fn:18]. Here are some choice
+/Haworth Emily/ henceforth[fn:20]. Here are some choice
 lines from her /Shall Earth no more inspire thee?/, where she has
 Earth beseeching the human to ... /come back and dwell with me/
 
@@ -588,7 +599,7 @@ theatre. Alas.
 
 ** Aren't you just adding to the culture/lifestyle wars? Why worry about themes and symbols so much?
 
-Yes. Admitted. I'm not a native[fn:19]. As a relative newcomer I've
+Yes. Admitted. I'm not a native[fn:21]. As a relative newcomer I've
 mostly thought I shouldn't oppose the existing cultural /Gestalt/ of
 this area; but it always galled me that the dominant subculture, what
 I call /Neo-Klondike/ misses entirely what I sense up here.
@@ -662,7 +673,7 @@ Let's start by saying the vast majority of Americans have no idea of
 what monarchism really is, havig been fed all their lives a steady
 diet of misinformation and Hollywood sensationalism. The monarchism
 I'm on about started after the very nasty Dark Ages and matured into
-/manorial/ monarchism (MM)[fn:20] in the medieval Europe.
+/manorial/ monarchism (MM)[fn:22] in the medieval Europe.
 
 As viewed from thirty-thousand feet, MM was a system devised to
 properly manage a relatively sparse resources balance sheet on a
@@ -717,7 +728,7 @@ fantasies and slobbery.
 
 The short answer is yes. In my youth I was a great advocate of the
 "Star Trek" future, a techno-Utopia as promised by classic science
-fiction. But then I learned about the /Jevons Paradox/[fn:21], which
+fiction. But then I learned about the /Jevons Paradox/[fn:23], which
 basically says we never really get more with less from each
 progressive improvement in technology. It is primarily for this
 diminishing returns from technology that I've been forced to give up
@@ -863,75 +874,84 @@ Sigurd was minimal.
 
 [fn:4] Another set of leapers would be they who jumped from suburb
 into hip, trendy urban scenes, often derided as "vapid urban
-hipsters." But can there be "vapid /rural/ hipsters?"
+hipsters." But can there also be "vapid /rural/ hipsters?"
 
-[fn:5] Karl and Klaus attended Great Expectations grades 1 through 8.
+[fn:5] Blame it on my seven years in Germany and Switzerland where I
+was exposed to a halfway functioning society with real history and
+culture. After that you just can't sell me American subculture and
+lifestyles.
 
-[fn:6] According to AncestryDNA I'm Scottish, English, German, and
+[fn:6] Please don't overreact to my sentence fragments and other
+middle-school English transgressions. The Early German Romanticism was
+big on "fragments."
+
+[fn:7] Karl and Klaus attended Great Expectations grades 1 through 8.
+
+[fn:8] According to AncestryDNA I'm Scottish, English, German, and
 Swedish, although the Swedish is probably a "false positive" as my
 German ancestors fled religious persecution to Protestant Sweden in
 the sixteenth century. /Nortwestern/ would mean those of Celtic and/or
 Germanic origins.
 
-[fn:7] The modern meaning of /goth/ is really more about Dark Romantic
+[fn:9] The modern meaning of /goth/ is really more about Dark Romantic
 and not gothic per se. I mean to keep /goth/ separate from /gothic/,
 which is a horror/melodrama genre. However most "experts" typically
 don't grasp this nuance...
 
-[fn:8] Lots more about /sublime/ later where I wrest it away from the
+[fn:10] Lots more about /sublime/ later where I wrest it away from the
 clueless academes. I'm using *academe* in the derogatory sense as a
 pedantic scholar who may analyse the individual trees very well but
 can't see the forest.
 
-[fn:9] German Romanticism can be very alternate-universe eerie. We
+[fn:11] German Romanticism can be very alternate-universe eerie. We
 will eventually get to Tieck and Hoffmann, who were very
 gothy-otherworldly.
 
-[fn:10] Nature dreaming us, we dreaming Nature as two sides of the same
+[fn:12] Nature dreaming us, we dreaming Nature as two sides of the same
 coin is a big theme in my upcoming novel /Emily of Wolkeld/. Much
 later.
 
-[fn:11] One prime example would be the bizarrely anachronistic AppleTV
+[fn:13] One prime example would be the bizarrely anachronistic AppleTV
 series /Dickinson/ where Emily Dickinson is portrayed as a
 unmistakeably contemporary rebel princess who has decided she's
 lesbian.
 
-[fn:12] /Emily of Wolkeld/ is about Lady Emily Whitmore, a
+[fn:14] /Emily of Wolkeld/ is about Lady Emily Whitmore, a
 nineteen-year-old English earl's daughter and her best friend Annette
 /Freiin/ von der Surwitz, a German baron's daughter. They are
 desperately trying to figure out their roles as peers, their /noblesse
 oblige/ in modern times.
 
-[fn:13] One of the Brontës' many remembrance poems for their dead
+[fn:15] One of the Brontës' many remembrance poems for their dead
 mother and older sisters Maria and Elizabeth.
 
-[fn:14] Baudelaire was particularly evangelical in France.
+[fn:16] Baudelaire was particularly evangelical in France.
 
-[fn:15] ...most of whom are actually Romanticism haters, e.g.,
+[fn:17] ...most of whom are actually Romanticism haters, e.g.,
 modernists. Imagine reading a review of a Baroque concert written by a
 country western fan.
 
-[fn:16] All too often the modern academe invents, projects, imagines
+[fn:18] All too often the modern academe invents, projects, imagines
 something he wants to see in the bygone era, thus, we get a
 revisionist /hagiography/, i.e., a subjective, facts-optional,
 out-of-context account of a saint.
 
-[fn:17] Just wait, I've got Romantic Era poetry that will blow you
+[fn:19] Just wait, I've got Romantic Era poetry that will blow you
 away. You'll think modern lit is just some conspiracy to hide and
 cover up this vastly superior work. More on this conspiracy later...
 
-[fn:18] The Brontë sisters hardly ever left the Yorkshire village of
+[fn:20] The Brontë sisters hardly ever left the Yorkshire village of
 Haworth. Emily Brontë will be known as /Haworth/ Emily and her
 sister-in-letters Emily Dickinson as /Amherst/ Emily.
 
-[fn:19] Actually no one is, as there was no one definite group here
+[fn:21] Actually no one is, as there was no one definite group here
 Pre-Columbian. Still, most of us would say the Ojibwa were the first
 peoples here.
 
-[fn:20] Manorial in the sense that manors throughout the land were
+[fn:22] Manorial in the sense that manors throughout the land were
 their version of the Communist agricultural collectives.
 
-[fn:21] In economics, the Jevons paradox (sometimes Jevons' effect)
+[fn:23] In economics, the Jevons paradox (sometimes Jevons' effect)
 occurs when technological progress or government policy increases the
 efficiency with which a resource is used (reducing the amount
 necessary for any one use), but the rate of consumption of that
