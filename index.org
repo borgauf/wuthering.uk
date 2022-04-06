@@ -49,9 +49,6 @@
 @@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
-\\
-\\
-\\
 [[file:images/Wuthering9.png]]
 \\
 \\
