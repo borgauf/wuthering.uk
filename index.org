@@ -84,14 +84,24 @@ USA \\
 # <span class="cap">Inland Sea, March 22, 2022</span>
 # #+end_export
 
-* 6th of April, 2022
+* 11th of April, 2022, Grand Marais, Minnesota
 
 This has been a typical North Coast (NC) early Spring week of weather
-confusion, sun one day, clouds the next. Though it has been very
-low-ceiling misty-cloudy for the last few days. Today we have both
-rain and sleet, with the Coop city parking lot partially flooded. As I
-look up to the ridge, half is cloud-shrouded, with the very highest
-parts frosted. This was yesterday's situation as well.
+confusion, sun one day, clouds the next, rain, sleet, atmospheric
+instability. Suffice it to say, here April is not your friend. A very
+low-ceiling misty-cloudy for the days---to suddenly open into the huge
+heavens blue electric.
+
+@@html:<label for="mn-demo" class="margin-toggle"> </label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/inlandsea20220411_1.png]]
+@@html:</span>@@
+
+Last week we saw melting and precipitation flood the Coop's and city's
+parking lot partially. Looking up to the ridge, half was
+cloud-shrouded, with the very highest parts frosted. This is now just
+a memory as the sun has blazed all day strongly.
 
 The harbor is medium visibility, clouds hanging low. Sleet
 come-and-go. Winds are moderate. Not like yesterday's, the 5th, when a
@@ -101,7 +111,6 @@ very strong north-east wind ripped across the sea.
 <img src="./images/cloudridge20220406_1.png" width="730" alt="Clouded ridge">
 <span class="cap">Clouded Sawtooth Ridge, April 6, 2022</span>
 #+end_export
-
 
 so it escapes the scientific scalpels and tweezers
 of scholarly research. Basically, one reads...and one
