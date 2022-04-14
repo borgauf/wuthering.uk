@@ -44,9 +44,14 @@
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 
-@@html:<label for="mn-demo" class="margin-toggle"> </label>
+@@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
+[[file:images/Wuthering9.png]] \\
+\\
+[[file:images/InlandSeaDType2.png]]
+\\
+\\
 /Correspondence/ \\
 Lawrence Bottorff \\
 P.O. Box 1302 \\
@@ -54,43 +59,14 @@ Grand Marais, MN, 55604 \\
 USA \\
 @@html:</span>@@
 
-#+begin_export html
-<img src="./images/Wuthering6.png" alt="title">
-#+end_export
 
-
+* 14th of April, 2022, Grand Marais, Minnesota
 
 # @@html:<label for="mn-demo" class="margin-toggle"> </label>
 # <input type="checkbox" id="mn-demo" class="margin-toggle">
 # <span class="marginnote">@@
-# [[file:images/Wuthering9.png]]
-# \\
-# \\
+# [[file:images/inlandsea20220411_1.png]]
 # @@html:</span>@@
-
-# @@html:<label for="mn-demo" class="margin-toggle"> </label> <input
-# type="checkbox" id="mn-demo" margin="-1rem -1rem 1rem -1rem"
-# class="margin-toggle"> <span class="marginnote">@@ This site will
-# explore the mysterious allure of the Inland Sea and the Boreal Forest,
-# which may lie close to what some of the poets of the nineteenth
-# century, the /Romanticists/, were on about.  \\
-#  \\
-# @@html:</span>@@
-
-
-
-# #+begin_export html
-# <img src="./images/inlandsea20220322_3.png" width="730" alt="Inland Sea">
-# <span class="cap">Inland Sea, March 22, 2022</span>
-# #+end_export
-
-* 14th of April, 2022, Grand Marais, Minnesota
-
-@@html:<label for="mn-demo" class="margin-toggle"> </label>
-<input type="checkbox" id="mn-demo" class="margin-toggle">
-<span class="marginnote">@@
-[[file:images/inlandsea20220411_1.png]]
-@@html:</span>@@
 
 A very blustery, wuthering day. A day for which this site is named. A
 day that offers itself here on the Inland Sea as a complete
