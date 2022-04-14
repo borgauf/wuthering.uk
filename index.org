@@ -84,13 +84,18 @@ USA \\
 # <span class="cap">Inland Sea, March 22, 2022</span>
 # #+end_export
 
-* 11th of April, 2022, Grand Marais, Minnesota
+* 14th of April, 2022, Grand Marais, Minnesota
 
-This has been a typical North Coast (NC) early Spring week of weather
-confusion, sun one day, clouds the next, rain, sleet, atmospheric
-instability. Suffice it to say, here April is not your friend. A very
-low-ceiling misty-cloudy for the days---to suddenly open into the huge
-heavens blue electric.
+A very blustery, wuthering day. A day for which this site is named. A
+day that offers itself here on the Inland Sea as a complete
+world---other places need not apply. A day when things shake and the
+sky is low. A day when we must brace ourselves.
+
+This has been a typical North Coast (NC) April of weather confusion,
+sun one day, clouds the next, rain, sleet, snow, every atmospheric
+instability. Suffice it to say, here at least April she is not your
+friend. Very low-ceiling misty-cloudy for a day, then open into the
+huge heavens blue electric, then snow and cold wind. Wuthering.
 
 @@html:<label for="mn-demo" class="margin-toggle"> </label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
@@ -100,16 +105,16 @@ heavens blue electric.
 
 Last week we saw melting and precipitation flood the Coop's and city's
 parking lot partially. Looking up to the ridge, half was
-cloud-shrouded, with the very highest parts frosted. This is now just
-a memory as the sun has blazed all day strongly.
+cloud-shrouded, with the very highest parts frosted. Then the sun
+blazed for a few days. Now snowflakes are confusingly going round
+basically non-ascending.
 
-The harbor is medium visibility, clouds hanging low. Sleet
-come-and-go. Winds are moderate. Not like yesterday's, the 5th, when a
-very strong north-east wind ripped across the sea.
+The harbour is medium visibility, clouds hanging low. Sleet, snow
+come-and-go. Winds are big north-easterly ripping across the sea.
 
 #+begin_export html
-<img src="./images/cloudridge20220406_1.png" width="730" alt="Clouded ridge">
-<span class="cap">Clouded Sawtooth Ridge, April 6, 2022</span>
+<img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
+<span class="cap">Out to sea, April 14, 2022</span>
 #+end_export
 
 so it escapes the scientific scalpels and tweezers
