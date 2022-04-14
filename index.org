@@ -86,6 +86,12 @@ USA \\
 
 * 14th of April, 2022, Grand Marais, Minnesota
 
+@@html:<label for="mn-demo" class="margin-toggle"> </label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/inlandsea20220411_1.png]]
+@@html:</span>@@
+
 A very blustery, wuthering day. A day for which this site is named. A
 day that offers itself here on the Inland Sea as a complete
 world---other places need not apply. A day when things shake and the
@@ -97,11 +103,6 @@ instability. Suffice it to say, here at least April she is not your
 friend. Very low-ceiling misty-cloudy for a day, then open into the
 huge heavens blue electric, then snow and cold wind. Wuthering.
 
-@@html:<label for="mn-demo" class="margin-toggle"> </label>
-<input type="checkbox" id="mn-demo" class="margin-toggle">
-<span class="marginnote">@@
-[[file:images/inlandsea20220411_1.png]]
-@@html:</span>@@
 
 Last week we saw melting and precipitation flood the Coop's and city's
 parking lot partially. Looking up to the ridge, half was
