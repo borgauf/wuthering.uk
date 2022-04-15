@@ -66,7 +66,7 @@ USA \\
 #+end_export
 
 
-* 14th of April, 2022, Grand Marais, Minnesota
+* 15th of April, 2022, Grand Marais, Minnesota
 
 # @@html:<label for="mn-demo" class="margin-toggle"> </label>
 # <input type="checkbox" id="mn-demo" class="margin-toggle">
@@ -75,23 +75,22 @@ USA \\
 # @@html:</span>@@
 
 
-A very blustery, wuthering day. A day for which this site is named. A
-day that makes me feel like there is no other place than here on the
-Inland Sea, that all other place have ceased to exist. I suppose we're
-possessive of one another, she the Inland Sea and her shoulder, the
-North Coast. But I cannot assume anything more than complete imperious
-indifference on her part. I must adore and prostrate myself to her,
-while her indifference drives my obsession all the more.
+A very blustery, wuthering day, yesterday, the 14th. A day for which
+this site is named. A day that closes in on the senses and the mind
+and makes me feel like there is no other place than here on the Inland
+Sea, that all other places have ceased to exist. I suppose we're
+possessive of one another, I and she, the Inland Sea and her shoulder,
+the North Coast. But I cannot assume anything more than complete
+imperious indifference on her part. I must continually adore and
+prostrate myself to her, while her indifference drives my obsession
+all the more.
 
 "Come here, my love[fn:1]," she beckons, but in a mocking, almost sinister
 tone---erasing my memory of it so instantly, that I obey mindless of
-the order. "Come where," I occasionally bleat, woken from a dream or
+the order. "Come where?" I occasionally bleat, woken from a dream or
 trance, day or night.
 
-Her power over me is supreme, but in this dominance, she hardly ever
-strikes me. Which in previous human female relationship I've always
-understood for the truest sort of love---at least as far with the
-emotion as any woman could go with me.
+
 
 This has been a typical North Coast (NC) April of weather confusion,
 sun one day, clouds the next, rain, sleet, snow, every atmospheric
@@ -149,4 +148,5 @@ The /sublime/ is a particularly badly mauled concept by the academes.
 
 * Footnotes
 
-[fn:1] Not the Van Morrison original, but the This Mortal Coil remake.
+[fn:1] Not the Van Morrison original, but the This Mortal Coil remake:
+https://youtu.be/H6ypilBoWa4 .
