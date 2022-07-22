@@ -14,6 +14,7 @@
 #+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: index.html
 #+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
 # #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
 # #tex:imagemagick # this makes MathJax work
@@ -62,8 +63,33 @@ USA \\
 * 
 #+begin_export html
 <img src="./images/Wuthering10.png" alt="Title" class="center">
-<span class="cap">Springtime wuthering, April, 2022</span>
+<span class="cap">Summer wuthering, July, 2022</span>
 #+end_export
+
+* 21st of July, 2022, Grand Marais, Minnesota
+
+The sky is gray and assorted snowflakes non grata have been expelled
+from heavenly cloud homelands to wander lost and vaguely
+downward. They no doubt see all their kind already piled up high and
+simply want to float as long as possible in this coming-out sponsored
+by the wind.
+
+This is a Saturday, with a feeling of Saturday, that being relief from
+the workweek I suppose. A Saturday in my grandparents' childhood days in
+Illinois was market day---year-round. Some foodstuffs could be had
+from the "general store," but anything fresh was gotten farmers'
+market-wise on Saturday. Which was the town's social day as well,
+youth roaming the main street a bit.
+
+I made my Saturday rounds, which consist of stopping in at the
+Historic Cook County on lower Broadway. It's become my little dose of
+Victorian in this place of little or no history. Very curious that
+this region was only occupied /post/-Columbian by the Native
+Americans, they joined by the French, then both supplanted by the
+Anglo-American nation, here specifically by Scandinavian
+Anglo-stand-ins.
+
+
 
 
 * 15th of April, 2022, Grand Marais, Minnesota
@@ -76,7 +102,7 @@ USA \\
 
 
 Today is trying to be sunny. But yesterday was a very blustery,
-wuthering day, the 14th. A day for which this site is named. A day
+wuthering day, the 14th was. A day for which this site is named. A day
 that closes in on the senses and the mind and makes me feel like there
 is no other place than here on the Inland Sea, that all other places
 have ceased to exist. I suppose we're possessive of one another, I and
