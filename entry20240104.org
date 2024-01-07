@@ -1,0 +1,206 @@
+#+TITLE:
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+# #path:http://orgmode.org/org-info.js +HTML_HEAD: <link
+# #rel="stylesheet" href="../data/stylesheet.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: index.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+
+@@html:<label for="mn-demo" class="margin-toggle"></label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/InlandSeaDType4.png]]
+\\
+\\
+/Correspondence/ \\
+WUTHERING.UK \\
+P.O. Box 1302 \\
+Grand Marais, MN, 55604 \\
+USA \\
+\\
+\\
+@@html:</span>@@
+
+#+begin_export html
+<img src="./images/Wuthering10.png" alt="Title" class=".wtitle">
+<span class="cap">January, 2024</span>
+#+end_export
+
+
+# * 
+# #+begin_export html
+# <img src="./images/Wuthering10.png" alt="Title" class=".wtitle">
+# <span class="cap">Wuthering Explainer, January, 2024</span>
+# #+end_export
+
+* /An inaugural explainer/
+
+#+begin_export html
+<img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
+<span class="cap">Out to sea</span>
+#+end_export
+
+** /Introduction/
+
+The purpose of this media effort will be to convey some of my thoughts
+and impressions about all things dark, or what I call the /Dark
+Muse/. Here is an example, a test of sorts from Emily Brontë [fn:1]
+
+#+begin_verse
+Fall, leaves, fall; die, flowers, away;
+Lengthen night and shorten day;
+Every leaf speaks bliss to me
+Fluttering from the autumn tree.
+I shall smile when wreaths of snow
+Blossom where the rose should grow;
+I shall sing when night’s decay
+Ushers in a drearier day.
+#+end_verse
+
+Unfortunately, many associate dark with depression, morbidity, if not
+evil. This is certainly not my take on dark, rather, dark from a
+purely aesthetic perspective. Here is another great example of "you
+either get dark or you don't," this time from Emily Dickinson's [fn:2]
+/There's a certain slant of light/
+
+#+begin_verse
+There's a certain Slant of light,
+Winter Afternoons –
+That oppresses, like the Heft
+Of Cathedral Tunes –
+
+Heavenly Hurt, it gives us –
+We can find no scar,
+But internal difference –
+Where the Meanings, are –
+
+None may teach it – Any –
+'Tis the seal Despair –
+An imperial affliction
+Sent us of the Air –
+
+When it comes, the Landscape listens –
+Shadows – hold their breath –
+When it goes, 'tis like the Distance
+On the look of Death –
+#+end_verse
+
+The last line includes Death, capitalised. First, a bit about Death...
+
+** Nature and Death in the 19th century
+
+It is my contention that we understand nature differently than
+early-nineteenth-century poets such as the Haworth and Amherst
+Emilies [fn:3] and their contemporaries might have. Today, we spend
+nearly all our lives in structures, buildings, and dwellings so much
+more sealed off than dwelling in the early eighteen-hundreds as to be
+comparable to spaceships or sealed structures on atmosphere-free alien
+planets. The Haworth parsonage where the Brontës lived had more in
+common structurally with human shelters from thousands of years ago
+than with ours only two hundred years later. This has created a very
+steep gradient between indoors and outdoors. Which in turn has brought
+us to understand nature as a /place/ extra our high-tech modern
+homes. Which leads us to rate nature wildest and most natural farthest
+from our greatly unnatural collections of sealed-off structures.
+
+But what if nature were not a place, rather, the myriad of cycles of
+birth, growth, deterioration, and death going on all around and
+everywhere, entirely without any concept of in- or outdoors?
+To be sure, the Brontës would have know this more aboriginal meaning
+of nature as countless processes in concert than a place outside of
+inside.
+
+Hence, death is a part of nature, not just a negative outcome after a
+failed attempt at negotiating a modern health care labyrinth. For
+other creatures death is either old age, or
+
+Down through the centuries more and more of humanity has come into the
+/Great Indoors./ In the West, architecture reached an aesthetic
+crescendo in the nineteenth century just as cities became
+exponentially larger and increasingly "indoorsy" than just a century
+before.
+
+Today nature is something entirely outdoors, e.g., the /Great
+Outdoors/. 
+
+
+After writing on my novel /Emily of Wolkeld/ for the past seven years
+I have made a rather bitter discovery, namely, that mankind is largely
+wandering about clueless --- /seriously/ clueless.
+
+One key turning point was to finally understand what [[https://en.wikipedia.org/wiki/John_Keats][John Keats]] meant
+in his /[[https://en.wikipedia.org/wiki/Negative_capability][Negative Capability]]/ letter to his brother. In it he describes
+what he means by Negative Capability, the ability to not rush to
+philosophical conclusion, rather, to let a sort of cognitive
+dissonance run its course. But then Keats also condemns Samuel
+Coleridge's obsession with philosophical truth, repudiating his
+/Biographia Litararia/, which was Coleridge's attempt to, among other
+things, bring the bulk of German Romanticism to a British audience.
+
+
++ 
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wjxZ-VbUihI?si=EphGfHI1mPdynLgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#+end_export
+
+ 
++
+
+** /My background/
+
+** About the name Wuthering.UK
+
+* Footnotes
+
+[fn:1] See [[https://en.wikipedia.org/wiki/Emily_Bront%C3%AB][here]] for a quick biography \\
+[[file:images/Emily_Brontë_by_Patrick_Branwell_Brontë_restored.jpg]]
+\\
+
+[fn:2] See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography \\
+[[file:images/EmilyDickinson.png]]
+\\
+
+[fn:3] My shorthand for Emily Brontë and Emily Dickinson are based on
+their towns of origin --- Haworth, West Yorkshire, for the former and
+Amherst, Massachusetts, for the latter.

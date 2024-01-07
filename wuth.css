@@ -1,32 +1,111 @@
 @charset "UTF-8";
 
 /* LaTex fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap'); 
-@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Cardo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Cardo&family=Libre+Caslon+Display&family=Playfair+Display&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');  */
+/* @import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Cardo&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Cardo&family=Libre+Caslon+Display&family=Playfair+Display&display=swap'); */
 
-
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Libre+Caslon+Display&display=swap');
 
 /* Tufte CSS styles */
 /* html { */
 /*     font-size: 15px; */
 /* } */
 
-body {
-    width: 725px;
-    /* width: 30.0%; */
-    /* margin-left: auto; */
-    margin-left: 12%;
-    margin-right: auto;
-    /* padding-left: 12.5%; */
 
-    font-family: 'Cardo','Baskervville', serif;
-    /* background-color:#f9f6ef; */
+span.nowrap {
+    white-space: nowrap;
+    font-family: 'Cardo', georgia;
+    font-size: 1.8rem;
+    
+}
+
+/* added */
+span.cap {
+    font-variant: small-caps;
+    font-size: .9em;
+    font-style:italic;
+    display: block;
+    text-align: center;
+    padding-top:1.0em;
+    padding-bottom: .9em;
+    margin-left: -4em;
+}
+
+span.lgray {
+    color:lightgray;
+}
+
+/* .center { */
+/*   display: block; */
+/*   margin-left: auto; */
+/*   margin-right: auto; */
+/*   /\* width: 30%; *\/ */
+/* } */
+
+.wtitle {
+  display: block;
+  padding-top: 500px;
+}
+
+span.fraktur {
+    font-size: 1.7rem;
+}
+
+
+span.star {
+    content: "\1F7C4";
+}
+
+caption.t-bottom {
+    font-size: 95%;
+    padding-top: .5em;
+    line-height: 1.2em;
+    font-family: 'cmu_sans_serifmedium';
+    font-style: italic;
+    caption-side: bottom;
+}
+
+
+caption.t-above {
+    font-size: 95%;
+    padding-bottom: .5em;
+    line-height: 1.2em;
+    font-family: 'cmu_sans_serifmedium';
+    font-style: italic;
+}
+
+
+/* html { */
+/*     font-size: 15px; */
+/* } */
+
+
+body {
+    width: 87.5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12.5%;
+
+    /* begin old */
+    /* width: 725px; */
+    /* /\* width: 30.0%; *\/ */
+    /* /\* margin-left: auto; *\/ */
+    /* margin-left: 12%; */
+    /* margin-right: auto; */
+    /* padding-left: 12.5%; */
+    /* end old */
+
+    font-family: 'Cardo','Baskerville', serif;
     background-color: #ffffff;
     letter-spacing: .04rem;
     color: #2e2e2e;
     /* color: #000000; */
-    max-width: 1000px;
+
+    max-width: 1400px;
+    /* begin old */
+    /* max-width: 1000px; */
+    /* end old */
     counter-reset: sidenote-counter;
     /* borrowed */
     font-size: 1.20em;
@@ -34,156 +113,43 @@ body {
     line-height: 1.2em;
 }
 
-pre.example {
-    font-family: 'Cardo';
-    margin-left: 18px; 
-    /* margin-right:auto; */
-    margin-top: 0;
-    font-size: 100%;
-    color: brown;
-    /* background-color: #faf5f5; */
-    /* background-color: pink;Tt */
-    /* overflow-x: auto; */
-}
-
-.figure {
-    padding: 0;
-    border: 0;
-    /* font-size: 30%; */
-    /* font: inherit; */
-    font-style:italic;
-    text-align: center;
-    vertical-align: baseline;
-    max-width: 100%;
-    -webkit-margin-start: 0;
-    -webkit-margin-end: 0;
-    /* margin: 0 0 3em 0; */
-    
-}
-
-.figure-number {
-    /* margin-left: 5em; */
-    color:#833501;
-    margin-top: -2.5rem;
-    margin-bottom: 1.0rem;
-}
-
-/* borrowed */
-.math {
-    text-align: left !important;
-    font-size:0.93em;
-}
-
-.MathJax_Preview {
-    text-align: left !important;
-}
-    
-/* borrowed */
-.MathJax_Display {
-    /* text-align: left !important; */
-    font-size: 1.0em;
-    /* margin-left: -6em !important; */
-    /* padding-left: 10px; */
-    /* margin-top: -.3em !important; */
-    /* margin-bottom: -.1em !important;  */
-}
-
-/* borrowed */
-.mtext {
-    /* color: darkgreen; */
-    text-align: right;
-    font-size: 93%;
-}
-
-/* borrowed */
-.mrow {
-    /*     font-size: .75em; */
-    text-align: left !important;
-}
-
-/* borrowed */
-.mtable {
-    text-align: left !important;
-}
 
 /* borrowed */
 h1, h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13, h14, h15 {
     font-weight: normal;
-    /* color:cornflowerblue; */
-    /* color:darkgreen; */
-    color:black;
-    font-size: 120%;
-    font-family: 'Libre Caslon Display','Cardo',mulishregular, 'Computer Modern Serif', georgia;
-    letter-spacing: .1rem;
-    line-height: 1.1em;
-    margin-bottom: .5em;
-    margin-top: 1.5em;
+    /* color:#7d7d7d; */
+    color: #555;
+    /* color:#365896; */
+    font-family: 'Libre Caslon Display','Cardo', georgia;
+    line-height: 1.2em;
+    /* letter-spacing: 0.175em; */
+    margin-bottom: .8em;
+    margin-top: 1.0em;
 }
 
 /* borrowed */
-h1, h2 {
-    font-size: 180%;
-    line-height: 1.2em;
+h1 {
+    font-size: 190%;
+    line-height: 1.4em;
+}
+
+h2 {
+    font-size: 170%;
+    line-height: 1.4em;
 }
 
 /* borrowed */
 h3, h4 {
-    font-size: 170%;
+    font-size: 150%;
+    line-height: 1.5em;
 }
 
 h5, h6, h7 {
-    font-size: 115%;
-    line-height: 1.2em;
+    font-size: 135%;
+    line-height: 1.5em;
 }
 
-/* borrowed */
-table {
-    font-family: monospace;
-    /*     font-family:'eulermedium_18'; */
-    /*     font-size: 1.05em; */
-    margin-left:5%;
-    margin-right:auto;
-    margin-top:0.5em;
-    margin-bottom:0.5em;
-    line-height: 0.8em;
-    background-color: #fdfbcd;
-    
-}
 
-/* h1 { */
-/*     font-weight: 400; */
-/*     margin-top: 4rem; */
-/*     margin-bottom: 1.5rem; */
-/*     font-size: 3.2rem; */
-/*     line-height: 1; */
-/* } */
-
-/* h2 { */
-/*     font-style: italic; */
-/*     font-weight: 400; */
-/*     margin-top: 2.1rem; */
-/*     margin-bottom: 1.4rem; */
-/*     font-size: 3.2rem; */
-/*     line-height: 1; */
-/* } */
-
-/* h3 { */
-/*     font-style: italic; */
-/*     font-weight: 400; */
-/*     font-size: 2.7rem; */
-/*     margin-top: 2rem; */
-/*     margin-bottom: 1.4rem; */
-/*     line-height: 1; */
-/* } */
-
-/* h4, h5, h6, h7, h8, h9, h10, h11, h12 { */
-/*     font-style: italic; */
-/*     font-weight: 400; */
-/*     font-size: 2.4rem; */
-/*     margin-top: 2rem; */
-/*     margin-bottom: 1.4rem; */
-/*     line-height: 1; */
-/* } */
 
 hr {
     display: block;
@@ -213,7 +179,8 @@ p.subtitle {
 }
 
 article {
-    padding: 5rem 0rem;
+    /* padding: 5rem 0rem; */
+    padding: 0rem 0rem;
 }
 
 section {
@@ -221,52 +188,35 @@ section {
     padding-bottom: 1rem;
 }
 
-p.date {
-    margin-top: 5.0em;
-}
-
 p,
 dl,
 ol,
 ul {
-    font-size: 1.2rem;
-    line-height: 1.9rem;
+    font-size: 1.3rem;
+    line-height: 2.0rem;
+    letter-spacing: 0.035em;
 }
 
 p {
-    margin-top: 1.2rem;
+    margin-top: 1.4rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline;
 }
 
-.figure p {
-    font-size: 90%;
-    /* margin-left: 1.50em; */
-    
-    /* margin-left:2.75em; */
-    /* margin-right:auto; */
-    color: #04095c;
-    /* position: absolute; */
-    /* left: 50%; */
-    /* margin-left: -(half ot the image width)px */
-} 
-
-
 /* Chapter Epigraphs */
 div.epigraph {
-    margin: 0.5em 0;
+    margin: 5em 0;
 }
 
 div.epigraph > blockquote {
-    margin-top: 0.3em;
-    margin-bottom: 0.3em;
+    margin-top: 3em;
+    margin-bottom: 3em;
 }
 
 div.epigraph > blockquote,
 div.epigraph > blockquote > p {
     font-style: italic;
-    text-align: left;
 }
 
 div.epigraph > blockquote > footer {
@@ -275,23 +225,21 @@ div.epigraph > blockquote > footer {
 
 div.epigraph > blockquote > footer > cite {
     font-style: italic;
-    text-align: center;
 }
 /* end chapter epigraphs styles */
 
 blockquote {
-    font-size: 1.15rem;
-    line-height: 1.4em;
+    font-size: 1.4rem;
 }
 
 blockquote p {
-    width: 85%;
-    margin-right: 1px;
-    text-align: center;
+    width: 55%;
+    margin-right: 40px;
+    font-style:italic;
 }
 
 blockquote footer {
-    width: 75%;
+    width: 55%;
     font-size: 1.1rem;
     text-align: right;
 }
@@ -315,28 +263,28 @@ li:not(:first-child) {
     margin-top: 0.25rem;
 }
 
-span[class^="section-number-"]{
-    /* color:darkgreen; */
-    color:#365896;
+figure {
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    max-width: 55%;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    margin: 0 0 3em 0;
 }
 
-span[class^="linenr"]{
-    color:orange; }
-
 figcaption {
-    /* float: right; */
-    /* clear: right; */
-    margin-top: -2.2rem;
+    float: right;
+    clear: right;
+    margin-top: 0;
     margin-bottom: 0;
-    padding-left: 100px;
-    font-size: 1.0rem;
-    font-style: italic;
+    font-size: 1.1rem;
     line-height: 1.6;
-    /* vertical-align: baseline; */
-    /* position: relative; */
+    vertical-align: baseline;
+    position: relative;
     max-width: 40%;
-    color: darkred;
-    text-align: center;
 }
 
 figure.fullwidth figcaption {
@@ -354,6 +302,18 @@ a:visited {
     text-shadow: unset;
 }
 
+/* a:link, .tufte-underline, .hover-tufte-underline:hover { */
+/*     text-decoration: none; */
+/*     background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor); */
+/*     background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(currentColor, currentColor); */
+/*     -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; */
+/*     -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; */
+/*     background-size: 0.05em 1px, 0.05em 1px, 1px 1px; */
+/*     background-repeat: no-repeat, no-repeat, repeat-x; */
+/*     text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; */
+/*     background-position: 0% 93%, 100% 93%, 0% 93%; */
+/* } */
+
 a:link, .tufte-underline, .hover-tufte-underline:hover {
     text-decoration: none;
     background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
@@ -366,11 +326,19 @@ a:link, .tufte-underline, .hover-tufte-underline:hover {
     background-position: 0% 93%, 100% 93%, 0% 93%;
 }
 
+
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     a:link, .tufte-underline, .hover-tufte-underline:hover {
         background-position-y: 87%, 87%, 87%;
     }
 }
+
+/* Adds dark mode */
+/* @media (prefers-color-scheme: dark) { */
+/*     a:link, .tufte-underline, .hover-tufte-underline:hover { */
+/*         text-shadow: 0.03em 0 #151515, -0.03em 0 #151515, 0 0.03em #151515, 0 -0.03em #151515, 0.06em 0 #151515, -0.06em 0 #151515, 0.09em 0 #151515, -0.09em 0 #151515, 0.12em 0 #151515, -0.12em 0 #151515, 0.15em 0 #151515, -0.15em 0 #151515; */
+/*     } */
+/* } */
 
 a:link::selection,
 a:link::-moz-selection {
@@ -381,21 +349,22 @@ a:link::-moz-selection {
 /* Sidenotes, margin notes, figures, captions */
 img {
     max-width: 200%;
+    padding-top: 30px;
 }
 
 .sidenote,
 .marginnote {
     float: right;
     clear: right;
-    /* margin-left: 150px; */
-    margin-right: -80%;
-    width: 70%;
+    margin-right: -80%; /* was 60% */
+    width: 70%; /* was 50% */
     margin-top: 0.3rem;
     margin-bottom: 0;
-    font-size: 1.05rem;
-    line-height: 1.55;
+    font-size: 1.1rem;
+    line-height: 1.5;
     vertical-align: baseline;
     position: relative;
+    font-size: 1.2rem;
 }
 
 .sidenote-number {
@@ -407,6 +376,8 @@ img {
     font-family: et-book-roman-old-style;
     position: relative;
     vertical-align: baseline;
+    /* added */
+    color:red;
 }
 
 .sidenote-number:after {
@@ -420,7 +391,6 @@ img {
     content: counter(sidenote-counter) " ";
     font-size: 1rem;
     top: -0.5rem;
-    color:red;
 }
 
 blockquote .sidenote,
@@ -446,18 +416,14 @@ div.table-wrapper {
 }
 
 code, pre > code {
-    font-family: "dejavu_sans_monobook", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-size: 1.0rem;
-    line-height: 1.32;
-    color: #587a6d;
-    background-color: #ddeae5;
-    overflow-x: auto;
+    line-height: 1.42;
     -webkit-text-size-adjust: 100%; /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */
 }
 
 .sans > code {
     font-size: 1.2rem;
-    color: #ddeae5;
 }
 
 h1 > code,
@@ -468,13 +434,13 @@ h3 > code {
 
 .marginnote > code,
 .sidenote > code {
-    font-size: .95rem;
+    font-size: 1rem;
 }
 
 pre > code {
-    font-size: 1.1rem;
-    /* width: 52.5%; */
-    /* margin-left: 2.5%; */
+    font-size: 0.9rem;
+    width: 52.5%;
+    margin-left: 2.5%;
     overflow-x: auto;
     display: block;
 }
@@ -493,19 +459,14 @@ span.newthought {
     font-size: 1.2em;
 }
 
-span.cap {
-    font-variant: small-caps;
-    font-size: .8em;
-    display: block;
-    text-align: left;
-}
-
 input.margin-toggle {
     display: none;
 }
 
 label.sidenote-number {
-    display: inline;
+    display: inline-block;
+    max-height: 2rem; /* should be less than or equal to paragraph line-height */
+    /* added */
     color:red;
 }
 
@@ -535,87 +496,74 @@ label.margin-toggle:not(.sidenote-number) {
         padding-right: 8%;
     }
 
-hr, section > p, section > footer, section > table {
-    width: 100%;
+    hr,
+    section > p,
+    section > footer,
+    section > table {
+        width: 100%;
+    }
+
+    pre > code {
+        width: 97%;
+    }
+
+    section > dl,
+    section > ol,
+    section > ul {
+        width: 90%;
+    }
+
+    figure {
+        max-width: 90%;
+    }
+
+    figcaption,
+    figure.fullwidth figcaption {
+        margin-right: 0%;
+        max-width: none;
+    }
+
+    blockquote {
+        margin-left: 1.5em;
+        margin-right: 0em;
+    }
+
+    blockquote p,
+    blockquote footer {
+        width: 100%;
+    }
+
+    label.margin-toggle:not(.sidenote-number) {
+        display: inline;
+    }
+
+    .sidenote,
+    .marginnote {
+        display: none;
+    }
+
+    .margin-toggle:checked + .sidenote,
+    .margin-toggle:checked + .marginnote {
+        display: block;
+        float: left;
+        left: 1rem;
+        clear: both;
+        width: 95%;
+        margin: 1rem 2.5%;
+        vertical-align: baseline;
+        position: relative;
+    }
+
+    label {
+        cursor: pointer;
+    }
+
+    div.table-wrapper,
+    table {
+        width: 85%;
+    }
+
+    img {
+        width: 100%;
+    }
 }
-
-    /* pre > code { */
-    /*     width: 97%; */
-    /* } */
-
-section > dl, section > ol, section > ul {
-    width: 90%;
-}
-
-figure {
-    max-width: 90%;
-    
-}
-
-figcaption, figure.fullwidth figcaption {
-    margin-right: 0%;
-    max-width: none;
-}
-
-blockquote {
-    margin-left: 1.5em;
-    margin-right: 0em;
-}
-
-blockquote p, blockquote footer {
-    width: 100%;
-}
-
-label.margin-toggle:not(.sidenote-number) {
-    display: inline;
-}
-
-.sidenote, .marginnote {
-    display: none;
-}
-
-.margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote {
-    display: block;
-    float: left;
-    left: 1rem;
-    clear: both;
-    width: 95%;
-    margin: 1rem 2.5%;
-    vertical-align: baseline;
-    position: relative;
-}
-
-label {
-    cursor: pointer;
-}
-
-div.table-wrapper, table {
-    width: 85%;
-}
-
-img {
-    width: 50%;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-}
-
-#postamble.status {
-     margin-top: 10em;
-}
-
-#postamble.status p {
-     /* margin-bottom:-0.4em; */
-     margin-top: 20.2em;
-     font-variant:small-caps;
-     font-size:90%;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-

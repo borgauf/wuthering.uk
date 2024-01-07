@@ -1,0 +1,182 @@
+#+TITLE:
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+# #path:http://orgmode.org/org-info.js +HTML_HEAD: <link
+# #rel="stylesheet" href="../data/stylesheet.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: index.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+
+@@html:<label for="mn-demo" class="margin-toggle"></label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/InlandSeaDType4.png]]
+\\
+\\
+/Correspondence/ \\
+WUTHERING.UK \\
+P.O. Box 1302 \\
+Grand Marais, MN, 55604 \\
+USA \\
+\\
+\\
+@@html:</span>@@
+
+* 
+#+begin_export html
+<img src="./images/Wuthering10.png" alt="Title" class="center">
+<span class="cap">Summer wuthering, July, 2022</span>
+#+end_export
+
+* 21st of July, 2022, Grand Marais, Minnesota
+
+It was supposedly in the nineties, but towards sundown back down to
+eighty. Now just before midnight sixty-three. The moon is waning and
+very late, past midnight, with a couple of planets lined up towards
+dawn.
+
+Ran around the harbor towards five o'clock. Bright, huge blue sky,
+water shimmering. Not too hot. Walked back home west on 5th
+Street/County 7 after Y workout. Wildflowers are vigorous, the ox-eyed
+daisies and false chamomile. Yoga instructor said hello as she passed
+me on her bike. Lovely young woman with an adorable boy. Don't really
+know the husband, though. Only seen him a couple of times.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJgXdSVFnJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Listening to Grouper. Duster earlier. Looking at [[https://www.instagram.com/barbara.baldi_bb/?hl=en][Barbara Baldi]]'s
+graphic novel /Lucenera/, which is only in Italian and French. I got
+the original Italian used from a bookstore in
+Massachusetts. /Lucenera/ is set in /Wuthering Heights/ times and is
+about a young old-soul, long-suffering, melancholic woman who inherits
+a manor house but no money; her mean, hateful sister inherits the
+money. More pictures [[https://www.flickr.com/photos/barbara-bargiggia/][here]].
+
+
+
+
+* 15th of April, 2022, Grand Marais, Minnesota
+
+# @@html:<label for="mn-demo" class="margin-toggle"> </label>
+# <input type="checkbox" id="mn-demo" class="margin-toggle">
+# <span class="marginnote">@@
+# [[file:images/inlandsea20220411_1.png]]
+# @@html:</span>@@
+
+
+Today is trying to be sunny. But yesterday was a very blustery,
+wuthering day, the 14th was. A day for which this site is named. A day
+that closes in on the senses and the mind and makes me feel like there
+is no other place than here on the Inland Sea, that all other places
+have ceased to exist. I suppose we're possessive of one another, I and
+she, the Inland Sea and her shoulder, the North Coast. But I cannot
+assume anything more than complete imperious indifference on her
+part. I must continually adore and prostrate myself to her, while her
+indifference drives my obsession all the more.
+
+"Come here, my love[fn:1]," she beckons, but in a mocking, almost sinister
+tone---erasing my memory of it so instantly, that I obey mindless of
+the order. "Come where?" I occasionally bleat, woken from a dream or
+trance, day or night.
+
+
+
+This has been a typical North Coast (NC) April of weather confusion,
+sun one day, clouds the next, rain, sleet, snow, every atmospheric
+instability. Suffice it to say, here at least April she is not your
+friend. Very low-ceiling misty-cloudy for a day, then open into the
+huge heavens blue electric, then snow and cold wind. Wuthering.
+
+
+Last week we saw melting and precipitation flood the Coop's and city's
+parking lot partially. Looking up to the ridge, half was
+cloud-shrouded, with the very highest parts frosted. Then the sun
+blazed for a few days. Now snowflakes are confusingly going round
+basically non-ascending.
+
+The harbour is medium visibility, clouds hanging low. Sleet, snow
+come-and-go. Winds are big north-easterly ripping across the sea.
+
+#+begin_export html
+<img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
+<span class="cap">Out to sea, April 14, 2022</span>
+#+end_export
+
+so it escapes the scientific scalpels and tweezers
+of scholarly research. Basically, one reads...and one
+absorbs---perhaps many times this cycle. And then the exercise part of
+the process is over. No further left-brain analysis or dissection
+necessary. No "what does it really mean?" No "what was the context in
+which..." No "what were his sources of inspiration." Let's take a look
+at a poem from whom I consider one of the leading poets of the age,
+she being Emily Jane Brontë, specifically, her /Fall leaves fall/
+
+#+begin_verse
+Fall, leaves, fall; die, flowers, away;
+Lengthen night and shorten day;
+Every leaf speaks bliss to me
+Fluttering from the autumn tree.
+I shall smile when wreaths of snow
+Blossom where the rose should grow;
+I shall sing when night’s decay
+Ushers in a drearier day.
+#+end_verse
+
+This is your first test. You either get it or you don't. No digging or
+working out its meaning necessary.
+
+** Brontë versus Hemingway
+
+
+
+** Three shelves
+
+** Sublimity
+
+The /sublime/ is a particularly badly mauled concept by the academes. 
+
+* Footnotes
+
+[fn:1] Not the Van Morrison original, but the This Mortal Coil remake:
+https://youtu.be/H6ypilBoWa4 .
