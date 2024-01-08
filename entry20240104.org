@@ -15,7 +15,7 @@
 #+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
-#+EXPORT_FILE_NAME: index.html
+#+EXPORT_FILE_NAME: inauguralessay.html
 #+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
 # #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
 # #tex:imagemagick # this makes MathJax work
@@ -62,10 +62,9 @@ USA \\
 @@html:</span>@@
 
 #+begin_export html
-<img src="./images/Wuthering10.png" alt="Title" class=".wtitle">
+<img src="./images/WutheringKunstlerBanner.png" alt="Title" class=".wtitle">
 <span class="cap">January, 2024</span>
 #+end_export
-
 
 # * 
 # #+begin_export html
@@ -77,7 +76,7 @@ USA \\
 
 #+begin_export html
 <img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
-<span class="cap">Out to sea</span>
+<span class="cap">All at sea</span>
 #+end_export
 
 ** /Introduction/
@@ -97,11 +96,15 @@ I shall sing when night’s decay
 Ushers in a drearier day.
 #+end_verse
 
-Unfortunately, many associate dark with depression, morbidity, if not
-evil. This is certainly not my take on dark, rather, dark from a
-purely aesthetic perspective. Here is another great example of "you
-either get dark or you don't," this time from Emily Dickinson's [fn:2]
-/There's a certain slant of light/
+This is a great litmus test for the Dark Muse: Either you "get it" or
+you don't. Either it speaks to you, or you find it --- weird, morbid,
+even sick or evil. Yes, many people associate a "fixation" on dark
+with a disturbed mind --- depression, morbidity, unwholesome, if not
+evil. This is certainly not my take on dark, rather, I see dark from a
+purely aesthetic perspective, as key poets from the early nineteenth
+century have informed me. Here is another great example of "you get dark
+or you don't," this time from Emily Dickinson's [fn:2] /There's a certain
+slant of light/
 
 #+begin_verse
 There's a certain Slant of light,
@@ -134,46 +137,47 @@ Death.
 
 ** Nature and Death in the 19th century
 
+➝ No "degrees" of nature, rather, nature uniform \\
+➝ Nature not a place, rather, nature universal \\
 ➝ The increasingly extra-natural human
 
-It is my contention that we understand nature differently than such
-early-nineteenth-century poets as the Haworth and Amherst
-Emilies [fn:3] and their contemporaries might have. If we just
-consider dwelling spaces, our modern indoor environments are hardly
-less sealed off than spaceships on a hostile alien planet compared to
-indoor environments of the not-so-distant past. Literally, the
-Brontës' Haworth parsonage had more in common structurally with human
-shelters from thousands of years previous than with our buildings only
-two hundred years later. /In just these two hundred years a very steep
-gradient has grown between indoors and outdoors./ And this, in turn,
-has brought us to see nature more as a place outside of our sealed-off
-high-tech modern spaces. Which, in turn, leads us to rate the outdoor
-world on continua of wildness and distance from our greatly unnatural
-collections of sealed-off indoors.
+It is my contention that we today understand nature much differently
+than early-nineteenth-century poets such as the Haworth and Amherst
+Emilies [fn:3] and their contemporaries. If we just consider shelter
+and dwelling spaces, a modern building is more like a sealed spaceship
+landed on a hostile alien planet compared to indoor environments of
+the not-so-distant past. Literally, the Brontës' Haworth parsonage,
+built between 1778 and 1779, had more in common with human shelters
+from thousands of years previous than with our houses only some two
+hundred years later. /In just these two to three hundred years a very
+steep gradient has grown between indoors and outdoors./ And this, in
+turn, has brought us to see nature more as a place outside of our
+artificial, maximally sealed-off, high-tech modern buildings. Which,
+in turn, leads to us rating the outdoors on continua of relative
+wildness, as well as distance and remoteness from our unnatural
+sealed-off indoor population centres.
 
-Of course humans have made the distinction of indoors and outdoors
-long before civilization began some six thousand years ago. And of
-course dwellings were concentrated into hamlets, towns, and eventually
-into permanent city-states. But yes, the height, the steepness, the
-suddenness of the indoor-outdoor gradient has increased dramatically
-since Western Victorian times, leading to the penultimate
-/extra-natural/ state in which humanity now find itself. Down through
-the centuries more and more of humanity has come into the /Great
-Indoors/, and indoors has been evermore removed from anything of the
-natural world. And especially in the West, architecture reached an
-aesthetic crescendo in the nineteenth century just as cities became
-exponentially larger and increasingly "indoorsy" than just a century
-before.
+No doubt humans made some sort of distinction between indoors and
+outdoors even before permanent-settlement civilization began as humans
+built hamlets, towns, and permanent city-states circa six thousand
+years ago. Down through the centuries more and more of humanity has
+come into the /Great Indoors/, and controlled indoor environments have
+been increasingly physically removed from the natural world. In the
+West, architecture reached an aesthetic crescendo in the nineteenth
+century as cities became exponentially larger and increasingly
+"indoorsy" than even a century or so before. And so the steepness and
+suddenness of our modern indoor-outdoor gradient has increased
+dramatically since Western Victorian times, leading to the penultimate
+/extra-natural/ state in which humanity now find itself.
 
 So what could nature be if not that uncontrolled, unmanaged,
-uncultivated, unregulated, unkempt, unchecked, unruly landscape
-outside? What if nature were not a place, rather, everything,
-literally? That is, what if we define nature as the myriad of cycles
-of birth, growth, deterioration, and death going on all around and
-everywhere, entirely without any concept of in- or outdoors?  To be
-sure, the Brontës would have know this more aboriginal meaning of
-nature as countless processes in concert than a place outside of
-inside.
+uncultivated, unregulated, unchecked, unruly landscape outside? I
+posit nature is not a place, rather, /everything/ --- literally. *I
+define nature as the myriad cycles of birth, growth, deterioration,
+and death going on all around and everywhere, entirely without any
+concept of in- or outdoors.* To be sure, the Brontës would have know
+this more aboriginal meaning of nature as countless processes in
+concert than a place outside of inside.
 
 With this understanding of a more universal nature, i.e., cycles of
 birth, growth, deterioration, and death, the last component,
