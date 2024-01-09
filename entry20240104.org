@@ -83,7 +83,7 @@ USA \\
 
 The purpose of this media effort will be to convey some of my thoughts
 and impressions about all things dark, or what I call the /Dark
-Muse/. Here is an example, a test of sorts from Emily Brontë [fn:1]
+Muse/. Here is an example, a litmus test of sorts from Emily Brontë [fn:1]
 
 #+begin_verse
 Fall, leaves, fall; die, flowers, away;
@@ -96,16 +96,15 @@ I shall sing when night’s decay
 Ushers in a drearier day.
 #+end_verse
 
-This is a great litmus test for the Dark Muse: Either you "get it" or
-you don't. Either it speaks to you, or you find it --- weird, morbid,
-even sick or evil. Yes, many people associate an "fixation" on dark
-with a disturbed mind --- depression, obsession with morbidity,
-unwholesome, if not evil. This is certainly not my take on dark,
-rather, I see dark from a purely aesthetic perspective, as key poets
-from the early nineteenth century have informed me. Here is another
-great example of "you get nineteenth-century poet dark or you don't,"
-this time from Emily Dickinson's [fn:2] /There's a certain slant of
-light/
+Either you "get it" or you don't. Either it speaks to you, or you find
+it --- weird, morbid, even sick or evil. Yes, many people call a
+fascination with dark a fixation, an obsession. They associate this
+with a disturbed mind --- depression, morbidity, unwholesome, if not
+evil. This is certainly not my take on dark, rather, I see dark from a
+purely aesthetic perspective. *My ruminations on the Dark Muse are
+informed by key poets from the early nineteenth century.* Here is
+another great example of "you get poetic dark or you don't," this time
+from Emily Dickinson's [fn:2] /There's a certain slant of light/
 
 #+begin_verse
 There's a certain Slant of light,
@@ -317,7 +316,7 @@ or playful romps like Emily Brontë rolling down another grassy slope
 
 #+begin_export html
 <img src="./images/TumblingEmily1.png" width="770" alt="Emma picnic">
-<span class="cap">The poetess tumbling down a hill from the film <b>Emily</b></span>
+<span class="cap">Fictional E.B. in a silly, carefree moment tumbling down a hill</b><br>(From the 2022 film <b>Emily</b>) </span>
 #+end_export
 
 For modern tastes nature is a place outside of our modern interior
