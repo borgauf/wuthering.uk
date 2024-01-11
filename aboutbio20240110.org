@@ -15,7 +15,7 @@
 #+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
-#+EXPORT_FILE_NAME: inauguralessay.html
+#+EXPORT_FILE_NAME: aboutbio.html
 #+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
 # #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
 # #tex:imagemagick # this makes MathJax work
@@ -81,15 +81,15 @@ USA \\
 
 ** /Introduction/
 
-The purpose of this media effort will be to convey some of my thoughts
+The purpose of this media effort will be to convey some of my thoughts[fn:1]
 and impressions about things /dark/, or what I call the /Dark
-Muse/[fn:1]. Yes, this would include what is today known as goth and
-things gothic, but I hope to go much deeper. Can you relate? Does a
+Muse/[fn:2]. Yes, this would include what is today known as goth and
+the gothic, but I hope to go much deeper. Can you relate? Does a
 cloudy day or stormy night appeal? Do you feel spoken to by things
 dark? Do you wish every night were Halloween? Do you find dreamy what
-they find dreary? Let's start with an example, a litmus test of sorts,
-from my main darkness benefactress, the poet who is at the centre of
-everything I mean to say about dark, Emily Brontë [fn:2]
+they find dreary? Let's start with a litmus test of sorts from my main
+darkness benefactress, the poet who is at the centre of everything I
+mean to say about dark, Emily Brontë [fn:3]
 
 #+begin_verse
 Fall, leaves, fall; die, flowers, away;
@@ -138,20 +138,20 @@ This is the secret of despair,
             To wood and field.
 #+end_verse
 
-And so he processes agents of depression[fn:3] --- despair, grief,
+And so he processes agents of depression[fn:4] --- despair, grief,
 misery --- into more equanimous sadness and melancholy by reaching out
 into the natural world and poetising. This is the modus operandi of
 the nineteenth-century poet. It was as if they understood sadness and
 melancholy to be a sort of cancer or virus that may eventually go into
 remission, but will never be entirely gone. I contend we have lost the
 ability to process depression into a stasis melancholy, i.e., to find
-a modus vivendi[fn:4] with the trials and tribulations of
+a modus vivendi[fn:5] with the trials and tribulations of
 life. Instead, the modern human is lost in a house of mirrors, in an
 echo chamber of illusions fuelled by fantastical unreasonable
 expectations, thus, unable, unwilling to face life's harsher side.
 
 Here is another great example of "you get the Dark Muse or you don't,"
-this time from Emily Dickinson's [fn:5] /There's a certain slant of
+this time from Emily Dickinson's [fn:6] /There's a certain slant of
 light/
 
 #+begin_verse
@@ -176,7 +176,7 @@ When it goes, 'tis like the Distance
 On the look of Death —
 #+end_verse
 
-That last line includes /Death/, capitalised[fn:6]. It is my contention that
+That last line includes /Death/, capitalised[fn:7]. It is my contention that
 these nineteenth-century creators had a completely different insight
 to and understanding of death than we do today. And since this
 capitalised, other-century view of Death has become so opaque, let us
@@ -191,7 +191,7 @@ about it.
 
 It is my contention that we today understand nature much
 differently than did early-nineteenth-century poets such as the
-Haworth and Amherst Emilies [fn:7] and their contemporaries. And as
+Haworth and Amherst Emilies [fn:8] and their contemporaries. And as
 such we understand death much differently.
 
 If we just consider shelter and dwelling spaces, a modern building is
@@ -216,7 +216,7 @@ have done more and more of their living in the /Great Indoors/. And
 these indoor environments have become increasingly androcentric,
 self-contained, self-referencing, physically removed from the natural
 world. In the West, architecture arguably reached a fantastical
-aesthetic crescendo in the Victorian nineteenth century[fn:8],
+aesthetic crescendo in the Victorian nineteenth century[fn:9],
 coinciding exponential urban population growth. We became much more
 "indoorsy" than even a century or so before --- if not simply because
 a much higher percentage of us had become urbanites. And so the
@@ -262,14 +262,14 @@ drear refer to the age-old attitude of nature as the enemy, something
 to get away from, certainly not to poetise. But certain Romantic Era
 poets did just that, sublimely. They stopped, turned around, and
 stared into something that had previously been terrible
-unforgiving, and they found sublimity[fn:9].
+unforgiving, and they found sublimity[fn:10].
 
 With nature as cycles of birth, growth, deterioration, and death, the
 last component, death must be seen beyond our mechanistic modern take
-as just terminal, physical malfunction[fn:10]. Instead, death becomes
+as just terminal, physical malfunction[fn:11]. Instead, death becomes
 Death, a quasi-spiritual /force majeure/. Death from old age, an
 accident, or as the result of physical aggression or
-predation[fn:11]. But when death is an undeniable certainty,
+predation[fn:12]. But when death is an undeniable certainty,
 inevitable, and, especially, able to strike at any time, then a completely
 different attitude dominates compared to our modern experience of
 death as a negative outcome after modern health care's labyrinth of
@@ -296,7 +296,7 @@ as something due us by the modern world.
 
 Let me relate a modern story to our new attitude towards death. My
 father, who has since passed away, lost his /third/ wife to lung
-cancer caused inevitably by decades of smoking[fn:12]. But instead of
+cancer caused inevitably by decades of smoking[fn:13]. But instead of
 accepting this, he became angry and accused her doctors of
 malpractice, threatening lawsuits. Nothing came of this, but I
 wondered why such an irrational outburst? I finally theorised that he
@@ -316,7 +316,7 @@ missing is a humility towards death.
 
 ** Thriving versus surviving; top dog versus underdog
 
-In his book /The Genius of Instinct/ [fn:13] the acclaimed author and
+In his book /The Genius of Instinct/ [fn:14] the acclaimed author and
 psychologist Hendrie Weisinger insists we are hard-wired by nature to
 seek out the best conditions for /thriving/, that any life other than
 one of maximised thriving is a waste. He uses the example of bats,
@@ -464,38 +464,42 @@ The best and most beautiful things in the world cannot be seen or even touched -
 
 * Footnotes
 
-[fn:1] *muse*: originally any of the nine sister goddesses in Greek
+[fn:1] Here I am: \\
+\\
+[[file:images/Me2020width500.png]]
+
+[fn:2] *muse*: originally any of the nine sister goddesses in Greek
 mythology presiding over music, literature, and arts, /or/ a
 state of deep thought or abstraction, /or/ a source of
 inspiration
 
-[fn:2] Oddly enough, I've never read her /Wuthering Heights/ and do
+[fn:3] Oddly enough, I've never read her /Wuthering Heights/ and do
 not intend to. However, her poetry I read continually, gleaning new
 insights each time. See [[https://en.wikipedia.org/wiki/Emily_Bront%C3%AB][here]] for a quick biography.
 \\
 [[file:images/Emily_Brontë_by_Patrick_Branwell_Brontë_restored.jpg]] \\
 
-[fn:3] ...which are not mentioned, rather, to be assumed by readers
+[fn:4] ...which are not mentioned, rather, to be assumed by readers
 familiar with these agents in their own lives.
 
-[fn:4] *modus vivendi*: An arrangement or agreement allowing
+[fn:5] *modus vivendi*: An arrangement or agreement allowing
 conflicting parties to coexist peacefully, either indefinitely or
 until a final settlement is reached, /or/ (literally) a way of living.
 
-[fn:5] See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography \\
+[fn:6] See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography \\
 [[file:images/EmilyDickinson.png]]
 \\
 
-[fn:6] Dickinson often employed the German practice of capitalising
+[fn:7] Dickinson often employed the German practice of capitalising
 nouns for poetic emphasis.
 
-[fn:7] My shorthand for Emily Brontë and Emily Dickinson are based on
+[fn:8] My shorthand for Emily Brontë and Emily Dickinson are based on
 their towns of origin --- Haworth, West Yorkshire, for the former and
 Amherst, Massachusetts, for the latter.
 
-[fn:8] ...with dark, heavy, dramatic Neo-Gothic as a style.
+[fn:9] ...with dark, heavy, dramatic Neo-Gothic as a style.
 
-[fn:9] More on Edmund Burke's (as well as Bertrand Russell's) false,
+[fn:10] More on Edmund Burke's (as well as Bertrand Russell's) false,
 "don't get it" tedium on sublimity later. In short, /sublime/ is what
 we may find beyond mere beauty, touching what Dostoevsky is saying
 here: /There are seconds, they only come five or six at a time, and
@@ -506,15 +510,15 @@ die. The feeling is clear and indisputable. As if you suddenly sense
 the whole of nature and suddenly say: yes, this is true. This is not
 tenderheartedness, but simply joy./
 
-[fn:10] ...as when a car is written off as "totalled."
+[fn:11] ...as when a car is written off as "totalled."
 
-[fn:11] For critters, predators are other critters. For humans,
+[fn:12] For critters, predators are other critters. For humans,
 predators are---outside of war and criminal activity---all but
 exclusively bacteria and viruses.
 
-[fn:12] Ironically, both of his previous wives had likewise died from
+[fn:13] Ironically, both of his previous wives had likewise died from
 smoking-related illnesses.
 
-[fn:13] /The Genius of Instinct; Reclaim Mother Nature's Tools for
+[fn:14] /The Genius of Instinct; Reclaim Mother Nature's Tools for
 Enhancing Your Health, Happiness, Family, and Work/ by Hendrie
 Weisinger; 2009; Pearson Education, Inc.
