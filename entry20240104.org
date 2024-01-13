@@ -76,24 +76,24 @@ USA \\
 
 #+begin_export html
 <img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
-<span class="cap">All at sea</span>
+<span class="cap">All at sea with the Dark Muse</span>
 #+end_export
 
 ** /Introduction/
 
 The purpose of this media effort will be to convey some of my thoughts
-and impressions about things /dark/, or what I call the /Dark
+and impressions about things /dark/, or as I cal it, the /Dark
 Muse/[fn:1]. This would hopefully include, be a superset of what is
-today known as goth[fn:2] and things gothic. That is to say, I hope to
-go much deeper and more elemental than contemporary expressions of
-dark. Do you feel spoken to by things dark? Does a cloudy day or
-stormy night hold an indescribable appeal? Do you pause to gaze out
-upon an old, overgrown cemetery or an empty, lonely, nondescript
-country scene? Does twilight revive your senses? Do you wish every
-month (or every week!) had a Halloween? Do you find dreamy what they
-find dreary?  Do you quickly max-out on happy-clappy, sunny-cheery?
-When you enter a space is your first instinct to turn /out/, not /on/
-a light? If so, I'm speaking to you.
+today known as goth[fn:2] and gothic. And so I hope to go much deeper
+and more elemental than most contemporary understandings of dark. Do
+you feel spoken to by things a tad gloomy? Does a cloudy day bring out
+an indescribably pleasant melancholy? Is a stormy night strangely
+thrilling? Do you pause to gaze out upon an old, overgrown cemetery,
+or an empty, lonely, nondescript countryside scene? Does twilight
+revive your senses? Do you wish every month (or every week!) had a
+Halloween?  Do you find dreamy what they find dreary?  Do you quickly
+max-out on happy-clappy, sunny-cheery? Do you prefer candlelight over
+artificial light? If yes to any of this, I'm speaking to you.
 
 Let's start with an example, a litmus test of sorts. It's a poem from
 my main darkness benefactress, the poet who stands at the centre of
@@ -110,17 +110,17 @@ I shall sing when night’s decay
 Ushers in a drearier day.
 #+end_verse
 
-Rather direct, blunt even. But there it is: One either gets it or one
-doesn't. Either it speaks to something in you, or you find it
-... weird, morbid, overwrought, puerile, sick, or even evil. Yes, many
-people call a penchant for dark things a fixation on morosity,
-morbidity, a puerile /schadenfreude/, indicative of an unstable,
-labile mental state, that is to say, something needs curing,
-fixing. This is certainly not my take on dark, rather, I see dark
-mainly from an aesthetic perspective. To be sure, *my ruminations on
-the Dark Muse are informed by key poets (the Brontës foremost) from
-the mainly early nineteenth century.* And they have shown me how dark
-goes to the core of life.
+Rather direct, blunt even. But there it is: You either get it or you
+don't. Either she speaks to something in you, or you're immediately
+put off and find it, well, weird, overwrought, melodramatic, puerile,
+sick, morbid, or even evil. Of course many people consider this
+penchant for dark things a fixation on morosity, morbidity,
+/schadenfreude/, indicative of an unstable, labile mental state, that
+is to say, something needs curing, fixing. This is certainly not my
+take on dark, rather, I see dark mainly from an aesthetic
+perspective. To be sure, *my ruminations on the Dark Muse are informed
+by key poets (the Brontës foremost) from the mainly early nineteenth
+century.* They've shown me how dark goes to the core of life.
 
 Let's try another. Here is Longfellow's[fn:4] /Snow-flakes/
 
@@ -147,20 +147,21 @@ This is the secret of despair,
             To wood and field.
 #+end_verse
 
-And so he processes agents of depression[fn:5] --- despair, grief,
-misery --- into the relatively more equanimous states of sadness and
-melancholy by reaching out into the natural world and
-/poetising/[fn:6]. This is the modus operandi of the
-nineteenth-century poet. It was as if they understood sadness and
-melancholy to be a sort of cancer or virus that may eventually go into
-remission, but can never be entirely eliminated while on Earth. I
-contend we have lost the ability to process depression into a stasis
-melancholy, i.e., to find a modus vivendi[fn:7] with the trials and
-tribulations of life. Instead, the modern human is lost in a house of
-mirrors, an echo chamber of illusions fuelled by fantastical
-unreasonable expectations, thus, unable, unwilling to face life's
-harsher side. So many of us dream and imagine, but spend life queued
-up in some complaint line that dreams and illusions haven't come true.
+And so he processes agents of depression[fn:5]---despair, grief,
+misery---into more equanimous states of sadness and melancholy by
+reaching out into the natural world and /poetising/[fn:6]. This is the
+modus operandi of the nineteenth-century poet. It was as if they
+understood sadness and melancholy to be a sort of cancer or virus that
+may eventually go into remission, but can never be entirely eliminated
+while on Earth. I contend we have lost the ability to process
+depression into a stasis melancholy, i.e., to find a modus
+vivendi[fn:7] with the trials and tribulations of life. Instead, the
+modern human is lost in a house of mirrors, an echo chamber of
+illusions fuelled by fantastical unreasonable expectations, thus,
+unable, unwilling to accept life's harsher side. No, the human can
+never learn to suffer; we suffer poorly. But I would say they had a
+better grasp of it back then. Namely, they faced and accepted doom,
+while we largely talk around it.
 
 Here is another great example of "you get the Dark Muse or you don't,"
 this time from Emily Elizabeth Dickinson's [fn:8] /There's a certain
@@ -169,7 +170,7 @@ slant of light/
 #+begin_verse
 There's a certain Slant of light,
 Winter Afternoons —
-That oppresses, like the Heft
+That oppresses, like the Heft [fn:9]
 Of Cathedral Tunes —
 
 Heavenly Hurt, it gives us —
@@ -188,74 +189,73 @@ When it goes, 'tis like the Distance
 On the look of Death —
 #+end_verse
 
-That last line includes /Death/, capitalised[fn:9]. It is my
-contention that these nineteenth-century creators had a completely
-different insight to and understanding of death than we do today. And
-since this capitalised, other-century view of Death has become so
-opaque, let me talk a bit about what I think they meant and felt about
-it.
+Indeed. That last line includes /Death/, capitalised[fn:10]. It is my
+contention that these nineteenth-century creators understood death
+differently than we do today. And since this capitalised,
+other-century view of Death has become so opaque, let me attempt an
+explanation of how I think they understood it.
 
-** Nature and Death in the 19th century
+** Nature and Death in the nineteenth century
 
 Main points: \\
 ➝ No "degrees" of nature, rather, nature ubiquitous \\
 ➝ Nature not a place, rather, nature universal \\
 ➝ The increasingly extra-natural human
 
-I believe our understanding of nature today is much different than
+I believe our understanding of nature today is very different than
 that of early-nineteenth-century poets such as the Haworth and Amherst
-Emilies [fn:10] and their contemporaries. And as a consequence, we
-understand death much differently.
+Emilies [fn:11] and their contemporaries. And as a consequence, we
+understand life and death much differently.
 
-Just considering our indoor environments today, a modern building is
-more like a sealed spaceship landed on a hostile alien planet compared
-to the simpler, more primitive indoor environments of the
-not-so-distant past. Literally, the Brontës' Haworth parsonage, built
-between 1778 and 1779, had more in common with human shelters from
-thousands of years previous than with a modern suburban house only
-some two hundred years later. /In just these two to three hundred
-years a very steep gradient has grown between indoors and outdoors./
-And this in turn has brought us to see nature more as a /place/
-outside of our artificial, high-tech, controlled and regulated modern
-indoor spaces. Which, in turn, leads to us to rate the outdoors on
-continua of relative wildness and remoteness from our sealed-off,
-self-contained humans-only environments.
+Just considering our indoor living environments today, a modern
+building is more like a sealed spaceship landed on a hostile alien
+planet compared to the simpler, more primitive indoor environments of
+the not-so-distant past. Literally, the Brontës' Haworth parsonage,
+built between 1778 and 1779 out of local stone and wood and clay, had
+more in common with human shelters from thousands of years previous
+than with a modern suburban house only some two hundred years
+later. /In just these two to three hundred years a very steep gradient
+has grown between indoors and outdoors./ And this in turn has brought
+us to see nature as a /place/ outside of our artificial, high-tech,
+controlled and regulated modern indoor spaces. Which, in turn, leads
+to us to rate the outdoors on continua of relative wildness and
+remoteness from our sealed-off, self-contained humans-only
+environments.
 
 No doubt humans have always made a distinction between being inside
-and outside of a shelter. But once we gave up nomadic life and came to
-live in permanent city-states starting some six thousand years ago, we
-have done more and more of our living in the /Great Indoors/,
-concentrated in ever larger, more androcentric, geographically
-dominant urban centres. And these indoor environments embedded in
-expansive urban geographies have become increasingly self-contained,
-self-referencing, physically cut off from the natural world. In the
-West, architecture arguably reached a fantastical aesthetic crescendo
-in the Victorian nineteenth century[fn:11], coinciding with an
-exponential growth in urban population. With more urban living and
-more modern construction technologies, we became even more "indoorsy"
-than only a century or so before. And the height and steepness of our
-indoor-outdoor gradient has increased dramatically since Western
-Victorian times, leading to a penultimate /extra-natural/ state in
-which humanity now finds itself. Of course it is difficult to
-objectively assess our separation from nature. True enough, we may
-accept separation from, dominion over nature as our fate, our
-destiny. And to some extent we may be capable of adapting to this
-separation. But aren't we weirdly cognizant of, if not increasingly
-neurotic over this estrangement[fn:12]? I certainly am.
+and outside of a shelter. Of course we came in and out of the
+so-called /elements/. But once we gave up nomadic life to live in
+permanent city-states starting some six thousand years ago, we began
+spending more and more time in the /Great Indoors/. And these indoor
+environments embedded in expansive urban centres have become
+increasingly self-contained, self-referencing, physically cut off from
+the natural world.
 
-Is not nature that uncontrolled, unmanaged, uncultivated, unregulated,
-unchecked, unruly wildness /outside/? And were we not right to
-progress to a higher, separate physical space of our own unique
-design? But what if we look at nature as less a place inside or
-outside, rather, as /everything going on everywhere/? *I say nature
-was once seen as the myriad cycles of birth, growth, deterioration,
-and death going on everywhere---with no mind for location.* I contend
-the Brontës at least sensed this pre-modern meaning of /universal
-nature/ as sans location outside or inside. Yes, one "went outside."
-But when returned indoors, one wasn't out of nature. That is to say,
-the cycles of birth, growth, deterioration, and death were happening
-everywhere. Here again is
-Emily Brontë, her /The night is darkening round me/
+In the West, architecture seemed to reach a fantastical aesthetic
+crescendo in the Victorian nineteenth century[fn:12], coinciding with
+an exponential growth in urban population. Today the steepness of our
+indoor-outdoor gradient has increased even more since Western
+Victorian times. Today We are more /extra-natural/ than ever.
+
+How can we objectively measure our separation from nature? We may see
+this separation from, dominion over nature as our fate, our
+destiny. And to some extent we may be capable of adapting to this
+separation. But haven't we in recent times become acutely cognizant
+of, if not increasingly neurotic over this estrangement?[fn:13] I
+certainly am.
+
+Was it inevitable for us to create a separate physical world of our
+own unique design? But what if we look at nature as less a place
+inside or outside of our human spaces, rather, as /everything going on
+everywhere/? *I say nature was once seen as the myriad cycles of
+birth, growth, deterioration, and death going on everywhere---with no
+mind for location.* I contend the Brontës, as well as other Romantic
+Era poets, sensed this pre-modern meaning of nature as sans location
+inside or outside. Yes, one went outside, out into the elements. But
+once back indoors, one was not so completely out of and above nature's
+touch, influence as we now are. Again, the cycles of birth, growth,
+deterioration, and death were happening everywhere[fn:14]. Here again
+is Emily Brontë, her /The night is darkening round me/
 
 #+begin_verse
 The night is darkening round me,
@@ -274,28 +274,29 @@ But nothing drear can move me;
 I will not, cannot go.
 #+end_verse
 
-She even refers to the wilds as "wastes," as drear, and yet she is
-transfixed, frozen to the spot, and she cannot, cannot go. Wastes and
-drear refer to the age-old attitude of nature as the enemy, something
-to get away from, certainly not to poetise. But certain Romantic Era
-poets did just that, sublimely. They stopped, turned around, and
-stared into something that had previously been terrible
-unforgiving, and they found sublimity[fn:13].
+She refers to the wilds as "wastes" and as drear, and yet she is
+transfixed, frozen to the spot, and she cannot, cannot go. Subjective
+terms like wastes and drear remind of the age-old attitude of nature
+as a sponsor of disaster and death, something to get away from, hardly
+to wax poetic over. But Romantic Era poets did just that, and to be
+sure, sublimely. Haworth Emily stopped, turned around, and stared
+directly into an enemy previously terrible unforgiving, and in so
+doing she found sublimity[fn:15] and brought to us a new way to be
+human.
 
-With nature as cycles of birth, growth, deterioration, and death, the
-last component, death must be seen beyond our mechanistic modern take
-as just terminal, physical malfunction[fn:14]. Instead, death becomes
-Death, a quasi-spiritual /force majeure/. Death from old age, an
-accident, or as the result of physical aggression or
-predation[fn:15]. But when death is an undeniable certainty,
-inevitable, and, especially, able to strike at any time, then a completely
-different attitude dominates compared to our modern experience of
-death as a negative outcome after modern health care's labyrinth of
-diagnoses and repair attempts. Yes, of course, life in our modern
-times can be precarious. But not half as precarious as in the early
-nineteenth century. Death still may arrive suddenly from an accident
-or violence. But today death seems much more cordoned off, under much
-more control than ever. As if we have nominal veto power over it.
+With nature as countless cycles of birth, growth, deterioration, and
+death going on all around, the last two components, deterioration and
+death, must be seen beyond our mechanistic modern take of just
+terminal, physical breakage and malfunction[fn:16]. Especially death,
+which becomes Death, a quasi-spiritual /force majeure/. But today
+deterioration and death seem almost cordoned off, under much more
+control than ever before---as if through modern medicine we have
+demi-godlike veto power over them. Of course death is an undeniable
+certainty, and comes as a result of accident, old age, or as physical
+aggression or predation[fn:17]. But a completely different attitude
+arises when modern healthcare's labyrinth of diagnoses, drugs,
+procedures and surgeries routinely thwart what used to be seemingly
+unstoppable. It's as if we've overturned fate and doom.
 
 #+begin_verse
 The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
@@ -305,16 +306,17 @@ The days of our years are threescore years and ten; and if by reason of strength
 This is surely the old-fashioned take on death and its absolute
 finalism, its resounding inevitability. Life is starkly contrasted by
 death inescapable. Death is life's backstop against which any ball
-thrown bounces back. Death is the walls of life's playpen or sandbox.
+thrown bounces back. Death forms the walls of life's sandbox.
 
-As opposed to the creeping attitude that death may be postponed, even
-cheated. Psalm 90:10 by no means guarantees seventy years of life and
-yet we have grown to expect some seventy, eighty, ninety, even longer,
-as something due us by the modern world.
+As opposed to the modern attitude that death may be postponed,
+routinely cheated. Psalm 90:10 is making the point that by no means
+are we guaranteed seventy or eighty years of life, and yet we have
+grown to expect seventy, eighty, ninety, even longer, as something due
+us by modern medical science.
 
 Let me relate a modern story to our new attitude towards death. My
 father, who has since passed away, lost his /third/ wife to lung
-cancer caused inevitably by decades of smoking[fn:16]. But instead of
+cancer caused inevitably by decades of smoking[fn:18]. But instead of
 accepting this, he became angry and accused her doctors of
 malpractice, threatening lawsuits. Nothing came of this, but I
 wondered why such an irrational outburst? I finally theorised that he
@@ -327,40 +329,41 @@ medical labyrinth.
 Back in the day, no one would have second-guessed death's arrival to
 such an absurd degree. Today, however, the fourscore years spoken of
 in Psalms almost seem like a guarantee of modern medicine --- even to
-the extent that old age and death are "diseases" medical science can
-and should be defeated. Hence, we feel cheated, as my father did, when
-that three-, fourscore and more is not forthcoming. What is obviously
-missing is a humility towards death.
+the extent that old age and death are spoken of as "diseases" medical
+science can and should defeat. Hence, we feel cheated, as my father
+did, when that three-, fourscore and more is not forthcoming. What is
+obviously missing is a humility towards death.
 
 ** Thriving versus surviving; top dog versus underdog
 
-In his book /The Genius of Instinct/ [fn:17] the acclaimed author and
+In his book /The Genius of Instinct/ [fn:19] the acclaimed author and
 psychologist Hendrie Weisinger insists we are hard-wired by nature to
 seek out the best conditions for /thriving/, that any life other than
-one of maximised thriving is a waste. He uses the example of bats,
-which according to research, seem to seek out human buildings,
-preferring them over natural homes such as rock outcrops, hollow
-trees, or caves. And in so doing this they enjoy advantages such as
-better body temperature regulation, better infant mortality
+one of maximised thriving is time and energy wasted. He uses the
+example of bats, which according to research, seem to seek out human
+buildings, preferring them over natural homes such as rock outcrops,
+hollow trees, or caves. And in so doing this they enjoy advantages
+such as better body temperature regulation, better infant mortality
 statistics, less threat of predation. This may be true, but aren't
 these bats now /outside/ of the original constraints where they once
-were completely integrated with nature? They are now in a state of
-/trans/-bat-ism, but is that a good thing? Perhaps with bats this is
-not too much of an imbalance vis-a-vis the rest of their surrounding
-environment. However, what happens when a species continues to expand
-its thriving, increasing its success statistics, evermore stepping
-over, past any of the natural restrictions that real integration and
-harmony with nature would have required? Yes, and aren't we humans
-Exhibit A of just such an out-of-control species? And so I ask, how
-can this be good, end well?  How can a dominant species like ours
-always expand our thriving, always "gaming the system" not eventually
-have to pay some price? Simply put, How can more and more people
-consuming more and more resources and energy not result in an eventual
-disaster? It seem nature has two games: A) niche/stasis and B)
-exponential growth. And anytime we're not in a niche, in stasis, just
-marking our spot, we're on the exponential growth curve --- which will
-eventually hit its inflexion point and take off dramatically and
-uncontrollably towards an inevitable crash.
+were completely integrated with nature? These advantaged bats are now
+in a state of /trans/-bat-ism. But is that a good thing?
+
+Perhaps with bats this is not too much of an imbalance vis-a-vis the
+rest of their surrounding environment. However, what happens when a
+species continues to expand its "thriving," increasing its success
+statistics, evermore stepping over, past any of the natural
+restrictions that real integration and harmony with nature would have
+required? *Aren't we humans Exhibit A of just such an out-of-control
+species?* And so I ask, how can this be good, end well?  How can a
+dominant species like ours which is always "gaming the system" not
+eventually have to pay some price? Simply put, How can more and more
+people consuming more and more resources and energy not result in an
+eventual disaster? It seem nature has two games: A) niche/stasis
+and B) exponential growth. And anytime we're not in a niche, in
+stasis, just marking our spot, we're on the exponential growth curve
+--- which will eventually hit its inflexion point and take off
+dramatically and uncontrollably towards an inevitable crash.
 
 And so I ask, Was Emily Brontë not such a hard-pressed little bat out
 in the wilds, colony-less, huddled in a hollow tree, barely eking out
@@ -393,14 +396,15 @@ And tell why I have chosen thee!
 #+end_verse
 
 This is her ode to skipping the trans-bat scene of her day. I can't
-help but believe she was /driven/. In my mind’s eye I can only see her
-as driven across the semi-wilderness moorland, nothing less than a
-wretch of a human. Emily Jane Brontë died of anorexia/malnutrition,
-contaminated water, tuberculosis --- pick one, two, or all three ---
-five months after her thirtieth birthday. She only saw the greater
-world outside of tiny Haworth village for a few months, and that
-greater world had nothing modern, e.g., a cut on a toe could lead to
-an infect requiring amputation or even worse.
+help but believe she was /driven/ little bat. In my mind’s eye I can
+only see her as driven across the semi-wilderness moorland, all but a
+wretch of a human suffering deprivations we see today only in
+third-world hellholes. Emily Jane Brontë died of
+anorexia/malnutrition, contaminated water, tuberculosis --- pick one,
+two, or all three --- five months after her thirtieth birthday. She
+only saw the greater world outside of tiny Haworth village for a few
+months, and that greater world had nothing modern, e.g., a cut on a
+toe could lead to an infect requiring amputation or even worse.
 
 But then one might ask if her existence in the early nineteen century
 were so very wild and rugged. If we live in a modern world completely
@@ -484,7 +488,7 @@ sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:18]. /She/ has a mighty présence, often dark and moody if
+riffraff[fn:20]. /She/ has a mighty présence, often dark and moody if
 not threatening.
 
 A deep moodiness prevails. Here is nothing really spectacular in the
@@ -556,7 +560,7 @@ fire accident.
 
 [fn:6] The idea of poetising, the /poetisation/ of nature and life was
 central to the Romantic Movement. It parallels the long-standing
-belief that we humans explain ourselves through, embed life in
+belief that we humans explain ourselves through, embed our lives in
 narratives.
 
 [fn:7] *modus vivendi*: An arrangement or agreement allowing
@@ -566,24 +570,34 @@ until a final settlement is reached, /or/ (literally) a way of living.
 [fn:8] See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography. \\
 [[file:images/EmilyDickinson.png]]
 \\
+\\
 
-[fn:9] Dickinson often employed the German practice of capitalising
+[fn:9] weight, heaviness; importance, influence; (archaic) the greater
+part or bulk of something.
+
+[fn:10] Dickinson often employed the German practice of capitalising
 nouns for poetic emphasis.
 
-[fn:10] My shorthand for Emily Brontë and Emily Dickinson are based on
+[fn:11] My shorthand for Emily Brontë and Emily Dickinson are based on
 their towns of origin --- Haworth, West Yorkshire, for the former and
 Amherst, Massachusetts, for the latter.
 
-[fn:11] ...with dark, heavy, dramatic Neo-Gothic as a leading
+[fn:12] ...with dark, heavy, dramatic Neo-Gothic as a leading
 style. Indeed, seemingly all nineteenth century styles were
 "revivalist" (Greek, Gothic, Italianate, Elizabethan, Queen Anne,
-etc.), a hearkening back to times more integrated with nature, with
-shallower gradients between indoors and outdoors?
+etc.), perhaps a hearkening back to times more integrated with nature,
+with shallower gradients between indoors and outdoors?
 
-[fn:12] Is our slow and gradual separation from nature not a perfect
+[fn:13] Is our slow and gradual separation from nature not a perfect
 example of the [[https://en.wikipedia.org/wiki/Boiling_frog][boiling frog]] metaphor?
 
-[fn:13] More on Edmund Burke's (as well as Bertrand Russell's) false,
+[fn:14] Obviously the Industrial Revolution created urban production
+landscapes vast and barren and completely outside of any sort of
+nature, spatial or otherwise. Indeed, William Blake's "satanic mills."
+This was a huge step away from the physical world being solely the
+purveyance of nature.
+
+[fn:15] More on Edmund Burke's (as well as Bertrand Russell's) false,
 "don't get it" tedium on sublimity later. In short, /sublime/ is what
 we may find beyond mere beauty, touching what Dostoevsky is saying
 here: /There are seconds, they only come five or six at a time, and
@@ -592,21 +606,21 @@ achieved. It is nothing earthly; not that it is heavenly, but man
 cannot endure it in his earthly state. One must change physically or
 die. The feeling is clear and indisputable. As if you suddenly sense
 the whole of nature and suddenly say: yes, this is true. This is not
-tenderheartedness, but simply joy./
+tenderheartedness, but simply joy./ Again, much more later...
 
-[fn:14] ...as when a car is written off as "totalled."
+[fn:16] ...as when a car is written off as "totalled."
 
-[fn:15] For critters, predators are other critters. For humans,
-predators are---outside of war and criminal activity---all but
-exclusively bacteria and viruses.
+[fn:17] For critters, predators are other bigger critters. For humans,
+predators are---outside of war and homicidal criminal activity---all
+but exclusively bacteria and viruses.
 
-[fn:16] Ironically, both of his previous wives had likewise died from
+[fn:18] Ironically, both of his previous wives had likewise died from
 smoking-related illnesses.
 
-[fn:17] /The Genius of Instinct; Reclaim Mother Nature's Tools for
+[fn:19] /The Genius of Instinct; Reclaim Mother Nature's Tools for
 Enhancing Your Health, Happiness, Family, and Work/ by Hendrie
 Weisinger; 2009; Pearson Education, Inc.
 
-[fn:18] Wetsuits de rigueur. Even in summer a dunk in her lasting more
+[fn:20] Wetsuits de rigueur. Even in summer a dunk in her lasting more
 than ten minutes can lead to hypothermia ... at least on the North
 Coast. Wisconsin and Michigan beaches can be swimmable in the summer.
