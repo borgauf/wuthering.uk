@@ -337,22 +337,23 @@ forthcoming. What is obviously missing is a humility towards death.
 
 ** Thriving versus surviving; top dog versus underdog
 
-In his book /The Genius of Instinct/ [fn:19] the author and
-psychologist Hendrie Weisinger insists we are hard-wired by nature to
-seek out the best conditions for /thriving/, that any life other than
-one of maximised thriving is time and energy wasted. He uses the
-example of bats, which, according to research, seem to seek out human
-buildings, preferring them over natural homes such as rock outcrops,
-hollow trees, or caves. And in so doing this they enjoy advantages
-such as better body temperature regulation, lower infant mortality,
-less threat of predation. This may be true, but haven't these bats
-jumped /outside/ of the original constraints where they once were completely
-integrated with nature? These advantaged bats are now in a state of
-/trans/-bat-ism. But is that a good thing?
+In his book /The Genius of Instinct/ [fn:19] author and psychologist
+Hendrie Weisinger insists we are hard-wired by nature to seek out the
+best conditions in order to /thrive/, that any life other than one of
+maximal thriving is time and energy wasted. He uses the example of
+bats, which, according to research, have been observed to seek out
+human buildings, preferring them over natural homes such as rock
+outcrops, hollow trees, or caves. And in so doing, they enjoy
+advantages such as better body temperature regulation, lower infant
+mortality, less threat of predation. This may be true, but haven't
+these bats jumped /outside/ of the original constraints where they
+once were completely integrated with nature? These advantaged bats are
+now in a state of /trans/-bat-ism. But is that a good thing? For the
+bats maybe, but for nature as a whole?
 
-Perhaps with bats this is not too much of an imbalance vis-a-vis the
-rest of their surrounding environment. However, what happens when a
-species continues to expand its "thriving," increasing its success
+Perhaps bats doing better is not too much of an imbalance vis-a-vis
+the rest of their surrounding environment. And yet what happens when a
+species keeps thriving more and more, increasing its success
 statistics, evermore stepping over, past any of the natural
 restrictions that real integration and harmony with nature would have
 required? *Aren't we humans Exhibit A of just such an out-of-control
@@ -360,34 +361,37 @@ species?* And so I ask, how can this be good, end well?  How can a
 dominant species like ours which seems to be always "gaming the
 system" not eventually have to pay some price? Simply put, How can
 more and more people consuming more and more resources and energy,
-wanting, expecting to thrive, not result in an eventual disaster? It's
-as if nature has two games: A) steady-state niche/stasis and B)
-exponential, dynamic growth. And whenever a species is not restricting
-itself to a niche, exponential growth sets in---which will eventually
-hit its inflexion point and take off dramatically and uncontrollably
-towards an inevitable crash.
+wanting, expecting evermore top-dog success and prosperity, evermore
+/thrive/ not result in an eventual overshoot disaster?
 
-And so I ask, Was Emily Brontë not such a hard-pressed little bat out
-in the wilds, she colony-less, huddled in a hollow tree, barely eking out
-a marginal life? Here's her /Plead for me/
+It's as if nature has two and only two models: A) steady-state
+niche/stasis and B) exponential, dynamic growth. And whenever a
+species is not restricted to its tightly integrated niche, then
+exponential growth ensues---which will eventually hit an inflexion
+point and take off dramatically and uncontrollably towards an
+inevitable overshoot and crash.
+
+To my mind Emily Brontë was a sort of hard-pressed little bat out in
+the wilds---colony-less, huddled in a hollow tree, barely eking out a
+marginal life. Here her /Plead for me/
 
 #+begin_verse
 Why I have persevered to shun
 The common paths that others run;
 And on a strange road journeyed on
-Heedless alike of Wealth and Power—--
+Heedless alike of Wealth and Power—
 Of Glory’s wreath and Pleasure’s flower.
 
 These once indeed seemed Beings divine,
 And they perchance heard vows of mine
-And saw my offerings on their shrine—--
+And saw my offerings on their shrine—
 But, careless gifts are seldom prized,
 And mine were worthily despised;
 
 My Darling Pain that wounds and sears
 And wrings a blessing out from tears
 By deadening me to real cares;
-And yet, a king—--though prudence well
+And yet, a king—though prudence well
 Have taught thy subject to rebel.
 
 And am I wrong to worship where
@@ -397,43 +401,49 @@ Speak, God of Visions, plead for me
 And tell why I have chosen thee!
 #+end_verse
 
-This is her ode to skipping the trans-bat scene of her day. I can't
-help but believe she was a little bat. In my mind’s eye I can
-only see her as driven across the semi-wilderness moorland, all but a
-wretch of a human suffering deprivations we see today only in the
-third world. Emily Brontë died of anorexia/malnutrition,
-contaminated water, tuberculosis --- pick one, two, or all three ---
-five months after her thirtieth birthday. She only saw the greater
-world outside of tiny Haworth village for a few months, and that
-greater world had nothing modern, e.g., a cut on a toe could lead to
-an infect requiring amputation or even worse.
+I consider this her ode to skipping the trans-human thrive scene of
+her day. Again, I must believe she was a little bat driven across the
+semi-wilderness moorland [fn:20], as true an existential /underdog/ as
+possible. Emily Brontë died of anorexia/malnutrition, contaminated
+water, tuberculosis --- pick one, two, or all three---five months
+after her thirtieth birthday. She only saw the greater world outside
+of tiny Haworth village and its surrounding hills for a few months, a
+world with nothing modern, e.g., a cut on a toe could lead to an
+infect requiring amputation or even worse.
 
 But then one might ask if her existence in the early nineteen century
-was so very wild and rugged. If we live in our modern indoor world
-swimming in unprecedented levels of materialism, i.e., one hundred
-times the resources and energy per capita as one of our ancestors from
-1800, how close to nature was she?  When we think of how the Romantic
-Era poets perceived and reported nature, we think of picnics like from
-the film /Emma/ on grassy slopes where dandies and their pampered
-ladies are attended by servants
+was really so very wild and rugged. Today we are swimming in
+unprecedented levels of materialism, i.e., one hundred times the
+resources and energy per capita as one of our European ancestors
+from 1800. So how close to nature was the early-nineteenth-century
+citizen of Yorkshire?
+
+When we think of how the Romantic Era poets perceived and reported
+nature, we think of picnics like from the Hollywood filming of Jane
+Austen's /Emma/ where dandies and their pampered ladies are attended
+by servants on garden-like country estates
 
 #+begin_export html
 <img src="./images/EmmaPicnic2.png" width="770" alt="Emma picnic">
 <span class="cap"><b>Emma</b> picnic in the harrowing wilds of England</span>
 #+end_export
 
-or playful romps like Emily Brontë rolling down another grassy slope
+or playful romps like Hollywood's latest imagining of Emily Brontë
+rolling down a grassy slope
 
 #+begin_export html
 <img src="./images/TumblingEmily1.png" width="770" alt="Emma picnic">
 <span class="cap">Fictional E.B. in a silly, carefree moment tumbling down a hill</b><br>(From the 2022 film <b>Emily</b>) </span>
 #+end_export
 
-For modern tastes nature is a place outside of our modern interior
-spaces --- that is evermore truer nature the farther afield it
-lays. And so an absolute trackless wilderness many days travel from
-civilization is the truest nature, while the weakest nature would be
-the ditch of weeds behind our suburban vinyl-siding-clad house.
+For modern tastes nature is nothing as tame as England then. Again,
+nature is necessarily a place---somewhere far outside of our modern
+interior spaces. And so the farther afield from modern civilization we
+can go, the truer and more authentic nature becomes. And so an
+absolute trackless wilderness many days travel from civilization is
+the truest nature, while the weakest nature would be the ditch weeds
+behind our forced-air-HVAC, triple-paned windowed, vinyl-siding-clad
+suburban house.
 
 𝖟𝕭: Whittier's /Snowbound/ Longfellow's Snow
 
@@ -490,7 +500,7 @@ sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:20]. /She/ has a mighty présence, often dark and moody if
+riffraff[fn:21]. /She/ has a mighty présence, often dark and moody if
 not threatening.
 
 A deep moodiness prevails. Here is nothing really spectacular in the
@@ -623,6 +633,11 @@ smoking-related illnesses.
 Enhancing Your Health, Happiness, Family, and Work/ by Hendrie
 Weisinger; 2009; Pearson Education, Inc.
 
-[fn:20] Wetsuits de rigueur. Even in summer a dunk in her lasting more
+[fn:20] Compare with today's outdoor adventurer with astronaut-like
+gear from REI, Patagonia, North Face, driving to the wilderness in a
+Jeep Cherokee, consuming protein bars and electrolyte drinks, taking
+smart phone pictures or even GoPro footage.
+
+[fn:21] Wetsuits de rigueur. Even in summer a dunk in her lasting more
 than ten minutes can lead to hypothermia ... at least on the North
 Coast. Wisconsin and Michigan beaches can be swimmable in the summer.
