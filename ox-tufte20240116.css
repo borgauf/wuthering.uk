@@ -122,9 +122,8 @@ article div figure {
      * such. reset width to full width of article as tufte.css intends */
     max-width: 100%
 }
-/* changing witdth from 100% */
 blockquote p, blockquote footer {
-    width: 85%
+    width: 100%
 }
 
 /**********************************************************/
