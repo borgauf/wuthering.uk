@@ -233,6 +233,7 @@ blockquote {
     font-size: 1.4rem;
 }
 
+/* overruled by ox-tufte.css */
 blockquote p {
     width: 55%;
     margin-right: 40px;
