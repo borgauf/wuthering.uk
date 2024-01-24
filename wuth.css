@@ -351,7 +351,7 @@ a:link::-moz-selection {
 /* Sidenotes, margin notes, figures, captions */
 img {
     max-width: 200%;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
 .sidenote,

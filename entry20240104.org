@@ -289,12 +289,13 @@ environments.
 
 @@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
-<span class="marginnote">@@
-[[file:images/PeasantGirlWithLamb.png]]
-\\
-/See [[https://www.deviantart.com/steve-lease/art/Untitled-1013699667][here]] for original./ \\
-\\
+<span class="marginnote">
+<a href="https://www.deviantart.com/steve-lease/art/Untitled-1013699667" target="_blank">
+<img src="./images/PeasantGirlWithLamb.png" alt="Title"
+class=".wtitle"></a>
+<span class="cap">Original art from Steve-Lease (DeviantArt.com)</span>@@
 @@html:</span>@@
+
 As late as my own childhood I remember hearing the term /homespun/ to
 refer to a country bumkin, a hick from the sticks. It meant the person
 in question wore clothing homemade from locally-sourced and spun
