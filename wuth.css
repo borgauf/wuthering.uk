@@ -66,9 +66,20 @@ span.cap {
     font-style:italic;
     display: block;
     text-align: center;
-    padding-top:1.0em;
+    padding-top: 0.5em;
     padding-bottom: .9em;
-    margin-left: -4em;
+    margin-left: -2em;
+}
+
+span.cap2 {
+    font-variant: small-caps;
+    font-size: .9em;
+    font-style:italic;
+    display: block;
+    text-align: center;
+    padding-top: 0.5em;
+    padding-bottom: .9em;
+    /* margin-left: -2em; */
 }
 
 span.lgray {

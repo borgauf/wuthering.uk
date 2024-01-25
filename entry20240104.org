@@ -72,7 +72,7 @@ USA \\
 # <span class="cap">Wuthering Explainer, January, 2024</span>
 # #+end_export
 
-* /An inaugural explainer of the Dark Muse/
+* /Something about the Dark Muse/
 
 #+begin_export html
 <img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
@@ -81,18 +81,14 @@ USA \\
 
 ** /Introduction/
 
-Clouds low over the boreal forest, light snow on the wind, circling
-ravens dolefully croaking, and I burning a daytime candle, i.e., a
-great ambience this morning to convey some of my thoughts and
-impressions about things /dark/, or as I call it, the /Dark
-Muse/[fn:1].
+Low clouds over the misty boreal forest, light snow on the wind,
+circling ravens dolefully croaking, and I burn a daytime candle. Such
+a lovely ambience to convey some thoughts and impressions about things
+/dark/, or as I say, the /Dark Muse/[fn:1].
 
-My Dark Muse would hopefully include, be a superset of what today is
-called /goth/[fn:2] and gothic ... meaning I hope to go deeper and
-more elemental than most modern takes on dark. And so I ask, Do you
-have an inexplicable affinity for things a tad gloomy? Do you find
-dreamy what they find dreary ... when an overcast day as today brings
-out a strangely sanguine melancholy ... or a stormy night is
+Do you have an inexplicable affinity for things a tad gloomy?  Do you
+find dreamy what they find dreary ... as when an overcast day brings
+on a strangely sanguine melancholy ... or a stormy night is
 frightening in a wonderfully thrilling sort of way? Does twilight
 heighten your senses /and/ calm your nerves? Perhaps you've paused to
 gaze transfixed upon an old, overgrown cemetery, or a lonely,
@@ -102,10 +98,19 @@ artificial light, old architecture over new. And wouldn't it be grand
 if every month (or week!) we celebrated Halloween? If yes to any of
 this, I'm speaking to you.
 
-Let's start with an example, a litmus test of sorts. I present here a
-short, simple poem from my main darkness benefactress, the poet who
-stands at the centre of everything I mean to say about dark---one
-Emily Jane Brontë! [fn:4]
+Of course the elephant in the middle of the room is the /goth
+subculture/[fn:2], as well as all the /gothic/ fright memes---horror,
+vampires, demons, et cetera. Yes, my Dark Muse would hopefully
+include, be a superset of what today is called goth and gothic
+... meaning I hope to go deeper and more elemental than most modern
+takes on dark. But I eschew horror, vampires. the demonic or
+satanic. These are dark taken to sensationalist extremes---at least
+for me.
+
+Let's start with a litmus test of sorts. I present here a short,
+simple poem from my main darkness benefactress, the poetess who stands
+at the centre of everything I mean to say about dark---one Emily Jane
+Brontë! [fn:4]
 
 #+begin_verse
 Fall, leaves, fall; die, flowers, away;
@@ -118,20 +123,17 @@ I shall sing when night’s decay
 Ushers in a drearier day.
 #+end_verse
 
-Direct, blunt even. But there it is: /You either get it or you
-don't/. Either she speaks to something in you---or you're immediately
-put off and find it --- /weird/ overwrought melodramatic trite puerile
-morbid, even sick or evil.
-
-Throughout overlit society my dark penchant typically elicits
-deer-in-headlights responses---out to hostility. The hostiles consider
-my dark druthers morose, morbid, indicative of an unstable, labile
-mind, that is to say, something needs curing, fixing,
-suppressing. Often I'm lumped in with modern shock-goth and other
-fright voguery meant to seem menacing. I must repudiate by hearkening
-back to a golden era when dark was the currency, namely the early
-nineteenth century, a time when key poets (e.g. the Brontës) showed us
-how triste and stygian can be exquisitely sublime.
+Direct, blunt even. But there it is: Either she speaks to something in
+you, or you're put off and find it---weird overwrought melodramatic
+trite puerile morbid, even sick or evil. Alas, but it's rare to find a
+fellow Dark Muser. Throughout overlit society my dark penchant elicits
+deer-in-headlights responses, if not outright hostility. The hostiles
+consider my dark druthers morose, morbid, gloom and doom, indicative
+of an unstable, labile mind, that is to say, something needs curing,
+fixing, suppressing. But I must repudiate by hearkening back to a
+golden era when dark was the currency, namely the early nineteenth
+century, a time when key poets (e.g. the Brontës) showed us how triste
+and stygian lead to sublimity.
 
 Let's try another poem[fn:5], here Longfellow's /Snow-flakes/ from a
 collection published in 1863
@@ -162,55 +164,60 @@ This is the secret of despair,
 Here I see Longfellow[fn:6] processing agents of mental affliction and
 depression[fn:7]---despair, grief, misery---into more equanimous
 states of sadness and melancholy through poetic expression, i.e., by
-reaching out to the natural world and /poetising/[fn:8]. As if they
-understood emotional pain, depression to be like a ravaging cancer or
-virus that may eventually go into remission, but can never be entirely
-eliminated while on Earth. In some inexplicable way nature and
-darkness were healers in this process. This looking to nature in her
-darker, more mysterious garb and poetising was the modus operandi of
-my nineteenth-century poets. Though I contend we have lost the ability
-to move hardship and tragedy and the ensuing emotional crisis into a
-stasis remission melancholy, to find a modus vivendi[fn:9] with the
-trials and tribulations of life as they once did.
+reaching out to the natural world and /poetising/[fn:8] darkly. As if
+emotional pain, depression are like a ravaging cancer or virus that
+may eventually go into remission, but can never be entirely eliminated
+while on Earth. In some inexplicable way nature and darkness are
+healers in this process. This looking to nature in her darker, more
+mysterious garb and poetising was the modus operandi of my
+nineteenth-century poets. I contend we have lost the ability to move
+hardship and tragedy and the ensuing emotional crisis into a stasis
+remission melancholy, to find a modus vivendi[fn:9] with the trials
+and tribulations of life as they once did. Why? Too much light for
+one. Light forces mood and behaviour into unnatural positivity. Light
+stifles contemplation and retrospection. We can't out-light, out-shine
+the bad in life. When nature goes dark, we should not force her to be
+light.
 
 To be sure humans suffer poorly, i.e., we can never /learn/, get used
 to suffering. All we may do is accompany, usher pain into the backdrop
-of time. In this regard I would say my key nineteenth-century poets
-had a better grasp of life than we do today. First and foremost, they
-faced and accepted doom and fate, whereas we are facile
-dismissive. They took the good and especially the bad of life and used
-both to keep growing emotionally and spiritually. Depth was key. When
-misfortune struck, they gave emotions free reign. They did not
-/process/ greif, greif /processed/ them. Pain management and
-emotional support was humanised organic and natural.
+of our personal history. In this regard I would say my key
+nineteenth-century poets had a better grasp of life than we do
+today. First and foremost, they faced and accepted doom and fate,
+whereas we are too often facile dismissive. They took the good and
+especially the bad of life and used both to keep growing emotionally
+and spiritually. When misfortune struck, they gave emotions free
+reign. They did not /process/ greif, greif /processed/ them. Pain
+management and emotional support was humanised, organic and natural.
 
 Consider Queen Victoria who wore mourning black from the time of her
 husband, Prince Albert's death in 1861 to the end of her life
 in 1901. Likewise, Amélie of Leuchtenberg upon losing her husband
 Pedro I of Brazil in 1834, wore mourning black until her death
 in 1873. No one chivvied them along with their grief. Death was
-properly, officially mourned. Contrast this with the all too often
+properly, officially mourned. Contrast this with the all-too-often
 confused, disorganised, suppressed responses we moderns have to
 death[fn:10].
 
-Enjoyment of life mostly greatly absent, life was a struggle in the
-past. Handling the constant train of tragedy was a sort of life-as-art
-form. Life's slings and arrows found conjunction with nature,
-darkness, and faith, thereby elevating the uniquely human experience
-of suffering into a delicate sublimity[fn:11]---like
-no other generation before or since. It was a deep exploration of our
-humanness, the likes of which we've not seen since, and, thus, I here
-explore.
+Enjoyment of life rare, life was a struggle in the past. For the
+early-nineteenth-century, poetising the constant train of tragedy was
+a sort of life-as-art dysphoria deconstruction. Life's slings and
+arrows found conjunction with nature, darkness, and faith in their
+poetry, thereby elevating the uniquely human experience on Earth,
+casting a template of sublimity[fn:11] over life---like no other
+generation before or since. It was a deep exploration of our
+humanness, the likes of which we've not seen since, and, thus, I must
+here explore.
 
-And still Dark[fn:12] remains a mystery. And the criticism of how the
-Dark Muse glamourises, /wallows/ in grief, in morosity. Again, I
+And still Dark[fn:12] remains a mystery. And today's headwinds
+insisting Dark glamourises, /wallows/ in grief, in morosity. Again, I
 disagree. Dark is something instinctual, cathartic, evocative,
 centring. The fresh-cut rose elicits one response, but the faded rose
 another---deeper but for me never dysphoric. Here is something from my
 novel /Emily of Wolkeld/
 
 #+begin_quote
-Then the new cut rose: Initially beautiful, thereafter dried and
+The new cut rose: Initially beautiful, thereafter dried and
 desiccated, lost forever its initial beauty and fragrance. Once
 affording a glimpse of perfection, only reminiscent thereafter. Beauty
 always some fleeting illusion or madness? Moreover its eclipse,
@@ -251,11 +258,11 @@ When it goes, 'tis like the Distance
 On the look of Death — 
 #+end_verse
 
-Indeed. That last line includes /Death/, capitalised[fn:15]. Let me
-say again these nineteenth-century artists understood death much
-differently than we do today. I believe this capitalised, past-century
-view of Death has become opaque, lost, and in need of closer
-investigation.
+Indeed. That last line includes /Death/, capitalised[fn:15]. I must
+emphasise these nineteenth-century artists understood death much
+differently than we do today. Unfortunately, this capitalised,
+past-century view of Death has become opaque, lost. I hope to
+rediscover it.
 
 ** Nature and Death in the nineteenth century
 
@@ -263,29 +270,28 @@ investigation.
 + No "degrees" of nature, rather, nature is ubiquitous
 + Nature not a place, rather, nature is a universal state of being
 + Nature as /birth, growth, deterioration, and death/...
-+ ...ergo, nature was death was real 
-+ The increasingly extra-natural, proto-immortal human
++ ...ergo, death is nature speaking directly 
++ The increasingly extra-natural, quasi/proto-immortal human
 + Direct contact with nature versus /ecosystem/ management
 
 
 I hold that our modern, twenty-first-century understanding of nature
-is in very essential ways different than that of
-early-nineteenth-century poets such as the Haworth and Amherst
-Emilies [fn:16] and their contemporaries. Just considering our indoor
-living environments today, a typical modern building is more like a
-sealed /space station/ on a hostile alien planet compared to the
-simpler, more primitive indoor environments of the not-so-distant
-past. Literally, the Brontës' Haworth parsonage, built in 1778 out of
-local stone and wood and clay, had more in common with human shelters
-from a thousand years previous than with our modern suburban homes
-only some two hundred years later. Hence, /in just the past two to
-three hundred years a very steep, vertical gradient has grown between
-indoors and outdoors./ And this in turn has brought us to see nature
-more as a /place/ separate and outside of our artificial, high-tech,
-controlled and regulated modern indoor spaces ... which, in turn, has
-lead us to rate /outdoors nature/ on continua of relative wildness and
-remoteness from our sealed-off, self-contained, humans-only
-environments.
+is very different than that of early-nineteenth-century poets such as
+the Haworth and Amherst Emilies [fn:16] and their contemporaries. Just
+considering our indoor living environments today, a typical modern
+building is more like a sealed /space station/ on a hostile alien
+planet compared to the simpler, more primitive indoor environments of
+the not-so-distant past. Literally, the Brontës' Haworth parsonage,
+built in 1778 out of local stone and wood and clay, had more in common
+with human shelters from a thousand years previous than with our
+modern suburban homes only some two hundred years later. Hence, /in
+just the past two to three hundred years a very steep, vertical
+gradient has grown between indoors and outdoors./ And this in turn has
+brought us to see nature more as a /place/ separate and /outside/ of
+our artificial, high-tech, controlled and regulated modern indoor
+spaces ... which, in turn, has lead us to rate /outdoors nature/ on
+continua of relative wildness and remoteness from our sealed-off,
+self-contained, humans-only environments.
 
 @@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
@@ -293,29 +299,29 @@ environments.
 <a href="https://www.deviantart.com/steve-lease/art/Untitled-1013699667" target="_blank">
 <img src="./images/PeasantGirlWithLamb.png" alt="Title"
 class=".wtitle"></a>
-<span class="cap">Original art from Steve-Lease (DeviantArt.com)</span>@@
+<span class="cap2">Original art from Steve-Lease (DeviantArt.com)</span>@@
 @@html:</span>@@
 
 As late as my own childhood I remember hearing the term /homespun/ to
 refer to a country bumkin, a hick from the sticks. It meant the person
 in question wore clothing homemade from locally-sourced and spun
-materials such as linen and wool rather than factory-made, retail
-clothing. The Brontëan early-nineteenth century would have seen a
+materials such as linen and wool rather than factory-made retail
+clothing. The Brontëan early-nineteenth century would have had a
 majority of the villagers wearing homespun, all but a few garments not
 hand-tailored bespoke.[fn:17] And food of course was entirely
 local. All in all, a person's daily resources were majority local, a
 small bit coming from a nearby /market town/, while only the most
-exotic items (e.g., a clock) would have come from farther
-afield. Today, however, this supply pyramid is flipped: Nearly
-everything comes from far, far away (e.g. China) while only a few
-personal items would be from a local or even regional
-source[fn:18]. And so in Brontëan times a rural landscape was nature
-as quasi-domesticated, a working partner. We, on the other hand,
-hardly ever encounter a farmer or visit a farm. We rarely know where
-our clothing came from. Nature as "the land," as our provider is
-completely abstracted away. And so the term /ecosystem/ has arisen to
-mean the human as a removed observer of scientifically tracked
-interactions, nature analysed like the workings of a machine.
+exotic items (e.g., a clock) would have come from farther away. Today,
+however, this supply pyramid is flipped: Nearly everything comes from
+far, far away (e.g. China) while only a few personal items would be
+from a local or even regional source[fn:18]. And so in Brontëan times
+a rural landscape was nature as quasi-domesticated, a working
+partner. We, on the other hand, hardly ever encounter a farmer or
+visit a farm. We rarely know where our clothing came from. Nature as
+"the land," as our provider is completely abstracted away. And so the
+term /ecosystem/ has arisen to mean the human as a removed observer of
+scientifically tracked interactions, nature analysed like the workings
+of a machine.
 
 Surely humans have always made a distinction between being inside a
 shelter and going outside into the so-called /elements/. But starting
@@ -774,10 +780,10 @@ Quietude and contemplation in a place far from civilization.
 
 * Footnotes
 
-[fn:1] *muse*: originally any of the nine sister goddesses in Greek
-mythology presiding over music, literature, and arts, /or/ a
-state of deep thought or abstraction, /or/ a source of
-inspiration
+[fn:1] /muse/: Any of the nine sister goddesses in Greek
+mythology presiding over music, literature, and arts,, /or/ a state of
+deep thought or abstraction, e.g., to enter a /muse/ over a poem, /or/ a
+source of inspiration, e.g., /She is my muse/.
 
 [fn:2] The modern "goth subculture" as described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] perhaps. In very
 short, I believe they, like many, /sense/ dark but only want to
@@ -815,7 +821,7 @@ until a final settlement is reached, /or/ (literally) a way of living.
 
 [fn:10] Is there anything worse than the so-called /[[https://en.wikipedia.org/wiki/Five_stages_of_grief][five stages of
 grief]]/ or the Kübler-Ross model? Grief as an emotional malfunction
-to be reduced, fixed, corrected. Alas.
+to be systematically reduced, fixed, corrected. Alas.
 
 [fn:11] Lots and lots more on /sublimity/ as we go. I promise.
 
@@ -840,7 +846,7 @@ Amherst, Massachusetts, for the latter.
 cotton and wool fabrics being produced in steam-powered factories.
 
 [fn:18] In any modern (non-organic Amazon Whole Foods-style)
-supermarket I'm sure less that 1% of the items come from a local
+supermarket I'm sure less that 1% of the food items come from a local
 source. Nearly everything is shipped in from often /far/ afar.
 
 [fn:19] ...e.g., what is a garden but a derivative, a mock-up of an
