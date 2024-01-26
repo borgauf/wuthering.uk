@@ -317,11 +317,11 @@ far, far away (e.g. China) while only a few personal items would be
 from a local or even regional source[fn:18]. And so in Brontëan times
 a rural landscape was nature as quasi-domesticated, a working
 partner. We, on the other hand, hardly ever encounter a farmer or
-visit a farm. We rarely know where our clothing came from. Nature as
-"the land," as our provider is completely abstracted away. And so the
-term /ecosystem/ has arisen to mean the human as a removed observer of
-scientifically tracked interactions, nature analysed like the workings
-of a machine.
+visit a farm. And we rarely know where our clothing came from. Nature
+as "the land," as our immediate provider has been completely
+abstracted away. And so the term /ecosystem/ has arisen to mean the
+human as a removed observer of scientifically tracked interactions,
+nature analysed like the workings of a machine.
 
 Surely humans have always made a distinction between being inside a
 shelter and going outside into the so-called /elements/. But starting
@@ -329,35 +329,36 @@ some six thousand years ago we began to give up aboriginal nomadic
 life with its direct daily contact with said elements to establish
 permanent city-states supported by land-domineering monoculture
 agriculture. And so indoor environments, embedded in ever-expanding
-urban centres, became increasingly self-contained, self-referencing,
-recursively derivative[fn:19], evermore physically removed, walled off
-from the wild natural world.
+urban centres, evermore physically removed, walled off from the wild
+natural world, became increasingly self-contained, all-encompassing
+self-referencing, recursively derivative[fn:19].
 
 Along with this growing separation came mentalities, narratives
 increasingly based indoors and /extra-natural/ [fn:20]. Being indoors
 meant we no longer were in direct contact with the nature spirits all
 around; instead, praying to an extra-natural, off-world monotheistic
-God in showcase churches[fn:21]. Western architecture seemed to reach
-a fantastical aesthetic crescendo in the Victorian nineteenth
-century[fn:22], coinciding with an exponential growth in urban
-population which had passed an inflection point. Today the steepness
-of our indoor-outdoor gradient has increased even more since Victorian
-times ... resulting in a humanity more abstracted /extra-natural/ than
-ever. How then can we, a species seemingly capable of great
-adaptability[fn:23], objectively measure our separation from nature?
-What has domestic, urban, indoor living done to our brains, our sense
-of belonging to the planet, to one another? How can we even begin to
-trace back the many rabbit hole bifurcations, the chain of derivatives
-we've taken for all these centuries down, out, and away from /nature
-pure/?  To be sure, we have a unique survivalism shown in our
-collective will to make conditions better for us and us alone. We see
-our dominion over, abstraction away, separation from nature as fate,
-destiny. After all, our population doubling in less than fifty years
-to eight billion[fn:24] says something to our intention and ability to
-dominate. And we seemed to have adapted our human narratives to this
-separation[fn:25]. But is this sustainable?  Some of us have become
-quite worried over the question of sustainability, this long arc of
-estrangement from nature.[fn:26] Let me suggest a different
+God in architectural showcase churches[fn:21]. Western architecture
+seemed to reach a fantastical aesthetic crescendo in the Victorian
+nineteenth century[fn:22], coinciding with an exponential growth in
+urban population which had just passed an inflection point. Today the
+steepness of our indoor-outdoor gradient has increased even more since
+Victorian times ... resulting in a humanity more abstracted
+/extra-natural/ than ever. How then can we, a species seemingly
+capable of great adaptability[fn:23], objectively measure our
+separation from nature?  What has domestic, urban, indoor living done
+to our brains, our sense of belonging to the planet, to one another?
+How can we even begin to trace back the many rabbit hole bifurcations,
+the chain of derivatives we've taken for all these centuries down,
+out, and away from /nature pure/?  To be sure, we have a unique
+survivalism shown in our collective will to make conditions better for
+us and us alone. We see our dominion over, abstraction away,
+separation from nature as fate, as destiny. After all, our population
+doubling in less than fifty years to eight billion[fn:24] says
+something to our intention and ability to dominate. And we seemed to
+have adapted our human narratives to this separation[fn:25]. But is
+this sustainable?  All dark musing aside, some of us have become quite
+worried over the question of sustainability, concerned about our long
+arc of estrangement from nature.[fn:26] Let me suggest a different
 understanding of nature, namely---
 
 #+begin_quote
@@ -392,12 +393,12 @@ But nothing drear can move me;
 I will not, cannot go.
 #+end_verse
 
-She refers to the wilds as "wastes"[fn:28] and as drear, and yet she
-is transfixed, frozen to the spot---and I cannot, cannot go, she
-says. Subjective terms like wastes and drear remind of the age-old
-attitude of nature as a terrible master, a sponsor of disaster and
-death, something to get away from, hardly over which to wax
-poetic. But Romantic Era poets did just that, and to be sure,
+Yes, she refers to the outdoors. She even refers to the wilds as
+"wastes"[fn:28] and as drear. And yet she is transfixed, frozen to the
+spot---and I cannot, cannot go, she says. Subjective terms like wastes
+and drear remind of the age-old attitude of nature as a terrible,
+inescapable master, a sponsor of disaster and death, hardly over which
+to wax poetic. But Romantic Era poets did just that, and to be sure,
 sublimely. Haworth Emily stopped, turned around, and stared directly
 into an enemy previously known as all-powerful and unforgiving, and in
 so doing she sensed something deep and found sublimity[fn:29] evoked,
@@ -847,18 +848,18 @@ cotton and wool fabrics being produced in steam-powered factories.
 
 [fn:18] In any modern (non-organic Amazon Whole Foods-style)
 supermarket I'm sure less that 1% of the food items come from a local
-source. Nearly everything is shipped in from often /far/ afar.
+source. Nearly everything is shipped in from often far, far afar.
 
 [fn:19] ...e.g., what is a garden but a derivative, a mock-up of an
 original place out in the wilds, albeit with the pretty bits
 super-amplified idealised, the not-so-pleasant bits left, weeded out?
 
 [fn:20] How often is a Shakespeare character out communing with
-nature? Never...?
+nature? Never?...
 
-[fn:21] ...typically built in the centre of a town or city on the
-highest ground. I once heard that to this day no building in Vienna
-may be constructed taller than the tower of St. Stephen's Cathedral.
+[fn:21] Churches were typically built in the centre of a town or city
+on the highest ground. I once heard that to this day no building in
+Vienna may be built taller than the tower of St. Stephen's Cathedral.
 
 [fn:22] ...with dark, dense, dramatic Neo-Gothic as a leading
 style. Indeed, seemingly all nineteenth century styles were
@@ -866,15 +867,15 @@ style. Indeed, seemingly all nineteenth century styles were
 Anne, etc.), perhaps a hearkening back to times more integrated with
 nature, with shallower gradients between indoors and outdoors?
 
-[fn:23] Adaptability leading to, A) a permanent alteration,
-or B) a temporary allowance for less-that-optimal conditions,
-supposing an eventual return to optimal conditions. We humans, I
-contend, are B-adaptable. This means we are certainly no barometer
-species or "canary in the coal mine" of our own well-being. We
-routinely ignore our fellow canary-like humans, allowing them to
-suffer and die, their warnings unheeded.
+[fn:23] Adaptability leading to, A) a permanent (beneficial)
+alteration, or B) a temporary allowance for less-that-optimal
+conditions, supposing an eventual return to optimal conditions. We
+humans, I contend, are B-adaptable. This means we are certainly no
+barometer species or "canary in the coal mine" of our own
+well-being. We routinely ignore our fellow canary-like humans,
+allowing them to suffer and die, their warnings unheeded.
 
-[fn:24] Human population grew 60% between 1800 and 1900, and 260%
+[fn:24] Human population grew 60% between 1800 and 1900, and /260%/
 between 1900 and 2000.
 
 [fn:25] Modern human narratives come at us as thousands upon thousands
@@ -906,7 +907,8 @@ you suddenly sense the whole of nature and suddenly say: yes, this is
 true. This is not tenderheartedness, but simply joy./ Again, much more
 later...
 
-[fn:30] ...as when a car is written off as "totalled."
+[fn:30] Couple this death as malfunction with atheism for a completely
+soulless mechanistic universe realism dumpster fire."
 
 [fn:31] For critters, predators are other bigger critters. For humans,
 predators are---outside of war and homicidal aggression---all
