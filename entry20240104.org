@@ -82,35 +82,36 @@ USA \\
 ** /Introduction/
 
 Light snow drifts gently down from low clouds draped over the misty
-boreal forest. Deer in their winter grey coats process through the fir
+boreal forest. Deer in their grey winter coats process through the fir
 and spruce. Ravens and crows dolefully croak and caw back and
 forth. And I burn a daytime candle. Such an ambience to convey my
 thoughts about things /dark/, or as I say, my /Dark Muse/[fn:1].
 
 Do you have an inexplicable affinity for things a tad gloomy?  Do you
-find dreamy what they find dreary ... as when an overcast day brings
+find dreamy what they find dreary ... like when an overcast day brings
 on a strangely sanguine melancholy ... or a stormy night is
-frightening in a wonderfully thrilling sort of way? Does twilight
-heighten your senses /and/ deepen your thoughts? Perhaps you've paused
-to gaze transfixed upon an old, abandoned cemetery, or a lonely,
-nondescript countryside scene. And of course you're quickly maxed-out
-on happy-clappy, sunny-cheery[fn:2]. You prefer candlelight over
+frightening in a wonderfully thrilling sort of way? Does twilight free
+your senses /and/ deepen your thoughts? Perhaps you've paused to gaze
+transfixed upon an old, abandoned cemetery, or a lonely, nondescript
+countryside scene. And of course you're quickly maxed-out on
+happy-clappy, sunny-cheery[fn:2]. You prefer candlelight over
 artificial light, old architecture over new. And wouldn't it be grand
 if every month (or week!) we celebrated Halloween? If yes to any of
-this, I'm speaking to you[fn:3].
+this, you might understand what I'm trying to convey here.
 
 #+begin_export html
-<img src="./images/graveyard1.jpg" width="730" alt="Abandoned graveyard">
+<a href="https://www.deviantart.com/octonimoes/art/Untitled-955543653" target="_blank"><img src="./images/graveyard1.jpg" width="730" alt="Abandoned graveyard"></a>
 <span class="cap">Transfixed by an abandoned graveyard by octonimoes@DeviantArt</span>
 #+end_export
 
-Of course the elephant in the middle of the room is the /goth
-subculture/[fn:4], as well as all the over-the-top /gothic/ horror
-fright memes---vampires, witches, demons, et cetera. Yes, my Dark Muse
-would hopefully include, be a superset of what today is called goth
-and gothic, but I hope to go deeper and more elemental than most
-modern takes on dark. Right up front: Dark is not evil, not even
-frightening, rather, a path to a very unique sublimity.
+The first elephant I should immediately escort out of the room is the
+modern /goth subculture/[fn:3], as well as all the sensationalist
+/gothic/ horror fright memes---vampires, witches, demons, et
+cetera. Yes, my Dark Muse would hopefully include, be a superset of
+what today is called goth and gothic, but I hope to go deeper and more
+elemental than most modern takes on dark. Right up front: My version
+of dark does not shock or frighten, contains nothing cruel or evil or
+satanic[fn:4]. I'm after something more subtle and personal.
 
 Let's start with a litmus test of sorts. I present here a short,
 simple poem from my main darkness benefactress, the poetess who stands
@@ -128,15 +129,15 @@ I shall sing when night’s decay
 Ushers in a drearier day.
 #+end_verse
 
-Direct, blunt even. But there it is: Either she speaks to something
-(deep) in you, or you're part of the majority who find it all a bit
-weird, abnormal, morbid---even sick or evil. Alas but my dark penchant
-mostly elicits deer-in-headlights responses, if not outright
-hostility. The hostiles attack my dark druthers as morose, morbid,
-dwelling on the negative. But I repudiate by hearkening back to a
-golden era when dark was the currency, namely the early nineteenth
-century, a time when key poets (e.g. the Brontës) showed us how triste
-and stygian can lead to an exquisite sublimity.
+Direct, blunt even. But there it is: Either she speaks to something in
+you, or you're part of the majority who finds it---weird, abnormal,
+morbid, even sick or evil. To be sure, my dark penchant gets mostly
+deer-in-headlights responses, if not outright hostility. The hostiles
+see my dark druthers as morose, morbid, dwelling on the
+negative. Though I must repudiate, hearkening back to a golden era
+when dark was the currency, namely the early nineteenth century, a
+time when key poets (e.g. the Brontës) showed us how triste and
+stygian can lead to an exquisite sublimity.
 
 Let's try another poem[fn:6], here Longfellow's /Snow-flakes/ from a
 collection published in 1863
@@ -164,60 +165,59 @@ This is the secret of despair,
             To wood and field.
 #+end_verse
 
-Here I see Longfellow[fn:7] processing agents of mental affliction and
-depression---despair, grief, misery---into more equanimous states of
-sadness and melancholy through poetic expression, i.e., by looking to
-the natural world and /poetising/[fn:8] darkly. As if hurt and
-depression are like an initially ravaging cancer or virus that may
-eventually fade into remission, but can never be entirely eliminated
-while on Earth. In some inexplicable way nature and darkness are
-healers in this process.
+Here I see Longfellow[fn:7] looking to the natural world and
+/poetising/[fn:8] darkly. The result being agents of mental affliction
+and depression---despair, grief, misery---are transformed into more
+equanimous states of sadness and melancholy. As if hurt and depression
+are like an initially ravaging cancer or virus that may eventually
+fade into remission, but will never be entirely eliminated while on
+Earth. In some mysterious way nature and darkness become healers.
 
-This poetising of nature in her darker, more mysterious garb was the
+This poetising of nature in her darker, more mystical garb was the
 modus operandi of my select nineteenth-century poets[fn:9]. They
 /embraced the dark/, something we don't seem to understand today. I
 contend we've lost this subtle art of moving hardship and tragedy and
 emotional crises into a stasis remission melancholy, of finding a
 modus vivendi[fn:10] with the trials and tribulations of life as they
-once did. But again, this embracing the dark, the sadness and
-suffering is a hard-sell today.
+once did. But yes, this embracing the dark, the sadness and suffering
+is a hard-sell today.
 
-No doubt humans suffer poorly, i.e., we can never /learn/,
-get used to suffering. All we may do is accompany, usher pain into the
-backdrop of our personal history. In this regard I would say my key
+No doubt humans suffer poorly, i.e., we never /learn/, get used to
+suffering. All we may do is accompany, usher pain into the backdrop of
+our personal history. In this regard I would say my key
 nineteenth-century poets had a better grasp of life than we do
 today. First and foremost, they faced and accepted doom and fate,
 whereas we are too often facile dismissive. They took the good and
 especially the bad of life and used both to keep growing emotionally
 and spiritually. When misfortune struck, they gave emotions free
-reign. They did not /process/ greif, greif /processed/ them. Pain
-management and emotional support was humanised, organic and natural.
+reign. They did not /process/ greif, greif eventually /enriched/
+them. Pain management and emotional support was humanised, made
+organic and natural.
 
-Consider Queen Victoria who wore mourning black from the time of her
-husband, Prince Albert's death in 1861 to the end of her life
+Consider Queen Victoria[fn:11] who wore mourning black from the time
+of her husband, Prince Albert's death in 1861 to the end of her life
 in 1901. Likewise, Amélie of Leuchtenberg upon losing her husband
 Pedro I of Brazil in 1834, wore mourning black until her death
 in 1873. No one chivvied them along with their grief. Death was
 properly, officially mourned. Contrast this with the all-too-often
 confused, disorganised, suppressed responses we moderns have to
-death[fn:11].
+death[fn:12].
 
 Enjoyment of life rare, life was a struggle in the past. For the
 early-nineteenth-century, poetising the constant train of tragedy was
-a sort of life-as-art dysphoria deconstruction. Life's slings and
-arrows found conjunction with nature, darkness, and faith in their
-poetry, thereby elevating the uniquely human experience on Earth,
-casting a template of sublimity[fn:12] over life---like no other
-generation before or since. It was a deep exploration of our
-humanness, the likes of which we've not seen since, and, thus, I must
-here explore.
+dysphoria deconstruction as an art form. Life's slings and arrows
+found conjunction with nature, darkness, and faith in their poetry,
+thereby elevating the uniquely human experience on Earth, casting a
+template of sublimity[fn:13] over life---like no other generation
+before or since. Theirs was a deep exploration of our humanness, the
+likes of which we've not seen since, and, thus, I must here explore.
 
-And still Dark[fn:13] remains a mystery. And today's headwinds
-insisting Dark glamourises, /wallows/ in grief, in morosity. Again, I
-disagree. Dark is something instinctual, cathartic, evocative,
-centring. The fresh-cut rose elicits one response, but the faded rose
-another---deeper but for me never dysphoric. Here is something from my
-novel /Emily of Wolkeld/
+Dark[fn:14] will always remain a mystery for me, no matter how I try
+to imbibe it. And today's headwinds insisting Dark glamourises,
+/wallows/ in grief, in morosity ... again, I must disagree. Dark is
+something instinctual, cathartic, evocative, centring. The fresh-cut
+rose elicits one response, but the faded rose another---deeper but for
+me never dysphoric. Here is something from my novel /Emily of Wolkeld/
 
 #+begin_quote
 The new cut rose: Initially beautiful, thereafter dried and
@@ -236,8 +236,8 @@ clouded memory hall as the true and lasting blessing.
 
 Yes, there might have been a dinner invite for me back in the
 day. Let's see another example of get-it-or-don't, this time from
-Emily Elizabeth Dickinson[fn:14], her /There's a certain slant of
-light/[fn:15]
+Emily Elizabeth Dickinson[fn:15], her /There's a certain slant of
+light/[fn:16]
 
 #+begin_verse
 There's a certain Slant of light,
@@ -261,7 +261,7 @@ When it goes, 'tis like the Distance
 On the look of Death — 
 #+end_verse
 
-Indeed. That last line includes /Death/, capitalised[fn:16]. I must
+Indeed. That last line includes /Death/, capitalised[fn:17]. I must
 emphasise these nineteenth-century artists understood death much
 differently than we do today. Unfortunately, this capitalised,
 past-century view of Death has become opaque, lost. I hope to
@@ -280,7 +280,7 @@ rediscover it.
 
 I hold that our modern, twenty-first-century understanding of nature
 is very different than that of early-nineteenth-century poets such as
-the Haworth and Amherst Emilies [fn:17] and their contemporaries. Just
+the Haworth and Amherst Emilies [fn:18] and their contemporaries. Just
 considering our indoor living environments today, a typical modern
 building is more like a sealed /space station/ on a hostile alien
 planet compared to the simpler, more primitive indoor environments of
@@ -311,13 +311,13 @@ in question wore clothing homemade from locally-sourced and spun
 materials such as linen and wool rather than factory-made retail
 clothing. The Brontëan early-nineteenth century would have had a
 majority of the villagers wearing homespun, all but a few garments not
-hand-tailored bespoke.[fn:18] And food of course was entirely
+hand-tailored bespoke.[fn:19] And food of course was entirely
 local. All in all, a person's daily resources were majority local, a
 small bit coming from a nearby /market town/, while only the most
 exotic items (e.g., a clock) would have come from farther away. Today,
 however, this supply pyramid is flipped: Nearly everything comes from
 far, far away (e.g. China) while only a few personal items would be
-from a local or even regional source[fn:19]. And so in Brontëan times
+from a local or even regional source[fn:20]. And so in Brontëan times
 a rural landscape was nature as quasi-domesticated, a working
 partner. We, on the other hand, hardly ever encounter a farmer or
 visit a farm. And we rarely know where our clothing came from. Nature
@@ -334,20 +334,20 @@ permanent city-states supported by land-domineering monoculture
 agriculture. And so indoor environments, embedded in ever-expanding
 urban centres, evermore physically removed, walled off from the wild
 natural world, became increasingly self-contained, all-encompassing
-self-referencing, recursively derivative[fn:20].
+self-referencing, recursively derivative[fn:21].
 
 Along with this growing separation came mentalities, narratives
-increasingly based indoors and /extra-natural/ [fn:21]. Being indoors
+increasingly based indoors and /extra-natural/ [fn:22]. Being indoors
 meant we no longer were in direct contact with the nature spirits all
 around; instead, praying to an extra-natural, off-world monotheistic
-God in architectural showcase churches[fn:22]. Western architecture
+God in architectural showcase churches[fn:23]. Western architecture
 seemed to reach a fantastical aesthetic crescendo in the Victorian
-nineteenth century[fn:23], coinciding with an exponential growth in
+nineteenth century[fn:24], coinciding with an exponential growth in
 urban population which had just passed an inflection point. Today the
 steepness of our indoor-outdoor gradient has increased even more since
 Victorian times ... resulting in a humanity more abstracted
 /extra-natural/ than ever. How then can we, a species seemingly
-capable of great adaptability[fn:24], objectively measure our
+capable of great adaptability[fn:25], objectively measure our
 separation from nature?  What has domestic, urban, indoor living done
 to our brains, our sense of belonging to the planet, to one another?
 How can we even begin to trace back the many rabbit hole bifurcations,
@@ -356,12 +356,12 @@ out, and away from /nature pure/?  To be sure, we have a unique
 survivalism shown in our collective will to make conditions better for
 us and us alone. We see our dominion over, abstraction away,
 separation from nature as fate, as destiny. After all, our population
-doubling in less than fifty years to eight billion[fn:25] says
+doubling in less than fifty years to eight billion[fn:26] says
 something to our intention and ability to dominate. And we seemed to
-have adapted our human narratives to this separation[fn:26]. But is
+have adapted our human narratives to this separation[fn:27]. But is
 this sustainable?  All dark musing aside, some of us have become quite
 worried over the question of sustainability, concerned about our long
-arc of estrangement from nature.[fn:27] Let me suggest a different
+arc of estrangement from nature.[fn:28] Let me suggest a different
 understanding of nature, namely---
 
 #+begin_quote
@@ -376,7 +376,7 @@ outside. Yes, one went outside, out into the elements. But once back
 indoors, a Brontë was not so completely out of and above nature's
 touch, influence, /doom/ as we now fancy ourselves. Again, the cycles
 of birth, growth, deterioration, and death were happening everywhere
-/sans emplacement/ [fn:28]. Here again is Emily Brontë, her epic /The
+/sans emplacement/ [fn:29]. Here again is Emily Brontë, her epic /The
 night is darkening round me/
 
 #+begin_verse
@@ -397,21 +397,21 @@ I will not, cannot go.
 #+end_verse
 
 Yes, she refers to the outdoors. She even refers to the wilds as
-"wastes"[fn:29] and as drear. And yet she is transfixed, frozen to the
+"wastes"[fn:30] and as drear. And yet she is transfixed, frozen to the
 spot---and I cannot, cannot go, she says. Subjective terms like wastes
 and drear remind of the age-old attitude of nature as a terrible,
 inescapable master, a sponsor of disaster and death, hardly over which
 to wax poetic. But Romantic Era poets did just that, and to be sure,
 sublimely. Haworth Emily stopped, turned around, and stared directly
 into an enemy previously known as all-powerful and unforgiving, and in
-so doing she sensed something deep and found sublimity[fn:30] evoked,
+so doing she sensed something deep and found sublimity[fn:31] evoked,
 then she brought to us in her lines of poetry a new way of being more
 human.
 
 With nature as countless cycles of birth, growth, deterioration, and
 death going on all around, the last two components, deterioration and
 death, must be understood beyond our mechanistic modern take of just
-terminal, physical breakage and malfunction[fn:31]. Especially death
+terminal, physical breakage and malfunction[fn:32]. Especially death
 become Death, a quasi-spiritual /force majeure/. But today
 deterioration and death aren't what they used to be. It's almost as if
 they were cordoned off---at least under much greater human control
@@ -425,7 +425,7 @@ plane as exclusive. Alas...
 
 Though for the meantime death remains an undeniable certainty. Death
 comes as it always has from old age, fatal accident, or from deadly
-physical aggression or predation[fn:32]. But a completely different
+physical aggression or predation[fn:33]. But a completely different
 attitude arises when modern healthcare's labyrinth of diagnoses,
 drugs, procedures and surgeries routinely thwart what was once all but
 unstoppable. And so we've begun to lessen the mystery of Death,
@@ -439,7 +439,7 @@ The days of our years are threescore years and ten; and if by reason of strength
 This is surely the old-fashioned take on death and its finalistic,
 absolute inevitability so resounding as to constantly shake and echo
 through life. Death as life's backstop, container, timer, combinator,
-reaper[fn:33].
+reaper[fn:34].
 
 What then if we start to take command of death's agenda, rerouting
 death's comings and goings? Psalm 90:10 is making the point that by no
@@ -452,11 +452,11 @@ ubiquitous cyclic, i.e., deterioration and death. Modern science has
 lessened the wallop of tragedy, weakened overall the doominess of doom
 by redefining life as the circuitry of organic machinery, a mechanism
 that, in turn, is to be better and better repaired, maintained,
-improved against entropic wear-and-tear[fn:34].
+improved against entropic wear-and-tear[fn:35].
 
 Let me relate a modern story to our new attitude towards death. My
 father, who has since passed away, lost his /third/ wife to lung
-cancer caused inevitably by decades of smoking[fn:35]. But instead of
+cancer caused inevitably by decades of smoking[fn:36]. But instead of
 accepting this, he became angry and accused her doctors of
 malpractice, threatening lawsuits. Nothing came of this, but I
 wondered why such an irrational outburst? I finally theorised that he
@@ -477,12 +477,12 @@ fourscore and more was not forthcoming. But as you may anticipate, I
 contend life is life only with death---death absolute and not
 theorised away. God must be somewhere in all this.
 
-A sickly Anne Brontë[fn:36] on her final dying trip to Scarborough in
+A sickly Anne Brontë[fn:37] on her final dying trip to Scarborough in
 1849 had made a stop in York where she insisted on seeing the York
 Minster. Upon gazing up at the great cathedral she said, "If finite
 power can do this..."  But then she was overcome with emotion and fell
 silent. Anne was in a deep and personal death mindset of utter and
-complete humility and reverence. Indeed, God was in her death[fn:37].
+complete humility and reverence. Indeed, God was in her death[fn:38].
 
 ** Death rises as Romanticism: Novalis
 
@@ -500,25 +500,25 @@ terms. \\
  ---Novalis
 #+end_quote
 
-This is a quote from[fn:38] the German nobleman Friedrich Leopold
+This is a quote from[fn:39] the German nobleman Friedrich Leopold
 /Freiherr/ (Baron) von Hardenberg (1772---1801), aka, *Novalis, who
 is considered to be the founder of the Romantic Movement.* Yes, your
 read correctly. Most people don't know that Novalis started it
 all. Specifically, it was his prose-poem entitled /Hymns to the
-Night/[fn:39] that set people off. And the gathering of German
+Night/[fn:40] that set people off. And the gathering of German
 intellectuals in Jena, Thuringia, Germany, referred to as the /Jena
-Set/ by Andrea Wulf in her /Magnificent Rebels/[fn:40] rallied around
+Set/ by Andrea Wulf in her /Magnificent Rebels/[fn:41] rallied around
 Novalis, and subsequently tried to build on /Hymns/ and Novalis'
 romanticising/poetising. What came to be known as Jena
-Romanticism[fn:41] eventually spread to eager, fertile grounds in
+Romanticism[fn:42] eventually spread to eager, fertile grounds in
 Britain and the United States.
 
 Alas, but here is where I become quite the iconoclast, primarily by
 insisting /nearly everyone has got Romanticism wrong!/ I posit that
 Novalis with his foundational HTTN took off in a straight line into
-the Dark Muse like never before or since[fn:42]. Just reading HTTN, one
+the Dark Muse like never before or since[fn:43]. Just reading HTTN, one
 cannot escape the sheer intensity of Novalis' swoon-fest over Night
-and Death[fn:43]. Here's a small taste
+and Death[fn:44]. Here's a small taste
 
 #+begin_verse
 I feel the flow of
@@ -561,7 +561,7 @@ John Keats KISS vis-a-vis poetry.
 
 ** Thriving versus surviving; top dog versus underdog
 
-In his book /The Genius of Instinct/ [fn:44] author and psychologist
+In his book /The Genius of Instinct/ [fn:45] author and psychologist
 Hendrie Weisinger insists we are hard-wired by nature to seek out the
 best conditions in order to /thrive/, that any life other than one of
 maximal thriving is time and energy wasted. He uses the example of
@@ -576,7 +576,7 @@ bats are now in a state of /trans/-bat-ism. But is that a good thing?
 For the bats maybe, but for nature as a whole?
 
 Perhaps bats doing better is not too much of an imbalance vis-a-vis
-the rest of their surrounding environment[fn:45]. And yet what happens
+the rest of their surrounding environment[fn:46]. And yet what happens
 when a species keeps thriving more and more, increasing its success
 statistics, stepping over, beyond any of the natural restrictions that
 real integration and harmony with nature would have required? *Aren't
@@ -629,11 +629,11 @@ I consider this her ode to skipping the trans-human thrive scene of
 her day and striking out into some Beyond. Again, I must believe she
 was a little bat driven across the semi-wilderness moorland, as true
 an existential /underdog/ as was still possible back
-then[fn:46]. Emily Brontë died of anorexia-induced malnutrition,
+then[fn:47]. Emily Brontë died of anorexia-induced malnutrition,
 contaminated water, tuberculosis --- pick one, two, or all
 three---five months after her thirtieth birthday. She only saw the
 greater world outside of her tiny Haworth village and its surrounding
-hills for a few months[fn:47]. Hers was a world with nothing modern as
+hills for a few months[fn:48]. Hers was a world with nothing modern as
 we know it, e.g., a cut on a toe could lead to an infection requiring
 amputation, or even worse.
 
@@ -643,7 +643,7 @@ observing nature from civilization's relative place of safety, thereby
 rendering her observations just as relative as ours today? I say
 no. Clearly our modern place of safety is maximal, as we of the
 twenty-first century float above in unprecedented levels of modern
-high-tech materialism[fn:48]. But I contend hers was a unique
+high-tech materialism[fn:49]. But I contend hers was a unique
 observation vantage point, neither to exposed nor removed from
 elemental nature.
 
@@ -735,7 +735,7 @@ sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:49]. /She/ has a mighty présence, often dark and moody if
+riffraff[fn:50]. /She/ has a mighty présence, often dark and moody if
 not threatening.
 
 A deep moodiness prevails. Here is nothing really spectacular in the
@@ -790,21 +790,24 @@ deep thought or abstraction, e.g., to enter a /muse/ over a poem, /or/ a
 source of inspiration, e.g., /She is my muse/.
 
 [fn:2] I call it /boosterism/, i.e., those people who always seem to
-be positive ... and get miffed when you're not marching along in their
-sunny-cheery everything's grand! parade.
+be positive ... and turn on you when you're not marching along in
+their sunny-cheery everything's grand we're having so much fun!
+parade.
 
-[fn:3] Check out Octonimoes' art at [[https://www.deviantart.com/octonimoes][DeviantArt.com]]! I'd say he has
-quite a feel for the Dark Muse.
+[fn:3] ...described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] as well as anywhere. In very short, I believe
+they, like many, can /sense/ dark, but for whatever reasons only want
+to express it, explore it through goth music and fashion. Lots more
+about why goth seems to miss the Dark Muse later...
 
-[fn:4] The modern "goth subculture" described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] as well as
-anywhere. In very short, I believe they, like many, may /sense/ dark,
-but only want to express it, explore it through goth music and
-fashion. Lots more about why goth seems to miss the Dark Muse later...
+[fn:4] As philosopher and psychologist John Vervaeke said in
+describing the modern crisis of anxiety and dysphoria, "Horror is
+exactly the aesthetic of when you feel like you're losing your grip on
+reality." Nothing to gain with horror memes. We're not going there...
 
 [fn:5] Oddly enough, I've never read her /Wuthering Heights/ and do
-not intend to. However, her poetry I read continually, gleaning new
-insights each time. See [[https://en.wikipedia.org/wiki/Emily_Bront%C3%AB][here]] for a quick biography.
-\\
+not intend to. However, her poetry I read continually, discovering new
+things, gleaning deeper insights each time. See [[https://en.wikipedia.org/wiki/Emily_Bront%C3%AB][here]] for a quick
+biography.  \\
 [[file:images/Emily_Brontë_by_Patrick_Branwell_Brontë_restored.jpg]] \\
 
 [fn:6] As I've found, the Dark Muse finds its best, most concentrated
@@ -825,54 +828,58 @@ and healer.
 conflicting parties to coexist peacefully, either indefinitely or
 until a final settlement is reached, /or/ (literally) a way of living.
 
-[fn:11] Is there anything worse than the so-called /[[https://en.wikipedia.org/wiki/Five_stages_of_grief][five stages of
+[fn:11] Queen Victoria in mourning black ca. 1862. \\
+[[file:images/QueenVictoriaInMourningBlack.jpg]] \\
+\\
+
+[fn:12] Is there anything worse than the so-called /[[https://en.wikipedia.org/wiki/Five_stages_of_grief][five stages of
 grief]]/ or the Kübler-Ross model? Grief as an emotional malfunction
 to be systematically reduced, fixed, corrected. Alas.
 
-[fn:12] Lots and lots more on /sublimity/ as we go. I promise.
+[fn:13] Lots and lots more on /sublimity/ as we go. I promise.
 
-[fn:13] Allow me German noun capitalisation for poetic emphasis.
+[fn:14] Allow me German noun capitalisation for poetic emphasis.
 
-[fn:14] See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography. \\
+[fn:15] See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography. \\
 [[file:images/EmilyDickinson.png]]
 \\
 \\
 
-[fn:15] In the third line, /Heft/ means weight, heaviness; importance,
+[fn:16] In the third line, /Heft/ means weight, heaviness; importance,
 influence; /or/ (archaic) the greater part or bulk of something.
 
-[fn:16] Again, Dickinson often employed the capitalising nouns for
+[fn:17] Again, Dickinson often employed the capitalising nouns for
 poetic emphasis.
 
-[fn:17] My shorthand for Emily Brontë and Emily Dickinson is based on
+[fn:18] My shorthand for Emily Brontë and Emily Dickinson is based on
 their towns of origin --- Haworth, West Yorkshire, for the former and
 Amherst, Massachusetts, for the latter.
 
-[fn:18] Of course cotton was rapidly becoming a global commodity, both
+[fn:19] Of course cotton was rapidly becoming a global commodity, both
 cotton and wool fabrics being produced in steam-powered factories.
 
-[fn:19] In any modern (non-organic Amazon Whole Foods-style)
+[fn:20] In any modern (non-organic Amazon Whole Foods-style)
 supermarket I'm sure less that 1% of the food items come from a local
 source. Nearly everything is shipped in from often far, far afar.
 
-[fn:20] ...e.g., what is a garden but a derivative, a mock-up of an
+[fn:21] ...e.g., what is a garden but a derivative, a mock-up of an
 original place out in the wilds, albeit with the pretty bits
 super-amplified idealised, the not-so-pleasant bits left, weeded out?
 
-[fn:21] How often is a Shakespeare character out communing with
+[fn:22] How often is a Shakespeare character out communing with
 nature? Never?...
 
-[fn:22] Churches were typically built in the centre of a town or city
+[fn:23] Churches were typically built in the centre of a town or city
 on the highest ground. I once heard that to this day no building in
 Vienna may be built taller than the tower of St. Stephen's Cathedral.
 
-[fn:23] ...with dark, dense, dramatic Neo-Gothic as a leading
+[fn:24] ...with dark, dense, dramatic Neo-Gothic as a leading
 style. Indeed, seemingly all nineteenth century styles were
 "revivalist-nostalgic" (Greek, Gothic, Italianate, Elizabethan, Queen
 Anne, etc.), perhaps a hearkening back to times more integrated with
 nature, with shallower gradients between indoors and outdoors?
 
-[fn:24] Adaptability leading to, A) a permanent (beneficial)
+[fn:25] Adaptability leading to, A) a permanent (beneficial)
 alteration, or B) a temporary allowance for less-that-optimal
 conditions, supposing an eventual return to optimal conditions. We
 humans, I contend, are B-adaptable. This means we are certainly no
@@ -880,17 +887,17 @@ barometer species or "canary in the coal mine" of our own
 well-being. We routinely ignore our fellow canary-like humans,
 allowing them to suffer and die, their warnings unheeded.
 
-[fn:25] Human population grew 60% between 1800 and 1900, and /260%/
+[fn:26] Human population grew 60% between 1800 and 1900, and /260%/
 between 1900 and 2000.
 
-[fn:26] Modern human narratives come at us as thousands upon thousands
+[fn:27] Modern human narratives come at us as thousands upon thousands
 of fictional novels, films, plays, while aboriginal peoples had myth
 and legends timeless and unchanging. That alone...
 
-[fn:27] Is our relatively gradual separation from nature not a perfect
+[fn:28] Is our relatively gradual separation from nature not a perfect
 example of the [[https://en.wikipedia.org/wiki/Boiling_frog][boiling frog]] metaphor?
 
-[fn:28] Consider how the Industrial Revolution created urban
+[fn:29] Consider how the Industrial Revolution created urban
 production landscapes vast and barren and completely outside of any
 sort of nature, spatial or otherwise. Indeed, William Blake's "satanic
 mills."  This was a change never before seen, a huge step away from
@@ -898,9 +905,9 @@ the physical world being solely the purveyance of nature. Even when
 the individual left his house he was still within a massive
 concentration of extra-natural, human-exclusive activity.
 
-[fn:29] In the day wilds were often referred to as wastelands.
+[fn:30] In the day wilds were often referred to as wastelands.
 
-[fn:30] More on Edmund Burke's (as well as Bertrand Russell's) false,
+[fn:31] More on Edmund Burke's (as well as Bertrand Russell's) false,
 "they don't get it at all" tedium on sublimity later. In short,
 /sublime/ is what we may find beyond mere beauty, touching what
 Dostoevsky is saying here: /There are seconds, they only come five or
@@ -912,63 +919,63 @@ you suddenly sense the whole of nature and suddenly say: yes, this is
 true. This is not tenderheartedness, but simply joy./ Again, much more
 later...
 
-[fn:31] Couple this death as malfunction with atheism for a completely
+[fn:32] Couple this death as malfunction with atheism for a completely
 soulless mechanistic universe realism dumpster fire."
 
-[fn:32] For critters, predators are other bigger critters. For humans,
+[fn:33] For critters, predators are other bigger critters. For humans,
 predators are---outside of war and homicidal aggression---all
 but exclusively bacteria and viruses.
 
-[fn:33] Consider [[https://youtu.be/SMNGhPgCKzw?si=L4HFHQuUTnP3j8I6][this goth version]] of the classic rock song. Had this
+[fn:34] Consider [[https://youtu.be/SMNGhPgCKzw?si=L4HFHQuUTnP3j8I6][this goth version]] of the classic rock song. Had this
 been written in Brontëan times, it would have been no cheap,
 sentimental gimmick.
 
-[fn:34] Consider the commonplace heart pacemaker, a device that
+[fn:35] Consider the commonplace heart pacemaker, a device that
 literally commands the human heart with electronic pulses.
 
-[fn:35] Ironically, both of his previous wives had likewise died from
+[fn:36] Ironically, both of his previous wives had likewise died from
 smoking-related illnesses.
 
-[fn:36] Anne Brontë's grave in Scarborough \\
+[fn:37] Anne Brontë's grave in Scarborough \\
 [[file:images/AnneBrontesGrave2.png]]
 \\
 \\
 Perhaps watch [[https://youtu.be/_yzBEP3Qyvc?si=QBkrGikYxWP7C9eN][this]] on Anne's last days in Scarborough.
 
-[fn:37] In my novel /Emily of Wolkeld/, which I will eventually
+[fn:38] In my novel /Emily of Wolkeld/, which I will eventually
 discuss, I have a character saying yes, she would get in a time
 machine and go back the Brontëan times. And if you faced a fifty-fifty
 chance of dying from a now curable, fixable condition? her friend
 asks. Yes, she replies, I would /trust/ my life, and /trust/ my death.
 
-[fn:38] ...quoted from the third volume, /Fragmente/, of /Novalis:
+[fn:39] ...quoted from the third volume, /Fragmente/, of /Novalis:
 Werke, Briefe, Dokumente/; Verlag Lambert Schneider; 1957.
 
-[fn:39] Allow me the abbreviation /HTTN/ from here on.
+[fn:40] Allow me the abbreviation /HTTN/ from here on.
 
-[fn:40] /Magnificent Rebels, The First Romantics and the Invention of
+[fn:41] /Magnificent Rebels, The First Romantics and the Invention of
 the Self/  by Andrea Wulf; 2022; Vintage Books. More about her very
 soon.
 
-[fn:41] See the Wikipedia explanation of [[https://en.wikipedia.org/wiki/Romanticism][Romanticism]] or [[https://en.wikipedia.org/wiki/German_Romanticism][German
+[fn:42] See the Wikipedia explanation of [[https://en.wikipedia.org/wiki/Romanticism][Romanticism]] or [[https://en.wikipedia.org/wiki/German_Romanticism][German
 Romanticism]]. They're as good as any...
 
-[fn:42] Soon will be discussed things dark from the eighteenth
+[fn:43] Soon will be discussed things dark from the eighteenth
 century.
 
-[fn:43] Try [[https://www.george-macdonald.com/etexts/hymns_to_night.html][this George MacDonald translation]] as found in a
+[fn:44] Try [[https://www.george-macdonald.com/etexts/hymns_to_night.html][this George MacDonald translation]] as found in a
 publication from 1897. Amazing how obscure unknown the keynote address
 to the whole Romanticism convention has been. I'll try at a better,
 annotated version soon.
 
-[fn:44] /The Genius of Instinct; Reclaim Mother Nature's Tools for
+[fn:45] /The Genius of Instinct; Reclaim Mother Nature's Tools for
 Enhancing Your Health, Happiness, Family, and Work/ by Hendrie
 Weisinger; 2009; Pearson Education, Inc.
 
-[fn:45] Here in woodsy Minnesota we haven't noticed a shortage of
+[fn:46] Here in woodsy Minnesota we haven't noticed a shortage of
 mosquitoes, one of bats' primary food sources.
 
-[fn:46] Compare with today's outdoor adventurer with technical gear
+[fn:47] Compare with today's outdoor adventurer with technical gear
 from REI, Patagonia, North Face, driving to government set-aside wilds
 in a four-wheel-drive Jeep Cherokee, consuming protein bars and
 electrolyte drinks, listening to music with earbuds, taking smart
@@ -976,12 +983,12 @@ phone pictures and GoPro videos. Any mishaps? Call for immediate
 helicopter rescue on a satellite connection... At some point we're
 just amateur Earth astronauts, no?
 
-[fn:47] A stay in Belgium to learn French and a gig in nearby Halifax
+[fn:48] A stay in Belgium to learn French and a gig in nearby Halifax
 as a governess.
 
-[fn:48] We consume one hundred times the resources and energy per
+[fn:49] We consume one hundred times the resources and energy per
 capita as one of our European ancestors from 1800.
 
-[fn:49] Wetsuits de rigueur. Even in summer a dunk in her lasting more
+[fn:50] Wetsuits de rigueur. Even in summer a dunk in her lasting more
 than ten minutes can lead to hypothermia ... at least on the North
 Coast. Wisconsin and Michigan beaches can be swimmable in the summer.
