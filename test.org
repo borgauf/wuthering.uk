@@ -1,0 +1,56 @@
+#+TITLE:
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+# #path:http://orgmode.org/org-info.js +HTML_HEAD: <link
+# #rel="stylesheet" href="../data/stylesheet.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: test.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+
+* /To begin/
+
+Now is the time for all good men to come to the aid of their country. Now is the time for all good men to come to the aid of their country. Now is the time for all good men to come to the aid of their country[fn:1]. 
+
+* Footnotes
+
+[fn:1] Test sidenote.
+
