@@ -110,19 +110,19 @@ modern /goth subculture/[fn:2], as well as all the sensationalist
 /gothic/ horror fright memes---vampires, witches, demons, nasty mean
 this, campy evil that. Yes, my Dark Muse would hopefully include, be a
 superset of what today is called goth and gothic, but I hope to go
-deeper and more elemental than most modern takes on dark. Right up
-front: My version of dark is not meant to shock or frighten. My take
-contains nothing cruel nor evil nor satanic[fn:3]. I'm after something
-more subtle, discriminating, and inward-personal. I hearken back to a
-golden era when dark was the currency, namely, the early nineteenth
-century, a time when key poets (e.g. the Brontës) showed us how triste
-and stygian can lead to subtlety and sublimity[fn:4]. I'm talking
-about a dark that you don't outgrow, that can deepen and widen for
-one's entire life.
+deeper and more elemental than most modern takes I've seen on
+dark. Right up front: My version of dark is not meant to shock or
+frighten. My Dark Muse contains nothing cruel nor evil nor
+satanic[fn:3]. I'm after something more subtle, discriminating, and
+inward-personal. I hearken back to a golden era when dark was the
+currency, namely, the early nineteenth century, a time when key poets
+(e.g. the Brontës) showed us how triste and stygian can lead to
+subtlety and sublimity[fn:4]. I'm talking about a dark that you don't
+outgrow, that can deepen and widen for one's entire life.
 
 #+begin_export html
 <img src="./images/nosferatuklaus1.jpg" width="740" alt="Thirsty Klaus"></a>
-<span class="cap">Nosferatu schon wieder durstig...</span>
+<span class="cap">No, Klaus, don't do it!</span>
 #+end_export
 
 # #+begin_export html
@@ -142,21 +142,22 @@ requires a buy-in to a particularly base, ignorant, crude and
 aggressive hipster Zeitgeist. Which I repudiate, not going
 there---although I'm sure I will occasionally slip up. Back in the day
 people were more genteel, thoughtful, fine-spoken. They could express
-themselves utterly sublimely. Compare this with the modernists we see
-everywhere today who believe coarse, crass, and base is somehow
-better... But on the other hand, it might just be that I've finally
-succumbed to the influence of all those schoolmarms back in my distant
-childhood who made us feral peasant children read Romantic Era lit,
-holding up that "wordy" other-century English as superior. They were
-right, you know. And yes, I'll drop foreign as well as Latin words and
-phrases, my foreign language being German... You've been warned.
+themselves utterly sublimely. They understood the human need for
+holiness, grandeur, the eternal. Compare this with the modernists we
+see everywhere today who believe being coarse, crass, and base 24/7 is
+somehow better... But on the other hand, it might just be that I've
+finally succumbed to the influence of all those schoolmarms back in my
+distant childhood who had us feral peasant children read Romantic Era
+lit, holding up that "wordy" other-century English as superior. They
+were right, you know. And yes, I'll drop foreign as well as Latin
+words and phrases, my foreign language being German... You've been
+warned.
 
 ** Dark like me?
 
 A quick litmus test. I present here a short, simple poem from my main
 darkness benefactress, the poetess who stands at the centre of
-everything I mean to say about dark---the one and only Emily Jane
-Brontë! [fn:5]
+everything I mean to say about dark---Emily Jane Brontë! [fn:5]
 
 #+begin_verse
 Fall, leaves, fall; die, flowers, away;
@@ -199,7 +200,8 @@ Back to pleasant Spring.
 
 These two poems are not being glum or morose. Rossetti would carefully
 exposit a dark fatalism, ending with hope bound in humility. I like to
-think they are expressing an informed, matured melancholy.
+think they are expressing an informed, matured melancholy that deepens
+the soul.
 
 And another poem[fn:7], here Longfellow's /Snow-flakes/ from a
 collection published in 1863
@@ -229,12 +231,12 @@ This is the secret of despair,
 
 Here I see Longfellow[fn:8] looking to the natural world and
 /poetising/[fn:9], to be sure, /darkly/. The result being agents of
-mental affliction and depression---despair, grief, misery---may be
-transformed into more equanimous states of sadness and melancholy and
-finally a higher emotional maturity. In some paradoxical way, nature
-and darkness become healers. As if the initial agony and sorrow are a
-ravaging cancer or virus that eventually fades into remission, but can
-never entirely be eliminated while on Earth.
+mental affliction and depression---despair, grief,
+misery---transformed into more equanimous states of sadness and
+melancholy resulting in a higher emotional maturity. In some
+paradoxical way, nature and darkness become healers. As if the initial
+agony and sorrow are a ravaging cancer or virus that eventually fades
+into remission, but can never entirely be eliminated while on Earth.
 
 This poetising of nature in her darker, more mystical garb was the
 modus operandi of my select nineteenth-century poets[fn:10]. Rather
@@ -252,8 +254,8 @@ today. They did not attempt to contain, disguise, or /process/ greif,
 rather, greif was faced directly, shared. Emotional space was
 allotted, support communal, organic, and natural. Strikingly different
 was their acceptance of doom and fate, two concepts antithetical to
-our dynamic, positivist, self-determining, we-can-fix-anything modern
-attitudes.
+our dynamic, positivist, self-determining, fix-everthing-quickly
+modern attitudes.
 
 Consider Queen Victoria[fn:12] who wore mourning black from the time
 of her husband Prince Albert's death in 1861 till the end of her life
@@ -262,15 +264,15 @@ Pedro I of Brazil in 1834, wore mourning black until her death
 in 1873. In those days death was properly, officially mourned. No one
 chivvied mourners along with their grief and sadness. Contrast this
 with today's all-too-prevalent disassociation, the confused,
-disorganised, suppression we moderns show towards death[fn:13]. For
-the early-nineteenth-century, poetising life's train of tragedy was
-dysphoria deconstruction as an art form. Life's slings and arrows
-found conjunction with /nature/, /darkness/, and /faith/ through
-poetry, thereby highlighting, elevating our uniquely human experience
-on Earth, casting a template of sublimity over our natural existence
-like no other generation before or since. Theirs was the deepest
-exploration of our humanness that I know and, thus, something I must
-pursue.
+disorganised quasi-denial and suppression we moderns show towards
+death[fn:13]. For the early-nineteenth-century, poetising life's train
+of tragedy was dysphoria deconstruction as a life skill. The slings
+and arrows of human existence found conjunction with /nature/,
+/darkness/, and /faith/ through poetry, thereby highlighting,
+elevating our uniquely human experience on Earth, casting a gossamer
+of sublimity over our natural existence like no other generation
+before or since. Theirs was the deepest exploration of our humanness
+that I know and, thus, something I must pursue.
 
 ** But why Dark?
 
@@ -871,13 +873,13 @@ source of inspiration, e.g., /She is my muse/.
 
 [fn:2] ...described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] as well as anywhere. In very short, I believe
 they, like many, can /sense/ dark, but for whatever reasons only want
-to express it, explore it through goth music and fashion. Lots more
-about why goth seems to skip the Dark Muse later...
+to express it, explore it very narrowly through goth music and
+fashion. Lots more about why goth seems to skip the Dark Muse later...
 
 [fn:3] As philosopher and psychologist John Vervaeke said in
 describing the modern crisis of anxiety and dysphoria, "Horror is the
 /aesthetic/ of when you feel like you're losing your grip on reality."
-Nothing to gain with horror memes. I'm not going there...
+Nothing to gain with horror memes. Not going there...
 
 [fn:4] Indeed, /sublimity/. More on Edmund Burke's (as well as
 Bertrand Russell's) false, "they don't get it at all" tedium on
@@ -929,7 +931,7 @@ until a final settlement is reached, /or/ (literally) a way of living.
 
 [fn:13] Is there anything worse than the so-called /[[https://en.wikipedia.org/wiki/Five_stages_of_grief][five stages of
 grief]]/ or the Kübler-Ross model? Grief as an emotional malfunction
-to be systematically reduced, fixed, corrected. Alas.
+to be systematically reduced, fixed, corrected? Alas.
 
 [fn:14] Allow me German noun capitalisation for poetic emphasis.
 
