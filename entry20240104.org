@@ -96,8 +96,9 @@ upon an old, abandoned cemetery, or a lonely, nondescript
 landscape. And of course you're quickly maxed out on happy-clappy,
 sunny-cheery. You prefer candlelight over artificial light, old
 architecture over new, the genial disorder of wild nature over
-predictably orderly gardens. And wouldn't it be grand if every month
-(or week!) we celebrated Halloween? If yes to any of this, you might
+predictably orderly gardens. The spectacular is ho-hum, but the subtle
+and hidden magnetic. And wouldn't it be grand if every month (or
+week!) we celebrated Halloween? If yes to any of this, you might
 understand what I'm trying to say here.
 
 #+begin_export html
@@ -112,13 +113,15 @@ this, campy evil that. Yes, my Dark Muse would hopefully include, be a
 superset of what today is called goth and gothic, but I hope to go
 deeper and more elemental than most modern takes I've seen on
 dark. Right up front: My version of dark is not meant to shock or
-frighten. My Dark Muse contains nothing cruel nor evil nor
-satanic[fn:3]. I'm after something more subtle, discriminating, and
-inward-personal. I hearken back to a golden era when dark was the
-currency, namely, the early nineteenth century, a time when key poets
-(e.g. the Brontës) showed us how triste and stygian can lead to
-subtlety and sublimity[fn:4]. I'm talking about a dark that you don't
-outgrow, that can deepen and widen for one's entire life.
+frighten. My Dark Muse contains nothing cruel nor evil nor sinister
+nor satanic[fn:3]. Not the /Star Wars/ "dark side," nor orgies
+of barbarism à la /Heart of Darkness/. I'm after something more
+subtle, discriminating, and inward-personal. I hearken back to a
+golden era when dark was the currency, namely, the early nineteenth
+century, a time when key poets (e.g. the Brontës) showed us how triste
+and stygian can lead to subtlety and sublimity[fn:4]. I'm talking
+about a dark that you don't outgrow, that can deepen and widen for
+one's entire life.
 
 #+begin_export html
 <img src="./images/nosferatuklaus1.jpg" width="740" alt="Thirsty Klaus"></a>
@@ -271,17 +274,20 @@ and arrows of human existence found conjunction with /nature/,
 /darkness/, and /faith/ through poetry, thereby highlighting,
 elevating our uniquely human experience on Earth, casting a gossamer
 of sublimity over our natural existence like no other generation
-before or since. Theirs was the deepest exploration of our humanness
-that I know and, thus, something I must pursue.
+before or since. Theirs was the deepest exploration of our true
+humanness that I know and, thus, something I must pursue.
 
 ** But why Dark?
 
-But still, why Dark[fn:14]? Dark speaks to me, but, again, why?  Dark
-remains mysterious---no matter how I try to imbibe or express it. Dark
-is something instinctual, cathartic, evocative, centring for me. The
-fresh-cut rose elicits one response, but the faded rose
-another---deeper but for me never dysphoric. Here is something from my
-novel /Emily of Wolkeld/[fn:15]
+But still, why Dark[fn:14]? Dark speaks to me, but, again, why? Lack
+of a clear and simple answer begs a wordier one. Dark remains
+mysterious---no matter how I try to imbibe or express it. Dark is
+something instinctual, cathartic, evocative, centring for me. Dark is
+more than the lack of light. The moss, lichens, and mushrooms in the
+secretive shadows of the forest appeals more than the spectacular
+sunny vista across the forest valley. The fresh-cut rose elicits one
+response, but the faded rose another---deeper but for me never
+dysphoric. Here is something from my novel /Emily of Wolkeld/[fn:15]
 
 #+begin_quote
 The new cut rose: Initially beautiful, thereafter dried and
@@ -330,14 +336,15 @@ Indeed. That last line includes /Death/ capitalised[fn:18]. Now I must
 emphasise these nineteenth-century artists understood death much
 differently than we do today. Unfortunately, this capitalised,
 past-century view of Death has become opaque, lost. I hope to
-rediscover it. In short, /Death was integral to Nature/...
+rediscover it. I'll start by stating their understanding of Death was
+integral to their understanding of nature...
 
 ** Nature and Death in the nineteenth century
 
 /The main points being:/
 + True nature is /birth, growth, deterioration, and death/, full
   stop...
-+ ...ergo, nature is not a place, inside or out, rather, a state of
++ ...ergo, /nature is not a place/, inside or out, rather, a state of
   being...
 + ...ergo, no degrees of nature, rather, nature constant ubiquitous...
 + ...ergo, death is an integral part of true nature
@@ -350,18 +357,18 @@ the Haworth and Amherst Emilies[fn:19] and their contemporaries. Just
 considering our indoor living environments today, a typical modern
 building is more like a sealed /space station/ plopped down on a
 hostile alien planet compared to the simpler, more primitive
-structures of the not-so-distant past. Literally, the Brontës' Haworth
-parsonage, built in 1778 out of local stone and wood and clay, had
-more in common with human shelters from one, /two/ thousand years
+structures of the not-so-distant past. Quite literally, the Brontës'
+Haworth parsonage, built in 1778 out of local stone and wood and clay,
+had more in common with human shelters from one, /two/ thousand years
 previous than with our modern suburban homes only some two hundred
-years later[fn:20]. Hence, /in just the past two to three hundred years a
-very steep, vertical gradient, differential has grown between indoors
-and outdoors./ And this in turn has brought us to see nature more as a
-/place/ separate and outside, cut off, away of our artificial,
-high-tech, controlled and regulated modern indoor spaces[fn:21]
-... which, in turn, has lead us to rate /outdoors nature/ on continua
-of relative wildness and remoteness from our sealed-off,
-self-contained, humans-only environments.
+years later[fn:20]. Hence, /in just the past two to three hundred
+years a very steep, vertical gradient or differential has grown
+between indoors and outdoors/. This, in turn, has brought us to see
+nature more as a /place/ separate and outside, cut off, away of our
+artificial, high-tech, controlled and regulated modern indoor
+spaces[fn:21] ... which, in turn, has lead us to rate /outdoors
+nature/ on continua of relative wildness and remoteness from our
+sealed-off, self-contained, humans-only environments.
 
 @@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
@@ -369,40 +376,39 @@ self-contained, humans-only environments.
 <a href="https://www.deviantart.com/steve-lease/art/Untitled-1013699667" target="_blank">
 <img src="./images/PeasantGirlWithLamb.png" alt="Title"
 class=".wtitle"></a>
-<span class="cap">Original art from Steve-Lease (DeviantArt.com)</span>@@
+<span class="cap">Homespun and one of its sources. Original art from Steve-Lease (DeviantArt.com)</span>@@
 @@html:</span>@@
 
 As late as my own childhood I remember hearing the term /homespun/ to
 refer to a poor, unsophisticated person, a country bumkin, a hick from
-the sticks. The term meant the so-labelled person wore clothing
-homemade from locally-sourced, hand-spun and woven materials such as
-linen and wool rather than factory-made retail clothing. The Brontëan
-early-nineteenth century would have had a majority of the villagers
-wearing homespun, all but a few garments not hand-tailored
-bespoke[fn:22]. Food of course was entirely local. And so a person's
-daily resources were majority local, a small bit coming from a nearby
-/market town/, while only the most exotic items (e.g., a clock) would
-have come from farther away. Today, however, this supply pyramid is
-flipped: Nearly everything comes from far (far!) away (e.g. China)
-while only a few personal items would be from a local or even regional
-source[fn:23]. And so in Brontëan times a rural landscape was
-quasi-domesticated, a working partner. Today's urban-suburban
-populations, on the other hand, hardly ever have any direct contact
-with farmers or their farms. Similarly, we rarely know where our
-clothing came from. Nature as "the land," as our immediate provider
-has been completely abstracted away. One example of this abstraction
-is the term /ecosystem/, which has the human as a removed observer of
-scientifically tracked interactions, nature analysed like the workings
-of a machine.
+the sticks. The term referred to a person's clothing being homemade
+from locally-sourced, hand-spun and woven materials such as linen and
+wool rather than factory-made retail clothing. The Brontëan
+early-nineteenth century of Yorkshire would have had a majority of the
+villagers wearing homespun, all but a few garments not hand-tailored
+bespoke[fn:22]. And of course food was entirely local. Meaning a
+person's daily resources were majority local, a small bit coming from
+a nearby /market town/, while only the most exotic items (e.g., a
+clock) would have come from farther away. Today, however, this supply
+pyramid is completely flipped, as nearly everything comes from far
+(far!)  away (e.g. China) while only a few personal items would be
+from a local or even regional source[fn:23]. And so in Brontëan times
+the surrounding land was agriculturally domesticated, a working
+partner. Contrast this with today's urban-suburban populations hardly
+ever having any direct contact with farmers or their farms. And we
+rarely know where our clothing came from. Nature as "the land," as our
+immediate provider, has been completely abstracted into concepts such
+as /ecosystems/, which implies the human is a removed observer
+controlling of nature as if it were a machine.
 
 Surely humans have always made a distinction between being inside a
 shelter and going outside into the so-called /elements/. But starting
 some six thousand years ago we began to give up aboriginal nomadic
 life with its direct daily contact with said elements to establish
 permanent city-states supported by land-domineering monoculture
-agriculture. And so indoor environments, embedded in ever-expanding
-urban centres, evermore physically removed, walled off from the wild
-natural world, became increasingly self-contained, all-encompassing
+agriculture. And so indoor environments in ever-expanding urban
+centres, evermore physically removed, walled off from the wild natural
+world, became increasingly self-contained, all-encompassing
 self-referencing, recursively derivative[fn:24].
 
 Along with this growing separation came mentalities, narratives
@@ -427,15 +433,15 @@ our dominion over, abstraction away, separation from nature as fate,
 as destiny. After all, our population doubling in less than fifty
 years to eight billion[fn:29] says something to our intention and
 ability to dominate. And we seemed to have adapted our collective
-human psyche, our narratives to this separation[fn:30]. But is this
-sustainable?  All dark musing aside, some of us have become concerned
+human psyche, our narratives to this separation[fn:30]. /But is this
+sustainable?/ All dark musings aside, some of us have become concerned
 over the question of sustainability, concerned about our long arc of
 estrangement from nature[fn:31]. Let me suggest a different
 understanding of nature, namely---
 
 #+begin_quote
-Nature not a place inside or outside of our human spaces, rather,
-nature as everything going on everywhere. Nature as the myriad cycles
+Nature is not a place inside or outside of our human spaces, rather,
+nature is everything going on everywhere. Nature as the myriad cycles
 of birth, growth, deterioration, and death going on everywhere.
 #+end_quote
 
@@ -886,7 +892,7 @@ Bertrand Russell's) false, "they don't get it at all" tedium on
 /sublimity/ later. In short, /sublime/ is what we may find beyond mere
 beauty, touching what Dostoevsky is saying here: /There are seconds,
 they only come five or six at a time, and you suddenly feel the
-*presence of eternal harmony*, fully achieved. It is nothing earthly;
+*presence of eternal harmony* fully achieved. It is nothing earthly;
 not that it is heavenly, but man cannot endure it in his earthly
 state. One must change physically or die. The feeling is clear and
 indisputable. As if you suddenly sense the whole of nature and
@@ -956,16 +962,18 @@ Amherst, Massachusetts, for the latter.
 [[file:images/MaxIndoorsOutdoorsGradient.png]] \\
 \\
 
-[fn:21] Ironic how nearly every lifeform that attempts to share our
-human environments uninvited are considered invasive, noxious vermin,
-pests to which we have developed almost hysterical revulsion.
+[fn:21] Is it not ironic how nearly every lifeform that attempts to
+share our human environments uninvited are considered invasive,
+noxious vermin, pests to which we have developed almost hysterical
+revulsion?
 
-[fn:22] Cotton was rapidly becoming a global commodity, both
-cotton and wool fabrics being produced in steam-powered factories.
+[fn:22] Cotton was rapidly becoming a global commodity, both cotton
+and wool fabrics eventually being produced in steam-powered factories
+as the Industrial Age reached its inflexion point of growth.
 
 [fn:23] In any modern (non-organic Amazon Whole Foods-style)
-supermarket I'm sure less that 1% of the food items come from a local
-source. Nearly everything is shipped in from often far afar.
+supermarket I'm sure less that 1% of the food items come from a truly
+local source. Nearly everything is shipped in from often far afar.
 
 [fn:24] ...e.g., what is a flower garden but a derivative, a mock-up
 of an original place out in the wilds, albeit with the pretty bits
@@ -1011,7 +1019,7 @@ of nature. Even when the individual left his house he was still deep
 within a massive concentration of extra-natural, human-exclusive
 activity.
 
-[fn:33] In the day wilds were often referred to as wastelands.
+[fn:33] In those days wilds were often referred to as wastelands.
 
 [fn:34] Contrast this inescapable nature back then with Hemingway's
 nature. Sure, he went to relatively remote places to play the macho
