@@ -97,7 +97,7 @@ landscape. And of course you're quickly maxed out on happy-clappy,
 sunny-cheery. You prefer candlelight over artificial light, old
 architecture over new, the genial disorder of wild nature over
 predictably orderly gardens. The spectacular is ho-hum, but the subtle
-and hidden magnetic. And wouldn't it be grand if every month (or
+and hidden are magnetic. And wouldn't it be grand if every month (or
 week!) we celebrated Halloween? If yes to any of this, you might
 understand what I'm trying to say here.
 
@@ -114,14 +114,16 @@ superset of what today is called goth and gothic, but I hope to go
 deeper and more elemental than most modern takes I've seen on
 dark. Right up front: My version of dark is not meant to shock or
 frighten. My Dark Muse contains nothing cruel nor evil nor sinister
-nor satanic[fn:3]. Not the /Star Wars/ "dark side," nor orgies
-of barbarism à la /Heart of Darkness/. I'm after something more
-subtle, discriminating, and inward-personal. I hearken back to a
-golden era when dark was the currency, namely, the early nineteenth
-century, a time when key poets (e.g. the Brontës) showed us how triste
-and stygian can lead to subtlety and sublimity[fn:4]. I'm talking
-about a dark that you don't outgrow, that can deepen and widen for
-one's entire life.
+nor satanic[fn:3]. Not the /Star Wars/ "dark side," not the barbarism
+à la /Heart of Darkness/, and not the psychic dark described by Freud
+or Jung. I'm after something more subtle, discriminating, and
+inward-personal. I hearken back to a golden era when dark was the
+currency, namely, the early nineteenth century, a time when key poets
+(e.g. the Brontës) showed us how triste and Stygian can lead to
+subtlety and sublimity[fn:4]. I'm talking about a dark that one
+doesn't outgrow, rather, that sustains. There should be no "aging out
+of the scene," rather, a continued deepening and widening for one's
+entire life.
 
 #+begin_export html
 <img src="./images/nosferatuklaus1.jpg" width="740" alt="Thirsty Klaus"></a>
@@ -145,12 +147,12 @@ requires a buy-in to a particularly base, ignorant, crude and
 aggressive hipster Zeitgeist. Which I repudiate, not going
 there---although I'm sure I will occasionally slip up. Back in the day
 people were more genteel, thoughtful, fine-spoken. They could express
-themselves utterly sublimely. They understood the human need for
+themselves with utter sublimity. They understood the human need for
 holiness, grandeur, the eternal. Compare this with the modernists we
-see everywhere today who believe being coarse, crass, and base 24/7 is
-somehow better... But on the other hand, it might just be that I've
-finally succumbed to the influence of all those schoolmarms back in my
-distant childhood who had us feral peasant children read Romantic Era
+see everywhere today who believe being coarse, crass, base, and
+irreverent is somehow progress... But on the other hand, it might just
+be that I've finally succumbed to the influence of all those
+schoolmarms back in my distant childhood who had us read Romantic Era
 lit, holding up that "wordy" other-century English as superior. They
 were right, you know. And yes, I'll drop foreign as well as Latin
 words and phrases, my foreign language being German... You've been
@@ -181,8 +183,8 @@ hostility. The openly hostile see my dark druthers as morose, morbid,
 as "wallowing in self-pity" or "dwelling on the negative." I beg to
 differ...
 
-Here's something a bit lighter but the same basic idea from /Christina
-Rossetti/ [fn:6]
+Here is something a bit lighter but the same basic idea from
+/Christina Rossetti/ [fn:6]
 
 #+begin_verse
 Fade tender lily,
@@ -203,8 +205,8 @@ Back to pleasant Spring.
 
 These two poems are not being glum or morose. Rossetti would carefully
 exposit a dark fatalism, ending with hope bound in humility. I like to
-think they are expressing an informed, matured melancholy that deepens
-the soul.
+think they are expressing an informed, matured melancholy that
+bespeaks a deeper understanding of life.
 
 And another poem[fn:7], here Longfellow's /Snow-flakes/ from a
 collection published in 1863
@@ -233,17 +235,18 @@ This is the secret of despair,
 #+end_verse
 
 Here I see Longfellow[fn:8] looking to the natural world and
-/poetising/[fn:9], to be sure, /darkly/. The result being agents of
-mental affliction and depression---despair, grief,
-misery---transformed into more equanimous states of sadness and
-melancholy resulting in a higher emotional maturity. In some
-paradoxical way, nature and darkness become healers. As if the initial
-agony and sorrow are a ravaging cancer or virus that eventually fades
-into remission, but can never entirely be eliminated while on Earth.
+/poetising/[fn:9], to be sure, /darkly/. As a result agents of mental
+affliction and depression---despair, grief, misery---are transformed
+into more equanimous states of sadness and melancholy resulting in a
+higher emotional maturity. In some paradoxical way, nature and
+darkness as witnesses will eventually become healers. As if the
+initial agony and sorrow are a ravaging cancer or virus that
+eventually fades into remission, but can never entirely be eliminated
+while on Earth.
 
-This poetising of nature in her darker, more mystical garb was the
-modus operandi of my select nineteenth-century poets[fn:10]. Rather
-than avoid, they /embraced the dark/, something we today in our
+This /poetising/ of nature as darker and more mystical was the modus
+operandi of my select nineteenth-century poets[fn:10]. Rather than
+avoid, they /embraced the dark/, something we today in our
 brightly-lit, cordoned-off world might consider counter-intuitive, if
 not wrong-headed. I contend we've lost this subtle art of moving
 hardship, tragedy, emotional crises into a stasis remission
@@ -395,20 +398,20 @@ pyramid is completely flipped, as nearly everything comes from far
 from a local or even regional source[fn:23]. And so in Brontëan times
 the surrounding land was agriculturally domesticated, a working
 partner. Contrast this with today's urban-suburban populations hardly
-ever having any direct contact with farmers or their farms. And we
-rarely know where our clothing came from. Nature as "the land," as our
-immediate provider, has been completely abstracted into concepts such
-as /ecosystems/, which implies the human is a removed observer
-controlling of nature as if it were a machine.
+ever in contact with farmers or their farms. And we rarely know where
+our clothing came from. Nature as "the land," as our immediate
+provider, has been completely abstracted into concepts such as
+/ecosystems/, which implies the human is a removed observer
+controlling nature as if it were a machine.
 
 Surely humans have always made a distinction between being inside a
 shelter and going outside into the so-called /elements/. But starting
-some six thousand years ago we began to give up aboriginal nomadic
-life with its direct daily contact with said elements to establish
-permanent city-states supported by land-domineering monoculture
-agriculture. And so indoor environments in ever-expanding urban
-centres, evermore physically removed, walled off from the wild natural
-world, became increasingly self-contained, all-encompassing
+some six to ten thousand years ago we began to give up aboriginal
+nomadic life with its direct daily contact with said elements to
+establish permanent city-states supported by land-domineering
+monoculture agriculture. And so indoor environments in ever-expanding
+urban centres, evermore physically removed, walled off from the wild
+natural world, became increasingly self-contained, all-encompassing,
 self-referencing, recursively derivative[fn:24].
 
 Along with this growing separation came mentalities, narratives
