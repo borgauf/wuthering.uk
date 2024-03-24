@@ -96,17 +96,17 @@ upon an old, abandoned cemetery, or a lonely, nondescript
 landscape. And of course you're quickly maxed out on happy-clappy,
 sunny-cheery. You prefer candlelight over artificial light, old
 architecture over new, the genial disorder of wild nature over
-predictably orderly gardens. The spectacular is ho-hum, but the subtle
-and hidden are magnetic. And wouldn't it be grand if every month (or
+predictably orderly gardens. Spectacular is ho-hum, but the subtle
+and veiled are magnetic. And wouldn't it be grand if every month (or
 week!) we celebrated Halloween? If yes to any of this, you might
 understand what I'm trying to say here.
 
 #+begin_export html
 <a href="https://www.deviantart.com/octonimoes/art/Untitled-955543653" target="_blank"><img src="./images/graveyard1.jpg" width="730" alt="Abandoned graveyard"></a>
-<span class="cap">Transfixed by an abandoned graveyard by octonimoes@DeviantArt</span>
+<span class="cap">Transfixed by an abandoned graveyard: octonimoes@DeviantArt</span>
 #+end_export
 
-The first elephant I must immediately escort out of the room is the
+The first elephant I should shift from the middle of the room is the
 modern /goth subculture/[fn:2], as well as all the sensationalist
 /gothic/ horror fright memes---vampires, witches, demons, nasty mean
 this, campy evil that. Yes, my Dark Muse would hopefully include, be a
@@ -881,8 +881,8 @@ deep thought or abstraction, e.g., to enter a /muse/ over a poem, /or/ a
 source of inspiration, e.g., /She is my muse/.
 
 [fn:2] ...described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] as well as anywhere. In very short, I believe
-they, like many, can /sense/ dark, but for whatever reasons only want
-to express it, explore it very narrowly through goth music and
+they, like many, surely /sense/ dark, but for whatever reasons only
+want to express it, explore it very narrowly through goth music and
 fashion. Lots more about why goth seems to skip the Dark Muse later...
 
 [fn:3] As philosopher and psychologist John Vervaeke said in
