@@ -13,6 +13,20 @@
 # #rel="stylesheet" href="../data/stylesheet.css" type="text/css">
 #+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
 #+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+HTML_HEAD_EXTRA: <style>
+#+HTML_HEAD_EXTRA: article > div.org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: article > section .org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
+#+HTML_HEAD_EXTRA: pre.example {clear: none; }
+#+HTML_HEAD_EXTRA: </style>
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+EXPORT_FILE_NAME: inauguralessay.html
@@ -89,15 +103,15 @@ thoughts about my /Dark Muse/[fn:1].
 
 Do you have an affinity for things on the gloomy side?  Do you find
 dreamy what they find dreary ... like when an overcast day brings on a
-strangely sanguine melancholy ... or a stormy night is frightening in
-a magnificent and thrilling sort of way? Is twilight like a strange
+strangely sanguine melancholy ... or a stormy night is magnificent in
+a frightening and thrilling sort of way? Is twilight like a strange
 reprieve freeing your senses /and/ deepen your thoughts? Perhaps
 you've paused to gaze transfixed upon an old, abandoned cemetery, or a
-lonely, nondescript landscape. And of course you've always been
-quickly maxed out on happy-clappy, sunny-cheery. You prefer
+lonely, nondescript landscape. And of course you are panicked,
+nauseated by attempts at happy-clappy, sunny-cheery. You prefer
 candlelight over artificial light, old architecture over new, the
 genial disorder of wild nature over predictably orderly
-gardens. Spectacular is ho-hum, but the subtle and veiled are
+gardens. Spectacular is ho-hum, but all things subtle and veiled are
 magnetic. And wouldn't it be grand if every month (or week!) we
 celebrated Halloween? If yes to any of this, you might understand what
 I'm trying to say here.
@@ -107,11 +121,11 @@ I'm trying to say here.
 <span class="cap">Transfixed by an abandoned graveyard: octonimoes@DeviantArt</span>
 #+end_export
 
-The first elephant I should at least slightly shift from the middle of
-the room is the modern /goth subculture/[fn:2], along with all the
-sensationalist /gothic/ horror fright memes---vampires, witches,
-demons, nasty mean this, campy evil that. Yes, my Dark Muse would
-hopefully include, be a superset of what today is called goth and
+The first elephant I should at least slightly shift from the very
+centre of the room is the modern /goth subculture/[fn:2], along with
+all the sensationalist /gothic/ horror fright memes---vampires,
+witches, demons, nasty mean this, campy evil that. Yes, my Dark Muse
+would hopefully include, be akin to what is today called goth and
 gothic, but I hope to go deeper and more elemental than most modern
 takes I've seen on dark. There is /natural dark/, the darkness cues
 nature provides. Contrast these with human-made dark, the memes with
@@ -124,10 +138,10 @@ after something more subtle, discriminating, and inward-personal. I
 hearken back to a golden era when dark was the currency, namely, the
 early nineteenth century, a time when key poets (e.g. Poe, the
 Brontës) showed us how triste and Stygian can lead to subtlety and
-sublimity[fn:4]. I'm talking about a dark that one will not outgrow,
-rather, that sustains. There should be no "aging out of the scene,"
-rather, a continued deepening and widening and transcendence for one's
-entire life.
+sublimity[fn:4]. I mean a dark that one will not outgrow, rather, that
+sustains. There should be no "aging out of the scene," rather, a
+continued deepening and widening and transcendence for one's entire
+life.
 
 #+begin_export html
 <img src="./images/nosferatuklaus1.jpg" width="740" alt="Thirsty Klaus"></a>
@@ -157,9 +171,9 @@ see everywhere today who believe being coarse, crass, base, and
 irreverent is somehow progress... But on the other hand, it might just
 be that I've finally succumbed to the influence of all those
 schoolmarms back in my distant childhood who had us read Romantic Era
-lit, holding up "wordy," other-century English as superior. They
-were right, you know. And yes, I'll occasionally drop foreign as well
-as Latin words and phrases, my foreign language being German... You've
+lit, holding up "wordy," other-century English as superior. They were
+right, you know. And yes, I'll occasionally drop foreign as well as
+Latin words and phrases, my foreign language being German... You have
 been warned.
 
 ** Dark like me?
@@ -180,7 +194,7 @@ Ushers in a drearier day.
 #+end_verse
 
 Here EB is direct, blunt even. But now we know. Either she speaks to
-something in you, or you're part of the majority who finds it---weird,
+something in you, or you are part of the majority who finds it---weird,
 abnormal, morbid, overwrought, puerile, even sick or evil. To be sure,
 my dark /penchant/ gets mostly deer-in-headlights responses, if not
 outright hostility. The openly hostile see my dark druthers as morose,
@@ -243,10 +257,10 @@ Here I see Longfellow[fn:8] looking to the natural world and
 affliction and depression---despair, grief, misery---are transformed
 into more equanimous states of sadness and melancholy hopefully
 resulting in a higher emotional maturity. In some paradoxical way,
-nature and darkness as witnesses will eventually become healers. As if
-the initial agony and sorrow are a ravaging cancer or virus that
-eventually fades into remission, but can never entirely be eliminated
-while on Earth.
+nature and darkness as witnesses eventually transition into
+healers. As if the initial agony and sorrow are a ravaging cancer or
+virus that eventually fade into remission, but can never entirely be
+eliminated whilst on Earth.
 
 This /poetising/ of nature dark and mystical was the modus operandi of
 my select nineteenth-century poets[fn:10]. Rather than avoid, they
@@ -254,18 +268,20 @@ my select nineteenth-century poets[fn:10]. Rather than avoid, they
 cordoned-off world might consider counter-intuitive, if not
 wrong-headed. I contend we have lost this subtle art of moving
 hardship, tragedy, emotional crises into a stasis remission
-melancholy, of finding a /modus vivendi/[fn:11] with the trials and
-tribulations of life as our ancestors once did.
+melancholy. Too often we are failures at finding a /modus
+vivendi/[fn:11] with the trials and tribulations of life as our
+ancestors once did.
 
 Surely we suffer poorly. All we may ever do is usher the initially
 searing, inescapable pain to a dull ache in the backdrop of
 time. Though I would say this was better understood in the past than
-today. They did not attempt to contain, disguise, or /process/ greif,
-rather, greif was faced directly, pain was shared, empathy a way of
-life. And so emotional space was allotted, support communal, organic,
-and natural. Strikingly different from today was their acceptance of
-doom and fate, two concepts antithetical to our dynamic, positivist,
-self-determining, fix-everthing-quickly modern attitudes.
+today. They did not attempt to contain, disguise, systematise or
+/process/ greif, rather, greif was faced directly, pain was shared,
+empathy a way of life. And so emotional space was allotted,
+support communal, organic, and natural. Strikingly different from
+today was their acceptance of doom and fate, two concepts antithetical
+to our dynamic, positivist, self-determining, fix-everthing-quickly
+modern attitudes.
 
 Consider Queen Victoria[fn:12] who wore mourning black from the time
 of her husband Prince Albert's death in 1861 till the end of her life
@@ -282,7 +298,7 @@ and arrows of human existence found conjunction with /nature/,
 elevating our uniquely human experience on Earth, casting a gossamer
 of sublimity over our natural existence like no other generation
 before or since. Theirs was the deepest exploration of our true
-humanness that I know and, thus, something I must pursue.
+humanness that I know, and, thus, something I must pursue.
 
 ** But why Dark?
 
@@ -290,11 +306,12 @@ But still, why Dark[fn:14]? Dark speaks to me, but, again, why? Lack
 of a clear and simple answer begs a wordier one. Dark remains
 mysterious---no matter how I try to imbibe or express it. Dark is
 something instinctual, cathartic, evocative, centring for me. Dark is
-more than the lack of light. The moss, lichens, and mushrooms in the
-secretive shadows of the forest appeals more than the spectacular
-sunny vista across the forest valley. The fresh-cut rose elicits one
-response, but the faded rose another---deeper but for me never
-dysphoric. Here is something from my novel /Emily of Wolkeld/[fn:15]
+more than the lack of light. Dark can lead the imagination to
+riot. The moss, lichens, and mushrooms in the secretive shadows of the
+forest incite so much more than the spectacular sunny vista across the
+forest valley. The fresh-cut rose elicits one response, but the faded
+rose another---deeper but for me never dysphoric. Here is something
+from my novel /Emily of Wolkeld/[fn:15]
 
 #+begin_quote
 The new cut rose: Initially beautiful, thereafter dried and
@@ -355,7 +372,7 @@ integral to their understanding of nature...
   being...
 + ...ergo, no degrees of nature, rather, nature constant ubiquitous...
 + ...ergo, death is an integral part of true nature
-+ The increasingly extra-natural, quasi/proto-immortal human
++ The increasingly extra-natural, quasi-immortal human
 + Direct exposure to nature dominant versus /managing ecosystems/
 
 I hold that our modern, twenty-first-century understanding of nature
@@ -371,7 +388,7 @@ previous than with our modern suburban homes only some two hundred
 years later[fn:20]. Hence, /in just the past two to three hundred
 years a very steep, vertical gradient or differential has grown
 between indoors and outdoors/. This, in turn, has brought us to see
-nature more as a /place/ separate and outside, cut off, away of our
+nature more as a /place/ separate and outside, cut off, away from our
 artificial, high-tech, controlled and regulated modern indoor
 spaces[fn:21] ... which, in turn, has lead us to rate /outdoors
 nature/ on continua of relative wildness and remoteness from our
@@ -386,37 +403,39 @@ class=".wtitle"></a>
 <span class="cap">Homespun and one of its sources. Original art from Steve-Lease (DeviantArt.com)</span>@@
 @@html:</span>@@
 
-As late as my own childhood I remember hearing the term /homespun/ to
-refer to a poor, unsophisticated person, a country bumkin, a hick from
+Even as late as my own childhood the term /homespun/ was in use to
+indicate a poor, unsophisticated person, a country bumkin, a hick from
 the sticks. The term referred to a person's clothing being homemade
 from locally-sourced, hand-spun and woven materials such as linen and
-wool rather than factory-made retail clothing. The Brontëan
-early-nineteenth century of Yorkshire would have had a majority of the
-villagers wearing homespun, all but a few garments not hand-tailored
-bespoke[fn:22]. And of course food was entirely local. Meaning a
-person's daily resources were majority local, a small bit coming from
-a nearby /market town/, while only the most exotic items (e.g., a
-clock) would have come from farther away. Today, however, this supply
-pyramid is completely flipped, as nearly everything comes from far
-(far!)  away (e.g. China) while only a few personal items would be
-from a local or even regional source[fn:23]. And so in Brontëan times
-the surrounding land was agriculturally domesticated, a working
-partner. Contrast this with today's urban-suburban populations hardly
-ever in contact with farmers or their farms. And we rarely know where
-our clothing came from. Nature as "the land," as our immediate
-provider, has been completely abstracted into concepts such as
-/ecosystems/, which implies the human is a removed observer
-controlling nature as if it were a machine.
+wool rather than factory-made retail clothing. The early-nineteenth
+century Brontëan Yorkshire would have seen the majority of the
+villagers in homespun, all but a few garments not hand-tailored
+bespoke[fn:22]. And of course food was entirely from local
+production. Hence, a person's daily resources were overwhelmingly
+local, a small bit perhaps coming from a nearby /market town/, while
+only the most exotic items (e.g., a clock) would have come from
+farther away. Today, however, this supply pyramid is completely
+flipped, as nearly everything comes from far (far!) away (e.g. China)
+while only a few personal items would be from a local or even regional
+source[fn:23]. And so in Brontëan times the surrounding land was
+agriculturally domesticated, a working partner. Contrast this with
+today's urban-suburban populations hardly ever in contact with farmers
+or their farms. Nor do we know anything about where our clothing came
+from. Today, nature as "the land," as our immediate provider, has been
+completely abstracted into concepts such as /ecosystems/, which
+implies we are now removed observers controlling nature as if it were
+a mechanical object.
 
-Surely humans have always made a distinction between being inside a
-shelter and going outside into the so-called /elements/. But starting
-some six to ten thousand years ago we began to give up aboriginal
-nomadic life with its direct daily contact with said elements to
-establish permanent city-states supported by land-domineering
+No doubt we have always made a distinction between being /inside/ a
+shelter and going /outside/Th into the so-called /elements/. But
+starting some six to ten thousand years ago we began to give up
+aboriginal nomadic life and its direct daily contact with said
+elements in order to establish permanent city-states supported by mass
 monoculture agriculture. And so indoor environments in ever-expanding
-urban centres, evermore physically removed, walled off from the wild
-natural world, became increasingly self-contained, all-encompassing,
-self-referencing, recursively derivative[fn:24].
+urban centres became evermore physically removed, walled off from the
+wild natural world, became increasingly self-contained,
+all-encompassing, self-referencing, thus, /recursively
+derivative/[fn:24].
 
 Along with this growing separation came mentalities, narratives
 increasingly based indoors and /extra-natural/ [fn:25]. Being indoors
@@ -428,7 +447,7 @@ nineteenth century[fn:27], coinciding with an exponential growth in
 urban population which had just passed an inflection point. Today the
 steepness of our indoor-outdoor gradient has increased even more since
 Victorian times ... resulting in a humanity more abstracted
-/extra-natural/ than ever. How then can we, a species seemingly
+/extra-natural/ than ever. How then may we, a species seemingly
 capable of great adaptability[fn:28], objectively measure our
 separation from nature?  What has domestic, urban, indoor living done
 to our brains, our sense of belonging to the planet, to one another?
@@ -439,25 +458,26 @@ collective will to make conditions better for us and us alone. We see
 our dominion over, abstraction away, separation from nature as fate,
 as destiny. After all, our population doubling in less than fifty
 years to eight billion[fn:29] says something to our intention and
-ability to dominate. And we seemed to have adapted our collective
-human psyche, our narratives to this separation[fn:30]. /But is this
-sustainable?/ All dark musings aside, some of us have become concerned
-over the question of sustainability, concerned about our long arc of
-estrangement from nature[fn:31]. Let me suggest a different
-understanding of nature, namely---
+ability to dominate. And we seem to have adapted our collective human
+psyche, our narratives to this separation[fn:30]. /But is this
+sustainable?/ All dark musings aside, many of us today have grown
+concerned over the question of sustainability, concerned about our
+long arc of estrangement from nature[fn:31]. Let me suggest a
+different understanding of nature, namely---
 
 #+begin_quote
 Nature is not a place inside or outside of our human spaces, rather,
 nature is everything going on everywhere. Nature as the myriad cycles
-of birth, growth, deterioration, and death going on everywhere.
+of *birth*, *growth*, *deterioration*, and *death* going on
+everywhere.
 #+end_quote
 
 I contend the Brontës, as well as other Romantic Era poets, sensed
-this pre-modern meaning of nature as /sans localisation/ inside or
-outside. Yes, one went outside, out into the elements. But once back
-indoors, a Brontë was not so completely out of and above nature's
-touch, influence, /doom/ as we now fancy ourselves. Again, the cycles
-of birth, growth, deterioration, and death were happening everywhere
+this pre-modern meaning of nature as beyond inside or outside. Yes,
+one went outside, out into the elements. But once back indoors, a
+Brontë was not so completely out of and above nature's touch,
+influence, /doom/ as we now fancy ourselves. Again, the cycles of
+birth, growth, deterioration, and death were happening everywhere
 /sans emplacement/ [fn:32]. Here again is Emily Brontë, her epic /The
 night is darkening round me/
 
@@ -480,15 +500,15 @@ I will not, cannot go.
 
 Yes, she refers to the outdoors. She even refers to the wilds as
 "wastes"[fn:33] and as drear. And yet she is transfixed, frozen to the
-spot---and I cannot, cannot go, she says. Subjective terms like wastes
-and drear remind of the age-old attitude of nature as a terrible,
-grim, inescapable master, a sponsor of disaster and death, hardly over which
-to wax poetic. But Romantic Era poets did just that, and to be sure,
-sublimely. Haworth Emily stopped, turned around, and stared directly
-into an enemy previously known as all-powerful and unforgiving, and in
-so doing she sensed something deep and found sublimity evoked,
-then she brought to us in her lines of poetry a new way of being more
-human[fn:34].
+spot---and I cannot, cannot go, as she says. Subjective terms like
+wastes and drear remind of the age-old attitude towards nature as a
+terrible, grim, inescapable master, a sponsor of disaster and death,
+hardly over which to wax poetic. But Romantic Era poets did just that,
+and to be sure, sublimely. Haworth Emily stopped, turned around, and
+stared directly into an enemy previously known as all-powerful and
+unforgiving, and in so doing she sensed something deep and found
+sublimity evoked. Then she brought to us in her lines of poetry a new
+way of being more human[fn:34].
 
 With nature as countless cycles of birth, growth, deterioration, and
 death going on all around, the last two components, deterioration and
@@ -1019,20 +1039,22 @@ example of the [[https://en.wikipedia.org/wiki/Boiling_frog][boiling frog]] meta
 
 [fn:32] Consider how the Industrial Revolution created urban
 production landscapes vast and barren and completely outside of any
-sort of nature, spatial or otherwise. Indeed, William Blake's "satanic
-mills."  This was a change on a scale never before seen, a huge and
-sudden step away from the physical world being solely the purveyance
-of nature. Even when the individual left his house he was still deep
-within a massive concentration of extra-natural, human-exclusive
-activity.
+sort of nature, spatial or otherwise---indeed, William Blake's
+"satanic mills."  This was a change on a scale never before seen, a
+huge and sudden step away from the physical world being solely the
+purveyance of nature. Even when the individual left his house he was
+still deep within a massive concentration of extra-natural,
+human-exclusive activity.
 
-[fn:33] In those days wilds were often referred to as wastelands.
+[fn:33] In those days wild, untouched places were often referred to as
+wastelands.
 
 [fn:34] Contrast this inescapable nature back then with Hemingway's
 nature. Sure, he went to relatively remote places to play the macho
-man. But if anything serious happened he could always be airlifted
-out. The Romantic Era poets---supposedly effete and sappy--- were in
-nature always with no timeout, no escape.
+man. But if anything serious happened he could always have been
+airlifted out to receive modern medical care. The Romantic Era
+poets---whom he thought effete and sappy---were in nature always with
+no timeouts, no escape.
 
 [fn:35] Couple this death as malfunction with atheism for a completely
 soulless mechanistic universe realism dumpster fire."
