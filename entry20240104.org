@@ -661,8 +661,8 @@ and profane to sacred. He meant dark.
 ** John Keats' sense of Beauty
 
 It is generally said Samuel Taylor Coleridge was the leading
-intellectualiser of Romanticism in the English-speaking
-world. Following is a Coleridge quote as good as any
+intellectualiser of Romanticism during its inception in
+Britain. Following is a Coleridge quote as good as any
 
 #+begin_quote
 ...first, that two forces should be conceived which counteract each
@@ -677,9 +677,9 @@ their inter-penetration gives existence, in the living principle and
 the process of our own self-consciousness.
 #+end_quote
 
-Intellectualisation is one approach, the usual for academics
-scrounging for copy. Contrast this with what the English poet John
-Keats said in a 1817 letter to his brothers George and Thomas
+Indeed, wordy intellectualisations are the usual approach for academics
+scrounging for copy. Then contrast this with what the English poet
+John Keats said in a 1817 letter to his brothers George and Thomas
 
 #+begin_quote
 ...I mean Negative Capability, that is, when a man is capable of being
@@ -692,16 +692,55 @@ a great poet the sense of Beauty overcomes every other consideration,
 or rather obliterates all consideration.
 #+end_quote
 
-Great considerations unnecessary. With an ode to Beauty the poet
-obviates, obliterates intellectualisations. In the 2009 film /Bright
-Star/, a touching bio-drama about Keats, there is a scene where,
-speaking with his love interest Fanny Brawne, he says /A poet is not
-at all poetical. In fact, he the most unpoetical thing in
-existence. He has no identity. He is continually filling some other
-body---the sun, the moon./ He then says, /Poetic craft is a carcass, a
-sham. If poetry does not come as naturally as leaves to a tree then it
-had better not come at all./ And then Fanny says, /I still don't know
-how to work out a poem./ To which Keats says,
+Intellectualisations, great and lengthy, especially of the
+"Penetralium[fn:48] of mystery," can only become verisimilar[fn:49]
+ramblings that get us nowhere, Keats is saying. But with a simple ode
+to Beauty the poet obviates, obliterates intellectualisations. Keats'
+/Negative Capability/ is about /cognitive dissonance/ as a great and
+necessary evil, a precursor to deeper understanding beyond neat and
+tidy piles of logical-seeming words. That is, to /not/ immediately
+intellectualise, but to hold to this counter-intuitive state of
+unresolved---just to see where it might lead. Here is the famed
+beginning of his "poetic romance" /Endymion/
+
+#+begin_verse
+A thing of beauty is a joy for ever:
+Its loveliness increases; it will never
+Pass into nothingness; but still will keep
+A bower quiet for us, and a sleep
+Full of sweet dreams, and health, and quiet breathing.
+Therefore, on every morrow, are we wreathing
+A flowery band to bind us to the earth,
+Spite of despondence, of the inhuman dearth
+Of noble natures, of the gloomy days,
+Of all the unhealthy and o'er-darkened ways
+Made for our searching: yes, in spite of all,
+Some shape of beauty moves away the pall
+From our dark spirits. Such the sun, the moon,
+Trees old and young, sprouting a shady boon
+For simple sheep; and such are daffodils
+With the green world they live in; and clear rills
+That for themselves a cooling covert make
+'Gainst the hot season; the mid forest brake,
+Rich with a sprinkling of fair musk-rose blooms:
+And such too is the grandeur of the dooms
+We have imagined for the mighty dead;
+All lovely tales that we have heard or read:
+An endless fountain of immortal drink,
+Pouring unto us from the heaven's brink.
+#+end_verse
+
+Take that Coleridge, you brachial babbling braincase!
+
+In the 2009 film /Bright Star/, a touching bio-drama about
+Keats, there is a scene where, speaking with his love interest Fanny
+Brawne, he says /A poet is not at all poetical. In fact, he the most
+unpoetical thing in existence. He has no identity. He is continually
+filling some other body---the sun, the moon./ He then says, /Poetic
+craft is a carcass, a sham. If poetry does not come as naturally as
+leaves to a tree then it had better not come at all./ And then Fanny
+says, /I still don't know how to work out a poem./ To which Keats
+says,
 
 #+begin_quote
 A poem needs understanding through the senses. The point of diving
@@ -712,11 +751,12 @@ emboldens the soul to accept mystery.
 #+end_quote
 
 And thus, I would posit he, like I, did not see Romanticism as
-something needing bundling and labelling.
+something needing bundling and labelling. Romanticism should be
+disbanded, the conscripts let off to go their own ways.
 
 ** Thriving versus surviving; top dog versus underdog
 
-In his book /The Genius of Instinct/ [fn:48] author and psychologist
+In his book /The Genius of Instinct/ [fn:50] author and psychologist
 Hendrie Weisinger insists we are hard-wired by nature to seek out the
 best conditions in order to /thrive/, that any life other than one of
 maximal thriving is time and energy wasted. He uses the example of
@@ -731,7 +771,7 @@ bats are now in a state of /trans/-bat-ism. But is that a good thing?
 For the bats maybe, but for nature as a whole?
 
 Perhaps bats doing better is not too much of an imbalance vis-a-vis
-the rest of their surrounding environment[fn:49]. And yet what happens
+the rest of their surrounding environment[fn:51]. And yet what happens
 when a species keeps thriving more and more, increasing its success
 statistics, stepping over, beyond any of the natural restrictions that
 real integration and harmony with nature would have required? *Aren't
@@ -784,11 +824,11 @@ I consider this her ode to skipping the trans-human thrive scene of
 her day and striking out into some Beyond. Again, I must believe she
 was a little bat driven across the semi-wilderness moorland, as true
 an existential /underdog/ as was still possible back
-then[fn:50]. Emily Brontë died of anorexia-induced malnutrition,
+then[fn:52]. Emily Brontë died of anorexia-induced malnutrition,
 contaminated water, tuberculosis --- pick one, two, or all
 three---five months after her thirtieth birthday. She only saw the
 greater world outside of her tiny Haworth village and its surrounding
-hills for a few months[fn:51]. Hers was a world with nothing modern as
+hills for a few months[fn:53]. Hers was a world with nothing modern as
 we know it, e.g., a cut on a toe could lead to an infection requiring
 amputation, or even worse.
 
@@ -798,7 +838,7 @@ observing nature from civilization's relative place of safety, thereby
 rendering her observations just as relative as ours today? I say
 no. Clearly our modern place of safety is maximal, as we of the
 twenty-first century float above in unprecedented levels of modern
-high-tech materialism[fn:52]. But I contend hers was a unique
+high-tech materialism[fn:54]. But I contend hers was a unique
 observation vantage point, neither to exposed nor removed from
 elemental nature.
 
@@ -903,7 +943,7 @@ sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:53]. /She/ has a mighty présence, often dark and moody if
+riffraff[fn:55]. /She/ has a mighty présence, often dark and moody if
 not threatening.
 
 A deep moodiness prevails. Here is nothing really spectacular in the
@@ -1160,14 +1200,19 @@ publication from 1897. Amazing how obscure unknown the keynote address
 to the whole Romanticism convention has been. I'll try at a better,
 annotated version soon.
 
-[fn:48] /The Genius of Instinct; Reclaim Mother Nature's Tools for
+[fn:48] *penetralium*: (plural /penetralia/) the innermost (or most
+secret) part of a building; an inner sanctum; a sanctum sanctorum.
+
+[fn:49] *verisimilar*: having the appearance of truth.
+
+[fn:50] /The Genius of Instinct; Reclaim Mother Nature's Tools for
 Enhancing Your Health, Happiness, Family, and Work/ by Hendrie
 Weisinger; 2009; Pearson Education, Inc.
 
-[fn:49] Here in woodsy Minnesota we haven't noticed a shortage of
+[fn:51] Here in woodsy Minnesota we haven't noticed a shortage of
 mosquitoes, one of bats' primary food sources.
 
-[fn:50] Compare with today's outdoor adventurer with technical gear
+[fn:52] Compare with today's outdoor adventurer with technical gear
 from REI, Patagonia, North Face, driving to government set-aside wilds
 in a four-wheel-drive Jeep Cherokee, consuming protein bars and
 electrolyte drinks, listening to music with earbuds, taking smart
@@ -1175,12 +1220,12 @@ phone pictures and GoPro videos. Any mishaps? Call for immediate
 helicopter rescue on a satellite connection... At some point we're
 just amateur Earth astronauts, no?
 
-[fn:51] A stay in Belgium to learn French and a gig in nearby Halifax
+[fn:53] A stay in Belgium to learn French and a gig in nearby Halifax
 as a governess.
 
-[fn:52] We consume one hundred times the resources and energy per
+[fn:54] We consume one hundred times the resources and energy per
 capita as one of our European ancestors from 1800.
 
-[fn:53] Wetsuits de rigueur. Even in summer a dunk in her lasting more
+[fn:55] Wetsuits de rigueur. Even in summer a dunk in her lasting more
 than ten minutes can lead to hypothermia ... at least on the North
 Coast. Wisconsin and Michigan beaches can be swimmable in the summer.
