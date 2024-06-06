@@ -1067,15 +1067,17 @@ experience.
 
 *** The night, the stars the moon...
 
-Unicorn Novalis' HTTN was surely a deeply personal and independent
-creation, but already in 1773 Anna Laetitia Barbauld's relentlessly
-lofty /[[https://en.wikisource.org/wiki/Poems_(Barbauld)/A_Summer_Evening%27s_Meditation][A Summer Evening's Meditation]]/ had appeared in Britain with a
-completely new approach to dark. Without deep investigation I have no
-real idea if Barbauld started what I'm calling the /Night School/, but
-as a working theory, yes, she offers a new perspective to dark, an
-accessibility theretofore not seen. After a nod to Young with the
-quote /One sun by day, by night ten thousand shine/, Barbauld drives
-us directly into the night and its stars...
+As assuredly personal and original as Novalis' /Hymns to the Night/
+was, Englishwoman Anna Laetitia Barbauld's /[[https://en.wikisource.org/wiki/Poems_(Barbauld)/A_Summer_Evening%27s_Meditation][A Summer Evening's
+Meditation]]/ had already appeared in 1773 praising the night in a
+similarly cherished, solemn way. Without deeper investigation I have
+no real idea if Barbauld's /Meditation/ started what I'm calling the
+/Night School/, but as a working theory, yes, she offered a new
+perspective to dark with an accessibility and maturity not seen in
+Graveyard or gothic horror. After a nod to Young's /Night-thoughts/
+with a quote therefrom, /One sun by day, by night ten thousand shine/,
+Barbauld launches directly into her summer night and its canopy of
+stars...
 
 #+begin_verse
 Tis past! The sultry tyrant of the south
@@ -1099,10 +1101,9 @@ When Contemplation, from her sunless haunts,
 #+end_verse
 
 No woe, no gloom-and-doom, rather, a relentless parade of visceral and
-natural dark hyperconductivity. Barbauld hauls us outdoors where we
-partake, imbibe, behold. Weak and flawed as we still may be, are not
-terrorised, nor obsessed with doom, rather, we are touched, moved, if
-not inclined to reflective reverence---
+natural dark hyperconductivity. Barbauld hauls us outdoors to partake,
+imbibe, behold. We are not obsessing on doom, rather, we are touched,
+moved to reflect in reverence---
 
 #+begin_verse
 ...But are they silent all? or is there not
@@ -1120,28 +1121,29 @@ Has clos'd his golden eye, and wrap'd in shades
 Forgets his wonted journey thro' the east.
 #+end_verse
 
-Night superior to day.[fn:68] Far distant stars myriad, gentle and
-inviting during the night over that one domineering and often ruinous
-star during the day. Night a more expansive, passive, more nuanced
-realm towards deeper, more mature human reflection. And as I said
-above, this is my kind of dark, i.e., free of any ginned-up fright
+Night over day.[fn:68] Night a more expansive, passive, more nuanced
+interim inviting deeper, more mature human introspection. Far distant,
+cool and gentle are the myriad stars, unlike our single oversized and
+often ruinous local star of day.
+
+I mean to say this is my kind of dark, i.e., free of any campy fright
 devices. Most assuredly every protégé of the Dark Muse must read
 Barbauld's lengthy masterpiece. Hers is an exposition of natural
-darkness, placing it above the reproach of gothic horror
-detractors. Though as I say, Barbauld is alone in this initial Night
-School example, a one-off whose influence seemed to lay dormant for
-decades.[fn:69] One Barbauld biographer mentioned a trend of that time
-of ladies studying astronomy. But obviously Barbauld is waxing dark,
-not repeating facts about celestial bodies. Perusing her other poems,
-yes, she dwells on nature, sometimes in a dusky way, but addressing
-dark as she did with /Meditations/ never again appears so
-directly. Today she is known as an influential social commentator,
-moralist, and educator of her age, not necessarily as
-proto-Romantic. And so I must jump ahead some fifty years and bring in
-examples of Brontëan poetry. Haworth Emily's /[[https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/Stars][Stars]]/ is just one her
-many examples of Night School from someone who probably had never read
-nor heard of Barbauld's /Meditation/. Exactly like Barbauld, in
-/Stars/ Haworth Emily prefers the night and its starry sky
+darkness, placing it far above the reproach of gothic horror
+detractors. Though /Meditation/ was no doubt a singleton, a unicorn
+whose influence seemed to lay dormant for decades.[fn:69] One Barbauld
+biographer mentioned a trend of that time of ladies studying
+astronomy. But obviously Barbauld is waxing dark, not repeating facts
+about celestial bodies. Perusing her other poems, yes, she dwells on
+nature, sometimes in a dusky way, but addressing dark as she did with
+/Meditation/ never again appeared so directly during her times. Today
+she is known as an influential social commentator, moralist, and
+educator, not as proto-Romantic. And so I must jump ahead some fifty
+years and bring in Brontëan poetry as a continuation of this Night
+School thread. Haworth Emily's /[[https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/Stars][Stars]]/ is just one her many examples
+of Night School from someone who probably had never read nor heard of
+Barbauld's /Meditation/. Exactly like Barbauld, in /Stars/ Haworth
+Emily lauds the night and its starry sky
 
 #+begin_verse
 Thought followed thought, star followed star
@@ -1155,7 +1157,8 @@ And scorch with fire the tranquil cheek,
 Where your cool radiance fell?
 #+end_verse
 
-and finally
+The night sky's depth and expanse over the trammels of life during
+sunlight, indeed. And so the last two stanzas
 
 #+begin_verse
 Oh, stars, and dreams, and gentle night;
@@ -1171,7 +1174,8 @@ And only wake with you!
 
 Night School redeems dark by pulling it out of the ostentatiousness,
 the gimmickry of Graveyard and gothic. Started by Barbauld, it was
-independently embraced by others. Let's look at sister Anne's /Night/
+independently embraced by others. Let's look at sister Anne Brontë's
+/Night/
 
 #+begin_verse
 I love the silent hour of night,
@@ -1191,7 +1195,7 @@ The darling of my heart to me.
 #+end_verse
 
 Simpler, more measured was Anne's poetry than her sister's. And she
-includes the grave by eulogising either her older sisters Maria or
+includes the grave by eulogising either of her older sisters Maria or
 Elizabeth, or her mother, but again, sans drama.
 
 This calmer, more introspective dark dominated the eighteenth
@@ -1290,53 +1294,74 @@ Never will I will forget her dark expression;
 always, always, shall it remain in my mind!
 #+end_verse
 
-One of my favourites, I always wondered what the man did with the rest
-of his life. Did he return to the lake trying to find his water nymph;
-or did he resign himself to his mortal and mundane life? In any event,
-the power of a forest in deep winter night is undeniable. Such magic
-and mystery obviously could not have occurred in daylight.
+One of my favourites, I have always wondered what the man did with the
+rest of his life. Did he return to the lake trying to find his water
+nymph; or did he resign himself to his mortal and mundane life? In any
+event, the mystery and allure of a forest in deep winter night is
+undeniable. Such magic and mystery obviously could not have occurred
+in daylight.
 
-
-With Night School, first, nature is dark, then human reflection
-dark. No fake dark, no camp, no hyperbole. Just descriptions of the
-world in darkness.
+With Night School, first, nature is dark, then human reflection upon
+that natural dark, i.e., no fake dark, no camp, no hyperbole. Just the
+deepest possible descriptions of the world in darkness bringing forth
+some of humanity's finest insights.
 
 
 ** Romanticism
 
-The self-awareness, the stewardship, in general, the intentionality of
-Romanticism throughout nineteenth century European diaspora society is
-hard to ascertain. Was the Romantic Movement fully aware of itself and
-acknowledged during its circa fifty year duration (1800-1850)? Yes and
-no: yes the explainers talked it up (e.g., the Jena Set, Coleridge,
-Emerson et al.), but no, the actual producers were mostly
-self-absorbed unicorns. In any event, today academe has facts and
-figures, categories and pigeonholes ready for our investigation.
+Another great hulking elephant in the middle of the room is
+Romanticism. As I have not so subtly been hinting, what came to be
+known as Romanticism is, to a large degree, the labeling work of the
+herders, not the actual animals who never stopped to promote, package,
+or label themselves. I'm about the animals, not their herdsmen. And
+yet it is difficult to separate the two. Pull up an artist, musician,
+poet of that era (late eighteenth and throughout the nineteenth
+centuries?)---and along comes handlers, interpreters---management,
+"suits." The self-awareness, the stewardship, in general, the
+intentionality of Romanticism throughout the supposed Romantic period
+is hard to ascertain. Was the Romantic Movement fully aware of itself
+and acknowledged during its main fifty year duration (1800-1850)? Yes
+and no: Yes the shepherds, the explainers talked it up (e.g., the Jena
+Set, Coleridge, Emerson et al.), but no, the actual producers were
+mostly self-absorbed unicorns.[fn:70] In any event, academe today has
+all the facts and figures, all the categories and pigeonholes ready
+for our consumption. Caveat emptor.[fn:71]
+
+And yet how could we not have the non-talented running up ahead to
+claim they are explaining, if not leading the cat herd? Two men who
+wore both hats, i.e., creator and explainer, were Samuel Taylor
+Coleridge and Edgar Allan Poe. And it is exactly with them that we see
+their creations take us into the ephemeral mists of Romanticism's
+subtleties and sublimities, while their intellectualizations and
+pontifications thereof sounded windy, if not shrill. No wonder the
+concept of left-brain, right-brain arose, as nothing else can describe
+this split-personality confusion. But the urban salons demanded
+rational, left-brain talk and copy. I, however, must separate out the
+chatter and focus on the subtle and sublime.
 
 *** English and German Romanticism
 
-The first identifiable wave started just
-before and after the turn of the nineteenth century. Coleridge and
-Wordsworth's collaboration /Lyrical Ballads/ appeared in 1798, in the
-final years of the eighteenth century, free of any of the
-intentionality implied by academe. Today a artistic or cultural trend
-becomes global in less than a day.  But in the closing years of the
-eighteenth and the beginning of the nineteenth century there seemed to
-be something in the air. AndAnd yet around every creative principal a
-group of advocates, analysts, and explainers seemed to spring
-up---with many "verisimilitudes caught from the Penetralium of
-mystery," as Keats chided Coleridge. If beauty is best not
-intellectualised, then that further station, sublimity and its
-Penetralia, was not to be jawed about and chewed upon either. Fazit:
-Romanticism as it has come down to us is a list of producers with far
-less in common with one another than their contemporary and later
-describers would have[fn:70].
+The first identifiable wave started just before and after the turn of
+the nineteenth century. Coleridge and Wordsworth's collaboration
+/Lyrical Ballads/ appeared in 1798, in the final years of the
+eighteenth century, free of any of the intentionality implied by
+academe. Today a artistic or cultural trend becomes global in less
+than a day.  But in the closing years of the eighteenth and the
+beginning of the nineteenth century there seemed to be something in
+the air. AndAnd yet around every creative principal a group of
+advocates, analysts, and explainers seemed to spring up---with many
+"verisimilitudes caught from the Penetralium of mystery," as Keats
+chided Coleridge. If beauty is best not intellectualised, then that
+further station, sublimity and its Penetralia, was not to be jawed
+about and chewed upon either. Fazit: Romanticism as it has come down
+to us is a list of producers with far less in common with one another
+than their contemporary and later describers would have[fn:72].
 
 Academe wants what is called /Early German Romanticism/ to have begun
 when Novalis' HTTN burst upon the scene in the very first year of the
 nineteenth century. Clear to me, however, is that HTTN was a unicorn
 one-off that came out of the blue, thus, certainly not intentional,
-positioned for, or tailored to any specific agenda[fn:71]. But the
+positioned for, or tailored to any specific agenda[fn:73]. But the
 so-called /Jena Set/, an intellectual salon centred around the
 Schlegel brothers, August Wilhelm and Friedrich, along with August's
 wife and "den mother" Caroline, seized upon the mostly absentee
@@ -1349,7 +1374,7 @@ them. Novalis and HTTN then left the radar as the Schlegel brothers,
 August Wilhelm and Friedrich, along with August's wife and "den
 mother" Caroline, joined later by Friedrich Schelling sally forth to
 create an entire mountain range of much brighter descriptions of what
-Jena Romanticism supposedly was[fn:72]. Which in turn is adopted by
+Jena Romanticism supposedly was[fn:74]. Which in turn is adopted by
 Coleridge (sometimes as literal translation as in his [[https://en.wikipedia.org/wiki/Biographia_Literaria][Biographia
 Literaria]] - 1817) and eventually by Emerson and the
 Transcendentalists in the Colonies. Any brightening of the ominous
@@ -1365,7 +1390,7 @@ late-eighteenth century.
 
 For
 example /[[https://en.wikipedia.org/wiki/Dark_Romanticism][Dark Romanticism]]/ was supposedly a phenomenon, and at its
-centre was Edgar Allan Poe.[fn:73] Unfortunately The Wikipedia description of
+centre was Edgar Allan Poe.[fn:75] Unfortunately The Wikipedia description of
 Dark Romantic trots out all the negative stereotypes of dark. But as
 one biographer noted, Poe struggled all his short adult life to make a
 living as a writer and poet. One supposed quote of his said “... your
@@ -1451,7 +1476,7 @@ sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:74]. /She/ has a mighty présence, often dark and moody if
+riffraff[fn:76]. /She/ has a mighty présence, often dark and moody if
 not threatening.
 
 A deep moodiness prevails. Here is nothing really spectacular in the
@@ -1806,28 +1831,38 @@ Great-aunt At Her Great-uncle’s Funeral/: \\
 [fn:69] ...although Wordsworth would later mention Barbauld and
 /Meditation/ as inspirational.
 
-[fn:70] My principle principal, Emily Brontë, arguably knew very
-little to absolutely nothing about Jena, Novalis, or even much of
+[fn:70] ...e.g., the Brontës were pastor's daughters in rural West
+Yorkshire with little exposure to (taint from?) the cultural and
+literary buzz of the cities.
+
+[fn:71] One left-brain pedantic hot mess is the [[https://www.bbc.co.uk/programmes/b0144q90/episodes/guide][BBC's series on
+Romanticism]]. (Catch it on YouTube under /The Romantics: [[https://youtu.be/oLwRXlSgiSQ?si=y4a1MQek8Ac0pkyJ][Liberty]],
+[[https://youtu.be/liVQ21KZfOI?si=GpsPOUfS_l6w6r8_][Nature]], [[https://youtu.be/R6mefXs5h9o?si=c-cJk0fKTneunPZH][Eternity]])/. And then Bertrand Russell in his /The History of
+Western Philosophy/ mangles away at it in his consummate left-brain
+way.
+
+[fn:72] Again, my principle principal, Emily Brontë, arguably knew
+very little to absolutely nothing about Jena, Novalis, or even much of
 Coleridge and Wordsworth other than perhaps a reading of their
 /Lyrical Ballads/ (from 1798). Poe supposedly had encountered
 translations of Ludwig Tieck's short stories. That is to say, the
 principals were rarely that well studied of their like-minds.
 
-[fn:71] Contrast this with Goethe's play /[[https://en.wikipedia.org/wiki/Iphigenia_in_Tauris_(Goethe)][Iphigenia in Tauris]]/, a
+[fn:73] Contrast this with Goethe's play /[[https://en.wikipedia.org/wiki/Iphigenia_in_Tauris_(Goethe)][Iphigenia in Tauris]]/, a
 version of the Euripedes' original which was specifically meant to be
 a showcase example of Goethe's ideal of modern classicism, i.e., his
 and Friedrich Schiller's [[https://en.wikipedia.org/wiki/Weimar_Classicism][Weimar Classicism]].
 
-[fn:72] Must again mention Christina Wulf's non-fiction tome
+[fn:74] Must again mention Christina Wulf's non-fiction tome
 /Magnificent Rebels/ as Exhibit A of how the describers and explainers
 just did not get it. Wulf's detailed description of the "Jena Set"
 sounds similar to accounts of Andy Warhol's /Factory/ and its bipolar
 crowd.
 
-[fn:73] Daguerreotype of Poe 1849 \\
+[fn:75] Daguerreotype of Poe 1849 \\
 [[file:images/Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg]]
 
-[fn:74] Wetsuits de rigueur. Even in summer a dunk in her lasting more
+[fn:76] Wetsuits de rigueur. Even in summer a dunk in her lasting more
 than ten minutes can lead to hypothermia ... at least on the North
 Coast. Wisconsin and Michigan beaches can be swimmable in the height
 of summer.
