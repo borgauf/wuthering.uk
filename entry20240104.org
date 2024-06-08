@@ -699,9 +699,9 @@ abyss yawning open between producers and describer-promoters.
 ** John Keats' sense of Beauty
 
 Samuel Taylor Coleridge is generally accepted as the leading
-intellectualiser of Romanticism during its inception in Britain during
-and shortly after the initial Jena Romantic liftoff. Following is a
-Coleridge quote as good as any
+intellectualiser of British Romanticism during its inception roughly
+parallel to the Jena Romantic liftoff. Following is a Coleridge quote
+as good as any
 
 #+begin_quote
 ...first, that two forces should be conceived which counteract each
@@ -717,8 +717,11 @@ the process of our own self-consciousness.
 #+end_quote
 
 Indeed, such wordy intellectualisations are the usual approach for
-academics scrounging for copy. Then contrast this with what English
-poet John Keats said in a 1817 letter to his brothers George and
+academics scrounging for copy. Ironically, Coleridge could put aside
+his explainer hat and put on his poet hat. He and Wordsworth's
+/[[https://en.wikipedia.org/wiki/Lyrical_Ballads][Lyrical Ballads]]/ are considered the cornerstone of English
+Romanticism. However, let us contrast this with what English poet John
+Keats said years later in a 1817 letter to his brothers George and
 Thomas
 
 #+begin_quote
