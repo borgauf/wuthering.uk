@@ -120,10 +120,10 @@ or rationalism. I might say it is /feeling behind feeling/, largely
 resistant of description---other than by my two favourite adjectives
 /subtle/ and /sublime/.[fn:2] The Dark Muse as I mean it was best
 presented by certain principle poets of the nineteenth-century
-Romantic Era.[fn:3] Academe summarises Romanticism as a response to
-the rational-logic determinism of the Enlightenment[fn:4] ... whereas the
-Dark Muse was an emergent property, a very special private corner of
-this ultimately misunderstood time. And so this report will rely
+Romantic Era.[fn:3] Academe summarises Romanticism as a backlash to
+the rational-logic determinism of the Enlightenment.[fn:4] ... while
+the Dark Muse was an emergent property, a very special private corner
+of this ultimately misunderstood time. And so this report will rely
 heavily on the examples of the great Romantic Era movers of Dark Muse.
 
 #+begin_export html
@@ -136,11 +136,11 @@ heavily on the examples of the great Romantic Era movers of Dark Muse.
 Of course I have an affinity with and feel a kinship to the modern
 goth subculture.[fn:5] And yet it is one of the elephants I must shift
 from the centre of the room. In very short, I believe modern goths
-surely /sense/ Dark[fn:6], but for whatever reasons only want to express it,
-explore it very narrowly through goth music and fashion. My Dark Muse
-would hopefully include, be akin to what is today called goth and
-gothic, /but I must go deeper and more elemental/. And so I hope to
-speak to your "inner goth."
+surely /sense/ Dark[fn:6], but for whatever reasons only want to
+express it, explore it very narrowly through goth music and
+fashion. My Dark Muse would hopefully include, be akin to what is
+today called goth and gothic, /but I must go deeper and more
+elemental/. And so I hope to speak to your "inner goth."
 
 There is a /natural darkness/, the fathomless darkness nature
 provides. Contrast this with human-made dark, the symbolism, the
@@ -154,16 +154,15 @@ invite and enrich. My Dark Muse contains nothing cruel nor evil nor
 sinister nor satanic[fn:7]. Not the /Star Wars/ "dark side," not dark
 barbarism à la /Heart of Darkness/, and not the psychic dark described
 by Freud or Jung. I'm after something more subtle, discriminating, and
-inward-personal. *My Dark is about the sublime,* sublimity as I mean
-it being the next step beyond beauty. And so I hearken back to a
-golden era when Dark was the cultural currency, to be sure, the early
-nineteenth century, a time when key poets (e.g. Poe, the Brontës)
-showed us how triste and Stygian can be so very subtle and
-sublime. I'm after something I will not outgrow, rather, be my raison
-d'être sustaining me to my grave. And so I say there must be no "aging
-out of the scene" as I fear often happens with modern goth. Rather,
-the Dark Muse should be a deepening and widening and transcendence for
-one's entire life.
+inward-personal. *My Dark is about the sublime,* sublimity being the
+next step beyond beauty into Dostoevsky's POEH. And so I hearken back to a golden era when
+Dark was the cultural currency, to be sure, the early nineteenth
+century, a time when key poets (e.g. Poe, the Brontës) showed us how
+triste and Stygian can be so very subtle and sublime. I'm after
+something I will not outgrow, rather, be my raison d'être sustaining
+me to my grave. And so I say there must be no "aging out of the scene"
+as I fear often happens with modern goth. Rather, the Dark Muse should
+be a deepening and widening and transcendence for one's entire life.
 
 #+begin_export html
 <img src="./images/nosferatuklaus1.jpg" width="740" alt="Thirsty Klaus"></a>
@@ -1589,10 +1588,10 @@ Bertrand Russell's) false, "they don't get it at all" tedium on
 /sublimity/ later. In short, /sublime/ is what we may find beyond mere
 beauty, touching what Dostoevsky is saying here: /There are seconds,
 they only come five or six at a time, and you suddenly feel the
-*presence of eternal harmony* fully achieved. It is nothing earthly;
-not that it is heavenly, but man cannot endure it in his earthly
-state. One must change physically or die. The feeling is clear and
-indisputable. As if you suddenly sense the whole of nature and
+*presence of eternal harmony* (POEH) fully achieved. It is nothing
+earthly; not that it is heavenly, but man cannot endure it in his
+earthly state. One must change physically or die. The feeling is clear
+and indisputable. As if you suddenly sense the whole of nature and
 suddenly say: yes, this is true. This is not tenderheartedness, but
 simply joy./ ... Perhaps awe instead of joy? Again, much more as we go
 along...
@@ -1605,7 +1604,8 @@ synonym of love.
 [fn:4] Hmm... Does that mean Romanticism is an /irrational, illogical/
 response?
 
-[fn:5] ...described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] as well as anywhere.
+[fn:5] ...described [[https://en.wikipedia.org/wiki/Goth_subculture][here]] as well as anywhere. \\
+[[file:images/RyderBeetlejuice.jpg]]
 
 [fn:6] Allow me German noun capitalisation for poetic emphasis.
 
