@@ -115,7 +115,7 @@ sunny-cheery. Uplifting is anything but. Your heroes learned and grew
 facing grim and harsh. You prefer candlelight over artificial light,
 old architecture over new, the genial disorder of wild nature over the
 forced order of gardens. If in a city, you gravitate to the "old
-town." Spectacular dulls and eventually disappoints, whereas things
+town." The spectacular dulls and eventually disappoints, whereas things
 subtle, veiled, tenuous, understated are intriguing. Stirrings, not
 shaking or slamming... And wouldn't it be grand if every month (or
 week!) we celebrated Halloween? If yes to any of this, you might
@@ -151,22 +151,24 @@ today called goth and gothic, /but I must go deeper and more
 elemental/. I hope it's obvious by now that I want to speak to your
 "inner goth."
 
-There is a /natural darkness/ nature provides. Contrast this with
-human-made dark, the symbolism, the artefacts, the icons, the
-trappings that are supposed to emulate, decorate, magnify, /bring
-indoors/ natural Dark. Sure, these attempts can resonate, do honour,
-but too often they arrive overstated, overwrought---all the way out to
-grimy, ignoble, silly, scummy. And so I must reject all the /gothic/
-horror fright memes, e.g., vampires, witches, demons; mean, nasty,
-menacing this, campy, threatening, evil that. Right up front: My
-version of Dark is, as I say, capitalised, and not meant to shock or
-frighten, rather, invite and enrich. My Dark Muse contains nothing
-cruel nor evil nor sinister nor satanic[fn:7]. Not the /Star Wars/
-"dark side," not dark barbarism à la /Heart of Darkness/, and not the
-psychic dark described by Freud or Jung. Sure, they're all
-interesting, trappings can be fun, but source, however, obscure and
-difficult, must eventually be had. I'm after something more subtle,
-discriminating, and inward-personal. *My Dark is about the
+There is a /natural darkness/ nature provides, a basis upon which we
+may create symbolisms, artefacts, icons, trappings to emulate,
+decorate, magnify, socialise, humanise, /bring indoors/ natural
+Dark. Yes to aesthetics as far as they may resonate, do honour to
+Dark. But too often our human take on Dark arrives overstated,
+overwrought---all the way out to grimy, ignoble, silly, scummy. We
+must surely imbibe then express what we see, experience, feel, but I
+must implore it be done carefully, when not respectfully. And so I
+must reject so many of the overdone /gothic/ horror fright memes,
+e.g., vampires, witches, demons; mean, nasty, menacing this, campy,
+threatening, evil that. Right up front: My Dark is not meant to shock
+or frighten, rather, invite, deepen, and enrich. My Dark Muse contains
+nothing cruel nor evil nor sinister nor satanic[fn:7]. Not the /Star
+Wars/ "dark side," not dark barbarism à la /Heart of Darkness/, and
+not the psychic dark described by Freud or Jung. Or course they're all
+interesting, and yes, trappings can be fun, but we must not lose sight
+of the source, however obscure and difficult. I'm after something more
+subtle, discriminating, and inward-personal. *My Dark is about the
 sublime,*[fn:8] sublimity being the next step beyond beauty into
 Dostoevsky's POEH. And so I hearken back to a golden era when Dark was
 the cultural currency, to be sure, the early nineteenth century, a
@@ -696,22 +698,23 @@ terms.
 This is an oft-cited quote from[fn:46] the German nobleman Friedrich
 Leopold /Freiherr/ (Baron) von Hardenberg (1772---1801), aka, Novalis,
 who is considered by academe to be the original muse of the German
-Romantic Movement, which then spread quickly to Britain and throughout
-the English-speaking diaspora. And yet most people have never heard of
+Romantic Movement, which coincided with similar literary happening in
+Britain, quickly spreading throughout the English-speaking
+diaspora. And yet most people have never heard of
 Novalis. Specifically, it was his prose-poem cycle entitled /Hymns to
-the Night/[fn:47] that set people around him off. And the gathering of
-German intellectuals in Jena, Thuringia, Germany, referred to as the
-/Jena Set/ by Andrea Wulf in her /Magnificent Rebels/[fn:48] rallied
-around Novalis, and subsequently tried to build on /Hymns/ and
-Novalis' romanticising poetising. Indeed, what came to be known as
-Jena Romanticism[fn:49] eventually spread to eager circles and fertile
-grounds in Britain and the United States.
+the Night/[fn:47] (hereafter /HTTN/) that set people around him
+off. And the gathering of German intellectuals in Jena, Thuringia,
+Germany, referred to as the /Jena Set/ by Andrea Wulf in her
+/Magnificent Rebels/[fn:48] rallied around Novalis, and subsequently
+tried to build on /HTTN/ and Novalis' romanticising poetising. Indeed,
+what came to be known as Jena Romanticism[fn:49] spread to eager
+circles and fertile grounds throughout the West.
 
 Alas, but here is where I become quite the iconoclast, primarily by
 insisting /nearly everyone has got Romanticism wrong!/ Even the actual
 contemporaries around Novalis. Perhaps even Novalis himself! I posit
-that Novalis with his foundational HTTN took off in a straight line
-into the Dark Muse[fn:50]. Just reading HTTN, one cannot escape the
+that Novalis with his foundational /HTTN/ took off in a straight line
+into the Dark Muse[fn:50]. Just reading /HTTN/, one cannot escape the
 sheer intensity of Novalis' swoon-fest over Night and
 Death[fn:51]. Here's a small taste
 
@@ -732,7 +735,7 @@ and just before came
 What delight, what pleasure offers /thy/ life, to outweigh the transports of Death? Wears not everything that inspirits us the livery of the Night? Thy mother, it is she brings thee forth, and to her thou owest all thy glory.
 #+end_verse
 
-In my humble opinion, HTTN is one of the densest, purest attesting to
+In my humble opinion, /HTTN/ is one of the densest, purest attesting to
 the Dark Muse ever. As the legend tells, his inspiration came from
 being grief-stricken at the death of his fifteen-year-old fiancée
 Sophie von Kühn, to whose grave he pilgrimed for one hundred
@@ -846,7 +849,7 @@ filling some other body---the sun, the moon./ He then says, /Poetic
 craft is a carcass, a sham. If poetry does not come as naturally as
 leaves to a tree then it had better not come at all./ And then Fanny
 says, /I still don't know how to work out a poem./ To which Keats
-says,
+says[fn:56]
 
 #+begin_quote
 A poem needs understanding through the senses. The point of diving
@@ -869,7 +872,7 @@ woods.
 
 ** Thriving versus surviving; top dog versus underdog
 
-In his book /The Genius of Instinct/ [fn:56] author and psychologist
+In his book /The Genius of Instinct/ [fn:57] author and psychologist
 Hendrie Weisinger insists we are hard-wired by nature to seek out the
 best conditions in order to /thrive/, that any life other than one of
 maximal thriving is time and energy wasted. He uses the example of
@@ -886,7 +889,7 @@ the bats have short-circuited their doom, their fate. Again, what are
 the real long-term consequences?
 
 Perhaps bats doing better is not too much of an imbalance vis-a-vis
-the rest of their competitors and surrounding environment.[fn:57] And
+the rest of their competitors and surrounding environment.[fn:58] And
 yet what happens when a species keeps thriving more and more,
 increasing its success statistics, stepping over, beyond any of the
 natural restrictions that real integration and harmony with nature
@@ -956,7 +959,7 @@ Emily Brontë died of anorexia-induced malnutrition, contaminated
 water, tuberculosis --- pick one, two, or all three---five months
 after her thirtieth birthday. She only saw the greater world outside
 of her tiny Haworth village and its surrounding hills for a few
-months.[fn:58] As I've said, hers was a world containing nothing
+months.[fn:59] As I've said, hers was a world containing nothing
 modern as we know it, e.g., a cut on a toe could lead to an infection
 requiring amputation, or even worse.
 
@@ -967,14 +970,14 @@ observations just as tainted, just as removed and relative as ours
 today? I say no. Clearly our modern place of safety is maximal, hers
 minimal, as we of the twenty-first century float above cruel Nature on
 unprecedented levels of modern high-tech
-materialism.[fn:59] Nonetheless, I contend hers was a unique vantage
+materialism.[fn:60] Nonetheless, I contend hers was a unique vantage
 point, neither too exposed nor removed from elemental nature.
 
 So often I am confronted with modern scoffers who would have us
 believe Romantic Era poets only knew nature from picnics held at
 country estates where dandies and their pampered ladies were attended
 by servants, as seen, for example, in Hollywood film versions of Jane
-Austen's /Emma/[fn:60]
+Austen's /Emma/[fn:61]
 
 #+begin_export html
 <img src="./images/EmmaPicnic2.png" width="770" alt="Emma picnic">
@@ -982,7 +985,7 @@ Austen's /Emma/[fn:60]
 #+end_export
 
 or playful romps like Hollywood's latest anachronistic dumpster fire
-of Emily Brontë[fn:61] depicting her rolling down a grassy slope in some
+of Emily Brontë[fn:62] depicting her rolling down a grassy slope in some
 wild jungle setting
 
 #+begin_export html
@@ -1026,7 +1029,7 @@ in their crevasses and corners, as pressed as any bats have ever been.
 ** Eighteenth-century British Dark
 
 ...though Britain was seeing Dark decades before Novalis and German
-Romanticism. As I do with Novalis and his HTTN, I can't help but
+Romanticism. As I do with Novalis and his /HTTN/, I can't help but
 believe these eighteenth-century English principals were more
 sleepwalkers than any sort of intentional movement leaders. First came
 The /Graveyard School/ of poetry full of doom and gloom, then just
@@ -1040,7 +1043,7 @@ It was only a few decades into the eighteenth century when there
 emerged in Britain a style of poetry which has since been named the
 /[[https://en.wikipedia.org/wiki/Graveyard_poets][Graveyard School]]/. My Exhibit A of Graveyard is Edward Young's
 epic-length /[[https://www.gutenberg.org/files/33156/33156-h/33156-h.htm][The Complaint: or, Night-Thoughts on Life, Death, &
-Immortality]]/ (or simply /Night-Thoughts/, ca. 1742-1745).[fn:62]
+Immortality]]/ (or simply /Night-Thoughts/, ca. 1742-1745).[fn:63]
 Bursting with a grandiosity only poetry can reach, Young relentlessly
 spins out darkness and doom. To be sure, he is Dark with a shudder,
 full of fright memes meant to weigh down and ultimately defeat---if
@@ -1112,7 +1115,7 @@ exhibition of Dark.
 Was Dark simply in the air? In my humble opinion, Graveyard arrived
 unexpected, a natural, organic upwelling---however spotty its actual
 expression. Which begs the question, What rises to cultural and
-intellectual prominence in an age?[fn:63] To be sure, many of that era
+intellectual prominence in an age?[fn:64] To be sure, many of that era
 condemned gothic and Graveyard as subculture. But eventually came
 refinement, which I might call the /Night School/. Though intervening
 was the /gothic novel/.
@@ -1121,7 +1124,7 @@ was the /gothic novel/.
 
 Prose versus poetry. In the past poetry was seen by members of polite
 upper-class circles as the higher, the acceptable form of
-literature[fn:64]. Prose in the form of the novel,[fn:65] on the other
+literature[fn:65]. Prose in the form of the novel,[fn:66] on the other
 hand, was not acceptable, seen as too revealing invasive personal,
 i.e., it is improper, unseemly, distasteful to expose even an
 imaginary person's life details in such an open and revealing
@@ -1138,24 +1141,24 @@ post-Medieval Age as a barely tolerated corruption of writing, as a
 regrettable parallel to poetry, consumed mainly by easily excited
 arriviste vulgarian middle-class women. But then as the middle class
 grew in power and numbers, the novel came to the fore, especially in
-the eighteenth century.[fn:66]
+the eighteenth century.[fn:67]
 
 Modern academe considers the novel /The Castle of Otranto, A Gothic
 Story/, appearing in its first edition in 1764, to be the official
-start of British /gothic/ literature.[fn:67] Written by the excentric,
+start of British /gothic/ literature.[fn:68] Written by the excentric,
 iconoclastic English nobleman Horace Walpole (1717 – 1797), /Otranto/
 is a melodrama set in sixteenth-century Naples offering slumming
 readers a big dose of darkness, doom, and woe. Walpole's penchant for
 medievalism rode the long-simmering nostalgic idealisation of the
-Medieval Age[fn:68], while the adjective /gothic/ referred to medieval
-Gothic architecture.[fn:69] Gothic "horror" was an instant hit, and
+Medieval Age[fn:69], while the adjective /gothic/ referred to medieval
+Gothic architecture.[fn:70] Gothic "horror" was an instant hit, and
 other writers and influencers quickly joined in creating a full-on
-Dark movement.[fn:70] The popularity of the gothic novel continued
+Dark movement.[fn:71] The popularity of the gothic novel continued
 throughout the nineteenth and into the twentieth century primarily in
 the Romance genre. Among others, Frances Parkinson Keyes (1885 – 1970)
 was a popular romance author who often wrote from a gothic
 perspective. /[[https://en.wikipedia.org/wiki/Dragonwyck_(film)][Dragonwyck]]/ (1946) is a prime example of
-Hollywood[fn:71] does gothic romance.
+Hollywood[fn:72] does gothic romance.
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/Gothic_fiction#/media/File:The_Bride_of_Lammermoor_-_Wolf's_Crag.jpg" target="_blank"><img src="./images/BrideOfLammermoorWolfsCrag.jpg" width="740" alt="Wolf's Crag"></a>
@@ -1264,7 +1267,7 @@ devices. Most assuredly every protégé of the Dark Muse must read
 Barbauld's lengthy masterpiece. Hers is an exposition of natural
 darkness, placing it far above the reproach of gothic horror
 detractors. Though /Meditation/ was no doubt a singleton, a unicorn
-whose influence seemed to lay dormant for decades.[fn:72] One Barbauld
+whose influence seemed to lay dormant for decades.[fn:73] One Barbauld
 biographer mentioned a trend of that time of ladies studying
 astronomy. But obviously Barbauld is waxing Dark, not embellishing
 celestial bodies. Perusing her other poems, yes, she dwells on nature,
@@ -1441,18 +1444,20 @@ darkness bringing forth some of humanity's finest insights.
 
 ** A Romantic movement by any other name
 
-Indeed, this /thing/ Romanticism. What to do with this great wet
-blanket wont to lie atop my Dark Muse? As I posit, what came to be
-known as Romanticism is more the labeling work of the buyers and
-sellers than any calls of the actual creators, most of whom never
-stopped to promote, package, or label themselves[fn:73]. Which then
-begs the question of whether Romanticism, as Isaiah Berlin asked in
-his famous lecture series, is not something timeless, just a permanent
-state of mind wholly outside of historical fence work.
+Romanticism. What to do with this clammy straitjacket wont to
+control and confine my Dark Muse? Romanticism as an ism now seems more
+the labeling work of the buyers and sellers than anything intentional
+from the actual creators, most of whom never stopped to promote,
+package, or label themselves.[fn:74] Which begs the question of
+whether those times, as Isaiah Berlin asked in his famous
+lecture series, were not something timeless, a permanent state of mind
+wholly outside of historical fence work.[fn:75] Nevertheless, there is no
+avoiding the intellectualisations, the mountains of aggrandising and
+circumscribing churn from Romanticism scholars.
 
-Despite Andrea Wulf's /Magnificent Rebels/ depiction of Goethe as a
-sort of Jena Romanticism den dad, here's something he actually said
-about Romanticism
+Andrea Wulf's /Magnificent Rebels/ featured Johann Wolfgang von Goethe
+as the adult-supervision den dad of Jena Romanticism, and yet here is
+something he actually said about Romanticism
 
 #+begin_quote
 Klassisch ist das Gesunde, romantisch das Kranke ... or
@@ -1462,80 +1467,98 @@ classicism is strong, fresh, gay, sound, like Homer and the
 /Nibelungenlied/.
 #+end_quote
 
-The self-awareness, the intentionality of the principals throughout
-the supposed Romantic period (ca. 1800-1850?) is hard to ascertain,
-moreover, irrelevant. Yes, the would-be shepherds, the explainers
-talked it up (e.g., the Jena Set, Coleridge, Emerson et al.), but as
-I've found, the actual producers were far-sighted, inward-gazing,
-quasi-timeless unicorns not following guidelines or living up to
-anybody's expectations.[fn:74] ... and most certainly they were not
-"writing to spec or pastiching, as was fairly obviously the case with
-gothic horror-romance novelists. In any event, academe today has all
-the facts and figures, all the categories and pigeonholes ready for
-our consumption. They insist on commonalities, generalities, then try
-mightily to create a formulaic hyperspace above their cordoned off,
-detached captives. Caveat emptor.[fn:75]
+I won't accuse Wulf of poor research or intentional
+obfuscation. Having been a founder of /Sturm und Drang/, perhaps we
+should grant Goethe the right to have been of two minds. Perhaps he
+was initially attracted to the Jena buzz, all the /haute pensée/
+sprung up in his backyard, but then soured on its content,
+implications, the personalities behind it. Certainly Schiller
+had. Still, this as an example of how diverse, if not contradictory
+Romantic Era scholarship can be.
 
-Again, Keats with his /Negative Capability/ letter and other comments
-indicated how far apart the creators on one side versus critics and
-commentators on the other side were. And yet how could we not have the
-non-talented running up ahead to claim they are explaining, if not
-leading this mystery cat herd? Two men of this era wore both hats,
-i.e., creator and explainer, were Samuel Taylor Coleridge and Edgar
-Allan Poe. And it is exactly with them that we see their creations
-take us into the ephemeral mists of Romanticism's subtleties and
-sublimities, while their intellectualizations and pontifications
-thereof sound windy, if not shrill out to ridiculous. No wonder the
-concept of left-brain, right-brain arose, as nothing else can describe
-this split-personality confusion. But the urban salons trafficked in
-rational, left-brain talk and copy. Alas, but this is for me the
-/crisis of Romanticism/, i.e., the huge divide between the content and
-its creators versus its describers and promoters.
+Yes, the would-be shepherds, the explainers talked something into
+existence---the Jena Set, Coleridge, Germaine de Staël, Emerson et
+al.---but again, I believe the actual producers were far-sighted,
+inward-gazing, quasi-timeless unicorns not following guidelines or
+living up to anybody's expectations.[fn:76] ... and most certainly
+they did not "write to spec" or pastiche, as was fairly obviously the
+case with gothic horror-romance novelists. And so I say sifting
+through all the academic chaff gets us nowhere vis-à-vis simply
+reading and silently contemplating the art itself. All for naught
+listing facts and figures, creating categories and pigeonholes,
+imagining commonalities, generalities, throwing a formulaic hyperspace
+over the lone wolf creators. Caveat emptor. If the purpose of a poem,
+as Keats said, is to embolden the soul to accept mystery, then such
+analytical death marches must be seen as antithetical. Analysing
+mystery is a fool's errand.[fn:77] For me the principals
+/re-sensitised/, while their describers have only managed to
+/de-sensitise/ with their mystery-deaf approach.
+
+Some insight comes from two men of this era who unfortunately wore
+both hats, i.e., creator and explainer, Samuel Taylor Coleridge and
+Edgar Allan Poe. With them we see their creations take us into the
+ephemeral mists of Romanticism's subtleties and sublimities, while
+their intellectualizations and pontifications thereof sound windy, if
+not shrill out to ridiculous. No wonder the concept of left-brain,
+right-brain arose,[fn:78] as nothing else can describe this
+split-personality confusion. But the urban salons necessarily
+trafficked in rational, left-brain talk and copy. And this is for me
+the /crisis of Romanticism/, i.e., the huge divide between the
+creators and their content versus the describers and promoters. Yes Mr
+Keats, we shall luxuriate long in the water, but then slowly, gently
+swim back to the shore to gracefully and silently rise out of the
+water and stand exulted for the whole experience. Of course we cannot
+luxuriate in the lake forever, but upon exiting we must somehow hold
+the experience in awe and reverence and not grasp for logical
+explanations, which can only turn it into a show, a farce, even so, a
+sham, a carcass.
 
 *** English and German Romanticism
 
-The first identifiable wave started just before and after the turn of
-the nineteenth century. Coleridge and Wordsworth's collaboration
-/Lyrical Ballads/ appeared in 1798. Today an artistic or cultural
-trend becomes global in less than a day. But in the closing years of
-the eighteenth there seemed to be something in the air.[fn:76].
+Today a hit song or a TikTok video can go "viral" globally in less
+than a day, with imitations instantly springing up like mushrooms
+after rain. But in the closing years of the eighteenth century there
+just seemed to be something in the air which came to be called
+Romanticism, apparently first by Jena Set founder Friedrich
+Schlegel[fn:79] ... after Coleridge and Wordsworth's collaboration
+/Lyrical Ballads/ (first edition) appeared in 1798 and Novalis' /HTTN/
+in 1800. But again, my principle principal, Emily Brontë, who wrote
+decades later, arguably knew very little to absolutely nothing about
+Jena, Novalis, or even much of Coleridge and Wordsworth other than
+perhaps a reading of their /Lyrical Ballads/. Even later, Poe had
+supposedly had encountered translations of Ludwig Tieck's short
+stories. Otherwise, there had not been much cross-fertilisation,
+rather, the Romanticism Muse was just in the air.
 
-Academe wants /Early German Romanticism/[fn:77] to have begun when Novalis'
-HTTN burst upon the scene in the very first year of the nineteenth
-century. Clear to me, however, is that HTTN was a unicorn one-off that
-came out of the blue, thus, certainly not intentional, positioned for,
-or tailored to any specific agenda. Contrast this with Goethe's play
-/[[https://en.wikipedia.org/wiki/Iphigenia_in_Tauris_(Goethe)][Iphigenia in Tauris]]/, a version of the Euripedes' original which was
-specifically meant to be a showcase example of Goethe's ideal of
-modern classicism, i.e., his and Friedrich Schiller's [[https://en.wikipedia.org/wiki/Weimar_Classicism][Weimar
-Classicism]]. But the so-called /Jena Set/, an intellectual salon
-centred around the Schlegel brothers, August Wilhelm and Friedrich,
-along with August's wife and "den mother" Caroline, seized upon the
-mostly absentee Novalis as their boy wonder /Liebling/ mascot---and
-the conflation of producers and describers began in earnest. Joined
-later by Friedrich Schelling, an intense intellectual salon started in
-Jena, Germany, arose right before the beginning of the eighteenth
-century to promote . And just a year after HTTN appreared Novalis dies
-on them. Novalis and HTTN then left the radar as the Schlegel
-brothers, August Wilhelm and Friedrich, along with August's wife and
-"den mother" Caroline, joined later by Friedrich Schelling sally forth
-to create an entire mountain range of much brighter descriptions of
-what Jena Romanticism supposedly was[fn:78]. Which in turn is adopted
-by Coleridge (sometimes as literal translation as in his [[https://en.wikipedia.org/wiki/Biographia_Literaria][Biographia
+/Early German Romanticism/[fn:80] began when Novalis' /HTTN/ burst
+upon the scene in the very first year of the nineteenth century. Clear
+to me, however, is that /HTTN/ was a one-off that came out of the
+blue, thus, certainly not intentional, positioned for, or tailored to
+any specific trend or agenda. Contrast this with Goethe's play
+/[[https://en.wikipedia.org/wiki/Iphigenia_in_Tauris_(Goethe)][Iphigenia in Tauris]]/ (versions in 1779, 1781, 1786), based on
+Euripides' original which was specifically meant to be a showcase
+example of Goethe's ideal of modern classicism, i.e., his and
+Friedrich Schiller's [[https://en.wikipedia.org/wiki/Weimar_Classicism][Weimar Classicism]]. But the so-called /Jena Set/,
+an intellectual salon centred around the Schlegel brothers, August
+Wilhelm and Friedrich, along with August's wife Caroline, seized upon
+the mostly absentee Novalis as their boy wonder /Liebling/
+mascot---and the conflation of producer and describers began in
+earnest. But just one year after /HTTN/ appeared Novalis dies on
+them. The seed sprouted, the Jena Set went on to create an entire
+mountain range of Jena Romanticism supposedly inspired by boy-man hero
+Novalis[fn:81]. Philosopher Schelling was on board, and it is his
+"nature philosophy" which is adopted and promoted by Coleridge
+(sometimes as literal translation as in his [[https://en.wikipedia.org/wiki/Biographia_Literaria][Biographia
 Literaria]] - 1817) and eventually by Emerson and the Transcendentalists
-in the Colonies. Any brightening of the ominous tremendous HTTN is
+in the Colonies. Any brightening of the ominous tremendous /HTTN/ is
 irksome, but if we stay loyal to Dark, we may reach further back to
 the English /[[https://www.britannica.com/art/graveyard-school][Graveyard School]]/ of the mid- and late-eighteenth
 century.
 
-
-
-
-
 *** Poe and Dark Romanticism
 
 For example /[[https://en.wikipedia.org/wiki/Dark_Romanticism][Dark Romanticism]]/ was supposedly a phenomenon, and at its
-centre was Edgar Allan Poe.[fn:79] Unfortunately The Wikipedia description of
+centre was Edgar Allan Poe.[fn:82] Unfortunately The Wikipedia description of
 Dark Romantic trots out all the negative stereotypes of Dark. But as
 one biographer noted, Poe struggled all his short adult life to make a
 living as a writer and poet. One supposed quote of his said “... your
@@ -1543,6 +1566,55 @@ writer of intensities must have very black ink, and a very big pen,
 with a very blunt nib.” However the American publishing world was
 rarely supportive, as one historian said, eager to move on from Dark
 and gothic. And yet Poe always seemed to find audiences.
+
+#+begin_verse
+It was many and many a year ago,
+   In a kingdom by the sea,
+That a maiden there lived whom you may know
+   By the name of Annabel Lee;
+And this maiden she lived with no other thought
+   Than to love and be loved by me.
+
+I was a child and she was a child,
+   In this kingdom by the sea,
+But we loved with a love that was more than love—
+   I and my Annabel Lee—
+With a love that the wingèd seraphs of Heaven
+   Coveted her and me.
+
+And this was the reason that, long ago,
+   In this kingdom by the sea,
+A wind blew out of a cloud, chilling
+   My beautiful Annabel Lee;
+So that her highborn kinsmen came
+   And bore her away from me,
+To shut her up in a sepulchre
+   In this kingdom by the sea.
+
+The angels, not half so happy in Heaven,
+   Went envying her and me—
+Yes!—that was the reason (as all men know,
+   In this kingdom by the sea)
+That the wind came out of the cloud by night,
+   Chilling and killing my Annabel Lee.
+
+But our love it was stronger by far than the love
+   Of those who were older than we—
+   Of many far wiser than we—
+And neither the angels in Heaven above
+   Nor the demons down under the sea
+Can ever dissever my soul from the soul
+   Of the beautiful Annabel Lee;
+
+For the moon never beams, without bringing me dreams
+   Of the beautiful Annabel Lee;
+And the stars never rise, but I feel the bright eyes
+   Of the beautiful Annabel Lee;
+And so, all the night-tide, I lie down by the side
+   Of my darling—my darling—my life and my bride,
+   In her sepulchre there by the sea—
+   In her tomb by the sounding sea.
+#+end_verse
 
 
 
@@ -1598,60 +1670,78 @@ in a small Southern Illinois town. We were trick-or-treating on our
 street, the oldest neighborhood in town with Victorians, cobblestone,
 and gas streetlights. At some point I felt like I had left the present
 and entered another dimension, a nighttime fairy forest of bare
-trees. Everything was magical, and yet as a child not yet disabused of
-magic, I didn't think anything was too out of the ordinary. I
-distinctly remember looking up into the dense, bare branches of a huge
-old oak and seeing the moon looking in and out of crossing clouds and
-feeling like I was a spirit entered another world. Tonight, I can see
-this other world of shadow and magic as I look out at my
-waning-moonlit /Inland Sea/ over the treetops of dark spruce and
-gnarled, bare aspen.
+trees. Everything was magical, and yet as a child not completely
+disabused of magic, I didn't think anything was too out of the
+ordinary. I distinctly remember looking up into the dense, bare
+branches of a huge old oak and seeing the moon looking in and out of
+crossing clouds and feeling like I was a spirit entered another
+world. And I still see this other world of shadow and magic as I often
+look out at my moonlit /Inland Sea/[fn:83] over the treetops of dark
+spruce and gnarled, bare aspen.
 
 I live in the far-northeastern tip of Minnesota on the so-called North
-Shore of Lake Superior, in the very last county, Cook, along the shore
-before the Canadian border. This so-called "[[https://en.wikipedia.org/wiki/Arrowhead_Region][Arrowhead Region]]" holds
-some three million-plus acres of wilderness on the shores of the
-world's largest body (by surface area) of freshwater. And to my mind,
-this is a very Dark Muse kind of place, so much so that I cannot go, I
-cannot go. Pictures may be worth a thousand words, but our Dark vibe
-here must be experienced to be really appreciated.
+Shore of Lake Superior, in the very last county, Cook, just before the
+Canadian border. This so-called "[[https://en.wikipedia.org/wiki/Arrowhead_Region][Arrowhead Region]]" holds some three
+million-plus acres of wilderness on the shores of the world's largest
+body (by surface area) of freshwater. And to my mind, this is a very
+Dark Muse kind of place, so much so that I cannot go, I cannot
+go. Pictures may be worth a thousand words, but our Dark vibe here
+must be experienced to be really appreciated.
 
-Though I'm wont to call Lake Superior the /Inland Sea/, thus, North
-Coast instead of North Shore. This is due to /her/ being so much more
-sea-like than any lake. To my thinking, a lake is something much
-smaller and much friendlier. The Inland Sea is big and often violent
-like any sea or ocean of saltwater. She's no simple lake for
-beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:80]. /She/ has a mighty présence, often dark and moody if
-not threatening.
+Again, I'm wont to call Lake Superior the /Inland Sea/, thus, North
+Coast instead of North Shore. Indeed, she is so much more sea-like
+than any lake. To my thinking, a lake is something much smaller and
+much friendlier. The Inland Sea is big and often violent like any sea
+or ocean of saltwater. She's no simple lake for beer-and-brats
+picnickers, windsurfers, speedboat and jet ski riffraff[fn:84]. To be
+sure, she has a mighty présence, often dark and moody if not
+threatening.
 
-A deep moodiness prevails. Here is nothing really spectacular in the
-sense of the Great Outdoors overwhelming with one postcard vista after
-another---as we think of the American West and Alaska. Rather, here is
-a more subtlety, more reserve, more mood.
+Often a deep moodiness prevails. Here is nothing really spectacular in
+the sense of the Great Outdoors overwhelming with one postcard vista
+after another---as we think of the American West and Alaska. Rather,
+here is more subtlety, more reserve, thus more mood.
 
-Though I feel quite alone here in this assessment. My little
-village, Grand Marais, the county seat, is only some thirteen hundred
+Though I feel quite alone here in this assessment. My little village,
+Grand Marais, the county seat, is only some thirteen hundred
 souls. And yet as the years go by we are becoming evermore
 suburban-like in mentality. Being a popular Northern Midwest resort
-town, We have a steady stream of newcomers who increasingly are not
+town, we have a steady stream of newcomers who increasingly are not
 adapting to small-town life; instead, maintaining their aloof,
-disengaged, blinkered urban-suburban ways. So often one encounters
-another supposed fellow human---only to receive the "you don't exist"
-treatment common on a street in Manhattan.
+disengaged, emotionally unavailable, blinkered urban-suburban ways. So
+often one encounters another supposed fellow human---only to receive
+the "you don't exist" treatment common on a street in Manhattan.
 
 Another social-psychology pitfall is how many people came up from a
 Chicago or especially Twin Cities suburb ostensibly to reinvent
 themselves. They've made the leap out of the sterile, soulless
 clone-bunny suburbia to now be some new version of themselves. They
 typically use Hemingway and Jack London, i.e., a macho attitude about
-wilderness and what. I call this /Neo-Klondikism/.
+wilderness and what I call this /Neo-Klondikism/. This is totally
+different from the real pioneers of late nineteenth, early twentieth
+centuries who brought Victorian civilization to the wilderness.
 
-Steger etc. totally different from the real pioneers of late 19th-,
-early 20th-century who brought Victorian civilization to the
-wilderness.
+Because the spectacular is mostly blazingly lit, our dearth of
+spectacular allows the night to come up alongside.
+
+#+begin_export html
+<a href="https://sivertson.com/shop/prints-posters/northern-lights/" target="_blank"><img src="./images/Northern-Lights.jpg" width="740" alt="Norther Lights"></a>
+<span class="cap">Northern Lights by artist Liz Sivertson</span>
+#+end_export
 
 Grand Marais is my "sepulchre by the sea."
+
+Here's a few lines I once wrote after a late-autumn hike
+
+#+begin_quote
+Mists race westward through the surrounding spruce forest. The entire ridge enveloped in snow clouds, light failing, the Western Hemisphere’s greatest inland sea—four miles South and seven-hundred feet below—totally obscured. Sleet falls fast and hard, stinging my face; my eyes cannot fully focus; though I hear the wind through the coated trees, the distant sound of the invisible waves, crashing angrily against the rocks. . . . I have come the four miles from the town, up the wet, slippery trail, up through the darkening forest, to pay homage to this late autumn wonderland. The Dark Muse is strong.
+	I, the Modern, wear a Gore-tex jacket, over a Merino wool top, over a silk base layer. I wear black lycra tights, thin gloves with padded biking gloves on top in case of a fall. I wear special minimalist moccasins made to simulate barefoot running. I am out to face the age-old elements hiding behind modern accoutrements.
+	I had contemplated walking rather than running, but no, darkness was too near and I had to reach the ridge-top ere dusk. I saw not a soul as I climbed the trail. I stopped at the ridge’s two main streams to witness their loud and clear coursing from all the new precipitation.
+	It was all but dark when I set off from the cloud-bound ridge-top for the town again. The snow was accumulating in earnest, making downhill footing difficult. But as I say, the Muse was strong, and the growing darkness made it all the stronger.
+#+end_quote
+
+
+
 
 Quietude and contemplation in a place far from civilization.
 
@@ -1883,7 +1973,7 @@ account shortly.
 [fn:49] See the Wikipedia explanation of [[https://en.wikipedia.org/wiki/Romanticism][Romanticism]] or [[https://en.wikipedia.org/wiki/German_Romanticism][German
 Romanticism]]. They're as stiff and ultimately as clueless as any...
 
-[fn:50] But HTTN wasn't that new after all. Soon will be discussed
+[fn:50] But /HTTN/ wasn't that new after all. Soon will be discussed
 similar things from the previous eighteenth century.
 
 [fn:51] Try [[https://www.george-macdonald.com/etexts/hymns_to_night.html][this George MacDonald translation]] as found in a
@@ -1906,83 +1996,88 @@ secret) part of a building; an inner sanctum; a sanctum sanctorum.
 
 [fn:55] *verisimilar*: having the appearance of truth.
 
-[fn:56] /The Genius of Instinct; Reclaim Mother Nature's Tools for
+[fn:56] [[https://youtu.be/bASfrZYnkvI?si=JKGP2LiHgOj-h9oL][Here]] is the scene from the bio-pic /Bright Star/.
+
+[fn:57] /The Genius of Instinct; Reclaim Mother Nature's Tools for
 Enhancing Your Health, Happiness, Family, and Work/ by Hendrie
 Weisinger; 2009; Pearson Education, Inc.
 
-[fn:57] Here in woodsy Minnesota we haven't noticed a shortage of
+[fn:58] Here in woodsy Minnesota we haven't noticed a shortage of
 mosquitoes, one of bats' primary food sources.
 
-[fn:58] A stay in Belgium to learn French and a short-lived gig in
+[fn:59] A stay in Belgium to learn French and a short-lived gig in
 nearby Halifax as a governess.
 
-[fn:59] We consume upwards of one hundred times the resources and
+[fn:60] We consume upwards of one hundred times the resources and
 energy per capita as did one of our European ancestors from
 1800 ... and so the bigger the dance floor, the crazier the dancing.
 
-[fn:60] There is nothing Dark or Romanticist about Jane Austen, sadly.
+[fn:61] There is nothing Dark or Romanticist about Jane Austen, sadly.
 
-[fn:61] If academe doesn't get my Haworth Emily, Hollywood is even
+[fn:62] If academe doesn't get my Haworth Emily, Hollywood is even
 more of a clueless ignoramus.
 
-[fn:62] From my 1853 copy \\
+[fn:63] From my 1853 copy \\
 [[file:images/NightThoughtsBook2.jpg]] \\
 \\
 
-[fn:63] ...that is, in an past age not exposed to the science of
+[fn:64] ...that is, in an past age not exposed to the science of
 modern public relations. See [[https://en.wikipedia.org/wiki/Edward_Bernays][this]] about Edward Bernays and the birth
 of modern advertising and public relations. TL;DR: Since Bernays, no
 "movement" in our modern times can be considered natural and organic,
 rather, the result of somebody's public relations campaign.
 
-[fn:64] For example, Germany has long been referred to as the land of
+[fn:65] For example, Germany has long been referred to as the land of
 /poets/ and /thinkers/ (/Das Land der Dichter und
 Denker/). Intentionally absent is novelists. Although now novelists
 count as part of /die Belletristik/, i.e., /schöngeistige Literatur/
 or aesthetic literature.
 
-[fn:65] Two terms, /novel/ (English) and /roman/ (French, German,
+[fn:66] Two terms, /novel/ (English) and /roman/ (French, German,
 etc. from the adjectival /Roman/, /Roman-like/) came to describe any
 long-form prose story-telling.
 
-[fn:66] Ironically, the /Novella/, a long short-story format with no
+[fn:67] Ironically, the /Novella/, a long short-story format with no
 chapter breaks, was better tolerated in Germany.
 
-[fn:67] One giveaway is /gothic/ in the title. Perhaps read [[https://en.wikipedia.org/wiki/Gothic_fiction][this
+[fn:68] One giveaway is /gothic/ in the title. Perhaps read [[https://en.wikipedia.org/wiki/Gothic_fiction][this
 overview]] of Gothic fiction.
 
-[fn:68] Walpole initially claimed /Otranto/ to be a medieval
+[fn:69] Walpole initially claimed /Otranto/ to be a medieval
 manuscript he had discovered and translated, when all along it had
 been his own creation.
 
-[fn:69] ...although this is ironic since the actual label Gothic had
+[fn:70] ...although this is ironic since the actual label Gothic had
 been used pejoratively in the Renaissance alluding to the
 destructive barbarian Goths.
 
-[fn:70] A model woebegone gothic novel heroine (from /El Mundo
+[fn:71] A model woebegone gothic novel heroine (from /El Mundo
 ilustrado/; 1879). \\
 [[file:images/VictorianWomanOnBeach_side.png]] \\
 \\
 
-[fn:71] Once asked why his horror films were so popular, Alfred
+[fn:72] Once asked why his horror films were so popular, Alfred
 Hitchcock said the man on the street likes to occasionally dip his toe
 in the lake of horror.
 
-[fn:72] ...although Wordsworth would later mention Barbauld and
+[fn:73] ...although Wordsworth would later mention Barbauld and
 /Meditation/ as inspirational.
 
-[fn:73] ...e.g., we would never have known Emily Brontë's poetry had not
-sister Charlotte sneaked her manuscripts out of their hiding place and
-published them without her sister's permission. Similarly, the
+[fn:74] ...e.g., we would never have known Emily Brontë's poetry had
+not sister Charlotte pilfered her manuscripts from their hiding place
+and published them without her sister's permission. Similarly, the
 reclusive Emily Dickinson only half-heartedly ever sought
 publication. But after her death /thousands/ of poems were discovered
 in her room.
 
-[fn:74] ...e.g., the Brontës were pastor's daughters in rural West
+[fn:75] Academe typically bookends the Romantic Era between 1800
+and 1850.
+
+[fn:76] ...e.g., the Brontës were pastor's daughters in rural West
 Yorkshire with little exposure to (taint from?) the cultural and
 literary buzz of the cities.
 
-[fn:75] One hot mess is the [[https://www.bbc.co.uk/programmes/b0144q90/episodes/guide][BBC's series on Romanticism]]. (Catch it on
+[fn:77] One hot mess is the [[https://www.bbc.co.uk/programmes/b0144q90/episodes/guide][BBC's series on Romanticism]]. (Catch it on
 YouTube under /The Romantics: [[https://youtu.be/oLwRXlSgiSQ?si=y4a1MQek8Ac0pkyJ][Liberty]], [[https://youtu.be/liVQ21KZfOI?si=GpsPOUfS_l6w6r8_][Nature]], [[https://youtu.be/R6mefXs5h9o?si=c-cJk0fKTneunPZH][Eternity]])/. And then
 Bertrand Russell in his severe, left-brained /The History of Western
 Philosophy/ mangles away at Romanticism in his consummate pedantic
@@ -1990,26 +2085,28 @@ way. These are Exhibit A1/A2 of people who don't get it but must sound
 important erudite. More palatable perhaps is [[https://www.youtube.com/watch?v=aIffazJIrLo&list=PLhP9EhPApKE_9uxkmfSIt2JJK6oKbXmd-&pp=iAQB][Isaiah Berlin's 1965
 lectures on Romanticism]].
 
-[fn:76] Again, my principle principal, Emily Brontë, arguably knew
-very little to absolutely nothing about Jena, Novalis, or even much of
-Coleridge and Wordsworth other than perhaps a reading of their
-/Lyrical Ballads/ (from 1798). Poe supposedly had encountered
-translations of Ludwig Tieck's short stories. That is to say, the
-principals were rarely aware of their like-mindeds.
+[fn:78] The best ideas about left/right brain are those of Iain
+McGilchrist. Try [[https://www.youtube.com/watch?v=hK7XG3t2nFg&list=PLqBHk3itxyPDKFnwj8-SmlwHra64cCrky&pp=iAQB][these]].
 
-[fn:77] For what it's worth, German Romanticism can be broken down
+[fn:79] [[https://engines.egr.uh.edu/english-romanticism/what-romanticism][This]] will save you some googling. Note again the tortured
+origin of the term /romantic/.
+
+[fn:80] For what it's worth, German Romanticism can be broken down
 into Jena, Heidelberg, then Berlin Romanticism...
 
-[fn:78] Must again mention Christina Wulf's non-fiction tome
+[fn:81] Must again mention Christina Wulf's non-fiction tome
 /Magnificent Rebels/ as Exhibit A of how the describers and explainers
 just did not get it. Wulf's detailed description of the "Jena Set"
 sounds similar to accounts of Andy Warhol's /Factory/ and its bipolar
 crowd.
 
-[fn:79] Daguerreotype of Poe 1849 \\
+[fn:82] Daguerreotype of Poe 1849 \\
 [[file:images/Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg]]
 
-[fn:80] Wetsuits de rigueur. Even in summer a dunk in her lasting more
+[fn:83] /Von wegen! Give men a break!/ Calling it /Lake/ Superior is
+like calling Einstein a /high school graduate/!
+
+[fn:84] Wetsuits de rigueur. Even in summer a dunk in her lasting more
 than ten minutes can lead to hypothermia ... at least on the North
 Coast. Wisconsin and Michigan beaches can be swimmable in the height
 of summer.
