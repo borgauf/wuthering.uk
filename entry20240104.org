@@ -537,17 +537,49 @@ of birth, growth, deterioration, and death were happening everywhere
 /sans emplacement/. Consider how the Industrial Revolution created
 urban production landscapes vast and barren and completely outside of
 any sort of nature, spatial or otherwise---indeed, William Blake's
-"satanic mills."  This was a change on a scale never before seen, a
-huge and relatively sudden step away from the physical world being
-solely the purveyance of nature. And so even when the individual left
-his house he was still deep within a massive concentration of
-extra-natural, human-exclusive space and activity. Poverty in the
-pre-industrial rural landscape was all but idyllic compared the
-grueling, grinding poverty of the industrial cityscapes.[fn:37]
+"satanic mills." Here is what Ludwig Klages in the late-1800s said
 
+#+begin_quote
+The face of the mainland has become a landscape of coerced
+Chicago-ifications as humanity has fallen into an orgy of destruction
+without precedence. So-called civilization wears the face of an
+unleashed murderer, while the fullness, the bounty of the earth has
+withered from his poisonous breath.
+#+end_quote
 
-Here again is Emily Brontë, her epic /The
-night is darkening round me/
+This was a change on a scale never before seen, a huge and relatively
+sudden step away from the physical world being solely the purveyance
+of nature. And so even when the individual left his house he was still
+deep within a massive concentration of extra-natural, human-exclusive
+space and activity. Poverty in the pre-industrial rural landscape was
+all but idyllic compared the grueling, grinding poverty of the
+industrial cityscapes.[fn:37]
+
+Here again is Emily Brontë from her poem /Shall earth no more inspire
+thee/ where Mother Nature speaks directly to the wayward human
+
+#+begin_verse
+...
+Thy mind is ever moving
+In regions dark to thee;
+Recall its useless roving—
+Come back and dwell with me.
+...
+#+end_verse
+
+I can't read this poem without having a very emotional
+response. Indeed, the house of mirrors echo chamber that modern life
+has become precludes any real adaptation. And so the choice is simple:
+We can go back to nature or continue our useless roving, which can
+only lead to evermore mental crisis and catastrophe.
+
+To be sure, so much ominous and doomsday has been said about mass
+society in this modern industrialised world—all pointing to the
+increasingly obvious fact that our vaunted adaptation skills are being
+stretched to the breaking point, dysphoria, as well as ecological
+collapse inevitable.
+
+And again Emily Brontë, her epic /The night is darkening round me/
 
 #+begin_verse
 The night is darkening round me,
@@ -566,7 +598,7 @@ But nothing drear can move me;
 I will not, cannot go.
 #+end_verse
 
-Yes, she is outdoors facing the "elements," as we say. She even refers
+Yes, she is outdoors "facing the elements," as we say. She even refers
 to the wilds as "wastes" and as "drear."[fn:38] And yet she is
 transfixed, frozen to the spot---and I cannot, cannot go, as she
 says. Subjective terms like wastes and drear refer to the age-old
@@ -790,27 +822,30 @@ Keats said years later in a 1817 letter to his brothers George and
 Thomas
 
 #+begin_quote
-...I mean Negative Capability, that is, when a man is capable of being
-in uncertainties, mysteries, doubts, without any irritable reaching
-after fact and reason---Coleridge, for instance, would let go by a fine
-isolated verisimilitude caught from the Penetralium of mystery, from
-being incapable of remaining content with half-knowledge. This pursued
-through volumes would perhaps take us no further than this, that with
-a great poet the sense of Beauty overcomes every other consideration,
-or rather obliterates all consideration.
+...I mean /Negative Capability/, that is, when a man is capable of
+being in uncertainties, mysteries, doubts, without any irritable
+reaching after fact and reason---Coleridge, for instance, would let go
+by a fine isolated verisimilitude caught from the Penetralium of
+mystery, from being incapable of remaining content with
+half-knowledge. This pursued through volumes would perhaps take us no
+further than this, that with a great poet the sense of Beauty
+overcomes every other consideration, or rather obliterates all
+consideration.
 #+end_quote
 
-Intellectualisations, great and lengthy, especially of the
-"Penetralium[fn:54] of mystery," can only become verisimilar[fn:55]
-ramblings that get us nowhere, Keats is saying. But with a simple ode
-to Beauty the poet obviates, obliterates intellectualisations. Keats'
-/Negative Capability/ is about /cognitive dissonance/ as a great and
-necessary burden the poet must carry, a process key to deeper
-understanding beyond neat and tidy piles of logical-seeming words to
-impress other don't-get-it people. That is, to /not/ immediately
-intellectualise, but to hold oneself in a counter-intuitive state of
-unresolved---just to see where it might lead. Here is the famed
-beginning of his "poetic romance" /Endymion/
+Ideas, only those logically circumscribed, battling it out for
+supremacy ... feelings and impressions and what-ifs lost in the ruckus
+... intellectualisations, great and lengthy, especially of the
+"Penetralium[fn:54] of mystery," just verisimilar[fn:55]
+ramblings. Indeed, to /not/ immediately intellectualise, but to hold
+oneself in a counter-intuitive state of unresolved---just to see where
+it might lead. Then with a simple ode to Beauty the poet obviates,
+obliterates the sterility of intellectualisation. Keats' /Negative
+Capability/ is about /cognitive dissonance/ as a great and necessary
+burden the poet must carry, a process key to deeper understanding
+beyond neat and tidy piles of logical-seeming words to impress other
+don't-get-it people.  Here is the famed beginning of his "poetic
+romance" /Endymion/
 
 #+begin_verse
 A thing of beauty is a joy for ever:
@@ -841,7 +876,7 @@ Pouring unto us from the heaven's brink.
 
 Take that Coleridge, you brachial babbling braincase!
 
-In the 2009 film /Bright Star/, a touching bio-drama about
+In the 2009 film /Bright Star/, a touching verisimilar bio-drama about
 Keats, there is a scene where, speaking with his love interest Fanny
 Brawne, he says /A poet is not at all poetical. In fact, he the most
 unpoetical thing in existence. He has no identity. He is continually
@@ -1444,6 +1479,12 @@ darkness bringing forth some of humanity's finest insights.
 
 ** A Romantic movement by any other name
 
+#+begin_quote
+And further, by these, my son, be admonished: of making many books
+there is no end; and much study is a weariness of the flesh.
+---Ecclesiastes 12:12
+#+end_quote
+
 Academe's take on Romanticism---a very big elephant in the middle of
 the room, indeed. What to do with this beast wont to co-opt and usurp
 my principals, and, in general, completely miss my Dark Muse?
@@ -1660,71 +1701,93 @@ wandering about clueless --- /seriously/ clueless.
 
 
 
-** Really feeling means not really thinking
+** The implications of feeling
 
 #+begin_verse
 The best and most beautiful things in the world cannot be seen or even touched --- they must be felt with the heart.
 --- Helen Keller
 #+end_verse
 
-I often get the feeling that my Romantic Movement principals were
-unknowingly, belatedly trying to stamp a new European animistic
-shamanism out of the moors and forest floors. And/Or they were sensing a
-new rise of desensitisation from Enlightenment and its bastard child
-industrialism and attempting to throw a countering re-sensitization at
-it. I like both, actually.
+I sometimes get the /feeling/ that my Romantic Movement principals
+were unknowingly, belatedly trying to stamp a new European paganism
+out of the moors and forest floors---necessarily independent of
+whatever had been the vernacular beliefs before the Romans. And then I
+also might say they were countering the new rise of /desensitisation/
+from Enlightenment and its bastard child industrialism[fn:83] by
+throwing /re-sensitization/ at it, à la Novalis' poetising. I like
+both, actually. And yet Romanticism scholars lead with their
+simplistic equation
+
+\begin{align*}
+\text{Romanticism = feelings}
+\end{align*}
+
+...almost as if Romanticism were an effete, irrational outburst, a
+reactionary, mob mentality counterattack against the Enlightenment
+dynamism juggernaut ... as if my principals believed all the
+rationalist, empiricist, mechanistic, /soulless/ implications in
+economics and Newtonian science could be halted by /Salonlöwen/[fn:84]
+reading their poetry to gatherings in candlelit parlours.
+
+*** Desensitisation, re-sensitisation
+
+The /radical philosophers/, as the proto-Marxist activists were known,
+would say the fighting is all about power and wealth, i.e., the haves
+versus the have-nots, and that when the gradient is too great
+necessarily the revolution will begin. What became known as Marxist
+dialectics has no perception hang-ups, no pause to reflect on
+
+#+begin_quote
+The wind bloweth where it listeth, and thou hearest the sound thereof,
+but canst not tell whence it cometh, and whither it goeth: so is every
+one that is born of the Spirit.
+---John 3:8
+
+And I gave my heart to seek and search out by wisdom concerning all
+things that are done under heaven: this sore travail hath God given to
+the sons of man to be exercised therewith.
+---Ecclesiastes 1:13
+#+end_quote
+
+Action, change, progress---not men born of Spirit forever circling
+around some wisdom.
+
+
+But what about consciousness, rather, our
+collective consciousness sphere (CCS)? No doubt Marxism's versus
+have-not is real; but the collective mindset, the dominant paradigm or
+mega-meme of a society is crucial in knowing, in mentally framing
+anything going on in society. I say my Romantic Era principals
+instinctively countered the emerging Enlightenment mindset of the
+cold,
+
+Marxism dispenses with aesthetics, while my principals could not do
+without an aesthetical foundation---and then only adorned said
+foundation with poetisings. And of course there was no "call to action."
+
+No, my principle principals
 
 Here I will simply and plainly state that I believe Emily Jane Brontë
-was the very centre, the utter culmination of this Romanticism
-thing. She combined in her /poetry/[fn:83]
+was the very centre, the utter culmination of the whole Romanticism
+thing. She combined in her /poetry/[fn:85]
 
 + *pagan nature*,
 + *Dark*, and
 + *Christianity*
 
-and in keeping with Keats' /Negative Capability/ she did not let
-any one or two overshadow the other two or one. In her /Shall earth no
-more inspire thee/ Mother Nature speaks directly to the wayward human
+and in keeping with Keats' /Negative Capability/ she did not let any
+one or two overshadow the other two or one. Her nature awareness
+mentioned above would be enough, but my Haworth Emily brings something
+even deeper to the table. Here I'll repeat what I consider to be her
+other two points, namely, the Dark and Christianity in these three
+poems
 
-#+begin_verse
-...
-Thy mind is ever moving
-In regions dark to thee;
-Recall its useless roving---
-Come back and dwell with me.
-...
-#+end_verse
++ /The night is darkening round me/ (once more),
++ /I'll come when thou art saddest/ and
++ /I would have touched the heavenly key/
 
-I can't read this poem without having a very emotional
-response. Indeed, the house of mirrors echo chamber that modern life
-has become precludes any real adaptation. The choice is simple: We can
-go back to nature or continue our useless roving, which will
-eventually lead to evermore mental crisis and catastrophe.
-
-To be sure, so much ominous has been said about modern industrial
-life---all pointing to the increasingly obvious fact that our vaunted
-adaptation skills are being stretched to the breaking point, mass
-disphoria, as well as ecological collapse inevitable. The German
-philosopher Ludwig Klages said in describing the modern industrial
-world---and I loosely translate
-
-#+begin_quote
-The face of the mainland has become a landscape of coerced
-Chicago-ifications. Humanity has taken up an orgy of destruction
-without precedence. So-called civilization wears the face of an
-unleashed murderer, while the fullness, the bounty of the earth has
-withered from his poisonous breath.
-#+end_quote
-
-That would be enough, but my Haworth Emily brings something even
-deeper to the table. Here I'll repeat what I consider to be her other
-two points, Dark and Christianity, namely, in these three poems which
-appear clumped together as poem /31./ in /Emily Brontë The Complete
+which appear clumped together as poem /31./ in /Emily Brontë The Complete
 Poems/ from Penguin Classics
-
-+ The night is darkening round me
-+ I'll come when thou art saddest
-+ I would have touched the heavenly key
 
 #+begin_verse
 The night is darkening round me,
@@ -1774,14 +1837,17 @@ Would never speak of joy again,
 And then I felt ... 
 #+end_verse
 
-
+Is she the full-meal plan? Does she have the answers?
 
 
 
 However, the pagan 
 
-Christianity held the ember of true spirituality, but never seemed to
-know what to do with it. Along came one  and threaded
+Christianity held the ember of spirituality, but never seemed to know
+what to do with it. Piety, reverence, holiness---all 
+
+
+Along came one  and threaded
 a very convoluted path between 
 
 
@@ -1813,13 +1879,13 @@ other world of shadow and magic as I often look out at my moonlit
 /Inland Sea/ over the treetops of dark spruce and gnarled, bare
 aspen.
 
-Again, I'm wont to call Lake Superior the /Inland Sea/,[fn:84] thus,
+Again, I'm wont to call Lake Superior the /Inland Sea/,[fn:86] thus,
 North Coast instead of North Shore. Indeed, she is so much more
 sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:85]. To be sure, she has a mighty présence, often dark and
+riffraff[fn:87]. To be sure, she has a mighty présence, often dark and
 moody if not threatening.
 
 Often a deep moodiness prevails. Here is nothing really spectacular in
@@ -2228,7 +2294,18 @@ crowd.
 [fn:82] Daguerreotype of Poe 1849 \\
 [[file:images/Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg]]
 
-[fn:83] Again, let's forget her book /Wuthering Heights/, which for me
+[fn:83] The typical middle-class man coming up during the
+Enlightenment was a pragmatic utilitarian who, after absorbing the
+message of Adam Smith's /The Wealth of Nations/ (1776), had jettisoned
+the baggage of the New Testament beatitudes, noblesse oblige, and any
+lingering other-century nostalgia and sentimentality to forge ahead as
+the consummate individualist laser-focused on financial wealth. Which
+through Smith's counter-intuitive /invisible hand/ mysticism was
+supposed to self-assemble a perfect society.
+
+[fn:84] ...salon lions ... ironic German sarcasm, indeed.
+
+[fn:85] Again, let's forget her book /Wuthering Heights/, which for me
 is just gothic novel handle-cranking, however potent. As before, I
 suspect an inevitable inability for prose to do what poetry
 does. Likewise, Poe lost much altitude when he
@@ -2236,10 +2313,10 @@ went from poetry to prose. That is to say, Brontë and Poe said deep
 and lasting things in their verse, but simply added pulp to the gothic
 novel shelf with their prose.
 
-[fn:84] Really though, calling it /Lake/ Superior is
+[fn:86] Really though, calling it /Lake/ Superior is
 like calling Einstein a high school graduate.
 
-[fn:85] Wetsuits de rigueur. Even in summer a dunk in her longer than
+[fn:87] Wetsuits de rigueur. Even in summer a dunk in her longer than
 ten minutes can lead to hypothermia ... at least on the North
 Coast. Though the south beaches of Wisconsin and Michigan can be
 swimmable in the height of summer.
