@@ -1664,7 +1664,10 @@ And so, all the night-tide, I lie down by the side
 #+end_verse
 
 
-
+#+begin_export html
+<a href="https://julianpeterscomics.com/annabel-lee/" target="_blank"><img src="./images/ForTheMoonAL.jpg" width="740" alt="Norther Lights"></a>
+<span class="cap">Annabel Lee from Julian Peters Comics</span>
+#+end_export
 
 Up until his untimely death in 1849 at forty years
 of age, Edgar Allen Poe was 
@@ -1701,33 +1704,34 @@ wandering about clueless --- /seriously/ clueless.
 
 
 
-** The implications of feeling
+** Feeling our way out of the Enlightenment
 
-#+begin_verse
-The best and most beautiful things in the world cannot be seen or even touched --- they must be felt with the heart.
+#+begin_quote
+The best and most beautiful things in the world cannot be seen or even
+touched --- they must be felt with the heart. \\
 --- Helen Keller
-#+end_verse
+#+end_quote
 
 I sometimes get the /feeling/ that my Romantic Movement principals
-were unknowingly, belatedly trying to stamp a new European paganism
-out of the moors and forest floors---necessarily independent of
-whatever had been the vernacular beliefs before the Romans. And then I
-also might say they were countering the new rise of /desensitisation/
-from Enlightenment and its bastard child industrialism[fn:83] by
-throwing /re-sensitization/ at it, à la Novalis' poetising. I like
-both, actually. And yet Romanticism scholars lead with their
-simplistic equation
+were unknowingly, belatedly trying to stamp a new European nature
+worship out of the moors and forest floors---necessarily independent
+of whatever had been the vernacular beliefs before the Romans. But
+then I also might say they were countering the new rise of
+/desensitisation/ brought by Enlightenment and its physical fruits,
+namely, industrialism[fn:83] by throwing /re-sensitization/ at it, à
+la Novalis' poetising. I like both, actually. And yet Romanticism
+scholars always trot out their simplistic equation
 
 \begin{align*}
 \text{Romanticism = feelings}
 \end{align*}
 
-...almost as if Romanticism were an effete, irrational outburst, a
-reactionary, mob mentality counterattack against the Enlightenment
-dynamism juggernaut ... as if my principals believed all the
-rationalist, empiricist, mechanistic, /soulless/ implications in
-economics and Newtonian science could be halted by /Salonlöwen/[fn:84]
-reading their poetry to gatherings in candlelit parlours.
+inviting us to believe Romanticism was just some emotional sideshow,
+an effete, irrational outburst, a reactionary, mob mentality
+counterattack against the Enlightenment dynamism juggernaut
+... painting the image of /Salonlöwen/[fn:84] reading poetry in
+candlelit parlours thinking they were witnessing against the satanic
+mills.
 
 *** Desensitisation, re-sensitisation
 
@@ -1735,31 +1739,32 @@ The /radical philosophers/, as the proto-Marxist activists were known,
 would say the fighting is all about power and wealth, i.e., the haves
 versus the have-nots, and that when the gradient is too great
 necessarily the revolution will begin. What became known as Marxist
-dialectics has no perception hang-ups, no pause to reflect on
+dialectics has no perception hang-ups, much less emotion
+brake-checking. There is no pause to reflect on
 
 #+begin_quote
 The wind bloweth where it listeth, and thou hearest the sound thereof,
 but canst not tell whence it cometh, and whither it goeth: so is every
-one that is born of the Spirit.
+one that is born of the Spirit. \\
 ---John 3:8
 
 And I gave my heart to seek and search out by wisdom concerning all
 things that are done under heaven: this sore travail hath God given to
-the sons of man to be exercised therewith.
+the sons of man to be exercised therewith. \\
 ---Ecclesiastes 1:13
 #+end_quote
 
-Action, change, progress---not men born of Spirit forever circling
-around some wisdom.
+Humanity born of Spirit forever feeling wind in our faces and to
+circle around wisdom ... almost as if there is a sanctity in what may
+emerge from consciousness beyond behaviorist stimulus-response,
+action-reaction, the Day's to-dos: order, change, progress.
+
+My principals sensed the hyper-individualistic reptilian mindset from
+the middle-class capitalist industrialists as a egregious
+desensitisation regime spreading throughout society, and threw a
+re-sensitisation at it.
 
 
-But what about consciousness, rather, our
-collective consciousness sphere (CCS)? No doubt Marxism's versus
-have-not is real; but the collective mindset, the dominant paradigm or
-mega-meme of a society is crucial in knowing, in mentally framing
-anything going on in society. I say my Romantic Era principals
-instinctively countered the emerging Enlightenment mindset of the
-cold,
 
 Marxism dispenses with aesthetics, while my principals could not do
 without an aesthetical foundation---and then only adorned said
@@ -2294,14 +2299,14 @@ crowd.
 [fn:82] Daguerreotype of Poe 1849 \\
 [[file:images/Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg]]
 
-[fn:83] The typical middle-class man coming up during the
+[fn:83] The typical middle-class industrialist coming up during the
 Enlightenment was a pragmatic utilitarian who, after absorbing the
 message of Adam Smith's /The Wealth of Nations/ (1776), had jettisoned
-the baggage of the New Testament beatitudes, noblesse oblige, and any
+the baggage of noblesse oblige, the New Testament beatitudes, and any
 lingering other-century nostalgia and sentimentality to forge ahead as
 the consummate individualist laser-focused on financial wealth. Which
 through Smith's counter-intuitive /invisible hand/ mysticism was
-supposed to self-assemble a perfect society.
+supposed to assemble a perfect society---if only done right.
 
 [fn:84] ...salon lions ... ironic German sarcasm, indeed.
 
