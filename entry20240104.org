@@ -156,27 +156,34 @@ elemental/. I hope it's obvious by now that I want to speak to your
 "inner goth."
 
 There is a /natural darkness/ nature provides, a basis upon which we
-may create symbolisms, artefacts, icons, trappings to emulate,
-decorate, magnify, socialise, humanise, /bring indoors/ natural
-Dark. Yes to aesthetics as far as they may resonate, do honour to
-Dark. But too often our human take on Dark arrives overstated,
-overwrought---all the way out to grimy, ignoble, silly, scummy. We
-must surely imbibe then express what we see, experience, feel, but I
-must implore it be done carefully, when not respectfully. And so I
-must reject so many of the overdone /gothic/ horror fright memes,
-e.g., vampires, witches, demons; mean, nasty, menacing this, campy,
-threatening, evil that. Right up front: My Dark is not meant to shock
-or frighten, rather, invite, deepen, and enrich. My Dark Muse contains
-nothing cruel nor evil nor sinister nor satanic[fn:8]. Not the /Star
-Wars/ "dark side," not dark barbarism à la /Heart of Darkness/, and
-not the psychic dark described by Freud or Jung. Or course they're all
-interesting, and yes, trappings can be fun, but we must not lose sight
-of the source, however obscure and difficult. I'm after something more
-subtle, discriminating, and inward-personal. *My Dark is about the
-sublime,*[fn:9] sublimity being the next step beyond beauty into
-Dostoevsky's POEH. And so I hearken back to a golden era when Dark was
-the cultural currency, to be sure, the early nineteenth century, a
-time when key poets (e.g. Poe, the Brontës) showed us how triste and
+may create symbols, artefacts, icons, trappings to emulate, decorate,
+magnify, socialise, humanise, /bring indoors/ natural Dark. Yes to
+aesthetics as far as they may resonate, do honour to Dark. But too
+often our human take on Dark arrives overstated, overwrought---all the
+way out to grimy, ignoble, silly, scummy. We imbibe then express what
+we see, experience, feel, but it should be done carefully, if not
+respectfully. And so I must reject so many of the overdone /gothic/
+horror fright memes, e.g., vampires, witches, demons; mean, nasty,
+menacing this, campy, threatening, evil that. Right up front: My Dark
+is not meant to shock or frighten, rather, invite, deepen, and
+enrich. My Dark Muse contains nothing cruel nor evil nor sinister nor
+satanic[fn:8]. Not the /Star Wars/ "dark side," not dark barbarism à
+la /Heart of Darkness/, and not the psychic dark described by Freud or
+Jung. I cringe when someone says, "...and then things took a /dark/
+turn." In general
+
+\begin{align*}
+\Large{\text{Dark} \ne \text{negative}}
+\end{align*}
+
+Or course they're all interesting, and yes, over-the-top can be fun,
+but I'd rather not lose sight of the source, however obscure and
+difficult. I'm after something more subtle, discriminating, and
+inward-personal. *My Dark is about the sublime,*[fn:9] sublimity being
+the next step beyond beauty into Dostoevsky's POEH. And so I hearken
+back to a golden era when Dark was the cultural currency, to be sure,
+the early nineteenth century, a time when my key poets, my
+/principals/ (e.g. Poe, Novalis, the Brontës) showed us how triste and
 Stygian can be so very subtle and sublime. I'm after something /I will
 not outgrow/, rather, continue as my raison d'être sustaining me to my
 grave. And so I say there must be no "aging out of the scene" as I
@@ -193,30 +200,36 @@ deepening and widening and transcendence for one's entire life.
 # <span class="cap">Female Strigoi by HalloweenJack1960@DeviantArt</span>
 # #+end_export
 
+*** Good English, please
+
 Another ox gored is my rejection of modern dumbed-down American street
-English, which has permeated modern society---virtually
+English, which has permeated modern society virtually
 worldwide. Basically, I mean to sound more erudite, sophisticated,
-intellectual with my take on past-century British-feeling
-English. Why? Simply because the English of the early-nineteenth
-century was like a thoroughbred race horse, sleek and powerful,
-capable of amazingly deep and expressive things; whilst modern
-American street English is beggared, destitute, impoverished and
-requires a buy-in to a particularly base, ignorant, crude and
-aggressive hipster Zeitgeist. Which I repudiate, not going
-there. Although I'm sure I will occasionally slip up. Back in the day,
-people were more genteel, thoughtful, fine-spoken. Indeed, back when
-having character and honour was a thing. As a result, their poetry
-could express the depths and heights of human thought and
+intellectual with my use of past-century British-tinted English. Why?
+Simply because the English of the early-nineteenth century was like a
+thoroughbred race horse, sleek and powerful, capable of amazingly deep
+and magical expression. Contrast this with beggared, destitute,
+impoverished modern American street English, which requires a buy-in
+to a particularly base, ignorant, crude and aggressive hipster
+Zeitgeist. Which I repudiate, not going there. Although I'm sure I'll
+occasionally slip up.
+
+Back in the day, people were more genteel, thoughtful,
+fine-spoken. Indeed, back when having character and honour, when
+showing decorum and graciousness was a way of life. As a result, their
+poetry could express the depths and heights of human thought and
 sensitivities so much better.[fn:10] In past centuries they understood
 the human need for holiness, grandeur, the epic and eternal. Compare
 this with the crypto-rebel posers we see everywhere today who believe
-being coarse, crass, base, irreverent---and arrogant, in-your-face
-about it---is somehow progress... But on the other hand, it might just
-be that I've finally succumbed to the influence of all those
-schoolmarms back in my distant childhood who made us read, e.g.,
-Shakespeare and Hawthorn, holding up "wordy," other-century English as
-superior. Mrs Mugwortlawny was right, you know. And yes, I'll
-occasionally drop foreign as well as Latin words and phrases, my
+being coarse, crass, base, irreverent---and arrogantly in-your-face
+about it---is somehow progressive and desirable...
+
+But on the other hand, it might just be that I've finally succumbed to
+the influence of all those schoolmarms back in my distant 1950s-60s
+childhood who made us read, e.g., Shakespeare and Hawthorn, those
+nearing-retirement throw-backs who held up "wordy," other-century
+English as superior. Mrs Mugwortlawny was right, you know. And yes,
+I'll occasionally drop foreign as well as Latin words and phrases, my
 foreign language being German. You have been warned...
 
 ** Dark like me?
@@ -224,11 +237,13 @@ foreign language being German. You have been warned...
 For me life seems empty, insipid, weak, every moment rudderless and
 misspent without a strong current of the Dark Muse. It's as if life
 cannot be properly understood without the dark perspective. *But is
-this nature or nurture*? Am I innately so, or is this something
-acculturated?[fn:11] A quick litmus test. I present here a short,
-simple poem from my main darkness benefactress, the poetess who stands
-at the centre of everything I mean to say about dark, namely, Emily
-Jane Brontë[fn:12]
+this nature or nurture*? That is to say, am I innately so, or is this
+something acculturated?[fn:11] I /feel/ it's the former, especially
+given my intro-questionnaire above. Once simply /feels/ the tug of
+Dark---regardless of any sort of prepping or grooming. But let's do
+another quick litmus test. I present here a short, simple poem from my
+main darkness benefactress, the poetess who stands at the centre of
+everything I mean to say about dark, namely, Emily Jane Brontë[fn:12]
 
 #+begin_verse
 Fall, leaves, fall; die, flowers, away;
@@ -1709,30 +1724,63 @@ touched --- they must be felt with the heart. \\
 --- Helen Keller
 #+end_quote
 
-I sometimes get the /feeling/ that my Romantic Era poetic principals
+I sometimes get the /feeling/ that my Romantic Era poet principals
 were unknowingly, belatedly trying to stamp a new European nature
 worship out of the moors and forest floors---necessarily independent
-of whatever had been the vernacular beliefs before the Romans. But
-then I also might say they were countering the new rise of
-/desensitisation/ brought on by colonialism, Enlightenment, and their
-physical fruits, namely, industrialism by trying /re-sensitise/, à la
-Novalis' poetising. I like both, actually. And yet Romanticism
-scholars always trot out their simplistic equation
+of whatever had been the vernacular beliefs before the Romans. Though
+first and foremost I believe they were instinctively countering the
+latest rise of /desensitisation/ brought on by colonialism,
+Enlightenment, and their nasty fruits, namely, industrialism, by
+trying /re-sensitise/, à la Novalis' poetising. I like both,
+actually. And yet Romanticism scholars invariably trot out their
+simplistic equation
 
 \begin{align*}
-\text{Romanticism = feelings}
+\Large{\text{Romanticism = feelings}}
 \end{align*}
 
 as if Romanticism was just some emotional sideshow, an effete,
 irrational outburst, a reactionary, mob mentality counterattack
-against the Enlightenment dynamism juggernaut ... conjuring again the
-image of dandies lounging at picnics or /Salonlöwen/[fn:83] reading
-poetry in candlelit parlours thinking they were witnessing against the
-satanic mills. But could poetised feeling sit atop and pretend to
-control, marshal, govern all the violent dynamism behind the
-colonialism, the satanic mills? Could Romanticism be the aesthetics of
-such a coercive materialism? Of course not. No more that Christianity
-before it could.
+against the Enlightenment dynamism juggernaut ... conjuring up again
+the image of the privileged-pampered lounging at picnics counting
+butterflies, or /Salonlöwen/[fn:83] reading poetry in candlelit
+parlours thinking they were witnessing against the satanic mills. But
+could poetised feeling sit atop and pretend to control, marshal,
+govern all the violent dynamism behind the colonialism, the satanic
+mills? How was Romanticism to be the aesthetics of, the contemporary
+cultural offerings to such a coercive materialism? It was not, it
+could not be. And therein lies so much of the irony and paradox. How
+could The British Empire at the height of its power and reach have
+William Wordsworth as its poet laureate? Of course the Brontë sisters
+languished in obscurity most of their lives, but in the latter half of
+the eighteenth century, they and other Victorian Neo-Romanticisms
+clearly portrayed a different Britain from the capitalist, militarist
+reality. Consider the Pre-Raphaelite Brotherhood (founded in
+1848). Below is a later painting of John Everett Millais, /An
+Idyll of 1745/
+
+#+begin_export html
+<a href="https://en.wikipedia.org/wiki/John_Everett_Millais#/media/File:An_Idyll_of_1745_(Millais).jpg" target="_blank"><img src="./images/Millais AnIdyllof1745.jpg" width="780" alt="Millais Idyll"></a>
+<span class="cap">Before YouTube and hysterical helicopter parents...</span>
+#+end_export
+
+Of course Britain in 1745 was not dominant domineering yet, rather,
+fighting for its existence against, mainly the French, still suffering
+the echoing collective PTSD of the bloody seventeenth-century British
+civil wars less than a hundred years earlier. And yet Millais painting
+this in 1884 was hearkening back to, yes, an /idyllic/ time. Three
+innocent, tabula rasa peasant girls are enraptured by an enlisted man
+playing a flute while a fatherly high-born officer looks on
+admiringly. Clearly, this is the Britain so yearned, so longed for by
+nostalgia-heavy Pre-Raphaelitism. Great rueing and regretting
+permeated Victorian parlour society. See beside as well Millais'
+/The Blind Girl/.[fn:84] This was the real England, the true England they
+wanted, and not the bloody savagery of colonialism imperialism, nor
+the horrific suffering of the urban industrial wastelands Charles
+Dickens came to chronicle.
+
+No
+more that Christianity before it could.
 
 Romanticism portrayed as a furtherance of Enlightenment freedom of
 expression is also farcical. See how eighteenth-century gothic doom
@@ -1749,7 +1797,7 @@ have-nots. Marxist dialectics then said when the gradient is too great
 necessarily the revolution will begin. Grim was the new industrial
 urban, the largely subsistence peasants now wage slaves living in
 existential terror of squalor, hunger, and exploitation. /Homo homini
-lupus/[fn:84] had once again raised its terrible head in a new and
+lupus/[fn:85] had once again raised its terrible head in a new and
 cataclysmic way. perception hang-ups, much less emotion
 brake-checking. There was no pause to reflect on
 
@@ -1772,7 +1820,7 @@ action-reaction, the Day's to-dos: order, change, progress.
 
 Perhaps my Romantic Era principals sensed the hyper-individualistic
 reptilian mindset from the middle-class capitalist
-industrialists[fn:85] as a egregious desensitisation regime spreading
+industrialists[fn:86] as a egregious desensitisation regime spreading
 throughout society, and threw a re-sensitisation at it.
 
 
@@ -1785,20 +1833,23 @@ No, my principle principals
 
 Here I will simply and plainly state that I believe Emily Jane Brontë
 was the very centre, the utter culmination of the whole Romanticism
-thing. She combined in her /poetry/[fn:86]
+thing---ironically _the most outside_ of any Romanticism boxing or
+packaging by academe. She combined in her /poetry/[fn:87]
 
-+ *pagan nature*,
++ *Pagan Nature*,
 + *Dark*, and
 + *Christianity*
 
 and in keeping with Keats' /Negative Capability/ she did not let any
-one or two overshadow the other two or one. Her nature awareness
-mentioned above would be enough, but my Haworth Emily brings something
-even deeper to the table. She forced nature paganism and Christianity
-to sit close to each other on the rock on the moors, on the bench in
-the church, close enough to smell each other. Here I'll repeat what I
-consider to be her other two points, namely, the Dark and Christianity
-in these three poems
+one or two overshadow the other two or one. *Like a frontier one-room
+school teacher, she forced the rowdy peasant boys Pagan Nature, Dark,
+and Christianity sit close enough on the school bench to smell each
+other.* Her nature awareness mentioned above would be enough, but my
+Haworth Emily brings something even deeper to the table. She forced
+nature paganism and Christianity to sit close to each other on the
+rock on the moors, on the bench in the church, close enough to smell
+each other. Here I'll repeat what I consider to be her other two
+points, namely, the Dark and Christianity in these three poems
 
 + /The night is darkening round me/ (once more),
 + /I'll come when thou art saddest/ and
@@ -1871,32 +1922,35 @@ a very convoluted path between
 ** All travesties aside...
 
 What if we all went around completely misrepresenting each other,
-telling outlandishly false things about whomever whenever? Chaos,
-feuding, perhaps even civil war would ensue---at the very least
-lawyers would get rich from libel and slander lawsuits. But what if
-the people about whom we are lying and making up complete fabrications
-are long since dead?  Apparently, they are fair game...
+telling outlandishly false things about whomever whenever? Enmity,
+feuding, the breakdown of society, perhaps even civil war would
+ensue---at the very least lawyers would get rich from all the libel
+and slander lawsuits. But what if the people about whom we are lying
+and making up complete fabrications are long since dead? In today's
+Hollywood they are fair game...
 
-The travesties I mean are the criminally anachronistic
-modernist-triumphalist revisionist misrepresentations of my two main
+The travesties I mean are the modernist triumphalist revisionist,
+intentionally anachronistic misrepresentations of my two main
 principals, i.e., the two Emilies, Brontë and Dickinson, in the form
 of the AppleTV+ series /Dickinson/ (2019) and the Hollywood film
 /Emily/ (2022). It is partly the need to correct these serious crimes
-against culture that I have initiated this whole Wuthering.UK effort.
+against culture and history that I have initiated this whole
+Wuthering.UK effort.
 
 Both /Dickinson/ and /Emily/ are completely cringe unwatchable, but
 worse by far is the all but demonic inhabitation of Emily Dickinson
 unfolding in the three-season, thirty episode AppleTV+ series
-/Dickinson/. Apparently, the real Amherst Emily said something in a
-letter to a female friend, which opened the door for screenwriter
-Alena Smith to reinvent the shy, gentle, reclusive, homebody,
-proto-nerd-girl Emily Elizabeth as a braying, brassy, bratty, boorish,
-snarky, completely modern desensitised/masculinised, outta control,
-hyper-sexual protest-lesbian. To be sure, this filth and inanity, this
-period porn, this cultural hooliganism went on for three years, spread
-over thirty episodes of crashing, crypto-rebel posing effrontery, even
-winning a Peabody award. As the Wikipedia article, which categorises
-it as a "comic-drama," (sic) says
+/Dickinson/. Apparently, the real Amherst Emily said something
+affectionate in a letter to a female friend---which opened the door
+for screenwriter Alena Smith to reinvent the shy, gentle, reclusive,
+homebody, proto-nerd-girl Emily Elizabeth as a brassy, braying,
+bratty, boorish, snarky, completely desensitised, masculinised,
+outta-control, hyper-sexual protest-lesbian victim martyr. And so this
+filth and inanity, this period porn, this cultural hooliganism went on
+for three years, spread over thirty episodes of crashing, crypto-rebel
+poser effrontery, even winning a Peabody, among other, "awards." As the
+wincing Wikipedia article, which categorises it as a "comic-drama,"
+(sic) says
 
 #+begin_quote
 /Dickinson/ is notable for its use of anachronisms, incorporating
@@ -1904,23 +1958,37 @@ modern language, music, and references into its portrayal of
 historical events and figures.
 #+end_quote
 
-...quite possibly the understatement of all time. It further says
+...quite possibly the understatement of all time. It also states
 /Dickinson/ is "a window into the cultural and political climate of
 the time."  Really. It is nothing of the sort, rather, a whole-cloth
-reinvention based on radical, male-hating misanthropic,
-twenty-first-century feminism, full stop.
+reinvention based on radical, male-hating, misanthropic,
+twenty-first-century agitprop feminism, full stop. If conspiracy
+theories about "cultural Marxism" were ever to be taken serious, this
+would be Exhibit A.[fn:88]
 
 #+begin_export html
 <a href="https://julianpeterscomics.com/annabel-lee/" target="_blank"><img src="./images/EmilyDSnoggin.jpg" width="740" alt="Snogging Emily"></a>
 <span class="cap">Ah, nice wallpaper?</span>
 #+end_export
 
+More innocuous perhaps, simply because it is a single film lasting
+only two hours thus not able to get up to as much inanity as
+/Dickinson/, is the Hollywood /Emily/.[fn:89] This train wreck depicts
+Haworth Emily, the woman I consider the greatest, deepest
+English-language poet, as a clumsy, oafish maladroit, stumbling around
+in a completely anachronistic period fantasy chaos. Enough said.
 
-Modern leftist polemicists are forever latching onto some defenceless
-figure in the past to reimagine as their pet visionary radicals. Any
-gifted unicorn in the past who might have chafed at society's eternal
-containment fields is vulnerable to being reintroduced as some modern
-hack's proto-revolutionist. Sad, indeed.
+I hemmed and hawed over this bit of electron savagery directly above,
+but seriously, there can be /zero/ buy-in to this sort of nonsense if
+we are to get anywhere near understanding the true nature of these
+special people.
+
+Indeed, modern leftist polemicists are forever latching onto some
+defenceless figure in the past to reimagine as their pet visionary
+radicals. And so any gifted unicorn from yesteryear who might have the
+least bit chafed at society's eternal(ly shifting, reforming)
+containment fields is available for reintroduction reconstitution as
+some modern hack's proto-revolutionist. Sad.
 
 Contrast with the 2011 /Jane Eyre/ where the modernist triumphalist
 nonsense is kept to a minimum. In this umpteenth filming of the
@@ -1936,10 +2004,7 @@ Christianity simply was a given in both of their lives. It was their
 metaphysical foundation and was largely accepted by both Emilies, in
 fact, often poetised.
 
-Possibly more innocuous simply because it is a single film is the
-Hollywood /Emily/[fn:87] depicting Haworth Emily as clumsy, oafish
-maladroit bouncing around in a completely anachronistic period fantasy
-chaos.
+
 
 Today we shamble about in a political fog that will have the Left not
 wanting to believe anything good about the past, and the Right not
@@ -1947,7 +2012,7 @@ brooking anything bad about some golden era in their imaginations. The
 Left is arguably everything Noam Chomsky had bad to say about French
 intellectualism, now conveniently packaged as /cultural Marxism/, and
 the Right an amalgamation of conservative and, newly,
-libertarianism.[fn:88]
+libertarianism.[fn:90]
 
 To understand my principals we must suspend any and all revisionist
 wishful thinking.
@@ -1980,13 +2045,13 @@ other world of shadow and magic as I often look out at my moonlit
 /Inland Sea/ over the treetops of dark spruce and gnarled, bare
 aspen.
 
-Again, I'm wont to call Lake Superior the /Inland Sea/,[fn:89] thus,
+Again, I'm wont to call Lake Superior the /Inland Sea/,[fn:91] thus,
 North Coast instead of North Shore. Indeed, she is so much more
 sea-like than any lake. To my thinking, a lake is something much
 smaller and much friendlier. The Inland Sea is big and often violent
 like any sea or ocean of saltwater. She's no simple lake for
 beer-and-brats picnickers, windsurfers, speedboat and jet ski
-riffraff[fn:90]. To be sure, she has a mighty présence, often dark and
+riffraff[fn:92]. To be sure, she has a mighty présence, often dark and
 moody if not threatening.
 
 Often a deep moodiness prevails. Here is nothing really spectacular in
@@ -2105,8 +2170,8 @@ out as we go along...
 [fn:10] ...while so much of our modern poetry is screed doggerel. For
 example, Allen Ginsberg acclaimed /Howl/ is really social-political
 pamphleteering in verse, not true poetry as it has been known for
-centuries. And things go downhill fast---into the most ridiculous
-absurdist nihilist nonsense.
+centuries. And from there things go downhill fast---into the most
+ridiculous absurdist nihilist nonsense.
 
 [fn:11] ...perhaps by one of my Victorian Era-heavy schoolmarms?
 
@@ -2403,9 +2468,13 @@ crowd.
 
 [fn:83] ...salon lions ... ironic German sarcasm, indeed.
 
-[fn:84] /[[https://en.wikipedia.org/wiki/Homo_homini_lupus][Man is a wolf to man]]/.
+[fn:84] Millais' /The Blind Girl (1854-56)/ \\
+[[file:images/MillaisTheBlindGirl1854-56.jpg]] \\
+\\
 
-[fn:85] The typical middle-class industrialist coming up during the
+[fn:85] /[[https://en.wikipedia.org/wiki/Homo_homini_lupus][Man is a wolf to man]]/.
+
+[fn:86] The typical middle-class industrialist coming up during the
 Enlightenment was a pragmatic utilitarian who, after absorbing the
 message of Adam Smith's /The Wealth of Nations/ (1776), had jettisoned
 the baggage of noblesse oblige, the New Testament beatitudes, and any
@@ -2414,32 +2483,38 @@ the consummate self-reliant individualist laser-focused on financial
 wealth. These men projected a stripped-down emotional psychological
 persona, indeed, a new desensitisation regime.
 
-[fn:86] Again, let's forget her book /Wuthering Heights/, which for me
-is just gothic novel handle-cranking, however potent. As before, I
-suspect an inevitable inability for prose to do what poetry
+[fn:87] Again, let's forget her book /Wuthering Heights/, which for me
+is just gothic novel handle-cranking, however artistically potent. As
+before, I suspect an inevitable inability for prose to do what poetry
 does. Likewise, Poe lost much altitude when he would switch from
 poetry to prose. That is to say, Brontë and Poe said deep and lasting
 things in their verse, but simply added pulp to the gothic novel shelf
 with their prose.
 
-[fn:87] Emily Brontë as a modern "cottagecore emo girl" per [[https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html][this]] Slate
-review. \\
+[fn:88] Not only is Emily Dickinson trashed, they trash other big
+names of the American Romantic Era. Try [[https://youtu.be/3tO8ol9j34s?si=DQifICJs3tJgpi9O][this]], then
+[[https://youtu.be/LmneLDB6hAI?si=sSef_hvjshiTbV1b][this]]. Crrringe... And just when you thought it couldn't get worse,
+[[https://youtu.be/pFp05alGLow?si=tTk-5CPhmpdkeQ3R][this music videos]] by the actress portraying Emily Dickinson is
+attached to the series as its supposed theme song. Alas...
+
+[fn:89] Emily Brontë as a modern "cottagecore emo girl" per [[https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html][this]] Slate
+review. No need to watch, just read [[https://en.wikipedia.org/wiki/Emily_(2022_film)#Plot][the plot]] for full cringe. \\
 [[file:images/Emily2022.jpg]] \\
 \\
 
-[fn:88] I contend libertarianism is simply a new form of liberalism,
+[fn:90] I contend libertarianism is simply a new form of liberalism,
 i.e., liberalism has gotten so big that leftism no longer is big
 enough to contain it all.
 
-[fn:89] Really though, calling it /Lake/ Superior is
+[fn:91] Really though, calling it /Lake/ Superior is
 like calling Einstein a high school graduate.
 
-[fn:90] Wetsuits de rigueur. Even in summer a dunk in her longer than
+[fn:92] Wetsuits de rigueur. Even in summer a dunk in her longer than
 ten minutes can lead to hypothermia ... at least on the North
 Coast. Though the south beaches of Wisconsin and Michigan can be
 swimmable in the height of summer.
 
-[fn:92] If academe doesn't get my Haworth Emily, Hollywood is even
-more of a clueless ignoramus.
+[fn:94] ...lots more below...
 
-[fn:91] ...lots more below...
+[fn:93] If academe doesn't get my Haworth Emily, Hollywood is even
+more of a clueless ignoramus.
