@@ -137,10 +137,10 @@ to any of this, you might understand what I'm trying to say here.
 #+end_export
 
 
-*** Bronëan natural Dark
+*** Natural Dark Brontëan style
 
-I provide here a quote from Charlotte Brontë's /Jane Eyre An
-Autobiography/. Main protagonist Jane describes the house, called
+I provide here a quote from Charlotte Brontë's /[[https://en.wikipedia.org/wiki/Jane_Eyre][Jane Eyre: An
+Autobiography]]/. Main protagonist Jane describes the house, called
 simply Moor House, and environs of her adoptive family, the Rivers, on
 the edge of the wild, presumably Yorkshire moors,[fn:3]
 
@@ -900,7 +900,9 @@ from all the buzz surrounding the various possible medical
 interventions---including their probabilities of success or
 failure---he began to expect the death sentence of lung cancer could,
 /should/ be beaten by some technology lurking in some corner of the
-modern medical labyrinth. Alas...
+modern medical labyrinth. Death was not the long-anticipated reunion
+with the Creator, rather, enmity and recriminations over the failure
+of procedures and medications. Alas...
 
 Back in the day, no one would have second-guessed Death's arrival to
 such an absurd degree. Human life was like a boat with shallow
@@ -2508,166 +2510,185 @@ action, just their strange pacifist yet fatalist English Zen.
 
 *** Rejecting western Eastern...
 
-...and all other exotics for that matter. I hold to Kipling's advice
+...and all other multiculturalism mash-ups, for that
+matter. Basically, I hold to "Anglo-Indian" Rudyard Kipling's advice
 
-#+begin_verse
+#+begin_quote
 Oh, East is East, and West is West, and never the twain shall meet...
----Rudyard Kipling
-#+end_verse
+#+end_quote
 
-There is something instinctual in my rejection of all things
-Eastern[fn:111] as a Dark Muser of German, English, and Scottish
-ancestry.[fn:112] Then why, one might ask, are Eastern culture and
-belief systems so popular, especially among so many bright, sensitive
-seekers in the West? I might flippantly say because they don't really
-understand Dark---at least as I'm presenting it here. But seriously,
-Eastern ways seem to offer an Old World perspective that we especially
-in the Western Hemisphere, the New World, have never really known but
-feel we must somehow find.
+Of Kipling, who, as the Wikipedia articles says, "Complex issues of
+identity and national allegiance would become prominent in his
+fiction." My Dark Muse doesn't need anything complex from
+afar.
 
-Indeed, Old World versus New World. Allow me to use the analogy of
-vector spaces to describe what I see as the main difference. I contend
-the Western Hemisphere only knows the /three dimensions/ of regular,
+There is something instinctual in my rejection of all things Eastern
+as a Dark Muser of German, English, and Scottish ancestry.[fn:111] I
+need Dark to be local; again, based on Nature's Dark. Anyway, I could
+not imagine a set of people more the antithesis of Dark than
+Buddhists, Taoists, Hindus...
+
+Why then, one might ask, are Eastern culture and belief systems so
+popular, especially among so many bright, sensitive seekers in the
+West? To which I might flippantly reply, Because they don't really
+understand Dark---at least as I'm presenting it here. Though Eastern
+ways seem to offer an Old World perspective we especially in the
+Western Hemisphere, the New World, have never really known but sense
+we must somehow find. Complex issues, indeed...
+
+Old World versus New World. Allow me to use the analogy of vector
+spaces to describe what I see as the main difference. I contend the
+Western Hemisphere only knows the /three dimensions/ of regular,
 every-day space, whilst the Eastern Hemisphere---Europe, Africa, the
-Middle East, the oriental East---knows /four dimensions/, the fourth
-being Einstein's time dimension. In this context, time means history
-where, in turn, /real/ culture may be found. The Western Hemisphere,
-however, has no real time dimension, thus, relatively no history,
-leaving a phantom-limb-like pain in our collective psyches. Indeed,
-great historical vectors in this four-space can still be found in
-certain corners of the Eastern Hemisphere. Especially the Buddhism,
+Middle East, the Far East---knows /four dimensions/, the fourth being
+Einstein's time dimension. In this context, time means history where,
+in turn, /real/ culture may be found. The Western Hemisphere, however,
+has no real time dimension, thus, relatively speaking, no history,
+which leaves a phantom-limb-like pain in our collective
+psyches. Indeed, great historical vectors in this four-space can still
+be found in certain corners of the Old World. Yes, the Buddhism,
 Taoism, Hinduism of the Far East draw us in with their four-space
 depth and vibrancy. And yes, I very much believe the human ultimately
 needs true culture and yearns to be in this four-dimensional
 space. But first the story behind this theory...
 
 Back in 1982 I was working and studying at the Swiss Polytech in
-Zürich, Switzerland, living in a small Zürich student dormitory
-amongst mainly Europeans, most of whom were German exchange students,
-oddly enough.[fn:113] One March evening, a group of us found ourselves
-watching the American Oscar awards ceremony on television. Of course
-it was very cringey for me, the only American, as it came across very
-cryptically America-centric, very bombastic and off-putting. By the
-end I felt like crawling under my seat, as boorish childish my
-supposed famous, glamorous countrymen were. What ensued, however, was
-not spleen-venting against America, rather, a very mature, objective
-discussion as to why the American Hollywood entertainment industry was
-so big and powerful and influential; indeed, so dominant and important
-that its film award ceremony would be shown on prime-time Swiss
-television. Scales fell from my eyes as my Eastern Hemisphere colleges
-came up with the basis of this three- versus four-dimension
-theory. The verdict was Americans---lacking true history, thus, real
-culture---throw their minds and energies into a very fierce and
-intense scramble to control and dominate the present moment, the
-here-and-now. Zeitgeist formation was all that was left in our
-three-dimensional space, the results being just so much meaningless
-/churn/, come-and-go subculture, nothing permanent, nothing of any
-real value in a deep cultural sense.
+Zürich, Switzerland, living in a small Zürich student dormitory among
+mainly Europeans, most of whom were, oddly enough, German exchange
+students.[fn:112] One March evening, a group of us found ourselves
+watching the American Oscar awards ceremony on television. It was all
+very cringe embarrassing for me the only American, the spectacle
+cryptically America-centric, very bombastic and off-putting. Though to
+my surprise what ensued was not just anti-American spleen-venting,
+rather, a very mature, objective discussion as to why the Hollywood
+entertainment industry was so big and powerful and influential;
+indeed, so dominant and important that its film award ceremony would
+be shown on prime-time Swiss television. Scales fell from my eyes as
+my Eastern Hemisphere colleges came up with the basis of this three-
+versus four-dimension theory. The verdict was Americans---lacking true
+history, thus, real culture---devote their attention, energy, brain
+cycles to a very fierce and intense scramble to control and dominate
+the present moment, the here-and-now. Thus, controlling the Zeitgeist
+was all that was left in our three-dimensional space, the results
+being just so much meaningless /churn/, come-and-go subculture of
+little or no permanence.
 
-Ever since this and many other similar Saul-to-Paul moments, ever
-since returning from this "cult-like indoctrination," i.e., my
-all-but-total assimilation into especially the German mindset, I've
-been out of synch with my country of origin.[fn:114] Recognising that
-great swaths of our Americanisms are really only
-lowest-common-denominator Zeitgeist wrangling and subculture churn,
-I've come to cleave to the permanence I encountered in the Eastern
-Hemisphere, Europe to be precise. Call me /Eurocentric/. But again,
-this traditional Old World mentality clashes mightily with the common
-American attitude, i.e., that culture is whatever we say it is. And
-who says what it is? To be sure, the strong, domineering personalities
-who have embedded themselves in media gatekeeping and influencer
-positions controlling said Zeitgeist.
+Ever since this revelation and other similar Saul-to-Paul moments,
+ever since returning from my all but total assimilation into
+especially the German mindset, I've been out of synch with my country
+of origin.[fn:113] Recognising that great swaths of our Americanisms
+are really only lowest-common-denominator Zeitgeist wrangling and
+subculture churn, I've come to cleave to the permanence I encountered
+in the Eastern Hemisphere, Europe, the home of my ancestors. Call me
+/Eurocentric/. But again, this traditionalism, this Old World
+mentality clashes mightily with the common American relativist
+attitude, i.e., that culture is whatever we say it is. And who gets to
+say what it is?  To be sure, the strong, domineering personalities who
+have embedded themselves in media gatekeeping and influencer positions
+say what is what.
 
 Then came the 1984 film /Amadeus/ and, again, a big discussion took
 off in my Zürich dorm. The prevailing attitude of the Europeans was
-negative, and, once again, I had a road to Damascus[fn:115] moment
+thumbs down, and, once again, I had a road to Damascus[fn:114] moment
 where I learned another huge New World versus Old World difference,
 namely, that when the supposedly mean, repressive Emperor Joseph II
-was complaining of "[[https://youtu.be/H6_eqxh-Qok?si=NCTGZKyn_BzTI9b1][too many notes]]," he was really voicing a typically
-an-age-old /stasis/ attitude. Of course musicologists can say exactly
+was complaining of "[[https://youtu.be/H6_eqxh-Qok?si=NCTGZKyn_BzTI9b1][too many notes]]," he was simply voicing a typically
+age-old /stasis/ attitude. Of course musicologists can say exactly
 what the tastes were back then, but my Old Worlders explained that an
 Austrian emperor of that time was in charge of a land and society
-where capitalism and any sort of dynamism were unknown, i.e., a
-reality predicated on maintaining a stasis. Why? Simply put, tight
-resources necessitated tight social constraints and norms. Again, in a
-pre-modern era when resources and energy were extremely tight, all
-manner of "progress" had to be measured against what it may cost, what
-it might upset. This was my introduction to what monarchism was really
-about---and not the usual Hollywood faire where aristocrats were
-always depicted as selfish, despotic hedonists. Monarchism, as it was
-eventually revealed to me, was first and foremost about resource
-conservation ... and all other human behaviour must follow from that
-pre-high-tech, pre-fossil-fuel, pre-imperialist resource exploitation
-reality. Yes, scales from eyes. From then on I saw monarchism in a new
-light. Monarchism is stasis maintenance, while our modern mentality is
-/Amadeus/, i.e., Mozart the revolutionist overthrowing stuffy old
-conventions to boldly, heroically strike out into new territory. I had
+where capitalism, high-tech mass consumerism, and any sort of dynamic
+modernisms as we know them today were unknown. That is to say, theirs
+was a reality predicated on maintaining balance and stasis. Why?
+Simply put, tight resources necessitated tight social constraints and
+norms. And so in a pre-modern era all manner of "progress" had to be
+measured against what it may cost, what it might upset. This was my
+introduction to what /monarchism/ really was about---totally
+overthrowing my American and Hollywood indoctrination where
+aristocrats were always depicted as selfish, despotic
+hedonists.[fn:115] Monarchism, as it was explained to me, was first and
+foremost about resource conservation ... and all other human behaviour
+then following from that pre-high-tech, pre-fossil-fuel, pre-industrialist,
+pre-imperialist resource exploitation reality. Once again scales from
+eyes. From then on I saw monarchism in a new light. Monarchism as
+stasis maintenance, while our modern mentality is /Amadeus/, i.e.,
+Mozart the heroic revolutionist overthrowing stuffy old conventions to
+boldly strike out into new territory for the benefit of all. I had
 grown up believing nothing could be better than freedom and liberty;
-hence, nothing that restricts the individual can be tolerated. But
-there was another side to the story...
+hence, nothing that restricts the individual should be tolerated. But
+as I learned there was another side to the story...
 
-I can now sum my attitude about my monarchism---yes, I'm a
+I can now sum up my attitude about monarchism---yes, I'm a
 monarchist---with a joke about God and the devil meeting in their
 favourite pub and having a beer. One evening at the pub the devil was
 all excited about his "new ideas" for humanity. He told God about
-/democracy/ and how grand it would be. God, however, was skeptical and
-asked, "And what does this democracy do for a living?" The devil
-became even more animated, "Oh, my /second/ new idea, capitalism!"
-... which he proceeded to explain. God, however, grumbled about how
-they did not sound better than monarchism, that it was all probably
-just another ploy to win more souls away from heaven...
+/democracy/ and how grand it would be. God, however, was skeptical
+and, pulling his long beard, asked, "Hmmm, so what does this democracy
+do for a living?" The devil became even more animated, "Oh, my
+/second/ new idea, capitalism!"  ... which he proceeded to
+explain. God, however, grumbled about how they did not sound better
+than monarchism, that it was probably just another ploy to win more
+souls away from heaven...
 
-These basics of the Old World have been very slowly developing like
-the old-fashioned film in my head. And so here I am, almost to my
+These foundations of the Old World have been very slowly developing
+like the old-fashioned film in my head. And so here I am, almost to my
 seventh decade on this earth, an Old-World Luddite and monarchist. As
-I now see it, our modern open-ended resource and energy extraction
-orgy cannot go on much longer. At some point the game will be up, and
-no amount of high-tech magic will keep us kicking this profligate
-resource consumption whale down the beach. This means a very different
-way of life must soon be found, re-discovered. Thus, I now believe in
-a very fundamentalist proto-conservatism---all stemming from, based
-upon the resource conservation reality we face, we have always faced
-on this planet. And yet we in the twenty-first century find ourselves
-in humanity's most precarious state ever, due mainly to our science
-and technology ingenuity creating a false sense of /[[https://en.wikipedia.org/wiki/Cornucopianism][cornucopia]]/. We
-now stand on a huge "dance floor" which has allowed ever wilder and
-crazier dancing. Not only is this delusional liberalisation of
-resource consumption a disaster, we also see a parallel liberalisation
-of society, which likewise is showing clear signs of degeneracy and
-dysfunctionality. Yes, we in America have created the biggest dance
-floor the world has ever seen, and our politicians make endless
-promises of *freedom* and *liberty* and *prosperity*, the /Big Three/,
-as I call them. I mean to make a break with this madness, this
-impending doom, starting with clearing out these western Eastern
-attitudes of "live in the moment mindfulness," which to me is just the
-latest product on the /boutique lifestyle/ shelf. What does "live in
-the moment" mean to the typical American? It means don't worry about
-the consequences of immoderate behaviour and don't let the past inform
-or constrain you. How ridiculous!
+I now see it, our modern, open-ended resource and energy extraction
+orgy cannot go on much longer. Really though, how can more and more
+people consuming more and more resources and energy actually work?
+Sure, for a few generations maybe, but certainly the bill is coming
+due. At some point no amount of Elon Musk's or Bill Gates' high-tech
+white-knighting will keep us kicking this profligate resource
+consumption whale down the beach. This means a very different way of
+life must soon be found, re-discovered. Thus, I now believe in a very
+fundamentalist proto-conservatism---all stemming from, based upon the
+resource conservation reality we face, we have always faced on this
+planet. And yet we in the twenty-first century find ourselves in
+humanity's most precarious state ever, due mainly to our science and
+technology ingenuity creating a false sense of /[[https://en.wikipedia.org/wiki/Cornucopianism][cornucopia]]/, which
+falsely floats a narrative of eternal growth. Parallel to this
+reckless liberalisation of resource consumption is liberalisation of
+society, which likewise is showing clear signs of degeneracy and
+dysfunctionality. One aphorism might be
+
+#+begin_quote
+The bigger the dance floor, the wilder and crazier the dancing.
+#+end_quote
+
+We in America have certainly created the biggest dance floor the world
+has ever seen, and our politicians make endless promises of *freedom*
+and *liberty* and *prosperity*, the /Big Three/, as I call them. I
+mean to make a break with this madness starting with clearing out
+these western Eastern attitudes of "live in the moment mindfulness,"
+which to me is just the latest product on the /boutique lifestyle/
+shelf. What does "live in the moment" mean to the typical American? It
+means don't worry about the consequences of wasteful, immoderate
+behaviour and don't let the past inform or constrain you. How utterly
+and completely ridiculous!
 
 Again, we sorely miss the fourth dimension and we crave
-authenticity---and yet we have made from these age-old paradigms only
-fake knock-offs, western appropriations that sell at the American
-lifestyle boutique. Alas. I insist one may not simply drop his past,
-his fate, his doom to take up with some exotic culture, aesthetics,
-belief system not of his own soil, not of his blood and history. I
-realise this is a serious, restrictive "stay in your lane" way of
-seeing life, but one becoming clearly necessary for our actual
+authenticity---and yet we have made from the various Old World
+paradigms only fake knock-offs, western appropriations that sell at
+the American lifestyle boutique. Alas. *I insist one may not simply
+drop his past, his fate, his doom to take up with some exotic culture,
+aesthetics, belief system not of his own soil, not of his blood and
+history.* I realise this is a serious, restrictive "stay in your lane"
+way of seeing life, but one becoming clearly necessary for our actual
 survival.
 
 My Dark Muse says life is life, not just any mix-and-match lifestyles
 one may fancy from near and far. And yes, everything I've ever seen
-appropriated from the East typically winds up as come-and-go fads
-flogged by would-be trend-setters. Worse, we now see what some are
-calling /Cultural Marxism/[fn:116] intentionally eviscerating our
-traditions and Western culture. A rebel chic pose has now joined
-passivist seekerdom, causing heavy erosion of our Western
-traditions. Today more than ever it has become fashionable, even great
-virtue to ditch one's own traditions and try another's in some
-misguided show of humility out to defiance. We see /virtue signalling/
-as atonement for complicity in past racist, imperialist sins. "Look at
-me, I'm not Western, I'm /<insert politically-correct posturing
-here>/." Again, alas...
+appropriated from especially the Far East typically winds up as
+come-and-go fads flogged by would-be trend-setters. Worse, we now see
+what some are calling /Cultural Marxism/,[fn:116] i.e., an intentional
+eviscerating our traditions and Western culture. Striking a rebel chic
+pose has now joined passivist seekerdom, causing even more erosion of
+our Western traditions. Today more than ever it has become
+fashionable, even great virtue to ditch one's own traditions and try
+another's in some misguided show of humility out to barefaced
+defiance. We see this /virtue signalling/ as atonement for complicity
+in past racist, imperialist sins. "Look at me, I'm not Western, I'm
+/<insert politically-correct posturing here>/." But how does this
+really help?
 
 With Western culture and traditions on the run, we are encouraged to
 be multi-racial and especially multi-cultural, treating the globe's
@@ -2676,73 +2697,97 @@ which we, of course, do not bring anything from our own kitchen. And
 so I ask, How can such a cultural mooch be trusted? Already, the rest
 of the world no longer trusts us.
 
-My Dark Muse is simply incompatible with the East and all its stolen
-products. I will not throw away my history and traditions, for in them
-is my reality, my inescapable *doom*. The way of the Universe is
-entropy, and we humans realise this as doom. Yes, *I have doom, fate,
-not karma*. And this doom is comprised of the strands of my actual
+Again, I'm especially against western Eastern because it has made the
+most inroads in my society.[fn:117] My Dark Muse is simply
+incompatible with all the stolen products of the East. I will not
+throw away my history and traditions, for in them is my reality, my
+inescapable *doom*. The way of the Universe is entropy, and we humans
+realise this as doom. Yes, *I have doom, I have fate. I do not have
+karma*. And this doom is comprised of the strands of my actual
 history, but also my emotion braid, necessarily reaching back into the
-past. Thus, I own sins, failures, misfortune, but also yearnings,
-longings. I carry all I have done, inherit all from which I have come
-down.
+past. I therefore own, I embody sins, failures, misfortune, but also
+yearnings, longings. I carry all I have done, inherit all from which I
+have come down. I live down, I live on, and I live with Nature,
+necessarily locally.
 
 "But you drink tea, and you're a Christian; and what about spices and
 tobacco and opium and rubber and..." you might counter. Yes, yes, yes;
 however, some of these "imports" have stood the test of time becoming
-westernised. But yes, some should be dropped entirely. Exotic is
-suspect. But I can say we've westernised Christianity, made it our
-own. This will annoy many, but I insist Christianity is /not/ a
+westernised. Though truly some should be dropped. Exotic is
+suspect. But yes, I can say we've westernised Christianity, made it
+our own. This will annoy many, but I insist Christianity is /not/ a
 universalist, drop-in belief system, but necessarily becomes
 interwoven with, shaped by the people and their land. In /Jane Eyre/
 Charlotte Brontë makes this very clear in her criticisms of St John
-Rivers who insists on becoming a missionary, i.e., "exporting
-Christianity"---instead of just staying in his little moorland village
-and being shepherd to his local sheep.[fn:117] Charlotte makes Pastor
-St John out as an aloof, emotionally anorexic, theology-bound British
-imperialist. I see a much different take on Christian belief with many
-of the nineteenth century poets, Christina Rossetti and the Brontës,
-and I cannot gainsay them; instead, I try to understand their unique
-and subtle understanding of Christianity.
+Rivers who thinks he needs to become a missionary to India, instead of
+just staying in his little moorland village and being spiritual
+shepherd to his flock.[fn:118] Charlotte makes Pastor St John out as
+an aloof, emotionally anorexic, theology-bound British imperialist. I
+see a much different take on Christian belief through many of the
+nineteenth century poets, Christina Rossetti and the Brontës. And no,
+I cannot gainsay them; rather, I try to understand their unique and
+subtle understanding of Christianity. Local, responsive, poetised
+Christianity versus abstract universalist "export" Christianity.
 
 Are there things we in the West can learn from the East?
-Irrelevant. This is a slippery slope I need to stay off. I contend we
-can never truly know Eastern beyond hearsay, the vast majority of us
-not having had any actual experience with the real East, culturally,
-genetically, geographically. And I reject a tourist's encounter, even
-extended-stay tourism. And the example of the British Empire and all
-those Englishmen supposedly "gone bush" in these exotic
-places---T.E. Lawrence in Arabia, and of course the British on the
-Indian Subcontinent. Ultimately, who influenced whom? One might argue
-both the other, supposedly to good ends. Really? Today's educated
-Indians can speak English, but I see little of real British culture
-that has lasted, rather, India threw British imperialism off like a
-bad cold.[fn:118]
+Irrelevant. I say this is a slippery slope we need to stay off. I
+contend we can never truly know Eastern beyond hearsay, beyond
+idealisations. Alone that the vast majority of us having no actual
+experience with the real India or Far East, culturally, genetically,
+geographically. And I reject the prima facie tourist's encounter, even
+extended-stay tourism. The example of the British Empire and all those
+Englishmen supposedly "gone bush" in those far-flung exotic
+places---T.E. Lawrence in Arabia, the [[https://en.wikipedia.org/wiki/British_Raj][British Raj]] on the Indian
+Subcontinent, as well as other far-flung places.[fn:119] Ultimately,
+who has influenced whom? One might argue both the other, supposedly to
+good ends. Really though. Today's educated Indians can speak English,
+but I see little of real British culture that has lasted; more rather,
+India threw British imperialism off like a bad cold.[fn:120]
 
-And now it's time to discuss Protestant Calvinism, clearly a cold
-shower to the warm, fuzzy western Eastern.
+And now it's time to discuss Protestant Calvinism, a very cold shower
+indeed on the warm, fuzzy western Eastern.
 
 *** Reformed Christianity versus Buddhist enlightenment
 
 One glaring difference between East and West can be seen in the
-Calvinist Reformed attitude of what a human is to, may know of
-God---which, as the Protestants believe, is not much. To Calvinism,
-God is infinite, thus, finite people are incapable of comprehending an
-infinite being, full stop. To know God is only possible through
-scripture---and then only through a glass, darkly.[fn:119] Of course
-this creates a huge gradient between human and supreme being ... which
-is diametrically opposed to Eastern enlightenment---satori,
-nirvana. There is no such state of god-like being and knowing to
-strict Protestants. Case in point, the Reformation rejected even
-Catholic metaphysics where thousands of saints supposedly had
-spiritual experiences.
+Calvinist Reformed beliefs of what the human is to, may know of
+God---which, as the Protestants would say, is not very much. To
+Calvinists, God is infinite, thus, finite humans are incapable of
+comprehending an infinite being, full stop. Contrast this with the
+Eastern concept of Eastern enlightenment, i.e., a human reaching a
+quasi-God-like state. In Protestant Christianity there can be no
+master or guru having more spiritual maturity than a novice. And so
+the fatalism of we are all sinners in the eyes of God.[fn:121] Also in
+Protestantism, we may know God only through scripture---and then only
+through that proverbial glass darkly.[fn:122]
 
-Protestant belief is firmly rooted in the concept of Original Sin,
-thus, fatalism. We are fallen and banished from the Garden until
-further notice. And so this relative inferiority bundle of mortality,
-sinfulness, and waywardness is our inescapable lot in life. And herein
-lies a stasis mentality at the spiritual belief level, a holding
-pattern at this grossly lower state of mortal life---at least until
-the Second Coming of Christ.
+Of course this creates a huge gradient between human and supreme
+being, In Calvinism there is no attainable state of god-like being and
+knowing. Which again is diametrically opposed to Eastern
+enlightenment---satori, nirvana. Case in point, the Reformation
+pointedly rejected Catholic metaphysics whereby thousands of saints
+supposedly had spiritual experiences. Protestantism has no saints---or
+at least very few. Rarely does /Saint/ preface a disciple or apostle.
+All metaphysics is contained in the Bible, and nothing supernatural or
+mystical since is acknowledged.
+
+Protestant belief is clearly more fatalistic than Roman Catholic. From
+the Wikipedia article on [[https://en.wikipedia.org/wiki/Original_sin][Original Sin]]
+
+#+begin_quote
+Protestant reformers such as Martin Luther and John Calvin equated
+original sin with /concupiscence/ (or "hurtful desire"), affirming that
+it persisted even after baptism and completely destroyed freedom to do
+good, proposing that original sin involved a loss of free will except
+to sin.
+#+end_quote
+
+We are fallen and banished from the Garden until further notice. Our
+mortal coil, our bundle of mortality, sinfulness, and waywardness is
+our prison while on earth, and any attempt at climbing up the sides of
+life's container is futile. And herein lies a stasis mentality at the
+spiritual belief level, a holding pattern at this grossly lower state
+of mortal life---at least until the Second Coming of Christ.
 
 I must admit my Dark Muse resonates with this doomy sort of
 Christianity
@@ -2754,7 +2799,7 @@ shall be to thy husband, and he shall rule over thee. \\
 ---Genesis 3:16
 #+end_quote
 
-This is Biblical anthropology supposedly explaining why childbirth is
+This is biblical anthropology supposedly explaining why childbirth is
 so painful, even deadly for us. Undeniably, the West is
 Judaeo-Christian, the Bible---half Jewish scriptural history, half
 Jesus and post-Jesus hagiography---contains large amounts of woe and
@@ -2766,7 +2811,7 @@ gnashing of teeth. \\
 ---Matthew 13:42
 #+end_quote
 
-And of course Job
+And of course calamitous Job
 
 #+begin_quote
 And now my soul is poured out upon me; the days of affliction have
@@ -2784,12 +2829,13 @@ alt="Job and his daughters"></a>
 <span class="cap">Blake's Job and his daughters</span>
 #+end_export
 
-In the Book of Job I take the lesson, the admonishment that /we are
-not better than Job/. I then build out by saying /we are not better
-than anyone of the past simply for being concomitant with modern
-scientific discovery and high technology/. To us today Biblical
-characters may sound like ignorant, superstitious hicks. But then I
-ask, Are we better from our modern perches? My answer is
+In the Book of Job I take the lesson, the admonishment that /we are no
+better off than Job/. I then build out by saying /we are not better
+than /anyone/ of the past simply for being concomitant with modern
+scientific discovery and high technology. Yes, biblical characters may
+sound like ignorant, superstitious hicks; but then I ask, are we any
+better, any different just for sitting on our modern perches? My
+answer is
 
 #+begin_quote
 For what is a man profited, if he shall gain the whole world, and lose
@@ -2797,20 +2843,40 @@ his own soul? \\
 ---Matthew 16:26
 #+end_quote
 
-or less Christian preachy, What do we get from modernism and
-high-technology, from a huge, liberalised dance floor if these boons
-destroy our minds, our hearts, and the good green Earth around us? I
-have come to despair at this pervasive attitude that through evermore
-modern high-tech materialism in urban space-colony-like settings we
-are getting anywhere. We are not.
+or, less Christian preachy, What do we get from modernism and
+high-technology, from our huge, liberalised dance floor if these boons
+wind up destroying our minds, our hearts, and the good green Earth
+around us? I have come to despair at this pervasive attitude that
+through evermore modern high-tech materialism in these urban
+space-colony-like settings we are getting anywhere close to any sort
+of self-realisation. We certainly are not. In fact, we are going
+backwards into a collective madness. What then to do? I contend Emily
+Brontë, my little "at-risk" bat eking out her living, gained a clue,
+one precious clue.
 
 *** The totality of Emily Brontë
 
-Here I will simply and plainly state that I believe Emily Jane Brontë
-was the very centre, the utter culmination of the whole Romanticism
-thing---and ironically standing the most outside of any Romanticism
-boxing or packaging. Let me start by saying she combined in her
-/poetry/[fn:120]
+Here I will simply and plainly state that Emily Jane Brontë
+is the very centre of my Dark Muse. She embodies for me the heart and
+soul of Romanticism, but ironically stands mostly outside of any Romanticism
+boxing or packaging. And yet it is her /poetry/, not her book that
+makes her my leader.
+
+Strangely enough I say forget her book /Wuthering Heights/, which for
+me is just gothic novel handle-cranking, however artistically
+potent. As before, I suspect an inevitable inability for prose to do
+what poetry does. Likewise, Poe lost much altitude when he would
+switch from poetry to prose. That is to say, Brontë and Poe said deep
+and lasting things in their verse, but simply added pulp to the gothic
+novel shelf with their prose. I say Dark cannot be captured in
+story. Of course the human is very narrative-oriented, but a story
+must be of legend gestalt. Thus, when we tell a story it must be a
+legend. All other storytelling leads to confusion and ultimately
+madness. And where did I get this idea? From a drunken Native American
+on the Blackfoot Reservation many years ago.
+
+Let me start by saying she combined in her
+/poetry/
 
 + *Pagan Nature*,
 + *Dark*, and
@@ -2820,7 +2886,9 @@ and in keeping with Keats' /Negative Capability/ she did not let any
 one or two overshadow the other two or one. *Like a frontier one-room
 school teacher, she forced the rowdy peasant boys Dark, pagan Nature,
 and Christianity to sit close enough on the school bench to smell each
-other.* It is in these three poems
+other.*
+
+It is in these three poems
 
 + /The night is darkening round me/ (once more),
 + /I'll come when thou art saddest/ and
@@ -2924,158 +2992,6 @@ And with the sky, the peak, the heaving plain
 Of ocean, or the stars, mingle, and not in vain.
 #+end_quote
 
-*** Virginia Woolf counteroffensive against /Jane Eyre/
-
-Every era seems to latch onto some set of hyper-idealisms, our present
-times the herculean task of idealising any sort of non-heterosexual,
-transgender proclivities to the level of enlightenment, the bearers'
-paths through life that of martyrs, geniuses, prophets, and saints. A
-double hero for both gender-bending and modern realism literature is
-Virginia Woolf (1882 - 1941).[fn:121] In the photo to the right I ask,
-do we see a long-suffering, compassionate person, or is this a cold,
-haughty, insufferable urbanite exuding modern emotional detachment and
-unavailability? In any event, she was a late-Victorian,
-early-Edwardian intellectual and writer, a founding member of the
-[[https://en.wikipedia.org/wiki/Bloomsbury_Group][Bloomsbury Group]] of like-minded intellectuals and artists. And it was
-in 1916 in her collected essays called /The Common Reader/ that she
-critiqued /Jane Eyre/, as well as /Wuthering Heights/ and their two
-authors Charlotte and Emily Brontë. And in so doing she could not have
-aligned herself more strongly with the "don't get it" crowd. For
-example, she describes Charlotte in a singularly patronising and
-condescending way
-
-#+begin_quote
-When we think of her [Charlotte Brontë] we have to imagine some one
-who had no lot in our modern world; we have to cast our minds back to
-the ’fifties of the last century, to a remote parsonage upon the wild
-Yorkshire moors. In that parsonage, and on those moors, unhappy and
-lonely, in her poverty and her exaltation, she remains for ever.
-#+end_quote
-
-No "lot" in the modern world, indeed. This /qualifies/ not
-disqualifies Charlotte to tell me a story. It is having no "lot" in a
-natural, organic world from which Woolf suffered. Then
-
-#+begin_quote
-She [Charlotte Brontë] does not attempt to solve the problems of human
-life; she is even unaware that such problems exist; all her force, and
-it is the more tremendous for being constricted, goes into the
-assertion, "I love," "I hate," "I suffer."
-#+end_quote
-
-And what problems of human life have ever been solved by anyone living
-in a modern city? Your city, Ms Woolf, /is the problem/ and any
-solving of anything in a city is the momentary calming of a tempest in
-a teapot. Here she gets to it
-
-#+begin_quote
-In other words, we read Charlotte Brontë not for exquisite observation
-of character---her characters are vigorous and elementary; not for
-comedy---hers is grim and crude; not for a philosophic view of
-life---hers is that of a country parson's daughter; but for her
-poetry. Probably that is so with all writers who have, as she has, an
-overpowering personality, so that, as we say in real life, they have
-only to open the door to make themselves felt. There is in them some
-untamed ferocity perpetually at war with the accepted order of things
-which makes them desire to create instantly rather than to observe
-patiently. This very ardour, rejecting half shades and other minor
-impediments, wings its way past the daily conduct of ordinary people
-and allies itself with their more inarticulate passions. It makes them
-poets, or, if they choose to write in prose, intolerant of its
-restrictions. Hence it is that both Emily and Charlotte are always
-invoking the help of nature. They both feel the need of some more
-powerful symbol of the vast and slumbering passions in human nature
-than words or actions can convey. It is with a description of a storm
-that Charlotte ends her finest novel Villette. "The skies hang full
-and dark---a wrack sails from the west; the clouds cast themselves
-into strange forms." So she calls in nature to describe a state of
-mind which could not otherwise be expressed. But neither of the
-sisters observed nature accurately as Dorothy Wordsworth observed it,
-or painted it minutely as Tennyson painted it. They seized those
-aspects of the earth which were most akin to what they themselves felt
-or imputed to their characters, and so their storms, their moors,
-their lovely spaces of summer weather are not ornaments applied to
-decorate a dull page or display the writer's powers of
-observation—they carry on the emotion and light up the meaning of the
-book.
-#+end_quote
-
-Woolf and her Bloomsbury friends were certainly anti-Romanticism---as
-were all the cool kids by that time; but in this passage her
-ignorance, intolerance, and general cluelessness truly flashes
-brightly. First, saying Charlotte's prose is poetic is not a failing
-as she seems to mean, rather, a great achievement. Then to say
-Charlotte has an overpowering personality leading her to impatiently
-throw out half-baked observations is ludicrous. /Jane Eyre/ is all
-about the main protagonist weaving in and out of the "accepted order
-of things," carving out a place for herself against great
-impediments. But then the centrepiece of Woolf madness, namely, the
-accusation that Charlotte and Emily are always "invoking the help of
-nature." Aaaagh! Virginia, dear, /that's a feature not a bug!/
-
-Woolf is critical of Brontëan use of [[https://en.wikipedia.org/wiki/Pathetic_fallacy][pathetic fallacy]],[fn:122] a
-staple of Romantic Era writing. But of course writers of Woolf's era
-were through with the link between Nature and man. They were onto more
-realistic depictions of life. And yet all I see from them and their
-ilk is existential meaninglessness, hopelessness, absurdism.
-
-No, indeed, Woolf can't abide the Brontëan use of Nature. Charlotte
-has apparently blundered by "call[ing] in nature to describe a state
-of mind which could not otherwise be expressed." What other vehicle of
-expression should there be? Woolf makes her most clueless criticism by
-saying storms, moors, lovely spaces of summer weather should only be
-"ornaments applied to decorate a dull page or display the writer’s
-powers of observation," and using Nature to "carry on the emotion and
-light up the meaning of the book" is bad writing. She claims William
-Wordsworth sister Dorothy was a more accurate observer of
-nature. Really? Dorothy Wordsworth was through-and-through a
-nature-based Romanticist, although mainly unpublished, a poet in
-lockstep with her brother. Fazit: The more shade, the more attempts at
-discredit Woolf flung at the Brontës, the more obvious who the wiser
-was.
-
-Allow me something I found just by opening /Emily Brontë The Complete
-Poems/ to a random page
-
-#+begin_verse
-O evening, why is thy light so sad?
-Why is the sun's last ray so cold?
-Hush! our smile is as ever glad,
-But my heart is growing old.
-
-It's over now; I've known it all;
-I'll hide it in my heart no more,
-But back again that night recall,
-And think the fearful vision o'er.
-
-The evening sun in cloudless shine
-Has passed from summer's heaven divine,
-And dark the shades of twilight grew,
-And stars were in the depth of blue
-
-And in the heath or mountain far
-From human eye and human care,
-With thoughtful thought and tearful eye,
-I sadly watched that solemn sky.
-#+end_verse
-
-The narrator's emotions float upon, are embedded in Nature. A real
-human being has exactly this sort of experience: Life and Nature are
-interwoven. Simply put, the Brontës were beholden unto Nature and
-God. They beseeched Nature and God,[fn:123] and thus came back with
-blessings in the form of lines such as these. And so I cannot allow
-Woolf, nor any other city-bound modernist clone-bunnies, to cancel my
-ladies' artistic licenses. Modern realists like Woolf are
-self-condemned to a mental and emotional poverty for refusing the
-miraculousness---however sublime or terrible---of Nature and our
-fantastic membership thereof. Ironic how urban realists are nearly all
-"reformists" out to radical socialists, always wanting to improve
-mankind's lot, many following deterministic Marxist dialectic
-scripts.[fn:124] And yet they cannot see how /no one knows what to do
-with the Industrial Era!/, nor how the human is supposed to ever
-thrive in these alien, hostile, sterile urban hell zones---however
-decorated this or that corner may be with classical tinsel.[fn:125]
-
 ** A Romantic Movement
 
 #+begin_quote
@@ -3083,7 +2999,6 @@ And further, by these, my son, be admonished: of making many books
 there is no end; and much study is a weariness of the flesh.
 ---Ecclesiastes 12:12
 #+end_quote
-
 
 Academe's take on Romanticism---a very big elephant in the middle of
 the room, indeed. What to do with this beast wont to co-opt and usurp
@@ -3093,12 +3008,12 @@ incessantly pigeon-holing it as gothic fright---or just missing it
 entirely. Again, one of the main tasks of WutheringUK is to get Dark
 out of its academe and popular media prisons. Foremost is how academe
 Romanticism seems more the labeling work of these clueless busy-bodies
-than any intentional movement from the actual creators.[fn:126] Which
+than any intentional movement from the actual creators.[fn:123] Which
 begs the question posed by the highly-respected twentieth-century
 humanities professor Isaiah Berlin in his lecture series on
 Romanticism whether those times were not something timeless, a
 permanent state of mind wholly outside of anyone's historical fence
-work.[fn:127] Nevertheless, there is no avoiding the sweeping
+work.[fn:124] Nevertheless, there is no avoiding the sweeping
 intellectualisations, the mountains of churn from Romanticism's
 academic investigators. And as I say, /none/ of them get Dark; and in
 general, the more they think they know, the less they actually
@@ -3133,7 +3048,7 @@ Yes, many contemporaries of the actual artistic producers helped talk
 Romanticism into existence---the Jena Set, Coleridge, Germaine de
 Staël, Emerson et al.---but again, I believe the actual principals
 were far-sighted, inward-gazing, quasi-timeless unicorns not following
-guidelines or living up to anybody's expectations.[fn:128] ... and most
+guidelines or living up to anybody's expectations.[fn:125] ... and most
 certainly they did not "write to spec" or pastiche, as was fairly
 obviously the case with gothic horror novelists. /And so I say sifting
 through all the academic chaff gets us nowhere versus simply reading
@@ -3153,7 +3068,7 @@ Edgar Allan Poe. With them we see their creations take us into the
 ephemeral mists of Romanticism's subtleties and sublimities, while
 their intellectualizations and pontifications thereof sound windy, if
 not shrill out to ridiculous. No wonder the concept of left-brain,
-right-brain arose,[fn:129] as nothing else can describe this
+right-brain arose,[fn:126] as nothing else can describe this
 split-personality confusion. But the urban salons necessarily
 trafficked in rational, left-brain talk and copy. And this is for me
 the /crisis of Romanticism/, i.e., the huge divide between the
@@ -3173,7 +3088,7 @@ in less than a day, with imitations instantly springing up like
 mushrooms after rain. But in the closing years of the eighteenth
 century there just seemed to be something in the air, which came to be
 called Romanticism, apparently first by Jena Set founder Friedrich
-Schlegel[fn:130] ... after Coleridge and Wordsworth's collaboration
+Schlegel[fn:127] ... after Coleridge and Wordsworth's collaboration
 /Lyrical Ballads/ (first edition) appeared in 1798 and Novalis' /HttN/
 in 1800. But again, my principle principal, Emily Brontë, who wrote
 decades later, arguably knew very little to absolutely nothing about
@@ -3183,7 +3098,7 @@ supposedly encountered translations of Ludwig Tieck's short
 stories. Otherwise, there had not been much cross-fertilisation,
 rather, the Romanticism Muse was, yes, just something in the air.
 
-/Early German Romanticism/[fn:131] began when Novalis' /HttN/ burst
+/Early German Romanticism/[fn:128] began when Novalis' /HttN/ burst
 upon the scene in the very first year of the nineteenth century. Clear
 to me, however, is that /HttN/ was a one-off that came out of the
 blue, thus, certainly not intentional, positioned for, or tailored to
@@ -3210,7 +3125,7 @@ Dark entirely.
 *** Poe and Dark Romanticism
 
 And then /[[https://en.wikipedia.org/wiki/Dark_Romanticism][Dark Romanticism]]/ (DR) ... another academe box. At its
-centre was supposedly [[https://en.wikipedia.org/wiki/Edgar_Allan_Poe][Edgar Allan Poe]].[fn:132] Alas but the Wikipedia
+centre was supposedly [[https://en.wikipedia.org/wiki/Edgar_Allan_Poe][Edgar Allan Poe]].[fn:129] Alas but the Wikipedia
 description of DR trots out all the negative stereotypes of Dark. As
 one biographer noted, Poe struggled all his short adult life to make a
 living as a writer and poet. One supposed quote of his said
@@ -3313,7 +3228,7 @@ Leanore into the lines. Allow me, please.
 And so here I want to make a very important point about my principals,
 to be sure, *that they were only vessels*, those particular mortals
 the Muses chose to be their emissaries. This angle is well developed
-in the Hollywood film /[[https://en.wikipedia.org/wiki/Amadeus_(film)][Amadeus]]/ where Mozart[fn:133] was depicted as an
+in the Hollywood film /[[https://en.wikipedia.org/wiki/Amadeus_(film)][Amadeus]]/ where Mozart[fn:130] was depicted as an
 immature, outta-control brat and yet the conduit of heavenly music. As
 alluded above, Novalis was likely just such a boy-wonder Amadeus sort,
 Poe no doubt lashing out mercurial, Emily Brontë austere anorexic,
@@ -3485,16 +3400,186 @@ true Dark.
 
 ** All travesties aside...
 
+#+begin_quote
+The past is a witness that never speaks but never blinks. The guilty,
+the sick of our era sense this and attack it, slander and distort
+it.
+#+end_quote
+
+...so saith I, for during our era my principals have indeed been
+grossly slandered and misrepresented. Read on...
+
 What if we all went around completely misrepresenting each other,
-telling outlandishly false things about whomever whenever? Enmity,
+saying outlandishly false things about whomever whenever? Enmity,
 feuding, fisticuffs, the breakdown of society, perhaps even civil war
-would ensue---at the very least lawyers would get rich from all the
+would ensue ... at the very least lawyers would get rich from all the
 libel and slander lawsuits. But what if the people about whom we are
 spewing pure calumny, making up whole-cloth fabrications are the long
-since dead? In today's Hollywood this very fate has recently befallen
-my Bach and Mozart of poetry, Emily Brontë and Emily Dickinson. The
-past is a witness that never speaks but never blinks. The guilty, the
-sick of our era sense this and attack it, slander and distort it.
+since dead and seemingly have no champions? In today's Hollywood this
+very fate has recently befallen my Bach and Mozart of poetry, Emily
+Brontë and Emily Dickinson. But first, allow me to deal with a
+particularly annoying critical review of /Jane Eyre/ by the
+proto-feminist Virginia Woolf.
+
+*** Virginia Woolf's modernist counteroffensive against /Jane Eyre/
+
+Every era seems to latch onto some set of hyper-idealisms, our present
+times the herculean task of idealising any sort of non-heterosexual,
+transgender proclivities to the level of enlightenment, the bearers'
+paths through life that of martyrs, geniuses, prophets, and saints. A
+double hero for both gender-bending and modern realism literature is
+[[https://en.wikipedia.org/wiki/Virginia_Woolf][Virginia Woolf]] (1882 - 1941).[fn:131]
+
+In the photo to the right I ask, do we see a long-suffering,
+compassionate person; or is this a cold, haughty, insufferable
+urbanite exuding emotional detachment and unavailability? Hard to say
+from just a picture. In any event, she was a late-Victorian,
+early-Edwardian intellectual and writer, a founding member of the
+[[https://en.wikipedia.org/wiki/Bloomsbury_Group][Bloomsbury Group]] of like-minded intellectuals and artists. And it was
+in 1916 in her collected essays called /The Common Reader/ that she
+critiqued /Jane Eyre/, as well as /Wuthering Heights/ along with their
+two authors Charlotte and Emily Brontë. And as I posit, in so doing
+she could not have aligned herself more strongly with the "don't get
+it" crowd.
+
+Woolf is openly patronising and condescending of Charlotte
+
+#+begin_quote
+When we think of her [Charlotte Brontë] we have to imagine some one
+who had no lot in our modern world; we have to cast our minds back to
+the ’fifties of the last century, to a remote parsonage upon the wild
+Yorkshire moors. In that parsonage, and on those moors, unhappy and
+lonely, in her poverty and her exaltation, she remains for ever.
+#+end_quote
+
+No "lot" in the modern world? This /qualifies/ not disqualifies
+Charlotte to tell me a story. It is having no "lot" in a natural,
+organic world from which Woolf suffered. Then
+
+#+begin_quote
+She [Charlotte Brontë] does not attempt to solve the problems of human
+life; she is even unaware that such problems exist; all her force, and
+it is the more tremendous for being constricted, goes into the
+assertion, "I love," "I hate," "I suffer."
+#+end_quote
+
+Outrageous! And what problems of human life have ever been solved by
+anyone living in a modern city? Cities, Ms Woolf, /are the problem/,
+and any attempt at solving anything in a city is never more than the
+momentary calming of a tempest in a teapot. Here she really gets to it
+
+#+begin_quote
+In other words, we read Charlotte Brontë not for exquisite observation
+of character---her characters are vigorous and elementary; not for
+comedy---hers is grim and crude; not for a philosophic view of
+life---hers is that of a country parson's daughter; but for her
+poetry. Probably that is so with all writers who have, as she has, an
+overpowering personality, so that, as we say in real life, they have
+only to open the door to make themselves felt. There is in them some
+untamed ferocity perpetually at war with the accepted order of things
+which makes them desire to create instantly rather than to observe
+patiently. This very ardour, rejecting half shades and other minor
+impediments, wings its way past the daily conduct of ordinary people
+and allies itself with their more inarticulate passions. It makes them
+poets, or, if they choose to write in prose, intolerant of its
+restrictions. Hence it is that both Emily and Charlotte are always
+invoking the help of nature. They both feel the need of some more
+powerful symbol of the vast and slumbering passions in human nature
+than words or actions can convey. It is with a description of a storm
+that Charlotte ends her finest novel /Villette/. "The skies hang full
+and dark---a wrack sails from the west; the clouds cast themselves
+into strange forms." So she calls in nature to describe a state of
+mind which could not otherwise be expressed. But neither of the
+sisters observed nature accurately as Dorothy Wordsworth observed it,
+or painted it minutely as Tennyson painted it. They seized those
+aspects of the earth which were most akin to what they themselves felt
+or imputed to their characters, and so their storms, their moors,
+their lovely spaces of summer weather are not ornaments applied to
+decorate a dull page or display the writer's powers of
+observation---they carry on the emotion and light up the meaning of
+the book.
+#+end_quote
+
+I'm not sure how a person could be more clueless, more mistaken. Woolf
+and her Bloomsbury friends were certainly anti-Romanticism---as were
+all the cool kids by that time; but in this passage her ignorance,
+intolerance, and general cluelessness truly flashes brightly. First,
+saying Charlotte's prose is poetic is not a failing as she seems to
+mean, rather, great achievement. Then to say Charlotte has an
+overpowering personality leading her to impatiently throw out
+half-baked observations is ludicrous. /Jane Eyre/ is all about the
+main protagonist weaving in and out of the "accepted order of things,"
+carving out a place for herself against great impediments. But then
+the centrepiece of Woolf lunacy, namely, the accusation that
+Charlotte and Emily are always "invoking the help of nature." Aaaagh!
+Virginia, dear, /that's a feature not a bug!/
+
+Woolf is critical of Brontëan use of [[https://en.wikipedia.org/wiki/Pathetic_fallacy][pathetic fallacy]],[fn:132] a
+staple of Romantic Era writing. But of course writers of Woolf's era
+were through with the link between Nature and man. They were onto more
+realistic depictions of life. And yet all I see from them and their
+ilk is creating snob appeal around existential meaninglessness,
+hopelessness, absurdism.
+
+No, indeed, Woolf can't abide the Brontëan use of Nature. Charlotte
+has apparently blundered by "call[ing] in nature to describe a state
+of mind which could not otherwise be expressed." What other vehicle of
+expression should there be? Woolf makes the ridiculous criticism of
+saying storms, moors, lovely spaces of summer weather should only be
+"ornaments applied to decorate a dull page or display the writer’s
+powers of observation." She says the use of Nature to "carry on the
+emotion and light up the meaning of the book" is bad writing. She
+claims William Wordsworth sister Dorothy was a more accurate observer
+of nature. Really? Dorothy Wordsworth was through-and-through a
+nature-based Romanticist. Although mainly unpublished, she was a poet
+in lockstep with her brother. My takeaway is the more shade, the more
+attempts at discrediting the Brontës Woolf made, the more obvious who
+the wiser was.
+
+Allow me something I found literally by just opening /Emily Brontë The
+Complete Poems/ to a random page
+
+#+begin_verse
+O evening, why is thy light so sad?
+Why is the sun's last ray so cold?
+Hush! our smile is as ever glad,
+But my heart is growing old.
+
+It's over now; I've known it all;
+I'll hide it in my heart no more,
+But back again that night recall,
+And think the fearful vision o'er.
+
+The evening sun in cloudless shine
+Has passed from summer's heaven divine,
+And dark the shades of twilight grew,
+And stars were in the depth of blue
+
+And in the heath or mountain far
+From human eye and human care,
+With thoughtful thought and tearful eye,
+I sadly watched that solemn sky.
+#+end_verse
+
+The narrator's emotions float upon, are embedded in Nature. A real
+human being has exactly this sort of experience: Life and Nature are
+interwoven. Simply put, the Brontës were beholden unto Nature and
+God. They beseeched Nature and God,[fn:133] and thus came back with
+blessings in the form of lines such as these. And so I cannot allow
+Woolf, nor any other city-bound modernist clone-bunnies, to cancel my
+ladies' artistic licenses. Modern realists like Woolf are
+self-condemned to a mental and emotional poverty for refusing the
+miraculousness---however sublime or terrible---of Nature and our
+fantastic membership thereof. Ironic how so-called urban realists are
+nearly all "reformists" out to radical socialists, always wanting to
+improve mankind's lot, many following deterministic Marxist dialectic
+scripts.[fn:134] And yet they cannot see how /no one knows what to do
+with this Industrial Era!/---not the absentee capitalists, not the
+socialists. Nor does anyone know how the human is supposed to ever
+thrive in these alien, hostile, sterile urban hell zones---however
+decorated this or that corner may be with classical tinsel.[fn:135]
+
+*** Modern attack on the Amherst and Haworth Emilies
 
 If Virginia Woolf was wrong out to downright silly, she was just a
 beginner at literary defamation. The travesties I mean are the
@@ -3506,19 +3591,20 @@ the need to correct these serious crimes against culture and history
 that I have initiated this whole WutheringUK effort.
 
 Both /Dickinson/ and /Emily/ are completely cringe unwatchable, but
-worse by far is the all but demonic inhabitation of Emily Dickinson
+worse by far is the all but demonic mutilation of Emily Dickinson
 unfolding in the three-season, thirty episode AppleTV+ series
 /Dickinson/. Apparently, the real Amherst Emily said something
 affectionate in a letter to a female friend---which opened the door
 for screenwriter Alena Smith to flip typical nineteenth-century
-platonic[fn:134] to sexual and reinvent the shy, gentle, reclusive, homebody,
-proto-nerd-girl Emily Elizabeth as a brassy, bratty, boorish, snarky,
-completely desensitised and masculinised, outta-control, hyper-sexual
-protest-lesbian champion against the patriarchy. And so this period
-porn, this cultural hooliganism went on for three years, spread over
-thirty episodes of crashing, crypto-rebel poser effrontery, even
-winning a Peabody, among other, "awards." As the wincing Wikipedia
-article, which categorises it as a "comic-drama," (sic) says
+platonic[fn:136] to sexual and reinvent the shy, gentle, reclusive,
+homebody, proto-nerd-girl Emily Elizabeth as a brassy, bratty,
+boorish, snarky, completely desensitised and masculinised,
+outta-control, hyper-sexual protest-lesbian champion against the
+patriarchy. And so this period porn, this cultural hooliganism went on
+for three years, spread over thirty episodes of crashing, crypto-rebel
+poser effrontery, even winning a Peabody, among other, "awards." As
+the wincing Wikipedia article which categorises it as a
+"comic-drama" says
 
 #+begin_quote
 /Dickinson/ is notable for its use of anachronisms, incorporating
@@ -3530,19 +3616,20 @@ historical events and figures.
 /Dickinson/ is "a window into the cultural and political climate of
 the time."  Really? Quite a dirty, distorting window. It is nothing of
 the sort, rather, an entire reinvention based on radical, male-hating,
-misanthropic, twenty-first-century agitprop feminism, full stop. If
-conspiracy theories about "cultural Marxism" were ever to be taken
-serious, this would be Exhibit A.[fn:135] This is nothing less than a
-frontal assault on an icon of Western culture, and I don't like it.
+misanthropic, twenty-first-century agitprop feminism, full
+stop. Again, if conspiracy theories about Cultural Marxism were ever
+to be taken serious, this would be Exhibit A.[fn:137] This is nothing
+less than a frontal assault on an icon of Western culture, and I don't
+like it.
 
 #+begin_export html
 <a href="https://youtu.be/_GtV9V0dBgw?si=HTTfzuAgwdYbgrD0" target="_blank"><img src="./images/EmilyDSnoggin.jpg" width="740" alt="Snogging Emily"></a>
-<span class="cap">Ah, nice wallpaper?</span>
+<span class="cap">Ahhh, nice wallpaper?</span>
 #+end_export
 
 More innocuous perhaps because it is a single film lasting only two
 hours, thus, not able to get up to as much evil and inanity as
-/Dickinson/, is the 2022 Hollywood /Emily/,[fn:136] depicting Emily
+/Dickinson/, is the 2022 Hollywood /Emily/,[fn:138] depicting Emily
 Brontë, the woman I consider the greatest, deepest English-language
 poet, as a clumsy, oafish maladroit, stumbling around in a completely
 anachronistic period fantasy chaos. Enough said.
@@ -3551,11 +3638,11 @@ I hemmed and hawed over this bit of electron savagery, but seriously,
 there can be /zero/ buy-in to this sort of nonsense if we are to get
 anywhere near understanding the true nature of these special
 people. To get, to grok my principals we must suspend any and all
-revisionist wishful thinking. We can't just have actors donning
-excellent period costumes---only to carry on like today's vapid urban
-hipsters. We have to accept, work with the world they inhabited, warts
-and all. /They're not our pets./ And even if we could go back in time
-and meet our chosen unicorns, we would probably not become their
+revisionist nonsense. We can't just have actors donning excellent
+period costumes---only to carry on like today's vapid, degenerate
+urban hipsters. We have to accept, work with the world they inhabited,
+warts and all. /They're not our pets./ And even if we could go back in
+time and meet our chosen unicorns, we would probably not become their
 friends. In my novel /Emily of Wolkeld/ my modern Emily is playing the
 tourist in today's tourist-trap Haworth and imagines an encounter with
 classic Emily
@@ -3573,19 +3660,22 @@ abrupt, protective of her privacy, in short, anti-social. Again,
 making a personality cult out of our heroes from the past, however
 sensational as we may now see them, is a big mistake.
 
-Indeed, polemicists are forever appropriating some defenceless figure
-from the past to reimagine as their pets. And so any gifted unicorn
-from yesteryear who might have chafed even the least bit at society's
-eternal(ly shifting, reforming) containment fields is reintroduced
-reconstituted as some modern hack's proto-revolutionist. For shame.
-Ghost rustling, I call this.
+Indeed, hacks, polemicists are forever appropriating some defenceless
+figure from the past to reimagine as their pets. And so any gifted
+unicorn from yesteryear who might have chafed even the least bit at
+society's eternal(ly shifting, reforming) containment fields is
+reintroduced reconstituted as some proto-revolutionist. For
+shame. Ghost rustling, I call this.
+
+*** It's not all bad: the 2011 /Jane Eyre/, the 2009 /Bright Star/
 
 Contrast with the 2011 /Jane Eyre/ where the modernist triumphalist
 nonsense is kept to a minimum. In this umpteenth filming of the
-Charlotte Brontë classic, there are two actual prayer scenes! I urge
-everyone to watch this gem. Likewise, the Jane Champion /Bright Star/
-mentioned above. Still, these are modern screen verisimilitude, which
-cannot and does not capture much other than a sweet vibe.
+Charlotte Brontë classic, there are two actual Christian prayer
+scenes! I urge everyone to watch this gem. Likewise, the Jane Champion
+/Bright Star/ mentioned above. Still, these are modern screen
+verisimilitude, which cannot and does not capture much other than a
+sweet vibe.
 
 #+begin_export html
 <a href="https://youtu.be/XvkrPL1TbPU?si=ED1WFdBeB1zPIg05" target="_blank"><img src="./images/MiaAsJaneEyre2011.jpg" width="780" alt="Snogging Emily"></a>
@@ -3597,88 +3687,107 @@ Of course the audio-visual medium of film is fraught. First and
 foremost, we must accept the social-political landscape of those
 times. Christianity for one simply was a given in both of their
 lives. It was their metaphysical foundation and was largely accepted
-by both Emilies, indeed, often poetised.
+by both Emilies, indeed, as I've said, so often poetised.
 
 Today we shamble about in a political fog where the Left will not
 believe anything good about the past, and the Right will not brook
-anything bad about some golden era in their imaginations. The Left,
-however, is arguably everything Noam Chomsky had to say about French
-nihilism, and the Right an amalgamation of conservative and, newly,
-libertarianism.[fn:137]
-
-
+anything bad about some golden era in their limited imaginations. The
+Left, however, is arguably everything Noam Chomsky had to say about
+French nihilism, and the Right an amalgamation of conservative and,
+newly, libertarianism.[fn:139]
 
 
 ** Grand Marais, my sepulchre by the sea?
 
-One of my earliest brushes with Dostoevski's /presence of eternal
-harmony/ came on a Halloween night back when I was a little boy in a
-small Southern Illinois town. We were trick-or-treating on our street,
-the oldest neighbourhood in town with Victorians, cobblestone, and gas
-streetlights. At some point it felt as though I had left the present
-and entered another dimension---a nighttime fairy forest of bare
-trees. Everything was magical, and yet as I was still young enough not
-to be completely disabused of magic, I did not think anything was too
-out of the ordinary. I distinctly remember looking up into the dense,
+One of my earliest brushes with the magic of Dostoevski's /presence of
+eternal harmony/ came on a Halloween night back when I was a little
+boy in a small Southern Illinois town. Deep, late-autumn darkness and
+we were trick-or-treating on our street, the oldest neighbourhood in
+town with its Victorians, brick paver street, and gas streetlights. At
+some point I felt like I had left reality and entered another
+dimension---some nighttime fairy forest of bare trees. Everything was
+ethereal and otherworldly, and still young enough not to be completely
+disabused of magic, I didn't think anything was too out of the
+ordinary. Indeed, I distinctly remember looking up into the dense,
 bare branches of a huge old oak and seeing the moon looking in and out
-of crossing clouds and feeling like I was a spirit entered another
-world. I sometimes get that feeling where I now reside.
+of crossing clouds and feeling like I was a part of some
+legendspace.[fn:140] Throughout my life I've compared subsequent POEH
+experiences with that Halloween night. Perhaps this is why I cleave to
+the Dark Muse.
 
-I live in the far-northeastern tip of Minnesota on the so-called North
-Shore of Lake Superior, in the very last county, Cook, just before the
-Canadian border. This so-called "[[https://en.wikipedia.org/wiki/Arrowhead_Region][Arrowhead Region]]" holds some three
-million-plus acres of wilderness on the shores of the world's largest
-body (by surface area) of freshwater. And to my mind, this is a very
-Dark Muse kind of place, so much so that I cannot go, I cannot go,
-much as my fellow humans distress me with their pointedly anti-Dark
-attitudes. Pictures may be worth a thousand words, but our Dark vibe
-here must be experienced to be really appreciated. And yes, I still
-see this other world of shadow and magic whenever I look out at my
-moonlit /Inland Sea/ over the treetops of dark spruce and gnarled,
-bare aspen.
+I now live in the far-northeastern tip of Minnesota on the so-called
+North Shore of Lake Superior, in the very last county, Cook, just
+before the Canadian border. This is the so-called "[[https://en.wikipedia.org/wiki/Arrowhead_Region][Arrowhead Region]]"
+flairing out north and east of Duluth, some four million-plus acres of
+wilderness on the shores of the world's largest body (by surface area)
+of freshwater. To my mind, here is a very Dark Muse kind of place, so
+much so that I cannot go, I cannot go---as much as my fellow humans
+distress me with their pointedly anti-Dark attitudes. Pictures may be
+worth thousands of words, but our Dark vibe must be experienced to be
+truly appreciated. I still get tiny glimpses of the shadow and magic
+realm whenever I look out at my moonlit /Inland Sea/ over the treetops
+of dark spruce and gnarled, bare aspen. Once again, Nature is the
+foundation of Dark.
 
-/Inland Sea/,[fn:138] thus, North Coast instead of North
-Shore. Indeed, she is so much more sea-like than any lake. To my
-thinking, a lake is something much smaller and much friendlier. Our
-Inland Sea is big and often violent like any sea or ocean of
-saltwater. She's no simple lake for beer-and-brats picnickers,
-windsurfers, speedboat and jet ski riffraff.[fn:139] To be sure, she
-has a mighty présence, often dark and moody if not threatening.
+/Inland Sea/[fn:141]... Indeed, /Mother Superior/ is so much more
+sea-like than any lake. To my thinking, a lake is something much
+smaller and much---simpler. Our Inland Sea is big and often violent
+like any sea or ocean of saltwater. She's no friendly little lake for
+beer-and-brats picnickers, speedboat and jet ski riffraff.[fn:142] To
+be sure, she has a mighty présence, often dark and moody if not
+threatening.
 
-Here is nothing really spectacular in the modern sense of the American
-Great Outdoors, nothing overwhelms us like we typically think of the
-American West and Alaska with one postcard vista after
-another. Rather, here is more subtlety, more reserve. Often a deep
-moodiness prevails. And as I insist, only subtle can lead to
-sublime. But again, the people here a decidedly not Dark Musers, which
-creates an almost perfect laboratory to test whether Dark is nature or
-nurture. I'm saying if there are no gothic buildings, e.g., no Père
-Lachaise Cemetery,[fn:140] no community of mutually re-enforced
-nighttime proclivities, then any Dark I'm getting must come from the
-actual place itself, i.e., one hundred percent nature over
-nurture. Which bolsters my argument that the Dark Muse ultimately
+Despite the great, overwhelming wildness, the Arrowhead has nothing
+really spectacular in the usual American Great Outdoors sense. Nothing
+overwhelming as with the American West and Alaska with their postcard
+vistas galore. Rather, here is more subtlety, more reserve. As I
+insist, a deep moodiness often prevails, and subtle is the best path
+to sublime. Sadly, however, my fellow humans here tend not to be Dark
+Musers. Which has a silver lining in that here is a perfect laboratory
+to test whether a Dark Muse is nature or nurture. Exactly. If I have
+no other-century architecture, e.g., no Père Lachaise
+Cemetery,[fn:143] no community to mutually re-enforce nighttime
+proclivities, then any Dark musing must come from the actual place
+itself, hence, nature over nurture. Once more, Dark Muse ultimately
 comes from Nature.
 
-But yes, I am quite alone here in my dark-oriented assessments. My
-little village, Grand Marais, the county seat, is only some thirteen
-hundred souls. And yet as the years go by we are becoming evermore
-suburban-like in mentality. Being a popular Northern Midwest resort
-town, we have a steady stream of newcomers who increasingly are not
+But yes, I am quite alone here with my Dark musings. Despite Grand
+Marais counting only some thirteen hundred souls, we are becoming
+evermore urban/suburban-like in behavior and mentality. Why? Mainly
+because we are a popular Northern Midwest resort town, thus, there is
+more transience than usual, and these newcomers are increasingly not
 adapting to small-town life; instead, maintaining their aloof,
-disengaged, emotionally unavailable, blinkered urban-suburban ways.
+disengaged, emotionally unavailable, blinkered urban-suburban ways. Of
+course "boosters," the knee-jerk positive promoters and spin doctors,
+will always disagree, but many "old-timers" agree that it ain't what
+it used to be. Alas.
 
-Another social-psychology pitfall is how many people came up from a
-Chicago or especially Twin Cities suburb ostensibly to reinvent
-themselves. They've made the leap out of the sterile, soulless
-clone-bunny suburbia to now be some new and improved version of
-themselves. They typically riff on Hemingway and Jack London, i.e., a
-macho attitude about wilderness and what I call this
-/Neo-Klondikism/. This is totally different from the real pioneers of
-late nineteenth, early twentieth centuries who most certainly brought
-Victorian civilization to the wilderness.
+A particular North Shore social-psychology phenomenon is the large
+numbers of people who relocate here from Midwestern urban city-states,
+e.g., Chicago or especially the Twin Cities, ostensibly to /reinvent/
+themselves. Of course tourist destinations trade in image and fantasy,
+but here is a unique sort of expectancy. My theory has it that our
+newcomers have made the leap out of their sterile, soulless
+clone-bunny urban/suburban to be some better, more /authentic/ version
+of themselves in the wilderness. The most dominant North Shore
+lifestyle is informed by Hemingway and Jack London, i.e., a macho
+attitude about the Great Outdoors, something I call
+/Neo-Klondikism/. Of course the real white European North Shore
+pioneers of late nineteenth, early twentieth centuries were mainly of
+Scandinavian origins and brought their admixture of Scandi and
+Victorian civilization to the wilderness. But little if any of this
+remains. Now we see gonzo /Outside/ magazine acteurs, college-grad
+back-to-the-lander nouveau hillbilly peasant chic, tattoos, huge
+beards, Carhartt clothing, Jeep Cherokees, their theme music faux
+country-western Appalachian---in other words a complete crazy quilt
+guerrilla theatre of American Zeitgeist phantom imagery.
 
-Because the spectacular is mostly blazingly lit, our dearth of
-spectacular allows the night to come up alongside.
+Though I cannot say outright nobody "gets" this place. There is a
+tacit understanding that here is not dazzling striking blazing. An
+advertisement poster showed a twilit wilderness lake with the tagline
+"Stirred not shaken." I'm sure many do have Dark Muse moments, but
+simply lack any power. For example our so-called Northern Lights are a
+big draw, thus, the Night may get a probational capitalisation.
 
 #+begin_export html
 <a href="https://sivertson.com/shop/prints-posters/northern-lights/" target="_blank"><img src="./images/Northern-Lights.jpg" width="740" alt="Norther Lights"></a>
@@ -3691,35 +3800,114 @@ late-autumn hike
 #+begin_quote
 Mists race westward through the surrounding spruce forest. The entire
 ridge enveloped in snow clouds, the light failing, the Western
-Hemisphere’s greatest inland sea---just four miles south and seven
-hundred feet below---totally obscured. Sleet falls fast and hard,
-stinging my face; my eyes cannot fully focus; though I hear the wind
-through the coated trees, the distant sound of the invisible waves,
-crashing angrily against the rocks, always the rocks...
+Hemisphere’s greatest inland sea fully obscured just four miles south
+and seven hundred feet below. Sleet begins to fall stinging my face
+disallowing my eyes to fully focus. Though I hear the wind through the
+coated trees, the distant sound of the invisible waves, crashing
+angrily against the rocks, always the rocks land's staunch defenders.
 
 I have come the four miles up from the town, up the wet, slippery
 trail, up through the darkening forest, to pay homage to this late
-autumn wonderland. The Dark Muse is strong. I, the Modern, wear a
-Gore-tex jacket, over a Merino wool top, over a silk base layer. I
-wear black lycra tights, padded biking gloves in case of a fall. I
-wear special minimalist moccasins made to simulate barefoot running. I
-am out to face the age-old elements hiding behind these modern
-accoutrements. I considered walking rather than running, but no,
-darkness was too near and I had to reach the ridge-top ere dusk. Not a
-soul as I climbed the trail. Pausing at the ridge’s two main streams
-to witness their loud and clear coursing from all the new
-precipitation. It was all but dark when I set off from the
-cloud-bound ridge-top for the town again. The snow was accumulating in
-earnest, making downhill footing difficult. But as I say, the Muse was
-strong, and the growing darkness made it all the stronger.
+autumn wonderland. I, modern, wear a Gore-tex jacket over a Merino
+wool top over a silk base layer. I wear black lycra and Merino running
+tights and padded biking gloves in case of a fall. I wear special
+minimalist moccasins made to simulate barefoot running. So dressed I
+am out to face the age-old elements.
+
+I consider walking rather than running, but no, darkness was too near
+and I had to reach the ridge-top ere dusk. Not a soul as I climb the
+trail. I pause at the ridge’s two main streams to witness their loud
+and clear coursing from all the new precipitation. Strangely but
+fittingly anti-climatic is my arrival at the cloud-bound top of the
+ridge. All but dark when I set off again for town. The snow is now
+accumulating in earnest, making downhill footing difficult. But the
+Muse is strong, and the growing darkness makes it all the stronger.
 #+end_quote
 
 That was written before I really had latched onto the Dark Muse. Now
 things are much more firmly formed and I'm following a more
 intentional path vis-à-vis Dark...
 
-...which began as I tell people back when I was a soldier in Germany
+When did the magical become the Dark magical? Everyone of my
+generation knows the television shows /[[https://en.wikipedia.org/wiki/The_Addams_Family][The Addams Family]]/ and /[[https://en.wikipedia.org/wiki/The_Munsters][The
+Munsters]]/ ... as well as various gothic and horror films. Odd as those
+shows were, everyone seemed to "get" it and laugh along with the basic
+gothics versus normies gag. Likewise, the biggest film of my early
+childhood, /[[https://en.wikipedia.org/wiki/The_Wizard_of_Oz][The Wizard of Oz]]/ which had many dark themes, especially
+the Wicked Witch of the West's very creepy flying monkeys and
+castle.[fn:144]
+
+My teen years were fairly normal, my only Dark exposure coming from my
+paternal grandmother, who was very English and very Neo-Victorian. My
+grandparents were moderately well-off and she channelled a very
+Victorian Englishness, inherited from her model Victorian mother,
+creating a proto-Downton Abbey aura which no one in that small
+Southern Illinois small town could fathom---until seeing Maggie
+Smith's Violet Crawley, The Dowager Countess of Grantham.
+
+#+begin_export html
+<a href="https://pbswisconsin.org/article/celebrate-international-tea-day-with-violet-crawley/" target="_blank"><img src="./images/DowntonViolet.jpg" width="800" alt="Victorian Ladydom"></a>
+<span class="cap">My grandmother in a more suitable universe.</span>
+#+end_export
+
+My Grandma Grace Virginia was not a rangy intellectual, but she was a
+carrier of the Victorian mega-meme and specifically exposed me to its
+poets, especially Poe. She could recite /Annabel Lee/ by heart. Again,
+she was not an educated thinker; nevertheless, she possessed an
+instinctual grasp of the Dark Muse. Longfellow and Whittier were also
+favourites, and I can only assume she had been infected by her mother
+born circa 1870. To be sure, we are woven from strands reaching back
+into the past.
+
+Certainly the most influential event in my life was being stationed by
+the U.S. Army in West Germany, beginning in 1975 and lasting some
+three years. For the first time in my life I was seeing the Old World,
+a realm where Dark as I discovered always seemed to be lurking. My
+first assignment was far out on the Bohemian frontier deep in the
+/[[https://en.wikipedia.org/wiki/Bavarian_Forest][Bavarian Forest]]/ where the U.S. Army and Air Force manned a small
+mountaintop electronic eavesdropping post.[fn:145] We were less than
+one hundred Americans and lived "on the economy," which meant we had
+no base or barracks and lived amongst the locals. My rooms were with a
+farmer family in a house just below a /haunted/ castle ruins just
+below the thickly forested main ridge. I arrived in late September
+just as the beech and oak leaves were changing.
+
+I'll never forget waking up that first morning in the small
+country-style /Pension/ the Army had rented for transients. It was
+located in the centre of the village, and overlooked the inner
+courtyard of a farm where I saw a wizened old crone from a fairytale
+splitting firewood. I looked up on the facing hillside and saw it
+populated with some ten or more men wearing what looked like
+other-century traditional costumes scything by hand hay.
+
+Legendsapce receptor sites.
+
+Nature there had a very dark, old
+feel to it, while by comparison my Tennessee Smoky Mountains had a
+lighter feel. I often hiked up to the ruins, which had a reconstructed
+keep.[fn:146] A legend said a princess had thrown herself from the
+original keep to her death, and her ghost supposedly roamed the place
+after dark. This and many ghost stories were taken serious by the
+locals, who seemed out of another era to be sure. I can remember very
+many dark, gothic moments in that place, as well as other chance
+moments during my Army times. But I was not keying on Dark; it was all
+simply experiential. Like a subsequent posting to the north in a small
+Lower Saxony town. There my digs were in a centuries-old half-timbered
+house.
+
+For the first time I wasn't plugged into the social-psychology feed of
+American media. Everything around me felt old, very old, the Bavarians
+connected to something else, perhaps a fairytale that was now in
+suspended animation such as the . And when I was handed a copy of /Lord of
+the Rings/ and I first learned of Hobbits and the Shire, yes, this was
+the Shire.
+
+There was an interesting incident
+which began as I tell people back when I was a soldier in Germany
 (1975 - 1978) and visited Amsterdam for Christmas 19
+
+Experiential. Are we to pursue one sort of experiences over others?
+
 
 
 *** My Christianity
@@ -3774,7 +3962,7 @@ and I feel, I respond. I find Rossetti on the same fatalist wavelength
 as Emily Brontë. She is describing an interaction with God not
 dissimilar to Haworth Emily's /"I'll come when thou art saddest/
 where, again, life is bitterly entropic, i.e., effort is nowhere near
-linearly rewarded, plans hardly realised.[fn:141] 
+linearly rewarded, plans hardly realised.[fn:147] 
 
 But then organised Christianity is dogma---with results, rewards for
 our compliance and obedience thin on the ground other than avoidance
@@ -4249,23 +4437,22 @@ for the  Pre-Raphaelite painters. \\
 be much required: and to whom men have committed much, of him they
 will ask the more./
 
-[fn:111] ...Eastern here meaning the belief systems of India and the
-oriental Far East, primarily
-Buddhism, Taoism, and Hinduism.
-
-[fn:112] ...which according to AncestryDNA is in roughly equal
+[fn:111] ...which according to AncestryDNA is in roughly equal
 proportions.
 
-[fn:113] ...many of whom were theology students come to study the
+[fn:112] ...many of whom were theology students come to study the
 Swiss Protestant movement, i.e., Zwingli and the Anabaptists.
 
-[fn:114] Jokingly I claim to have been /verdeutscht/, or "germanised,"
+[fn:113] Jokingly I claim to have been /verdeutscht/, or "germanised,"
 the prefix /ver-/ usually shading negative, e.g., /ver/-dorben
 meaning ruined. But then I found out Luther had coined the term back
 in the sixteenth century to describe his translation of the Bible from
 Latin into German.
 
-[fn:115] A [[https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle][conversion of Paul]] reference.
+[fn:114] A [[https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle][conversion of Paul]] reference.
+
+[fn:115] [[https://youtu.be/gUevJ492LSw?si=A4qJKnf4LX_d4zlE][This]] is a tolerable scene in the otherwise hideous /The
+Favourite/ depiction of Queen Anne.
 
 [fn:116] According to Wikipedia, [[https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory][Cultural Marxism]] is a scurrilous
 far-right conspiracy theory. I merely use it as a catch-all for what
@@ -4275,45 +4462,29 @@ anti-Western sentiment is not some planned political campaign, rather,
 a long-in-the-making descent from a Western zenith such as the British
 Victorian Era. More as we go along...
 
-[fn:117] Just below I speak of how Emily Brontë /poetises/
+[fn:117] Interesting how the whole African-American "roots" thing has
+all but died away. And Middle Eastern in the form of Islamic
+fundamentalism also has passed its peak and is seeing heavy push-back
+in America and Europe.
+
+[fn:118] Just below I speak of how Emily Brontë /poetises/
 Christianity, thereby roping it together with pagan Nature and the
 Dark Muse. She creates a layering of all three. Indeed...
 
-[fn:118] A good example would be the critically-acclaimed film
-/[[https://en.wikipedia.org/wiki/Shakespeare_Wallah][Shakespeare Wallah]]/, which deals with the dwindling English cultural
-influence in a post-Empire India.
+[fn:119] British writer Anthony Burgess once told of his experience of
+the British military turning a blind eye to opium use amongst the
+troops stationed in Southeast Asia due to the overwhelming alienation
+and dysphoria.
 
-[fn:119] Paul's First Epistle to the Corinthians 13:12.
+[fn:120] A good example would be the critically-acclaimed film
+/[[https://en.wikipedia.org/wiki/Shakespeare_Wallah][Shakespeare Wallah]]/, which deals with the sudden irrelevance of
+English culture in post-British Raj India.
 
-[fn:120] Again, let's forget her book /Wuthering Heights/, which for me
-is just gothic novel handle-cranking, however artistically potent. As
-before, I suspect an inevitable inability for prose to do what poetry
-does. Likewise, Poe lost much altitude when he would switch from
-poetry to prose. That is to say, Brontë and Poe said deep and lasting
-things in their verse, but simply added pulp to the gothic novel shelf
-with their prose.
+[fn:121] Romans 3:23: For all have sinned, and come short of the glory of God.
 
-[fn:121] \\
-[[file:images/VWoolf.jpg]] \
-\\
+[fn:122] Paul's First Epistle to the Corinthians 13:12.
 
-[fn:122] *Pathetic* from Middle French /pathetique/ "provoking emotion,"
-borrowed from Late Latin /pathēticus/ "affecting the emotions," borrowed
-from Greek /pathētikós/ "capable of feeling, emotional, receptive,
-passive, i.e., not pathetic as we today use it to mean sad and
-contemptible.
-
-[fn:123] /Deus sive Natura/, the slogan of Baruch Spinoza's pantheism:
-the view that god and nature are interchangeable, or that there is no
-distinction between the creator and the creation.
-
-[fn:124] Perhaps see [[https://youtu.be/6TK9c-caEcw?si=VfMnEZFDX9QXrIPX][Bertrand Russell on his meeting with Vladimir
-Lenin in 1920]].
-
-[fn:125] Sometimes the apologists throw in the towel to complete
-absurdism. Consider [[https://en.wikipedia.org/wiki/Brutalist_architecture][Brutalism]] where ugliness is normalised.
-
-[fn:126] ...e.g., we would never have known Emily Brontë's poetry had
+[fn:123] ...e.g., we would never have known Emily Brontë's poetry had
 not sister Charlotte pilfered her manuscripts from their hiding place
 and published them without her sister's permission. Similarly, the
 reclusive Emily Dickinson only half-heartedly ever sought
@@ -4322,73 +4493,107 @@ her death /over a thousand/ were discovered in her room and
 subsequently published. In general, how many Barbaulds, Brontës,
 Dickinsons, Poes didn't make the recognition cut?
 
-[fn:127] Academe typically fences the Romantic Era in between 1800
+[fn:124] Academe typically fences the Romantic Era in between 1800
 and 1850.
 
-[fn:128] ...e.g., the Brontës were pastor's daughters in rural West
+[fn:125] ...e.g., the Brontës were pastor's daughters in rural West
 Yorkshire with little exposure to (taint from?) the cultural and
 literary buzz of the cities.
 
-[fn:129] The best ideas about left/right brain are those of Iain
+[fn:126] The best ideas about left/right brain are those of Iain
 McGilchrist. Try [[https://www.youtube.com/watch?v=hK7XG3t2nFg&list=PLqBHk3itxyPDKFnwj8-SmlwHra64cCrky&pp=iAQB][these]].
 
-[fn:130] [[https://engines.egr.uh.edu/english-romanticism/what-romanticism][This]] will save you some googling. Note again the tortured
+[fn:127] [[https://engines.egr.uh.edu/english-romanticism/what-romanticism][This]] will save you some googling. Note again the tortured
 origin of the term /romantic/.
 
-[fn:131] For what it's worth, German Romanticism can be broken down
+[fn:128] For what it's worth, German Romanticism can be broken down
 into Jena, Heidelberg, then Berlin Romanticism based largely on the
 principle artists.
 
-[fn:132] Daguerreotype of Poe 1849 \\
+[fn:129] Daguerreotype of Poe 1849 \\
 [[file:images/Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg]]
 
-[fn:133] Child Wolfgang and sister Maria Anna \\
+[fn:130] Child Wolfgang and sister Maria Anna \\
 [[file:images/Wolfgang_amadeus_mozart_1756_j_hi.jpg]] \\
 \\
 
-[fn:134] Platonic as opposed to romantic-sexual love was seen in the
+[fn:131] \\
+[[file:images/VWoolf.jpg]] \
+\\
+
+[fn:132] *Pathetic* from Middle French /pathetique/ "provoking emotion,"
+borrowed from Late Latin /pathēticus/ "affecting the emotions," borrowed
+from Greek /pathētikós/ "capable of feeling, emotional, receptive,
+passive, i.e., not pathetic as we today use it to mean sad and
+contemptible.
+
+[fn:133] /Deus sive Natura/, the slogan of Baruch Spinoza's pantheism:
+the view that god and nature are interchangeable, or that there is no
+distinction between the creator and the creation.
+
+[fn:134] Perhaps see [[https://youtu.be/6TK9c-caEcw?si=VfMnEZFDX9QXrIPX][Bertrand Russell on his meeting with Vladimir
+Lenin in 1920]].
+
+[fn:135] Sometimes the apologists throw in the towel to complete
+absurdism. Consider [[https://en.wikipedia.org/wiki/Brutalist_architecture][Brutalism]] where ugliness is normalised.
+
+[fn:136] Platonic as opposed to romantic-sexual love was seen in the
 past as a higher, deeper, quasi-sacred form of love, i.e., the love
 going on in heaven between the saints and angels brought down to
 Earth. Today, however, we are made to understand by the modernist
-Freudians that the human is only a crazed sex monkey, and any other
-view is delusional puerile. Thus, desensitisation is the answer to
-"sexual hangups."
+Freudians that the human can only ever be a crazed sex monkey, thus,
+any other view is delusional puerile. Desensitisation then becomes the
+only answer to "sexual hangups."
 
-[fn:135] Not only is Emily Dickinson trashed, they trash other big
+[fn:137] Not only is Emily Dickinson trashed, they trash other big
 names of the American Romantic Era. Try [[https://youtu.be/3tO8ol9j34s?si=DQifICJs3tJgpi9O][this]], then
 [[https://youtu.be/LmneLDB6hAI?si=sSef_hvjshiTbV1b][this]]. Crrringe... And just when you thought it couldn't get worse,
 [[https://youtu.be/pFp05alGLow?si=tTk-5CPhmpdkeQ3R][this music video]] by the actress portraying Emily Dickinson is
 attached to the series as its supposed theme song. Alas...
 
-[fn:136] Emily Brontë as a modern, filled-out "cottagecore emo girl"
+[fn:138] Emily Brontë as a modern, filled-out "cottagecore emo girl"
 per [[https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html][this]] Slate review. No need to watch, just read [[https://en.wikipedia.org/wiki/Emily_(2022_film)#Plot][the plot]] for full
 cringe. \\
 [[file:images/Emily2022.jpg]] \\
 \\
 
-[fn:137] I contend libertarianism is simply a new form of liberalism,
-i.e., liberalism has gotten so big that leftism no longer is big
-enough to contain it all.
+[fn:139] I contend libertarianism is simply a new form of liberalism,
+i.e., liberalism has gotten so big that leftism no longer can contain
+it all.
 
-[fn:138] Really though, calling it /Lake/ Superior is
+[fn:140] More about /legendspace/ as we go along.
+
+[fn:141] Really though, calling it /Lake/ Superior is
 like calling Einstein a high school graduate.
 
-[fn:139] Wetsuits de rigueur. Even in summer a dunk in her longer than
+[fn:142] Wetsuits de rigueur. Even in summer a dunk in her longer than
 ten minutes can lead to hypothermia ... at least on the North
-Coast. Though the south beaches of Wisconsin and Michigan can be
+Coast. Although the south beaches of Wisconsin and Michigan can be
 swimmable in the height of summer.
 
-[fn:140] Cimetière du Père-Lachaise, Paris, France \\
+[fn:143] Cimetière du Père-Lachaise, Paris, France \\
 [[file:images/Pere_Lachaise_Chemin_Errazu.jpg]] \\
 \\
 
-[fn:141] And of course the joke, Want to make God laugh? Tell Him your
+[fn:144] Wicked Witch of the West \\
+[[file:images/The_Wizard_of_Oz_Margaret_Hamilton_1939_No_1.jpg]] \\
+\\
+
+[fn:145] Rimbach valley six hundred years prior \\
+[[file:images/lichteneck_ap2.jpg]] \\
+\\
+
+[fn:146] Castle ruins Lichtenegg near Rimbach, Lower Bavaria. \\
+[[file:images/lichteneck4.jpg]] \\
+\\
+
+[fn:147] And of course the joke, Want to make God laugh? Tell Him your
 plans. Or the German, /Der Mensch denkt, der Gott lenkt/ or, The human
 thinks, God steers.
 
-[fn:144]
+[fn:150]
 
-[fn:143] If academe doesn't get my Haworth Emily, Hollywood is even
+[fn:149] If academe doesn't get my Haworth Emily, Hollywood is even
 more of a clueless ignoramus.
 
-[fn:142] ...lots more below...
+[fn:148] ...lots more below...
