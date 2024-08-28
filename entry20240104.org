@@ -787,6 +787,14 @@ of an unleashed murderer, while the fullness, the bounty of the earth
 has withered from his poisonous breath.
 #+end_quote
 
+And an equally hard-hitter from Günter Grass
+
+#+begin_quote
+We already have the statistics for the future: the growth percentages
+of pollution, overpopulation, desertification. The future is already
+in place.
+#+end_quote
+
 This was a change on a scale never before seen, a huge and relatively
 sudden step away from the physical world being solely the purveyance
 of nature. And so even when the individual left the confines of an
@@ -4163,102 +4171,158 @@ three-stanza lyrical experience. Similar to Keller's /Winter Evening/
 above, we may wonder how the speaker will proceed, so taken as she
 must be by the encounter.
 
-*** Von Droste-Hülshoff-s Nature
+*** Von Droste-Hülshoff's versus Brontëan Nature 
 
-The German poet [[https://en.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff][Annette (Freiin) von Droste zu Hülshoff]] (1797 -
-1848)[fn:153] in her /Der Knabe im Moor/ (/Boy on the moor/ first
+The German poet [[https://en.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff][Annette Freiin von Droste zu Hülshoff]] (1797 -
+1848)[fn:153] in her /Der Knabe im Moor/ (/The boy on the moor/ first
 appearing in 1842)[fn:154] likewise speaks of Nature's darkening
-power; however, Droste means to describe fright as a peasant lad would
-experience it. Here is a free translation of the first stanza
+power; however, Droste means to bring to us the /fear of nature/ as a
+superstitious peasant lad would experience it. Here is a free
+translation of the first stanza
 
 #+begin_verse
-How ominous it is to cross the moor, when its haze, its mists writhing like phantoms bind and weave through the low growth; and up a springlet beneath every step, a hissing sung from the ground. How eerie it is to cross the moor when the reeds rustle in the breezes...
+How ominous it is to cross the moor, when its haze, its mists writhing like phantoms bind and weave through the low growth; and up comes a springlet beneath every step, a hissing sung from the ground. How eerie it is to cross the moor when the reeds rustle in the breezes...
 #+end_verse
 
 ...so ominously forsaken, so frighteningly forsaken. But whence this
-ominous, frightening, and forsaken? Whence this vulnerability?  Droste
-is playing narrator to a peasant lad making a frightful trip at
-twilight across a semi-wild section of his early-nineteenth century
-Westphalian lowlands. In the next five verses the boy succumbs to
-fantasies of evil spirits and actors in his panic, but in the end
-makes it to human civilization again. The boy goes from an
-understanding and control of his life in a human-controlled
-environment into a blind spot of harrowing unfamiliarity and suffers
-great terror for it. I bring up /Dar Knabe/ here because both poets
-regard Nature similarly, i.e., Nature overpowering, either a
-spell-binding gate to another higher realm or a downright frightening
-reintroduction to pagan fright memes. But no, these are not pagan times
-when the wilds were full of animistic spirits. Yes, they have put some
-Christianity and rational science and technology between themselves
-and Nature. But Droste's boy certainly does not enjoy our extreme
-pullback into this modern normative anthropocentrism where Nature is
-science and statistics about an environment. I can imagine him growing
-up a simple, devout Westphalian Roman Catholic Christian who lived out
-the rest of his life with a lurking fear and dread of wild places due
-to his panic attack on that fateful evening. Indeed, the boy's moor is
-a parallel world he has learned of from the simple peasant adults
-around him who surely filled his head with legends and stories passed
-down for generations.
+ominous, frightening, and forsaken? Whence this vulnerability? What
+constantly feeds the superstitions? Droste is playing narrator to a
+simple, commoner lad making a frightful trip at twilight across a
+semi-wild section of his early-nineteenth century Westphalian
+lowlands. In the next five verses the boy succumbs in his growing
+panic to fantasies of evil spirits and actors, but in the end makes it
+back to human civilization. I bring up /Der Knabe/ here because both
+Brontë and Droste are working with Nature as a /liminal phase/ which
+defeats, overpowers a known, mundane, well-lit locality, becoming
+either a spell-binding gate to a higher realm or a downright
+frightening reintroduction to the myths of a pagan past. And Nature in
+both cases is not any sort of far-removed, Victorian explorers-only,
+trackless wilderness, rather, in the case of Droste's Westphalia, more
+of an accidental empty quarter due to poor growing conditions. And no,
+these are not pre-historic times when the extensive, non-fragmented
+forests were wild and savage and brimming with animistic spirits
+routinely interacting with pagan aboriginals. To be sure, there has
+been centuries of Christian influence, distant lights of rational
+science and technology come between human and the surrounding but
+shrunken wild places. Though neither Brontë out in the storm nor
+Droste's boy know of our extreme pullback into today's normative
+anthropocentrism where Nature is so completely managed and supervised
+as spatial environments. The eerie, out-of-time-and-space liminal
+phase simply does not carry the same ominous portent in our logical
+modern minds.
 
-Droste is offering a particularly commoner Catholic take on wilds. The
-Church having conflated pagan spirituality with satanism ensured that
-what was wild and naturally pagan would in a Pavlovian way be
-associated with evil and threat. The word /heathen/ (German
-/heidnisch/) is derived from /heath/ (Heide), which creates an automatic
-connection of wilds to pagan. And so, to go out on the heath was to
-venture into (formerly?) heathen-dominated spaces.
+Let's take an aside to talk about the very important concept of
+/liminal space/. Here's a quote found on Reddit explaining what
+liminal space is about
+
+#+begin_quote
+Imagine a classroom from your childhood. Surely, you are imagining it
+in the day, with sunlight spilling in through the windows and kids
+shuffling to their desks. This is the state in which a classroom is
+most frequently seen and serves a purpose for. Now imagine sneaking
+into your school late at night and everything is empty. It is almost
+eerie seeing the same classroom at night, in a totally different
+context. Suddenly its usual purpose has been robbed and it's just a
+room---but not quite. Because now it also feels strangely alien and
+enigmatic to you, a purposeless, otherworldly architecture. The next
+day that room would be back to normal, in its default state. It is
+back to being a real classroom. But that middle phase it was in when
+you saw it in the night, it's a *liminal phase*, a state of
+transition. And often spaces like that carry eerie characteristics,
+such as being out of time and out of place. That's liminal spaces for
+you. The same could apply for an abandoned mall, an overgrown
+treehouse, or a swimming pool with all the water gone.
+#+end_quote
+
+We might imagine Droste's boy growing up a simple, devout Westphalian
+Roman Catholic Christian who lived out the rest of his life with a
+lurking fear and dread of the liminal phase of his otherwise familiar
+moorland due to his panic attack on that fateful evening. No doubt he
+then instilled this fear in his children and grandchildren---just as
+his head had been filled by the adults around him with legends and
+stories passed down for generations...
+
+Droste is offering a particularly Catholic commoner take on wilds. The
+Church having quashed pagan spirituality by conflating it with
+satanism ensured that what was wild and far enough removed from the
+churchyard would be associated with evil and threat. The word
+/heathen/ (German /heidnisch/) is derived from /heath/ (/Heide/), that
+is, a direct link between wilds and pagan. Hence, to dare venture out
+on the heath was to venture into (formerly?) heathen-dominated
+spaces. To be sure, a peasant of Droste's era (on back to the dawn of
+civilization) had no such Earth astronaut mindset as we do today. To
+him the great spirit world of his distant pagan ancestors was just
+barely held in check by Jesus and the saints. Where is the devil?
+Everywhere---/especially/ out on the heath after dark! And so, Droste
+underlines a great limitation of our understanding of nature, namely,
+the vast majority are, and probably always will be, grossly
+susceptible to irrationality. And her being an manorial aristocrat,
+she understood that to lead the commoners, to hold the reins, the
+aristocrat must understand their limitations, and, subsequently,
+cannot ask them to do what they cannot do, nor go where they cannot
+go. For all intents and purposes, the moorlands are full of evil after
+dark, full stop. Again, this is a stasis attitude, one the powers that
+be cannot, should not attempt to improve upon.[fn:155]
 
 We may contrast this with Emily Brontë's more refined, educated, and
-Protestant understanding of the heath. This is so very important to
-the Brontëan take on wilds, nature, the heath or moor. Their's is not
-the Catholic peasant 
+definitely Protestant-influenced understanding of her heath. Hers was
+not the immemorial Catholic peasant mentality, rather, she was
+informed by a Protestantism that had intentionally cleared out all of
+the eisegesis[fn:156] post-scripture metaphysics dominating
+Catholicism. To give an indication of how different Catholic and
+Protestants are on metaphysical phenomena, consider how literally
+thousands of saints are officially recognised by the Catholic
+church---most having qualified as saintly due to some metaphysical,
+paranormal religious experience.[fn:157] Protestants, on the other
+hand, strictly exclude anything paranormal miraculous not mentioned
+directly in the Old or New Testament of the Bible. Here's Günter Grass
+from his novel /The Flounder/ speaking of pagan times in the Vistula
+river delta on the Baltic Sea
 
-/Woods panic/ as I might call it. Once a few years back here in the
-northeastern Minnesota I had become disoriented in a forest. Twilight
-was upon me and I realised I had left my lumbar pack with keys, ID,
-cards, money, and a headlamp beside a tree but could not find the tree
-again. A huge wave of panic hit me and it was all I could do not to
-start running pell-mell through the forest. But my panic was
-short-lived, mainly because I am totally steeped in scientific
-reductionist paradigm which has told me there is nothing inherently
-bad about a bunch of trees together forming a forest. The peasant boy
-of Droste's era had no such Earth astronaut mindset. To him the great
-spirit world of his distant pagan ancestors was just barely tamed by
-Jesus and the saints.
+#+begin_quote
+Because she was a cook, Mestwina was also a priestess. She raised the
+cult of Awa to perfection. And when it came time for us all to be
+baptized, she brewed up paganism and Christianity into a Catholic
+mixture.
+#+end_quote
 
-Catholic conflation of pagan with Satan.
+A Brontë at the dawn of Queen Victoria's reign had no such
+mixture. The night Emily describes is certainly putting on a stormy
+show, but she is not facing looming pagan spirits that had never quit
+the land as does Droste's boy. For both, Nature surely takes command,
+but one witness wants out and the other wants in---or at least Emily
+is captivated and is able to withstand the experience. Again, what
+greater connection can a human have with Nature than to be so
+completely and deeply transfixed that---for some time at least---one
+cannot go? With /The night is darkening round me/ Emily Brontë has
+faced down the fear, the threat, and has become some new citizen of
+Nature. And this Nature is Dark. And Dark is a liminal space
+experience.
 
-The night Emily Brontë describes is certainly putting on a show, but
-she is not facing the looming pagan spirits that had never quit the
-land as does the boy. For both Nature takes command, but the boy wants
-out and Emily wants in---or at least she is captivated and wants the
-experience. Again, what greater connection can a human have with
-Nature than to be so completely and deeply transfixed that---for some
-time at least---one cannot go. With /The night is darkening round me/
-Emily Brontë has faced down the fear, the threat, and has become some
-new citizen of Nature. And this Nature is Dark.
+Again, the Droste and Brontë Nature experience is not Wordsworthian
+swoon, nor is it the impressionistic, idealistic, intellectual
+/leerlauf/ of American Transcendentalism[fn:158] as we may see in
+these quotes from Henry David Thoreau
 
-
-woods panic.
-
+#+begin_quote
 Live in each season as it passes; breathe the air, drink the drink,
-taste the fruit, and resign yourself to the influence of the earth
+taste the fruit, and resign yourself to the influence of the earth. \\
+\\
+Heaven is under our feet as well as over our heads.
+#+end_quote
 
-— Henry David Thoreau
+Yes, very well, but Thoreau is not resigning himself as completely as,
+e.g., Emily out on her stormy moorland. He is advocating for an
+auspicious choice, a commendable posture, not describing a tyrant's
+spell.
 
-
-Is she the full-meal plan? Does she have the answers? For me, there's
-enough, yes. But I'll be unpacking this the rest of my life.
-
-
-
-However, the pagan 
+*** I'll come when thou art saddest...
 
 Christianity held the ember of spirituality, but never seemed to know
 what to do with it. Piety, reverence, holiness---all 
 
 
-Along came one  and threaded
+Along came one and threaded
 a very convoluted path between 
 
 
@@ -4305,7 +4369,7 @@ was not completely disabused of magic; thus, other worlds, other
 dimensions did not seem out of the ordinary. I remember looking up
 into the dense, bare branches of the giant trees to see the moon
 looking out of crossing clouds and feeling like I was a part of some
-magical legendspace.[fn:155] Throughout my life I've compared
+magical legendspace.[fn:159] Throughout my life I've compared
 subsequent POEH experiences with that Halloween night. Perhaps this is
 why I cleave to the Dark Muse.
 
@@ -4333,12 +4397,12 @@ tiny glimpses of the shadow and magic realm whenever I look out at my
 moonlit /Inland Sea/ over the treetops of dark spruce and gnarled,
 bare aspen. Once again, Nature is the foundation of Dark.
 
-The /Inland Sea/[fn:156] or /Mother Superior/, as some call her, is so
+The /Inland Sea/[fn:160] or /Mother Superior/, as some call her, is so
 much more sea-like than any lake. To my thinking, a lake is much
 smaller and much---plainer, simpler. The enormity of our Inland Sea
 means she is often violent like any sea or ocean of saltwater. No
 friendly little puddle for beer-and-brats picnickers, speedboat and
-jet ski riffraff is she.[fn:157] To be sure, one senses a mighty
+jet ski riffraff is she.[fn:161] To be sure, one senses a mighty
 présence on her shores, often dark and moody, if not angry and
 malevolent on a stormy night.
 
@@ -4350,7 +4414,7 @@ prevails, offering the subtle to sublime pathway. Sadly, however, my
 local community is bereft of Dark Musers. Which might have a silver
 lining in that I have a perfect laboratory to test whether the Dark
 Muse is nature or nurture. If I see no past-centuries
-architecture,[fn:158] if I have no like-minded community to mutually
+architecture,[fn:162] if I have no like-minded community to mutually
 re-enforce nighttime proclivities, then any Dark musing must come from
 the actual place itself, hence, nature over nurture.
 
@@ -4392,7 +4456,7 @@ stagings. But then what are they, we supposed to be doing?
 Though I dare not say outright nobody "gets" this place. There is a
 tacit understanding that here is not dazzling striking amazing. An
 advertisement poster for Arrowhead tourism showed a twilit Boundary
-Waters wilderness lake with the tagline "Stirred not shaken."[fn:159]
+Waters wilderness lake with the tagline "Stirred not shaken."[fn:163]
 I'm sure many do have Dark Muse moments, but simply lack the cultural
 background to process (embellish?) them as I do. For example our
 so-called Northern Lights are beloved, thus, Night gets a probational
@@ -4444,7 +4508,7 @@ well as all the gothic and horror films. Odd as those shows were, we
 all seemed to "get" the premise and laugh along with the basic goths
 versus normies gag. Likewise, the biggest film of my childhood, /[[https://en.wikipedia.org/wiki/The_Wizard_of_Oz][The
 Wizard of Oz]]/ had many dark themes, especially the Wicked Witch of the
-West and her very creepy flying monkeys and castle.[fn:160]
+West and her very creepy flying monkeys and castle.[fn:164]
 
 My teen years were fairly "normal," the only Dark exposure coming from
 my paternal grandmother, who channelled a very Victorian Englishness,
@@ -4472,7 +4536,7 @@ In 1975 at age nineteen I was sent by the U.S. Army to West
 Germany. My first assignment lay far out on the Bohemian frontier,
 deep in the /[[https://en.wikipedia.org/wiki/Bavarian_Forest][Bavarian Forest]]/ where the U.S. Army and Air Force manned
 a small mountaintop electronic eavesdropping post near the tiny
-village of [[https://en.wikipedia.org/wiki/Rimbach,_Upper_Palatinate][Rimbach]].[fn:161] We were less than one hundred Americans
+village of [[https://en.wikipedia.org/wiki/Rimbach,_Upper_Palatinate][Rimbach]].[fn:165] We were less than one hundred Americans
 "on the economy," which meant we had no base nor barracks and lived
 out amongst the locals. My rooms were with a farmer family in a house
 just below a /haunted/ castle ruins overlooking the wild, forested
@@ -4492,7 +4556,7 @@ For the first time in my life I wasn't plugged into the all-consuming
 social-psychology feed of America and its domineering
 media. Everything around me felt old, very old, the local Bavarians
 connected to something else, perhaps a fairytale that was now in
-suspended animation.[fn:162] And when I was handed a copy of /Lord of
+suspended animation.[fn:166] And when I was handed a copy of /Lord of
 the Rings/ and I first learned of Hobbits and the Shire, yes, this was
 the Shire. As the fall turned into winter I spent every free moment
 hiking the forested ridge trails. It was as if time had changed
@@ -4503,7 +4567,7 @@ forgotten. Nature had a very dark, old, and serious feel in those
 environs, while by comparison my Tennessee Smoky Mountains had a
 lighter, even merry feel. I almost made it a daily pilgrimage to the
 ruins, parts of which had been reconstructed, including the original
-keep.[fn:163] A legend said a princess had thrown herself from the
+keep.[fn:167] A legend said a princess had thrown herself from the
 original keep to her death, and her ghost supposedly roamed the place
 after dark. Hence, the warning to never be in the woods after dark was
 taken seriously.
@@ -4581,7 +4645,7 @@ and I feel, I respond. I find Rossetti on the same fatalist wavelength
 as Emily Brontë. She is describing an interaction with God not
 dissimilar to Haworth Emily's /"I'll come when thou art saddest/
 where, again, life is bitterly entropic, i.e., effort is nowhere near
-linearly rewarded, plans hardly realised.[fn:164] 
+linearly rewarded, plans hardly realised.[fn:168] 
 
 But then organised Christianity is dogma---with results, rewards for
 our compliance and obedience thin on the ground other than avoidance
@@ -5211,51 +5275,72 @@ any knowledge of his Middle Earth or the /Lord of the Rings/ story...
 [[file:images/Knabe_im_Moor.jpg]] \\
 \\
 
-[fn:155] More about /legendspace/ as we go along.
+[fn:155] Sometimes I can't help but feel America is just a land of
+lost peasants who have failed at rising above peasant ignorance and
+can't figure out where to go other than more materialism, i.e.,
+exercise peasant hoarding...
 
-[fn:156] Really though, calling it /Lake/ Superior is
+[fn:156] ...reading into Biblical scripture what one subjectively
+wants to believe, as opposed to /exegesis/, which purportedly is
+exactly what the original author meant.
+
+[fn:157] The well-known German liqueur /[[https://en.wikipedia.org/wiki/J%C3%A4germeister#Label][Jägermeister]]/ features a stag
+with a glowing crucifix between its antlers, which is taken from an
+apparition seen by [[https://en.wikipedia.org/wiki/Hubertus][Saint Hubertus]]. \\
+[[file:images/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg]] \\
+\\
+
+[fn:158] Here's what Wikipedia says: /Transcendentalism emerged from
+English and German Romanticism, the Biblical criticism of Johann
+Gottfried Herder and Friedrich Schleiermacher, the skepticism of David
+Hume, and the transcendental philosophy of Immanuel Kant and German
+idealism./
+
+[fn:159] More about /legendspace/ as we go along.
+
+[fn:160] Really though, calling it /Lake/ Superior is
 like calling Einstein a high school graduate.
 
-[fn:157] Wetsuits de rigueur. Even in summer a dunk in her longer than
+[fn:161] Wetsuits de rigueur. Even in summer a dunk in her longer than
 ten minutes can lead to hypothermia ... at least on the North
 Coast. Although the south beaches of Wisconsin and Michigan can be
 swimmable in the height of summer.
 
-[fn:158] ...e.g., Cimetière du Père-Lachaise, Paris, France \\
+[fn:162] ...e.g., Cimetière du Père-Lachaise, Paris, France \\
 [[file:images/Pere_Lachaise_Chemin_Errazu.jpg]] \\
 \\
 
-[fn:159] A flip of the James Bond martini quip?
+[fn:163] A flip of the James Bond martini quip?
 
-[fn:160] Wicked Witch of the West \\
+[fn:164] Wicked Witch of the West \\
 [[file:images/The_Wizard_of_Oz_Margaret_Hamilton_1939_No_1.jpg]] \\
 \\
 
-[fn:161] Rimbach valley six hundred years prior \\
+[fn:165] Rimbach valley six hundred years prior \\
 [[file:images/lichteneck_ap2.jpg]] \\
 \\
 
-[fn:162] ...but aren't all fairy tales in suspended animation "until
+[fn:166] ...but aren't all fairy tales in suspended animation "until
 further notice," e.g., Merlin supposedly biding his time in some pit
 or encased in a hawthorn.
 
-[fn:163] Castle ruins Lichtenegg near Rimbach, Lower Bavaria. \\
+[fn:167] Castle ruins Lichtenegg near Rimbach, Lower Bavaria. \\
 [[file:images/LichteneggInMist.png]] \\
 \\
 
-[fn:164] And of course the joke, Want to make God laugh? Tell Him your
+[fn:168] And of course the joke, Want to make God laugh? Tell Him your
 plans. Or the German, /Der Mensch denkt, der Gott lenkt/ or, The human
 thinks, God steers.
 
-[fn:169]
+[fn:173]
 
-[fn:168] One externalised behaviour was the Lake District becoming the
+[fn:172] One externalised behaviour was the Lake District becoming the
 world's first eco-literature tourism destination due to the
 Wordsworths and Coleridge.
 
-[fn:167]
+[fn:171]
 
-[fn:166] If academe doesn't get my Haworth Emily, Hollywood is even
+[fn:170] If academe doesn't get my Haworth Emily, Hollywood is even
 more of a clueless ignoramus.
 
-[fn:165] ...lots more below...
+[fn:169] ...lots more below...
