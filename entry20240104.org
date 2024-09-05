@@ -2198,6 +2198,11 @@ And then my heart with pleasure fills,
 And dances with the daffodils.
 #+end_verse
 
+#+begin_export html
+<a href="https://www.theguardian.com/environment/article/2024/may/22/lake-district-borrowdale-rainforest-declared-national-nature-reserve" target="_blank"><img src="./images/WildLakeDistrict.jpg" width="825" alt="Borrowdale rainforest"></a>
+<span class="cap">Borrowdale rainforest in the Lake District.</span>
+#+end_export
+
 Eye rolls, smirks, and tsk-tsking in today's English department
 classrooms. The fonder Wordsworth's waxing, the further he sinks into
 our patronisation and condemnation. Missed entirely is his subtle and
@@ -4534,9 +4539,9 @@ Of ocean, or the stars, mingle, and not in vain.
 
 One of my earliest encounters with the magic of Dostoevski's /presence
 of eternal harmony/ came on a dark Halloween evening back when I was a
-little boy of six years in a small Southern Illinois town. We were
+little boy of six years in my small Southern Illinois town. We were
 trick-or-treating on my street, the oldest in town with its
-Victorians, cobblestone, and gas streetlights, and at some point I
+cobblestone, gas streetlights, and Victorians, and at some point I
 knew I had entered another place, another time. Being so young meant I
 was not completely disabused of magic; thus, other worlds, other
 dimensions did not seem out of the ordinary. I remember looking up
@@ -4548,21 +4553,21 @@ why I cleave to the Dark Muse.
 
 Scoffers will scoff, and no doubt what I just shared can be easily
 dismissed as the imaginings of an impressionable small child; but as
-someone once said, "Magic, it's just in your head---until it's not
-anymore." Really, I've tried being the atheist rationalist science
-type. In a previous life I was in and out of physics, math, and
-computers, and although it paid the bills, that scene just never quite
-worked for me. Science people can be the nicest people, but they just
-weren't my people. Now I'm back to believing things I did when I was
-six, and seeking my people.
+someone says in one of my stories, "Magic, it's just in your
+head---until it's not anymore." Really, I've tried being the atheist
+rationalist science type. In a previous life I was swapping physics,
+math, and computer hats, and although it paid the bills, that scene
+just never quite worked for me. Science people can be the nicest
+people, but they just weren't really my people. Now I'm back to
+believing things I did when I was six, and still seeking my people.
 
 I now live in the far northeastern tip of Minnesota on the so-called
 North Shore of Lake Superior, in the very last county, Cook, just
 before the Canadian border. This is the very tip of the so-called
 "[[https://en.wikipedia.org/wiki/Arrowhead_Region][Arrowhead Region]]" north and east of Duluth, some six million-plus
-acres of wilderness on the shores of the world's largest body (by
-surface area) of freshwater. To my mind, this is a very Dark Muse kind
-of place, so much so that I cannot go, cannot go---as much as my
+acres of wilderness on the shores of the world's largest body of
+freshwater (by surface area). To my mind, this can be a very Dark Muse
+kind of place, so much so that I cannot go, cannot go---as much as my
 fellow humans here distress me with their pointedly anti-Dark
 attitudes. Pictures may be worth thousands of words, but our Dark vibe
 up here must be experienced to be truly appreciated. I routinely get
@@ -4577,16 +4582,18 @@ means she is often violent like any sea or ocean of saltwater. No
 friendly little puddle for beer-and-brats picnickers, speedboat and
 jet ski riffraff is she.[fn:168] To be sure, one senses a mighty
 présence on her shores, often dark and moody, if not angry and
-malevolent on a stormy night.
+malevolent on a stormy night. The lady has /personality/.
 
-Despite our huge and all but contiguous wildness, the Arrowhead is not
-/spectacular/ in the usual American Great Outdoors sense. Nothing here
-overwhelms as with the American West and Alaska with their "natural
-wonders" postcard vistas galore. As I'm saying, a deep moodiness often
-prevails, offering the subtle to sublime pathway. Sadly, however, my
-local community is bereft of Dark Musers. Which might have a silver
-lining in that I have a perfect laboratory to test whether the Dark
-Muse is nature or nurture. If I see no past-centuries
+Despite our huge and all but contiguous wildness, despite our famous
+chains of Ice Age glacier lakes in the [[https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness][Boundary Waters Canoe Area
+Wilderness]], the Arrowhead is not /spectacular/ in the stereotypical
+"American Great Outdoors" sense. Nothing here overwhelms as with the
+American West and Alaska with their "natural wonders" postcard vistas
+galore. As I'm saying, a deep moodiness often prevails, setting up the
+Dark Muse subtle to sublime pathway. Sadly, however, my local
+community is bereft of Dark Musers. Which might have a silver lining
+in that I have a perfect laboratory to test whether the Dark Muse is
+nature or nurture. That is to say, if I see no past-centuries
 architecture,[fn:169] if I have no like-minded community to mutually
 re-enforce nighttime proclivities, then any Dark musing must come from
 the actual place itself, hence, nature over nurture.
@@ -4594,46 +4601,51 @@ the actual place itself, hence, nature over nurture.
 But I am quite alone here with my Dark musings. Despite Grand Marais
 counting only some thirteen hundred souls, we are becoming evermore
 urban/suburban-like in behavior and mentality. Why? Mainly due to our
-popularity as a Northern Midwest resort town. Tourists, short-,
-medium-, and long-stay, well-off retirees, and especially relocating
-urban-suburban refugees constantly dilute the scene. And these
-newcomers are increasingly not adapting to small-town life; instead,
-maintaining their aloof, disengaged, emotionally unavailable,
-blinkered urban-suburban ways. Of course "boosters," the knee-jerk
-positive promoters and spin doctors, will always disagree with this
-assessment, but many "old-timers" agree that it ain't what it used to
-be. Alas.
+popularity as a Northern Midwest resort town. Tourists of short-,
+medium-, and long-stay duration, well-off retirees, and especially
+relocating urban-suburban refugees constantly mix and dilute the
+scene. And these newcomers are increasingly not adapting to small-town
+life; instead, maintaining their aloof, disengaged, emotionally
+unavailable, blinkered urban-suburban ways. Of course "boosters," the
+knee-jerk positive promoters and spin doctors, will always disagree
+with this assessment, but many "old-timers" agree that it ain't what
+it used to be. Alas.
 
 A particular North Shore social-psychology phenomenon is the large
 numbers of people who relocate here from the Midwestern urban
 city-states, e.g., Chicago or especially the Twin Cities, ostensibly
-to /reinvent/ themselves. Of course tourist destinations trade in
+to /reinvent/ themselves. Of course tourist destinations traffic in
 image and fantasy, but here is a very unique sort of expectancy
 build-up. My theory has it that our newcomers have made the leap out
-of their sterile, soulless clone-bunny urban/suburban lives to now be
-some better, more /authentic/ version of themselves in the
+of their sterile, soulless clone-bunny urban/suburban lives intent on
+becoming some better, more /authentic/ version of themselves in the
 wilderness. The most dominant North Shore reinvention /lifestyle/ is
-based around Hemingway and Jack London, i.e., a macho, gonzo,
-adventure attitude about the Great Outdoors, something I call
+loosely based around Hemingway and Jack London, i.e., a macho, gonzo,
+adventurer take on the Great Outdoors, something I call
 /Neo-Klondikism/. Of course the real white European North Shore
 pioneers of the late nineteenth, early twentieth centuries were mainly
 of Scandinavian origins and brought their admixture of Scandi and
 Victorian civilization to the wilderness. But little if any of that
-remains, except at the Historical Society's museum. Now we see
+remains, except at the Historical Society's museum. Today we see
 /Outside/ magazine acteurs, college-grad back-to-the-lander nouveau
-hillbilly peasant chic, tattoos, huge beards, Carhartt clothing, Jeep
-Cherokees, their theme music a faux country-western Appalachian---in
-other words, an impromptu guerrilla theatre of American Zeitgeist
-stagings. But then what are they, we supposed to be doing?
+hillbilly peasant chic, with their tattoos, huge beards, Carhartt and
+Pendelton duds, Jeep Cherokees, their theme music a faux
+country-western Appalachian---in other words, an impromptu guerrilla
+theatre of American Zeitgeist stagings. But then what are we supposed
+to be doing up here?
 
-Though I dare not say outright nobody "gets" this place. There is a
-tacit understanding that here is not dazzling striking amazing. An
+Dare I say outright nobody "gets" this place, that I do and they
+don't? Yet a tacit understanding exists that here is not dazzling
+striking amazing. Here is a lower-key for sure. Lots of wealthy people
+are here, but this is certainly not the ostentatious, celebrity scene
+like Jackson Hole, Wyoming, or dynastic "old money" like Newport,
+Rhode Island. No, we're not in that league.[fn:170] A memorable
 advertisement poster for Arrowhead tourism showed a twilit Boundary
-Waters wilderness lake with the tagline "Stirred not shaken."[fn:170]
+Waters wilderness lake with the tagline "Stirred not shaken."[fn:171]
 I'm sure many do have Dark Muse moments, but simply lack the cultural
-background to process (embellish?) them as I do. For example our
-so-called Northern Lights are beloved, thus, Night gets a probational
-capitalisation
+background to process (embellish?) and connect them up as I do. For
+example our so-called Northern Lights give pause, are beloved by all,
+thus, Night gets a probational capitalisation
 
 #+begin_export html
 <a href="https://sivertson.com/shop/prints-posters/northern-lights/" target="_blank"><img src="./images/JanniceLatzNorthernLights20240812.jpg" width="740" alt="Northern Lights"></a>
@@ -4644,8 +4656,8 @@ Here's a few lines I once wrote some twenty years ago after a
 late-autumn hike
 
 #+begin_quote
-Mists race westward through the surrounding spruce forest, the entire
-ridge enveloping. The light is quickly failing, the Western
+Mists race westward through the surrounding spruce forest, enveloping
+the entire ridge. The light is quickly failing, the Western
 Hemisphere’s greatest inland sea just four miles south and seven
 hundred feet below fully obscured. Sleet begins to fall stinging my
 face, keeping my eyes from fully focusing. Though I hear the wind
@@ -4666,70 +4678,77 @@ precipitation. I should walk rather than run. But visibility is going
 fast and I must reach the ridge top ere dusk.
 
 Fittingly anti-climatic is my arrival at the cloud-bound ridge
-top. All but dark when I set off again for home. The snow is now
-accumulating in earnest, making downhill footing difficult. But the
-Muse is strong, and the growing darkness makes it all the stronger.
+top. All but evening's darkness when I set off again for home. The
+snow is now accumulating in earnest, making downhill footing
+difficult. But the Muse is strong, and the growing twilight and
+pooling blackness make it all the stronger.
 #+end_quote
 
 That was written before I really had latched onto the Dark Muse. Now
 things are much more firmly formed and I'm following a more
 intentional path vis-à-vis Dark...
 
-When did magical become Dark magical? Everyone of my generation knows
-the television shows /[[https://en.wikipedia.org/wiki/The_Addams_Family][The Addams Family]]/ and /[[https://en.wikipedia.org/wiki/The_Munsters][The Munsters]]/ ... as
-well as all the gothic and horror films. Odd as those shows were, we
-all seemed to "get" the premise and laugh along with the basic goths
-versus normies gag. Likewise, the biggest film of my childhood, /[[https://en.wikipedia.org/wiki/The_Wizard_of_Oz][The
-Wizard of Oz]]/ had many dark themes, especially the Wicked Witch of the
-West and her very creepy flying monkeys and castle.[fn:171]
+*** My Dark influences
 
-My teen years were fairly "normal," the only Dark exposure coming from
-my paternal grandmother, who channelled a very Victorian Englishness,
-inherited as we understood from her model Victorian mother. She
-embodied a proto-Downton Abbey aura, something no one in that small
-Southern Illinois small town could fathom---until finally seeing
-Maggie Smith's Violet Crawley, The Dowager Countess of Grantham!
+How did I come by Dark? Everyone of my generation knows the television
+shows /[[https://en.wikipedia.org/wiki/The_Addams_Family][The Addams Family]]/ and /[[https://en.wikipedia.org/wiki/The_Munsters][The Munsters]]/ ... as well as all the
+gothic horror films. Odd as those shows were, we all seemed to "get"
+the premise and laugh along with the basic goths-versus-normies
+gag. Likewise, the biggest film of my childhood, /[[https://en.wikipedia.org/wiki/The_Wizard_of_Oz][The Wizard of Oz]]/
+had many dark themes, especially the Wicked Witch of the West and her
+very creepy flying monkeys and castle.[fn:172]
+
+My teen years were influenced mainly by progressive Woodstock Era
+memes," the only Dark exposure coming from my paternal grandmother,
+who channelled a very Victorian Englishness, inherited as we
+understood from her model Victorian mother. She exuded a proto-Downton
+Abbey aura, something none of us in that small Southern Illinois small
+town could fathom---until we finally saw Maggie Smith's Violet
+Crawley, The Dowager Countess of Grantham!
 
 #+begin_export html
 <a href="https://pbswisconsin.org/article/celebrate-international-tea-day-with-violet-crawley/" target="_blank"><img src="./images/DowntonViolet.jpg" width="800" alt="Victorian Ladydom"></a>
 <span class="cap">My grandmother in a more suitable universe.</span>
 #+end_export
 
-My Grandma Grace Virginia was no a rangy intellectual, but she was a
-potent carrier of the Victorian mega-meme and exposed us all to its
-poets, especially Poe. She could recite /Annabel Lee/ by heart. I say
-she was not an educated thinker; nevertheless, she possessed an
-instinctual grasp of the Dark Muse as though it was a common thread of
-hers and the earlier Victorian generations. Longfellow and Whittier
-were also favourites, and I can only assume she had been infected by
-her mother who was born circa 1870. To be sure, we are woven from
-strands reaching back into the past.
+My Grandma Grace Virginia did not possess great intellect or culture,
+and yet she was a potent carrier of the Victorian
+mega-meme. Specifically, she exposed us all to its poets, especially
+Poe. She could recite /Annabel Lee/ by heart. I say she was not an
+educated thinker; nevertheless, she possessed an instinctual grasp of
+the Dark Muse as though it was a common thread of hers and the earlier
+Victorian generations. Longfellow, the Brownings, and Whittier were
+also favourites, and I can only assume she had been infected by her
+mother who was born circa 1870. To be sure, we are woven from strands
+reaching back into the past.
 
-In 1975 at age nineteen I was sent by the U.S. Army to West
-Germany. My first assignment lay far out on the Bohemian frontier,
-deep in the /[[https://en.wikipedia.org/wiki/Bavarian_Forest][Bavarian Forest]]/ where the U.S. Army and Air Force manned
-a small mountaintop electronic eavesdropping post near the tiny
-village of [[https://en.wikipedia.org/wiki/Rimbach,_Upper_Palatinate][Rimbach]].[fn:172] We were less than one hundred Americans
-"on the economy," which meant we had no base nor barracks and lived
-out amongst the locals. My rooms were with a farmer family in a house
-just below a /haunted/ castle ruins overlooking the wild, forested
-main /[[https://en.wikipedia.org/wiki/Hoher_Bogen][Hoher Bogen]]/ ridge.
+I joined the U.S. Army right out of high school in 1974, and in 1975,
+at the age of nineteen, after basic training and AIT (Advanced
+Individual Training), I received my permanent station orders to West
+Germany. My first assignment location was far out on the Bohemian
+frontier, deep in the /[[https://en.wikipedia.org/wiki/Bavarian_Forest][Bavarian Forest]]/ where the Army and Air Force
+operated a small mountaintop electronic eavesdropping post near the
+tiny village of [[https://en.wikipedia.org/wiki/Rimbach,_Upper_Palatinate][Rimbach]].[fn:173] We were less than one hundred
+Americans "on the economy," which meant we had no base nor barracks
+and lived out amongst the locals. My rooms were with a farmer family
+in a house just below a /haunted/ castle ruins overlooking the wild,
+forested main /[[https://en.wikipedia.org/wiki/Hoher_Bogen][Hoher Bogen]]/ ridge.
 
 For the first time in my life I was living in, not just hearing or
 reading about the Old World. I'll never forget waking up that first
 September morning in Rimbach in the small country-style /Pension/ the
-Army had rented for transients. It was located in the centre of the
-village and overlooked the inner courtyard of a farm where I saw a
-wizened old crone out of a fairytale splitting firewood. I then looked
-up to the facing hillside and saw a small troop of men wearing what
-looked like other-century traditional costumes hand-scything hay and
-piling it into a horse-drawn wagon.
+Army had rented for transient barracks and social events. It was
+located in the centre of the village and overlooked the inner
+courtyard of a farm where I saw a wizened old crone out of a fairytale
+splitting firewood. I then looked up to the facing hillside and saw a
+small troop of men wearing what looked like other-century traditional
+costumes hand-scything hay and piling it into a horse-drawn wagon.
 
-For the first time in my life I wasn't plugged into the all-consuming
+For the first time in my life I was not plugged into the all-consuming
 social-psychology feed of America and its domineering
 media. Everything around me felt old, very old, the local Bavarians
 connected to something else, perhaps a fairytale that was now in
-suspended animation.[fn:173] And when I was handed a copy of /Lord of
+suspended animation.[fn:174] And when I was handed a copy of /Lord of
 the Rings/ and I first learned of Hobbits and the Shire, yes, this was
 the Shire. As the fall turned into winter I spent every free moment
 hiking the forested ridge trails. It was as if time had changed
@@ -4740,7 +4759,7 @@ forgotten. Nature had a very dark, old, and serious feel in those
 environs, while by comparison my Tennessee Smoky Mountains had a
 lighter, even merry feel. I almost made it a daily pilgrimage to the
 ruins, parts of which had been reconstructed, including the original
-keep.[fn:174] A legend said a princess had thrown herself from the
+keep.[fn:175] A legend said a princess had thrown herself from the
 original keep to her death, and her ghost supposedly roamed the place
 after dark. Hence, the warning to never be in the woods after dark was
 taken seriously.
@@ -4818,7 +4837,7 @@ and I feel, I respond. I find Rossetti on the same fatalist wavelength
 as Emily Brontë. She is describing an interaction with God not
 dissimilar to Haworth Emily's /"I'll come when thou art saddest/
 where, again, life is bitterly entropic, i.e., effort is nowhere near
-linearly rewarded, plans hardly realised.[fn:175] 
+linearly rewarded, plans hardly realised.[fn:176] 
 
 But then organised Christianity is dogma---with results, rewards for
 our compliance and obedience thin on the ground other than avoidance
@@ -4829,67 +4848,105 @@ of instant damnation upon death.
 
 /This section was written at the end of the Summer of 2024./
 
-Earlier this summer the [[https://northhouse.org/][North House Folk School]], a sort of
-twenty-first century [[https://en.wikipedia.org/wiki/Arts_and_Crafts_movement][Arts and Crafts Movement]] holdover, hosted their
-[[https://www.northhouse.org/events/wooden-boat-show?gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw85B1_ja5XEfwK8z67xLIluZlvh8rzvshmO0ke1XdO84iJQRGChyCsaAqqfEALw_wcB][Wooden Boat Show]] where legacy non-powered wooden boats---many built
-on-site---were on display and were subsequently sailed and oared about
-our Grand Marais harbour. But we all became incensed when the happy
-boating was buzzed by a hooligan on a "personal watercraft" or jet
-ski, throwing wake after wake at the participants. I've thought about
-this quite a bit, about how these visiting "educated elites" from
-their Twin Cities intellectual urban cell existences were mocked by the
-yokel Scandinavian peasant descendent of loggers and fishermen. So
-much for nostalgia.
+Earlier this summer the [[https://northhouse.org/][North House Folk School]], a sort of [[https://en.wikipedia.org/wiki/Arts_and_Crafts_movement][Arts and
+Crafts Movement]] holdover, hosted their [[https://www.northhouse.org/events/wooden-boat-show?gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw85B1_ja5XEfwK8z67xLIluZlvh8rzvshmO0ke1XdO84iJQRGChyCsaAqqfEALw_wcB][Wooden Boat Show]] where
+non-powered, legacy wooden boats---many built on-site---were on
+display and were subsequently sailed and oared about our Grand Marais
+harbour. But then all the happy boating was buzzed by a hooligan on a
+"personal watercraft" or jet ski, throwing wake after wake at the
+participants. I've thought about this quite a bit, about how these
+visiting "educated elites" from their Twin Cities intellectual urban
+cell existences were mocked by the yokel Scandinavian peasant
+descendent of loggers and fishermen. So much for nostalgia.
 
 It is now late summer, the Labor Day weekend, and yesterday I hiked
-some twelve miles up on the densely-forested, geologically-ancient
+some twelve miles along the densely-forested, geologically-ancient
 ridge facing the Inland Sea some ten miles west of town. The day was
-sunny and the breezes cool. Starting at the Cascade River gorge down
-on Highway 61 where the river empties into the lake, I headed up
-inland and west towards the first notable point, Lookout Mountain. As
-I hiked along I encountered dozens of tourists, most of which
-considered the remote wilderness trail just another downtown
-Minneapolis sidewalk, that is to say, they refused eye contact or any
-acknowledgement of my existence. At the Lookout Mountain overlook with
-its spectacular vista out across the expansive boreal wilderness, some
-even stood around staring at their phones.[fn:176] Continuing west
-along the ridge for the rest of the afternoon, I saw no other human
-with whom to have such negative experiences. And so I hiked on and on,
-escorted by various races of dragonflies, through their strange
-woodland neighbourhoods which have grown up since the "tree holocaust"
-of the late-nineteenth, early-twentieth centuries when the North Woods
-were "logged off," or, in plain English, destroyed. Once I reached the
-beautiful Spruce Creek (the original of which I want to visit in
-Heaven), I headed back as the nearing-equinox sun was setting.
+sunny and the breezes cool. Starting at the Cascade River gorge on
+Highway 61 where the river empties into the lake, I headed inland and
+west towards the first notable point, Lookout Mountain. As I hiked
+along I encountered dozens of tourists, most of which considered the
+remote wilderness trail just another downtown Minneapolis street, that
+is to say, they refused eye contact or any acknowledgement of my
+existence. At the Lookout Mountain overlook with its spectacular vista
+northward across the expansive boreal wilderness, some of the visitors
+even stood around staring at their phones.[fn:177] Continuing further
+west along the ridge for the rest of the afternoon, I saw no other
+human. And so I hiked on and on, escorted by various races of
+dragonflies through their strange woodland neighbourhoods which have
+grown up since the "tree holocaust" of the late-nineteenth,
+early-twentieth centuries when the North Woods were "logged off," or,
+in plain English, destroyed. Once I reached the beautiful Spruce Creek
+(the original of which I want to visit in Heaven), I headed back as
+the nearing-equinox sun was setting.
 
 I sometimes lapse into an elven fairy buzz out in these expansive but
 injured and recovering forests. Often enough it only takes one of our
-ancient, untouched "old-growth" white cedar groves[fn:177] to send me
+ancient, untouched "old-growth" white cedar groves[fn:178] to send me
 to the analogue elven [[https://en.wikipedia.org/wiki/Lothl%C3%B3rien][Lothlórien]]. Diminished as our forestlands are,
-they are still so endless and vast! From up on these ridge overlooks I
-see to the north uninterrupted rolling forested hills!
+they are still so endless and vast! And someday when we humans are no
+more they will be whole and mighty again.
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/Thuja_occidentalis" target="_blank"><img src="./images/JimBrandenburgCedars.jpg" width="800" alt="Cedar grove"></a>
 <span class="cap">Not the suburb, but a real cedar grove...</span>
 #+end_export
 
-But other times I feel like I wasn't expected, wasn't acknowledged,
-then wasn't missed when I left. These woods do not suffer my
-imaginative comparisons. So often my daydreams crumble when I remember
-that I'm just a visitor, a transient, an impostor, an alien. I know
-that, short of becoming an aboriginal, I have no way of truly being a
-part of this wild expanse. Experience the wild, but once over go home
-to wonder what it all meant...
+Though these woods do not suffer my imaginative comparisons. So often
+my daydreams crumble when I remember that I'm just a visitor, a
+transient, an impostor, an alien. Sometimes I feel like I wasn't
+expected, wasn't acknowledged, and then wasn't missed when I left. I
+know that, short of becoming an aboriginal, I have no way of truly
+being a part of this wild expanse. Experience the wild, but once over
+go home to wonder what it all meant...
 
-Is there any precedent to a northern wilderness experience? James
-Fenimore Cooper's [[https://en.wikipedia.org/wiki/Leatherstocking_Tales][Leatherstocking Tales]] set in the pre-Revolution days
-of wild, pre-settlement New York in give us nothing but pulp action
-fiction playing on accounts of white-native clashes.[fn:178]
+*** Old wilderness
+
+There is a fifteen-acre wooded section of the Efteling, Holland,
+amusement park depicting with sets and animatronics fairytales from
+the [[https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales][Brothers Grimm]],[fn:179] [[https://en.wikipedia.org/wiki/Hans_Christian_Andersen][Hans Christian Anderson]], and [[https://en.wikipedia.org/wiki/Charles_Perrault][Charles Perrault]].
+
+#+begin_export html
+<a href="https://en.wikipedia.org/wiki/Rapunzel" target="_blank"><img src="./images/EftelingRapunzel.jpg" width="825" alt="Rapunzel"></a>
+<span class="cap">Grimms' Rapunzel's golden stair.</span>
+#+end_export
+
+But what about woodland inspires folk legends and fairy tales? Perhaps
+because they are from times long ago, back when woodlands were more
+prevalent and pagan times closer? As I say in my /Emily of Wolkeld/
+novel
+
+#+begin_quote
+Then what about the pagan lurking in the background of old Europe, out
+on the moor, deep in the woods? Like a former spouse still living in
+the county, one sees the other, one fixes the other’s eyes, one nods,
+one remembers.
+#+end_quote
+
+During Roman times German territory was largely one extensive forested
+area called the /Hercynia Silva/ by Caesar, or /Hercynian Forest/,
+stretching from Northwest France over to the Slovakian Carpathian
+Mountains. And beginning with Roman accounts, the region got mythic
+and fantastical press. Another forest of perhaps purely mythical
+existence is the "enchanted" Brocéliande Forest of Arthurian fame,
+which might have been located in France's Brittany.
+
+Romanticism's Nature found a strong outlet in the 
+
+dedicated to Romanticism's champions, be they lyrical or philosophical, brought new
+sight to nature. The Brothers Grimm 
+
+Sibylle von Olfers[fn:180]
+
+Leaving out the modernists, has literature given us a northern
+wilderness experience? No, not really. James Fenimore Cooper's
+[[https://en.wikipedia.org/wiki/Leatherstocking_Tales][Leatherstocking Tales]] set in the pre-Revolution days of wild,
+pre-settlement New York is pulp action fiction dramatising actual
+accounts of white-native clashes.[fn:181]
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans" target="_blank"><img src="./images/ThomasColeLast-of-the-mohicans-1827.jpg" width="825" alt="Thomas Cole"></a>
-<span class="cap">Thomas Cole's Cora Kneeling at the Feet of Tamenund (1827)</span>
+<span class="cap">Thomas Cole's "Cora Kneeling at the Feet of Tamenund" (1827)</span>
 #+end_export
 
 Norwegian novelist [[https://en.wikipedia.org/wiki/Knut_Hamsun][Knut Hamsun]] (1859 - 1952) in [[https://en.wikipedia.org/wiki/Growth_of_the_Soil][Growth of the Soil]]
@@ -4910,75 +4967,74 @@ realist writers such as Henry Miller, Thomas Mann, Ernest Hemingway,
 and many others with strong interests in seeing Romanticism dead and
 buried. Isak is cutting wood one evening---and he gets the feeling the
 devil is sitting on a log watching him. Otherwise, /Growth.../ hasn't
-the least trace of anything Nature capitalised. Here is a poem from his
+the least trace of anything Nature capitalised.
 
-#+begin_verse
-No, dear God, do not let me be deceased 
-under blankets and sheets 
-and at my bedside all that crying. 
-
-Let me be struck down one day unexpected 
-and fall in the forest someplace neglected, 
-where no one can find me will I lay dying. 
-
-As a son of the forest who knows it well, 
-it will not deny my humble request to dwell 
-at long last upon some mossy mound. 
-
-There will I give back to all its animals thus, 
-my great corpse without speeches or fuss, 
-and by the crows, the rats and flies so found. 
-
-Yes, I will host a grand meal when I am deceased 
-for those beaks and claws and teeth a feast, 
-for one and all a generous serving. 
-
-And from above a squirrel will look on askance 
-watching with eyes alert from his branch, 
-almost human eyes, so unnerving. 
-
-An ample portion for each to feed, 
-enough to satisfy an army in need 
-and at the table they will pick me apart. 
-
-An eagle to strip my bones bare, 
-staying until no more is there, 
-and then with talons drawn in depart. 
-
-And into late evening and all night long 
-the glorious sounds of a corpse in song 
-as lovely as when bells are rung. 
-
-Then in tribute to me a final word, 
-from the owl herself it is heard, 
-hooted as a simple oath is sung. 
-
-When the little left of me the earth receives 
-and at dawn is hidden under a grave of leaves. 
-
-the end of this joyous night will be near. 
-My friends! I have fed you all! Goodbye! 
---- But all these leaves about me, why? 
-It must be the wind that swept them here.
-#+end_verse
-
-In his /Letter to Byron in the Great Beyond/ he says, /Our earth has
+In his poem /Letter to Byron in the Great Beyond/ he says, /Our earth has
 become an asylum for humanity/. But again, the fact that so many later
 modernists leaning heavily into nihilism found him their inspiration
 is very off-putting for me.
 
+A Scandinavian contemporary of Hamsun's was the Swedish illustrator
+John Bauer who is best known for his depictions in the beloved Swedish
+annual folklore publication /[[https://en.wikipedia.org/wiki/Among_Gnomes_and_Trolls][Among Gnomes and Trolls]]/ (/Bland tomtar
+och troll/) stretching over many editions beginning in 1907.
+
+#+begin_export html
+<a href="https://wonderlit.com/leap-the-elk-and-little-princess-cottongrass/" target="_blank"><img src="./images/PrincessCottongrassJohnBauer.jpg" width="825" alt="Leap the Moose and Pricess Cottongrass"></a>
+<span class="cap">Princess Cottongrass lost in her reflection.</span>
+#+end_export
+
+#+begin_verse
+Many years have passed. Still Princess Cottongrass sits and stares into the water, looking for her heart. She is no longer a little girl but a slender plant crowned with white cotton, leaning over the pool.
+#+end_verse
+
+As his Wikipedia article says, /Ever since he was little he had
+wandered in the dark woods of Småland imagining all the creatures
+living there./ 
+
+
+Most unique and powerful is of course J.R.R. Tolkien's tales set in
+his fictitious /Middle Earth/, which is understood to be modelled
+after Northwest European landscape.
+
+*** New wilderness: John Muir, Aldo Leopold, Sigurd Olson
+
+#+begin_verse
+He said with a sawdusty sneeze, I am the Lorax. I speak for the trees. I speak for the trees, for the trees have no tongues.
+---from *[[https://en.wikipedia.org/wiki/The_Lorax][The Lorax]]* by Dr. Seuss
+#+end_verse
+
+#+begin_quote
+The men wear their hair too long and the women too short. \\
+---President William McKinley commenting on John Muir and his followers
+#+end_quote
+
+When did [[https://en.wikipedia.org/wiki/Environmentalism][environmentalism]] begin? I would posit it has always been with
+us, simply because in pre-industrial times the local land was the
+provider, thus some manner of sustainability had to be baked in. Of
+course a medieval forest was not protected in the same way we might
+protect a wilderness area like we protect, e.g., our national park
+forests. And yet in any
+
+
+
+
+
 Throughout my wonderful hike on that perfect day I would so greatly
 appreciate the wild natural beauty, but then be acutely aware of my
-great separation from nature. It was darkening round me when I finally
-arrived back at the highway and my car. I had finished my visitation
-and was once more leaving Nature to return to my human prisoner
-existence. And so I got in my Prius and drove off eastwards and home,
-eating my protein bar and wondering as I had so many times before what
-it all meant. After the Cut Face Creek bend came the red pine woods
-climbing up the slopes, then the "wastes, " as the miles along 61
-before town are mainly scrubby aspen aftergrowth. And yet the Lake
-Superior of Longfellow's "noble red savage" hagiography [[https://en.wikipedia.org/wiki/The_Song_of_Hiawatha][/The Song of
-Hiawatha]]/
+great separation from nature. If I said /our growing separation from
+nature runs parallel to our growing separation from one another/, I
+wouldn't be saying much new. I feel we're now in the midst of a great
+unmooring, and all can feel a general dysphoria. It was darkening
+round me when I finally arrived back at the highway and my car. I had
+finished my visitation and was once more leaving Nature to return to
+my human prisoner existence. And so I got in my Prius and drove off
+eastwards and home, eating my protein bar and wondering as I had so
+many times before what it all meant. After the Cut Face Creek bend
+came the red pine woods climbing up the slopes, then the "wastes, " as
+the last miles along 61 before town are mainly scrubby aspen
+aftergrowth. And yet the Lake Superior of Longfellow's "noble red
+savage" hagiography [[https://en.wikipedia.org/wiki/The_Song_of_Hiawatha][/The Song of Hiawatha]]/
 
 #+begin_verse
 On the shores of Gitche Gumee,
@@ -4988,19 +5044,18 @@ Of the shining Big-Sea-Water...
 kept glowing vast and huge on my right in the setting rays.
 
 Thousands upon thousands of tourists spend their vacation time and
-money here. Many eventually want this permanently, thus, move up
-here---expecting their childhood memories and the general holiday
-magic to then become 24/7.[fn:179]
+money here. If I'm having so much trouble imbibing, I couldn't begin
+to imagine what they're getting. Many eventually want this
+permanently, and, thus, move up here, expecting their childhood
+memories and the general holiday magic to become 24/7.[fn:182]
 
-When I'm in Nature I feel wonderful---albeit with a bit of impostor syndrome. When I'm back in society I feel
-awful. And I would blame myself if not for the fact that so many, many
-people can relate to this. But I can't ever again consider living in a
-settled area---even rural.
+When I'm in Nature I feel wonderful---albeit as an orphan with an
+impostor syndrome. When I'm back in society I feel awful. And I would
+blame myself if not for the fact that so many, many people can relate
+to this. But I can't ever again consider living in a settled
+area---even rural.
 
-If I said /our growing separation from nature runs parallel to our
-growing separation from one another/, I wouldn't be saying much new. I
-feel we're now in the midst of a great unmooring, and all can feel a
-general dysphoria. But
+ But
 
 * Footnotes
 
@@ -5648,8 +5703,8 @@ B-sisters...
 
 [fn:166] More about /legendspace/ as we go along.
 
-[fn:167] Really though, calling it /Lake/ Superior is
-like calling Einstein a high school graduate.
+[fn:167] Really though, calling her /Lake/ Superior is like calling
+Einstein a high school graduate.
 
 [fn:168] Wetsuits de rigueur. Even in summer a dunk in her longer than
 ten minutes can lead to hypothermia ... at least on the North
@@ -5660,46 +5715,61 @@ swimmable in the height of summer.
 [[file:images/Pere_Lachaise_Chemin_Errazu.jpg]] \\
 \\
 
-[fn:170] A flip of the James Bond martini quip?
+[fn:170] The Great Lakes tourist scene has always been a grittier,
+more working-class world than other tourist Meccas.
 
-[fn:171] Wicked Witch of the West \\
+[fn:171] A flip of the James Bond martini quip?
+
+[fn:172] Wicked Witch of the West in stealth mode... \\
 [[file:images/The_Wizard_of_Oz_Margaret_Hamilton_1939_No_1.jpg]] \\
 \\
 
-[fn:172] Rimbach valley six hundred years prior \\
+[fn:173] Depiction of Rimbach some six hundred years prior. Note the
+red star just below the castle, my digs. \\
 [[file:images/lichteneck_ap2.jpg]] \\
 \\
 
-[fn:173] ...but aren't all fairy tales in suspended animation "until
+[fn:174] ...but aren't all fairy tales in suspended animation "until
 further notice," e.g., Merlin supposedly biding his time in some pit
-or encased in a hawthorn.
+or inside a hawthorn?
 
-[fn:174] Castle ruins Lichtenegg near Rimbach, Lower Bavaria. \\
+[fn:175] Castle ruins Lichtenegg near Rimbach, Lower Bavaria. \\
 [[file:images/LichteneggInMist.png]] \\
 \\
 
-[fn:175] And of course the joke, Want to make God laugh? Tell Him your
+[fn:176] And of course the joke, Want to make God laugh? Tell Him your
 plans. Or the German, /Der Mensch denkt, der Gott lenkt/ or, The human
 thinks, God steers.
 
-[fn:176] So you came all this way just act aloof and unavailable and
-stare at that damned phone?  \\
+[fn:177] So you came to this beautiful, special place just to stare at
+that damned phone?  \\
 [[file:images/NewYorkerCover03-02-2015.png]] \\
 \\
 
-[fn:177] ...thankfully left as undesirable by the loggers. Although
+[fn:178] ...thankfully left as undesirable by the loggers. Although
 throughout this boreal region hundreds of acres of forests at a time
 are routinely reduced to bare, churned-up dirt and slash piles, the
-marginal timber mainly used for paper pulp and chips for pressboard.
+marginal timber mainly used for paper pulp and chips for
+particleboard. Hardly worth the bother.
 
-[fn:178] My namesake ancestors came to the New World from Germany in
+[fn:179] Edition of /Children's and Household Tales/ appearing in 1819
+\\
+[[file:images/KinderUndHausMaerchen.png]] \\
+\\
+
+[fn:180] Below a scene from [[https://en.wikipedia.org/wiki/Sibylle_von_Olfers][Sibylle von Olfers]]' /The Princess in the
+Forest/ \\
+[[file:images/SibylleVonOlfersStarChildren.jpg]] \\
+\\
+
+[fn:181] My namesake ancestors came to the New World from Germany in
 1711 at the behest of Queen Anne who rescued us from Catholic
 persecution on the Continent. Conrad Weiser was among these Protestant
 Germans and, having learned to speak Mohawk as a boy, was in the thick
-of white settler-Native negotiations and conflicts throughout the
+of white-Native negotiations and conflicts throughout the
 region in the times leading up to the American Revolution ... upon
 which Cooper melodramatically fictionalised.
 
-[fn:179] Bringing the suburban to the wilderness... \\
+[fn:182] Bringing the suburban to the wilderness... \\
 [[file:images/NewYorkerCover07-02-2012.jpg]] \\
 \\
