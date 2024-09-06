@@ -1434,7 +1434,7 @@ more nature simply because we have gone like explorer astronauts way
 farther out from our sterile, artificial exclusively human home
 base. /Nature is not something close or remote/.
 
-It is precisely because we have spoiled so much of our proximate
+It is precisely because we have spoiled so much of our immediate
 places that we elevate far-afield wilderness to a practically sacred,
 quasi-off-planet status. Writers like Ernest Hemingway and Jack London
 exploit fright memes in describing distant, exotic, hostile places
@@ -4844,7 +4844,7 @@ our compliance and obedience thin on the ground other than avoidance
 of instant damnation upon death.
 
 
-** In closing, What am I doing here on the Inland Sea?
+** In closing, What is Nature today?
 
 /This section was written at the end of the Summer of 2024./
 
@@ -4853,96 +4853,149 @@ Crafts Movement]] holdover, hosted their [[https://www.northhouse.org/events/woo
 non-powered, legacy wooden boats---many built on-site---were on
 display and were subsequently sailed and oared about our Grand Marais
 harbour. But then all the happy boating was buzzed by a hooligan on a
-"personal watercraft" or jet ski, throwing wake after wake at the
-participants. I've thought about this quite a bit, about how these
-visiting "educated elites" from their Twin Cities intellectual urban
-cell existences were mocked by the yokel Scandinavian peasant
-descendent of loggers and fishermen. So much for nostalgia.
+"personal watercraft" or as we say, jet ski, throwing wake after wake
+at the participants. I've thought about this quite a bit, about how
+these visiting "educated elites" from their Twin Cities intellectual
+urban existences were mocked by the yokel peasant descendent of
+Scandinavian loggers and fishermen. So much for nostalgia.
 
 It is now late summer, the Labor Day weekend, and yesterday I hiked
 some twelve miles along the densely-forested, geologically-ancient
 ridge facing the Inland Sea some ten miles west of town. The day was
-sunny and the breezes cool. Starting at the Cascade River gorge on
-Highway 61 where the river empties into the lake, I headed inland and
-west towards the first notable point, Lookout Mountain. As I hiked
-along I encountered dozens of tourists, most of which considered the
-remote wilderness trail just another downtown Minneapolis street, that
-is to say, they refused eye contact or any acknowledgement of my
+sunny and the breezes cool. Starting at the deep Cascade River gorge
+on Highway 61 where the river empties into the lake, I headed inland
+and west up towards the first notable point, Lookout Mountain. As I
+hiked along I encountered dozens of tourists, most of which considered
+the remote wilderness trail just another downtown Minneapolis street,
+that is to say, they refused eye contact or any acknowledgement of my
 existence. At the Lookout Mountain overlook with its spectacular vista
 northward across the expansive boreal wilderness, some of the visitors
 even stood around staring at their phones.[fn:177] Continuing further
-west along the ridge for the rest of the afternoon, I saw no other
-human. And so I hiked on and on, escorted by various races of
-dragonflies through their strange woodland neighbourhoods which have
-grown up since the "tree holocaust" of the late-nineteenth,
-early-twentieth centuries when the North Woods were "logged off," or,
-in plain English, destroyed. Once I reached the beautiful Spruce Creek
-(the original of which I want to visit in Heaven), I headed back as
-the nearing-equinox sun was setting.
+west along the high ridge for the rest of the afternoon, I saw no
+other human. And so I hiked on and on, escorted by various races of
+dragonflies through all their strange and varied woodland
+neighbourhoods which have grown up since the "tree holocaust" of the
+late-nineteenth, early-twentieth centuries when the North Woods were
+"logged off," or, in plain English, destroyed. Once I reached the
+beautiful Spruce Creek (the original of which I want to visit in
+Heaven), I headed back as the nearing-equinox sun was setting.
 
 I sometimes lapse into an elven fairy buzz out in these expansive but
 injured and recovering forests. Often enough it only takes one of our
 ancient, untouched "old-growth" white cedar groves[fn:178] to send me
-to the analogue elven [[https://en.wikipedia.org/wiki/Lothl%C3%B3rien][Lothlórien]]. Diminished as our forestlands are,
-they are still so endless and vast! And someday when we humans are no
-more they will be whole and mighty again.
+to the analogue elven [[https://en.wikipedia.org/wiki/Lothl%C3%B3rien][Lothlórien]] of J.R.R. Tolkien's
+/[[https://en.wikipedia.org/wiki/Middle-earth][Middle-earth]]/.
+
+#+begin_verse
+Éala éarendel engla beorhtast / ofer *middangeard* monnum sended.
+Hail Earendel, brightest of angels / above the *middle-earth* sent unto men.
+---from Cynewulf, an Old English poet from the 9th century
+#+end_verse
+
+Diminished as our [[https://en.wikipedia.org/wiki/Taiga][boreal forestlands]] are from their original glory,
+they are in their new composition still endless and vast![fn:179] And
+someday when we humans are no more they will be returned to their
+former magnificence.
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/Thuja_occidentalis" target="_blank"><img src="./images/JimBrandenburgCedars.jpg" width="800" alt="Cedar grove"></a>
-<span class="cap">Not the suburb, but a real cedar grove...</span>
+<span class="cap">Not the suburb, but a real cedar grove. (Photo: Jim Brandenburg)</span>
 #+end_export
 
-Though these woods do not suffer my imaginative comparisons. So often
-my daydreams crumble when I remember that I'm just a visitor, a
-transient, an impostor, an alien. Sometimes I feel like I wasn't
-expected, wasn't acknowledged, and then wasn't missed when I left. I
-know that, short of becoming an aboriginal, I have no way of truly
-being a part of this wild expanse. Experience the wild, but once over
-go home to wonder what it all meant...
+Dream as I may, I know these woods do not suffer my imaginative
+comparisons. So often my mythic daydreams crumble when I remember that
+I'm just a visitor, a transient, an impostor, an alien. When I
+consider all the critters that call these forests home, each perfectly
+built for their existence out in nature, I must wonder who am I, what
+was I built for? Often enough I feel like I wasn't expected, wasn't
+acknowledged, and then wasn't missed when I left. I know that, short
+of becoming an aboriginal, I have no way of truly being a part of this
+wild expanse. Experience the wild, but once over go home to wonder
+what it all meant...
 
 *** Old wilderness
 
-There is a fifteen-acre wooded section of the Efteling, Holland,
-amusement park depicting with sets and animatronics fairytales from
-the [[https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales][Brothers Grimm]],[fn:179] [[https://en.wikipedia.org/wiki/Hans_Christian_Andersen][Hans Christian Anderson]], and [[https://en.wikipedia.org/wiki/Charles_Perrault][Charles Perrault]].
+Contained within the Efteling, Holland, amusement park is a
+fifteen-acre wooded section called /Sprooksjebos/ or the /[[https://en.wikipedia.org/wiki/Fairytale_Forest][Fairytale
+Forest]]/ depicting with sets and animatronics selected fairy tales from
+the [[https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales][Brothers Grimm]],[fn:180] [[https://en.wikipedia.org/wiki/Hans_Christian_Andersen][Hans Christian Anderson]], and [[https://en.wikipedia.org/wiki/Charles_Perrault][Charles
+Perrault]] ... not for everyone ... your mileage may vary...
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/Rapunzel" target="_blank"><img src="./images/EftelingRapunzel.jpg" width="825" alt="Rapunzel"></a>
-<span class="cap">Grimms' Rapunzel's golden stair.</span>
+<span class="cap">Efteling's Grimms' Rapunzel's golden stair.</span>
 #+end_export
 
-But what about woodland inspires folk legends and fairy tales? Perhaps
-because they are from times long ago, back when woodlands were more
-prevalent and pagan times closer? As I say in my /Emily of Wolkeld/
+The common setting in so many of our European-based folktales is, of
+course, the forest. But what about wooded land inspires folk legends
+and fairy tales?[fn:181] A simple answer is perhaps because wild
+nature was more at hand long ago, back when the accompanying pagan
+legendry more dominant ... and now absence makes the heart grow
+fonder? German philosopher Ludwig Klages once said the Germanic
+peoples are a "forest people" with a natural affinity to woodsy
+places. I suppose the older cultures of the Mediterranean, the Middle
+East, and the Asian East would be "garden people" due to their longer
+years in civilization beyond nomadic hunter-gatherer existence. Up
+until the Roman incursions we of Northern Europe had a closer
+connection to forests, and something remains deep inside us craving
+expression, an outlet to this day. As I say in my /Emily of Wolkeld/
 novel
 
 #+begin_quote
 Then what about the pagan lurking in the background of old Europe, out
 on the moor, deep in the woods? Like a former spouse still living in
-the county, one sees the other, one fixes the other’s eyes, one nods,
-one remembers.
+the county, one sees the other, one fixes the other’s eyes, one
+occasionally nods, one remembers.
 #+end_quote
 
-During Roman times German territory was largely one extensive forested
-area called the /Hercynia Silva/ by Caesar, or /Hercynian Forest/,
-stretching from Northwest France over to the Slovakian Carpathian
-Mountains. And beginning with Roman accounts, the region got mythic
-and fantastical press. Another forest of perhaps purely mythical
-existence is the "enchanted" Brocéliande Forest of Arthurian fame,
-which might have been located in France's Brittany.
+During Roman times German Central Europe was largely one extensive,
+trackless wilderness area called the /Hercynia Silva/ by Caesar, or
+/Hercynian Forest/. This was one contiguous woodland of mainly
+temperate climate hardwoods stretching from Northwest France, across
+Germany, linking up with wilds of the Carpathian Mountains. And
+beginning with Roman accounts, the region got plenty of mythic and
+fantastical press. Another forest of perhaps purely mythical existence
+was the "enchanted" Brocéliande Forest of Arthurian fame, which might
+have been located in France's Brittany.
 
-Romanticism's Nature found a strong outlet in the 
+By far the majority of Euro-folk legends include, take place in
+forests than not and to name even some would be to leave others
+out. And yet it is interesting to note how the Romantic and
+Post-Romantic nineteenth century seemed to relaunch the pagan forest energy with a
+vengeance. Romanticism's Nature found a strong outlet in the deep
+woods of a long-ago Hercynian Forest or /[[https://en.wikipedia.org/wiki/List_of_ancient_woods_in_England][Ancient Woods]]/ of
+England. Romanticism's lyrical and philosophical leaders brought new
+attention to nature. The Brothers Grimm, beginning with their fairy
+tale publications in the late eighteen-teens did not hesitate to take
+the entire European diaspora's children deep into their mash-up of
+Iron-Age and Medieval German forests. I recall as a small child being
+thrilled as well as frightened as Hansel and Gretel made their
+harrowing way throughout their forest, first lost, then found by the
+/Knusperhexe/
 
-dedicated to Romanticism's champions, be they lyrical or philosophical, brought new
-sight to nature. The Brothers Grimm 
+What was an Iron Age, pre-Roman Britain or Germany like? Peopled
+certainly, some lands cleared around some settlements, but primordial
+forests making up the vast majority of the landscape. And when white
+people were like indigenous aboriginals, what were we like, what did
+we do, what did we believe?
 
-Sibylle von Olfers[fn:180]
+John Bauer's world of 90% forests, 9% agriculture lands, 1% village-urban
+
+And what about this feeling of a feeling of a feeling cascading effect
+Thomas Shippey descriptions of Tolkien. But we don't need/want facts,
+we /feel/ what we want to feel from this past. Active imaginings as
+part of the legend receptor sites...
+
+
+
+
+Sibylle von Olfers[fn:182]
 
 Leaving out the modernists, has literature given us a northern
 wilderness experience? No, not really. James Fenimore Cooper's
 [[https://en.wikipedia.org/wiki/Leatherstocking_Tales][Leatherstocking Tales]] set in the pre-Revolution days of wild,
 pre-settlement New York is pulp action fiction dramatising actual
-accounts of white-native clashes.[fn:181]
+accounts of white-native clashes.[fn:183]
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans" target="_blank"><img src="./images/ThomasColeLast-of-the-mohicans-1827.jpg" width="825" alt="Thomas Cole"></a>
@@ -5047,7 +5100,7 @@ Thousands upon thousands of tourists spend their vacation time and
 money here. If I'm having so much trouble imbibing, I couldn't begin
 to imagine what they're getting. Many eventually want this
 permanently, and, thus, move up here, expecting their childhood
-memories and the general holiday magic to become 24/7.[fn:182]
+memories and the general holiday magic to become 24/7.[fn:184]
 
 When I'm in Nature I feel wonderful---albeit as an orphan with an
 impostor syndrome. When I'm back in society I feel awful. And I would
@@ -5752,17 +5805,28 @@ are routinely reduced to bare, churned-up dirt and slash piles, the
 marginal timber mainly used for paper pulp and chips for
 particleboard. Hardly worth the bother.
 
-[fn:179] Edition of /Children's and Household Tales/ appearing in 1819
+[fn:179] Before the deforestation, the Arrowhead forests were an
+extreme southern boreal forest comprised mainly of tall and majestic
+white pines, along with black and white spruce, white cedar, and
+various birches.
+
+[fn:180] Edition of /Children's and Household Tales/ appearing in 1819
 \\
 [[file:images/KinderUndHausMaerchen.png]] \\
 \\
 
-[fn:180] Below a scene from [[https://en.wikipedia.org/wiki/Sibylle_von_Olfers][Sibylle von Olfers]]' /The Princess in the
+[fn:181] A folktale illustration from British Victorian artist [[https://en.wikipedia.org/wiki/Arthur_Rackham][Arthur
+Rackham]] bursting with that wild, edgy Germanic pagan-of-yore
+spirit. \\
+[[file:images/CatskinArthurRackam.png]] \\
+\\
+
+[fn:182] Below a scene from [[https://en.wikipedia.org/wiki/Sibylle_von_Olfers][Sibylle von Olfers]]' /The Princess in the
 Forest/ \\
 [[file:images/SibylleVonOlfersStarChildren.jpg]] \\
 \\
 
-[fn:181] My namesake ancestors came to the New World from Germany in
+[fn:183] My namesake ancestors came to the New World from Germany in
 1711 at the behest of Queen Anne who rescued us from Catholic
 persecution on the Continent. Conrad Weiser was among these Protestant
 Germans and, having learned to speak Mohawk as a boy, was in the thick
@@ -5770,6 +5834,6 @@ of white-Native negotiations and conflicts throughout the
 region in the times leading up to the American Revolution ... upon
 which Cooper melodramatically fictionalised.
 
-[fn:182] Bringing the suburban to the wilderness... \\
+[fn:184] Bringing the suburban to the wilderness... \\
 [[file:images/NewYorkerCover07-02-2012.jpg]] \\
 \\
