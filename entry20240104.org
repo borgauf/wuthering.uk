@@ -4851,11 +4851,11 @@ of instant damnation upon death.
 Earlier this summer the [[https://northhouse.org/][North House Folk School]], a sort of [[https://en.wikipedia.org/wiki/Arts_and_Crafts_movement][Arts and
 Crafts Movement]] holdover, hosted their [[https://www.northhouse.org/events/wooden-boat-show?gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw85B1_ja5XEfwK8z67xLIluZlvh8rzvshmO0ke1XdO84iJQRGChyCsaAqqfEALw_wcB][Wooden Boat Show]] where
 non-powered, legacy wooden boats---many built on-site---were on
-display, subsequently to be sailed and oared about our Grand Marais
+display, subsequently sailed and oared about our Grand Marais
 harbour. Indeed, many of these designs were based on the craft used by
-the ancestral Norwegian immigrant fishermen of the late nineteenth,
+the Norwegian immigrant fishermen of the late nineteenth,
 early-twentieth century along our Lake Superior coast. But then all
-the happy boating was buzzed by a hooligan on a "personal watercraft"
+the happy boating was buzzed by a hooligan on a "personal watercraft,"
 aka jet ski, throwing wake after wake at the participants. I've
 thought about this quite a bit, about how these visiting "educated
 elites" from the Twin Cities were mocked by the yokel descendent of
@@ -4879,10 +4879,10 @@ interaction with any "real" reality.
 And so what were the idealist, progressive college-gradders hoping to
 experience with their proximity to traditional, human-powered boats;
 and what was the hooligan from his world of NASCAR, "contemporary"
-country music, and Bud Light beer hoping to correct? Are we all just
+country music, and Bud Light beer hoping to achieve? Are we all just
 lost in this endless labyrinth of recursive symbols and derivative
-hyperreality?  This is the North Shore theatre I experience
-daily... Here's the Fairy Queen's admonition from my poem /Sallow
+hyperreality? This is the North Shore theatre I experience
+daily... Here is the Fairy Queen's admonition from my poem /Sallow
 Sponsor/
 
 #+begin_verse
@@ -4902,10 +4902,10 @@ It is now late summer, the Labor Day weekend, and yesterday I hiked
 some twelve miles along the densely-forested, geologically-ancient
 ridge facing the Inland Sea. The day was sunny and the breezes
 cool. Starting at the deep Cascade River gorge some ten miles west of
-town on Highway 61 where the river empties into the lake, I headed
+town on Highway 61 where the river empties into the sea, I headed
 inland and west up towards the first notable point, Lookout
 Mountain. As I hiked along I encountered dozens of tourists, most of
-which considered the remote wilderness trail just another downtown
+whom considered the remote wilderness trail just another downtown
 Minneapolis street, that is to say, they refused eye contact or any
 acknowledgement of my existence. At the Lookout Mountain overlook with
 its spectacular vista northward across the expansive boreal
@@ -4917,7 +4917,8 @@ neighbourhoods which have grown back since the "tree holocaust" of the
 late-nineteenth, early-twentieth centuries when the North Woods were
 "logged off," or, in plain English, destroyed. Once I reached the
 beautiful Spruce Creek (the original of which I want to visit in
-Heaven), I headed back as the nearing-equinox sun was setting.
+Heaven), I headed back as the nearing-equinox sun was setting. Simply
+put, there is no other feeling like being in this vast place of trees.
 
 I sometimes lapse into an elven fairy buzz out in these expansive but
 injured and recovering forests. Often enough it only takes one of our
@@ -4927,8 +4928,10 @@ to the analogue elven [[https://en.wikipedia.org/wiki/Lothl%C3%B3rien][Lothlóri
 
 #+begin_verse
 Éala éarendel engla beorhtast / ofer *middangeard* monnum sended.
+
 Hail Earendel, brightest of angels / above the *middle-earth* sent unto men.
----from the ninth century Old English Christian poet Cynewulf
+
+---from the ninth century poet Cynewulf
 #+end_verse
 
 Diminished as our [[https://en.wikipedia.org/wiki/Taiga][boreal forestlands]] are from their original glory,
@@ -4942,16 +4945,17 @@ former magnificence.
 #+end_export
 
 Dream as I may, I know these woods do not suffer my imaginative
-comparisons, my hyperreal cosplay. So often my mythic daydreams
-crumble when I remember that I'm just a visitor, a transient, an
-impostor, an alien of the modern era. When I consider all the critters
-that call these forests home, each perfectly built for their existence
-out in nature, I must wonder who am I, what was I built for? /Often
-enough I feel like I wasn't expected, wasn't acknowledged, and then
-wasn't missed when I left./ I know that, short of becoming an
-aboriginal, I have no way of truly being a part of this wild
-expanse. Experience the wild, but once over go home to wonder what it
-all meant...
+comparisons, my hyperreal fantasies. So often my mythic daydreaming
+crumbles when I remember that I'm just a visitor, a transient, an
+impostor, an alien of the modern era. And when I consider all the
+creatures that call these forests home, each perfectly built for their
+existence out in nature, each riding the entropy envelope perfectly, I
+must wonder who am I, what was I built for? /Often enough I feel as
+though I wasn't expected, wasn't acknowledged, and then wasn't missed
+when I left./ I know that, short of giving up my massive resource and
+energy consumption and becoming an aboriginal, I have no way of truly
+being a part of this wild expanse. Experience the wild, but once over
+go home to my space station to wonder what it all meant...
 
 *** Old woods
 
@@ -4967,10 +4971,10 @@ Jane Eyre: The sad truth is they are all gone. Your land is neither wild nor sav
 #+end_verse
 
 Contained within the Efteling, Holland, amusement park is a
-fifteen-acre wooded section called /Sprooksjebos/ or the /[[https://en.wikipedia.org/wiki/Fairytale_Forest][Fairytale
-Forest]]/ depicting with elaborate sets and animatronics selected fairy
-tales from the [[https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales][Brothers Grimm]],[fn:180] [[https://en.wikipedia.org/wiki/Hans_Christian_Andersen][Hans Christian Anderson]], and
-[[https://en.wikipedia.org/wiki/Charles_Perrault][Charles Perrault]] ... your mileage may vary ... nevertheless...
+fifteen-acre woods called /Sprooksjebos/ or the /[[https://en.wikipedia.org/wiki/Fairytale_Forest][Fairytale Forest]]/
+depicting with elaborate sets and animatronics selected fairy tales
+from the [[https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales][Brothers Grimm]],[fn:180] [[https://en.wikipedia.org/wiki/Hans_Christian_Andersen][Hans Christian Anderson]], and [[https://en.wikipedia.org/wiki/Charles_Perrault][Charles
+Perrault]] ... your mileage may vary ... nevertheless...
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/Rapunzel" target="_blank"><img src="./images/EftelingRapunzel.jpg" width="825" alt="Rapunzel"></a>
@@ -4979,22 +4983,27 @@ tales from the [[https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales][Brothers G
 
 The common setting, backdrop in so many of our European-based
 folktales is, of course, nature, mainly in its very intense,
-concentrated form of the high-latitude temperate European forest. But
-what is it about the outdoors and especially big areas of trees close
-together that inspires folk legends and fairy tales?[fn:181] A simple
-answer is wild wooded nature was more at hand long ago. It was your
-front yard and your back yard, along with the accompanying animist
-pagan legendry. And now absence makes the heart grow fonder?
+concentrated form of the high-latitude temperate European old-growth
+forest. But what is it about the outdoors and especially big areas of
+many trees close together that inspires folk legends and fairy
+tales?[fn:181] A simple answer would be that wild wooded nature was
+more at hand long ago. Forest for your front yard, forest for your
+back yard, and besides a few huts with turnip and cabbage patches,
+forests everywhere. And now absence had made the heart grow fonder?
 
 German philosopher Ludwig Klages once said the Germanic people are a
-"forest people" with a natural affinity to woodsy places. Does that
-mean the older cultures of the Mediterranean, the Middle East, and
-Asian East are "garden people" due to their longer years in
-post-nomadic civilization?[fn:182] Up until the Roman incursions, we of
-Northern Europe had a closer connection to forests, and something
-remains deep inside us craving reconnection with and spiritual
-expression of wild lands to this day. As I say in my /Emily of
-Wolkeld/ novel
+"forest people" with a natural affinity to woodsy places. I remember
+at time in my Zǘrich, Switzerland dorm sitting around with my
+intellectual German friends one dark and stormy night by candlelight
+telling them about my times in our North American wilderness areas. I
+was so amazed by how they listened enraptured and mesmerised, wanting
+more. But this forest fascination is not universal. It would seem the
+older cultures of the Mediterranean, the Middle East, and Asian East
+are "garden people" due to their longer years in post-nomadic
+civilization.[fn:182] Up until Roman domination, we of Northern Europe
+had a closer connection to forests, and something still remains deep
+inside us craving reconnection with and spiritual expression of wild
+lands to this day. As I say in my /Emily of Wolkeld/ novel
 
 #+begin_quote
 Then what about the pagan lurking in the background of old Europe, out
@@ -5004,12 +5013,13 @@ occasionally nods, one remembers.
 #+end_quote
 
 Anthropology tells us the biblical /[[https://en.wikipedia.org/wiki/Garden_of_Eden#Blissful_garden_concept][Garden of Eden]]/ was a myth common
-throughout the pre-Judeo pagan Middle East. From the text, Adam and
-Eve sounded like the ultimate [[https://en.wikipedia.org/wiki/Anarcho-primitivism][eco-primitivists]], i.e., /really/ living
-off the land as God's pet [[https://en.wikipedia.org/wiki/Fruitarianism][frutarians]], so innocent and naive. Then came
-/[[https://en.wikipedia.org/wiki/Fall_of_man][The Fall]]/ when we rejected God's sponsorship and struck out on our
-own. The Book of Genesis then describes the clash of "systems" through
-the two sons of Adam and Eve
+throughout the monotheistic, pre-Judeo Middle East. From the text,
+Adam and Eve sounded like the ultimate [[https://en.wikipedia.org/wiki/Anarcho-primitivism][eco-primitivists]], i.e., truly
+living off the land as God's pet [[https://en.wikipedia.org/wiki/Fruitarianism][frutarians]], so completely innocent
+and naive. Then came the ultimate "contact event" with the serpent,
+which precipitated /[[https://en.wikipedia.org/wiki/Fall_of_man][The Fall]]/ and us rejecting God's sponsorship to
+strike out on our own. The Book of Genesis' first post-Fall story
+describes the clash of "systems" through the two sons of Adam and Eve
 
 #+begin_verse
 And Abel was a keeper of sheep, but Cain was a tiller of the ground.
@@ -5017,152 +5027,218 @@ And Abel was a keeper of sheep, but Cain was a tiller of the ground.
 #+end_verse
 
 Son Abel represents the nomadic shepherd life drifting along with
-flocks of a ruminant species (e.g. sheep) as a symbiotic
-quasi-predator; but Cain is the beginning of agriculture where humans
-permanently dominate the land for cultivating selective crop species,
-thus enabling permanent settlements. This, as the story tells,
-displeases God, who rejects Cain's sacrificial offerings while
-accepting Abel's slaughtered lamb. God says
+flocks of ruminants (e.g. sheep) as a symbiotic quasi-predator; but
+Cain is the beginning of agriculture where humans would permanently
+dominate the land for cultivating selective crop species, thus
+enabling permanent settlements. This, as the story tells, displeases
+God, who rejects Cain's sacrificial offerings while accepting Abel's
+slaughtered lamb. God says
 
 #+begin_verse
 When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.
 ---Genesis 4:12
 #+end_verse
 
-...despite the whole idea of being stationary in one spot and
+...this despite the whole idea of being stationary in one spot and
 dominating that space with evermore high-yield methods of monocultural
 agriculture. And to this day, the Eastern Hemisphere nostalgically
-pictures back-to-the-land as the shepherd's life, and /not/ the
-farmer's[fn:183] as we typically do in the New World.
+pictures "back-to-the-land" as the shepherd's, and /not/ the farmer's
+existence[fn:183] as we typically do in the New World.
 
 #+begin_export html
 <a href="https://en.wikipedia.org/wiki/Charles_Jacque" target="_blank"><img src="./images/SheepJaques.png" width="825" alt="Jaque Sheep"></a>
 <span class="cap">The semi-nomadic, low-impact shepherding life</span>
 #+end_export
 
-Then come the stories of the Tower of Babel, the destruction of Sodom
-and Gomorrah, both of which seem to indicate God was not keen on the
-idea of a technologically maturing human race. Especially in the story
-of Lot and the destruction of Sodom and Gomorrah, we are confronted
-with the question of /what would have happened had Lot obeyed the
-angels and gone farther into the hills/? Was God seeking some sort of
-reconciliation, and some place higher up in the hills would have been
-a sort of halfway house or Eden 2.0?[fn:184] We'll never know, because
-Lot and his daughters ducked into [[https://en.wikipedia.org/wiki/Zoara][Zoara]] instead...
-
+Then come the Genesis stories of the Great Flood, the Tower of Babel,
+the destruction of Sodom and Gomorrah, all of which seem to indicate
+God was not too keen on the idea of the creatures He designed and
+built for a Garden of Eden existence becoming an extra-Eden,
+technological species set on exponential expansion. Instead of waiting
+for miracles, we were making our own miracles via science, a
+cumulative type of magic. I find the story of Lot and the destruction
+of Sodom and Gomorrah most intriguing, as we are confronted with the
+question of /what would have happened had Lot obeyed the angels and
+gone farther into the hills as they wished/?  Was God seeking some
+sort of reconciliation, and there up in the hills was waiting some
+sort of Eden 2.0?[fn:184] We'll never know, because Lot and his
+daughters ducked into [[https://en.wikipedia.org/wiki/Zoara][Zoara]] instead...
 
 During Roman times German Central Europe was largely one extensive,
 trackless wilderness area called the /Hercynia Silva/ by Caesar, or
 /Hercynian Forest/. This was one contiguous woodland of mainly
-temperate climate hardwoods stretching from Northwest France, across
+temperate-climate hardwoods stretching from Northwest France, across
 Germany, linking up with the wilds of the Carpathian Mountains. And
 beginning with Roman accounts, the region got plenty of mythic and
 fantastical press. Another forest of perhaps purely mythical existence
 was the "enchanted" Brocéliande Forest of Arthurian fame, which might
 have been located in France's Brittany.
 
+The population of Europe north of the Alps was low, the farming basic
+minimal subsistence, the settlements rarely more than village in
+size. But what exactly was an Iron Age, pre-Roman Britain or Germany
+like? What was in those woodland spaces? Peopled certainly, some lands
+cleared around some settlements, but primordial forests making up the
+vast majority of the landscape. And my big question: /When we white
+people were ourselves indigenous aboriginals, what were we like, what
+did we do, what did we believe/? Due to the early Christian cultural
+genocide, we have as good as nothing left of those times. And yet
+today we have our cherished handed-down folktales, and probably more
+importantly, our aggrandised imaginings. And what about these
+cascading feelings of imaginings of imaginings of feelings? Tolkien
+scholar [[https://en.wikipedia.org/wiki/Tom_Shippey][Tom Shippey]] has tried to trace the various threads of
+influence around the great Christian roadblock and back into the mists
+of time.[fn:185] But do we need or want facts? Or do we /feel/ what we
+want to feel from this past. Active imaginings as part of the legend
+receptor sites. More as well later on this phenomenon of quite
+literally wishing ourselves into a story.
 
 *** New woods
 
-By far the majority of Euro-folk legends include, take place in
-forests than not, and to name even some would be to leave others
-out. And yet it is interesting to note how the Romantic and
-Post-Romantic nineteenth century seemed to relaunch the slumbering
-pagan forest energy with a vengeance. Romanticism's Nature found a
-strong outlet in the deep woods of a long-ago Hercynian Forest or
-/[[https://en.wikipedia.org/wiki/List_of_ancient_woods_in_England][Ancient Woods]]/ of England. Romanticism's lyrical and philosophical
-leaders brought new attention to nature. The Brothers Grimm, beginning
-with their fairy tale publications in the late eighteen-teens, did not
-hesitate to take the children (and adults) of the entire European
-diaspora deep into their mash-up of Iron-Age and Medieval German
-forest culture. I recall as a small child being thrilled as well as
-frightened as Hansel and Gretel made their harrowing way throughout
-their forest, first lost, then found by the murderous /Knusperhexe/,
-then saved and reunited with their woodcutter father.
+The Romantic and Post-Romantic nineteenth century seemed to unleash a
+slumbering Euro-pagan forest energy with a vengeance. Romanticism's
+Nature found a strong outlet in the deep woods of the apparently
+long-missed Hercynian Forest or /[[https://en.wikipedia.org/wiki/List_of_ancient_woods_in_England][Ancient Woods]]/ of England. Wilhelm
+and Jacob Grimm, beginning with their fairy tale publications in the
+late eighteen-teens, transported children as well as adults of the
+entire European diaspora deep into their mash-up of Iron- out to
+Medieval Age extra-Christian German forest ethnology. I recall as a
+small child being thrilled and frightened as Hansel and Gretel[fn:186]
+made their harrowing way throughout their dark, trackless forest,
+first lost, then found by the cannibal /Knusperhexe/,[fn:187] then
+saved and reunited with their woodcutter father. To be sure, witches
+figured prominently in these folktales, the general pagan mysticism
+unmistakable.
 
 #+begin_export html
-<a href="https://de.wikipedia.org/wiki/Die_kleine_Hexe_(2018)" target="_blank"><img src="./images/DieKleineHexe2.png" width="825" alt="Die Kleine Hexe"></a>
-<span class="cap">From the film "The Little Witch"</span>
+<a href="https://youtu.be/9l0IjBeJvMc?si=WLewMtGMjOd3vjY1" target="_blank"><img src="./images/DieKleineHexe2.png" width="825" alt="Die Kleine Hexe"></a>
+<span class="cap">Geramn witch talent from the 2018 film "The Little Witch"</span>
 #+end_export
 
-What was an Iron Age, pre-Roman Britain or Germany like? What was in
-those woodland spaces? Peopled certainly, some lands cleared around
-some settlements, but primordial forests making up the vast majority
-of the landscape. And when white people were like indigenous
-aboriginals, what were we like, what did we do, what did we believe?
-Due to the early Christian cultural genocide we have as good as
-nothing left of those times. But today we have our imaginings. And
-what about this feeling of a feeling of a feeling cascading effect
-Thomas Shippey descriptions of Tolkien. But we don't need/want facts,
-we /feel/ what we want to feel from this past. Active imaginings as
-part of the legend receptor sites...
+Again, this nineteenth-century explosion of mystical, forest-based
+fairytale imagery is quite expansive, but we can go over some of the
+high points beyond the Grimms and Andersen.
 
-/Heidi/ by Swiss writer Johanna Spyri 
-
-
-
-John Bauer's world of 90% forests, 9% agriculture lands, 1% village-urban
-
-
-
-
-
-
-Sibylle von Olfers[fn:185]
-
-Leaving out the modernists, has literature given us a northern
-wilderness experience? No, not really. James Fenimore Cooper's
-[[https://en.wikipedia.org/wiki/Leatherstocking_Tales][Leatherstocking Tales]] set in the pre-Revolution days of wild,
-pre-settlement New York is pulp action fiction dramatising actual
-accounts of white-native clashes.[fn:186]
-
-#+begin_export html
-<a href="https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans" target="_blank"><img src="./images/ThomasColeLast-of-the-mohicans-1827.jpg" width="825" alt="Thomas Cole"></a>
-<span class="cap">Thomas Cole's "Cora Kneeling at the Feet of Tamenund" (1827)</span>
-#+end_export
-
-Norwegian novelist [[https://en.wikipedia.org/wiki/Knut_Hamsun][Knut Hamsun]] (1859 - 1952) in [[https://en.wikipedia.org/wiki/Growth_of_the_Soil][Growth of the Soil]]
-(Norwegian /Markens Grøde/) is set in the early twentieth century and
-describes a pioneering farmer Isak who, like the early American
-settlers, carves out a subsistence farm back in the untamed wilds of a
-high, remote Norwegian valley. From the Wikipedia article
-
-#+begin_quote
-Hamsun tended to stress the relationship between his characters and
-the natural environment.
-#+end_quote
-
-Despite being called a leader in Neo-Romanticism, Hamsun's /[[https://en.wikipedia.org/wiki/Norwegian_new_realism][Norwegian
-new realism]]/ contains nothing of what my principals of the early
-nineteenth were about. And subsequently he is lauded and called  by all-out modern
-realist writers such as Henry Miller, Thomas Mann, Ernest Hemingway,
-and many others with strong interests in seeing Romanticism dead and
-buried. Isak is cutting wood one evening---and he gets the feeling the
-devil is sitting on a log watching him. Otherwise, /Growth.../ hasn't
-the least trace of anything Nature capitalised.
-
-In his poem /Letter to Byron in the Great Beyond/ he says, /Our earth has
-become an asylum for humanity/. But again, the fact that so many later
-modernists leaning heavily into nihilism found him their inspiration
-is very off-putting for me.
-
-A Scandinavian contemporary of Hamsun's was the Swedish illustrator
-John Bauer who is best known for his depictions in the beloved Swedish
-annual folklore publication /[[https://en.wikipedia.org/wiki/Among_Gnomes_and_Trolls][Among Gnomes and Trolls]]/ (/Bland tomtar
-och troll/) stretching over many editions beginning in 1907.
+A Scandinavian contemporary of Arthur Rackham was the Swedish
+illustrator John Bauer who is best known for his depictions in the
+beloved Swedish annual folklore publication /[[https://en.wikipedia.org/wiki/Among_Gnomes_and_Trolls][Among Gnomes and Trolls]]/
+(/Bland tomtar och troll/) stretching over many editions beginning
+in 1907. Here's one of his most iconic pieces from /[[https://youtu.be/13p45s5H3dk?si=Rso7D4Mbvdrx7otN][Princess Cottongrass]]/
 
 #+begin_export html
 <a href="https://wonderlit.com/leap-the-elk-and-little-princess-cottongrass/" target="_blank"><img src="./images/PrincessCottongrassJohnBauer.jpg" width="825" alt="Leap the Moose and Pricess Cottongrass"></a>
 <span class="cap">Princess Cottongrass lost in her reflection.</span>
 #+end_export
 
-#+begin_verse
-Many years have passed. Still Princess Cottongrass sits and stares into the water, looking for her heart. She is no longer a little girl but a slender plant crowned with white cotton, leaning over the pool.
-#+end_verse
+#+begin_quote
+Many years have passed. Still Princess Cottongrass sits and stares
+into the water, looking for her heart. She is no longer a little girl
+but a slender plant crowned with white cotton, leaning over the pool
+... looking for something lost never to be found...
+#+end_quote
 
 As his Wikipedia article says, /Ever since he was little he had
 wandered in the dark woods of Småland imagining all the creatures
-living there./ 
+living there./ Like the Brothers Grimm's tales, the
+/Among_Gnomes_and_Trolls/ stories all take place in some
+extra-Christian, semi-aboriginal Germanic universe. If I had to give
+statistics, I would say this world is ninety percent forests, nine
+percent agriculture lands, and one percent human settlement.
+
+Similar to /Princess Cottongrass/ is [[https://en.wikipedia.org/wiki/Sibylle_von_Olfers][Sibylle von Olfers]]'[fn:188] list
+of nature-based illustrated children's books. To be sure, Olfers was a
+unicorn. From the Wikipedia biography
+
+#+begin_quote
+During her childhood, she sometimes showed a silent, childish
+religiousness. This could especially be seen when she prayed in front
+of self-erected altars surrounded by numerous candles or when she
+modeled Madonnas and drew images of saints per order of her [younger]
+sister.
+#+end_quote
+
+But her books[fn:189] always were about innocence and nature
+
+
+An ever-popular story is /[[https://en.wikipedia.org/wiki/Heidi][Heidi]]/ by Swiss writer [[https://en.wikipedia.org/wiki/Johanna_Spyri][Johanna Spyri]]
+published in 1880. /Heidi/ was an example of a particular style of
+"back-to-the-land" mixed with ethnocentricity moving through Europe as
+a counterweight to the failure of egalitarian citizenship after the
+French Revolution, then the social, economic, and environmental
+upheaval of the accelerating industrialization and urban expansion
+throughout what came to be known as the "long nineteenth century," as
+the century was figuratively expanded to the 125-year period beginning
+with the onset of the French Revolution in 1789, and ending with the
+outbreak of World War I in 1914. In the story, Adelheid, nicknamed
+Heidi, is an orphaned girl who goes to live with her recluse uncle in
+the high mountains above a tiny Swiss Alps village. She comes to love
+her life with Alm-uncle and Peterli, the neighbouring goatherd boy her
+age. But then she must go to the big city of Frankfurt[fn:190] with her aunt
+to be a companion to a rich family's invalid girl. The story ends with
+Heidi back on the "Alm" (high mountain pasturelands). Moral of story:
+The simple country life is the natural way for humans to be, while
+city life is full of pitfalls where basic human values inevitably must
+deteriorate. In German-speaking lands the /[[https://de.wikipedia.org/wiki/Heimatroman][Heimatroman]]/ gained
+popularity throughout the long nineteenth, even taking on clear
+ethnocentric and nationalistic tones. Whether benign or aggressive,
+the basic message was
+
++ Country life healthy, natural, static, ergo, has a future
++ City life unhealthy, unnatural, unstable-dynamic, ergo, no future
+
+#+begin_export html
+<a href="https://youtu.be/aGzJPbnghpg?si=8iVRK9dpXSo8NBWa" target="_blank"><img src="./images/HeidiWithGoat.jpg" width="825" alt="Heidi with goat"></a>
+<span class="cap">Jennifer Edwards as Heidi with goat friend.</span>
+#+end_export
+
+With /Heimat/[fn:191] literature the Romantic Era's basic "natural
+feelings over expedient logic" message is forwarded. /Heimatschnulze/
+is a somewhat derogatory German term for this genre of literature and
+later films dealing with the idealisation of the pro-bucolic
+ethos. One of the most critically acclaimed Heimat films of the German
+language sphere was /[[https://youtu.be/EgUf7rIoi34?si=XJbDh8EgJnlLYRym][The Prodigal Son]]/ (/Der verlorene Sohn/) starring
+Austrian Luis Trenker from 1934. Although there is no overt Nazi
+propaganda, it clearly pushes the message of alpine life (in his
+native Southern Tyrolean Dolomite Alps) good and wholesome, while his
+rebellious detour to the cold, soulless city (New York) is a
+disaster. The final scene of Trenker's joyous homecoming depicts a
+surreal snowy nighttime alpine village scene where an ancient pagan
+ceremony is taking place. Another critically acclaimed film was Leni
+Riefenstahl's /[[https://en.wikipedia.org/wiki/The_Blue_Light_(1932_film)][The Blue Light]]/ (/[[https://youtu.be/HeB3HoS46dI?si=XFtpHq1KJULnyDWo][Das blaue Licht]]/) where Riefenstahl
+both acts and directs. Here nature paganism in the form of a "mountain
+legend" is the central theme in what today would be called an "art
+house" film. Here is part of the Wikipedia synopsis
+
+#+begin_quote
+Junta [Riefenstahl's young female lead character] lives largely in
+solitude (except for the company of Guzzi, a young shepherd boy) in
+the tranquility of the mountains surrounding the village. She plays in
+the hills and woodlands, as a naive, free spirit. She is simple and
+innocent, but also seems something of a mystic. She loves to clamber
+over the steep, difficult terrain of the local mountains. On full moon
+nights, a crack in a prominent local mountain admits the moonlight and
+illuminates a grotto filled with beautiful crystals. This place of
+indescribable beauty, radiating the film's titular "blaue Licht" (blue
+light), is a sacred space for Junta. The crystals' luminous glow casts
+a spell on the village's young men, who, one by one, in a state of
+hypnotic attraction, attempt and fail to reach its source, falling to
+their deaths.
+#+end_quote
+
+Simple Junta trusts outsider Vigo, who steals the holy crystals out of
+their high, sacred grotto, causing Junta to despair and fall to her
+death at the betrayal.
+
+
+
+
+Why the huge uproar over Amazon's /Rings of Power/ flop.
+
+
+
+
+
+
 
 Harry Potter Diagon Alley
 
@@ -5235,7 +5311,7 @@ written by a Christian monk after the Christianisation of England,
 possibly in the ninth century. Similarly, the /Völsunga saga/ is
 "after the fact" and heavily influenced by the Viking take on
 paganism. All of which is missing like a phantom limb the
-animist,[fn:187] nature-based side of paganism. And so an animist
+animist,[fn:192] nature-based side of paganism. And so an animist
 recreation of pre-Roman Northern Europe in the form of fantasy
 commenced, one standing opposite the Christian supposition that humans
 are the only sentience, that other thing or creature is merely a stage
@@ -5255,7 +5331,7 @@ after Northwest Europe in some pre-Roman era.
 
 This "total Earth egalitarianism" is strongly present in Tolkien's
 idea of his fictional Arda or Middle-earth. In my opinion, Tolkien's
-most poignant centrepiece are his elves.[fn:188]
+most poignant centrepiece are his elves.[fn:193]
 
 His most relevant Elf is his depiction of [[https://en.wikipedia.org/wiki/Lothl%C3%B3rien][Lothloiren]] in
 
@@ -5320,7 +5396,7 @@ Thousands upon thousands of tourists spend their vacation time and
 money here. If I'm having so much trouble imbibing, I couldn't begin
 to imagine what they're getting. Many eventually want this
 permanently, and, thus, move up here, expecting their childhood
-memories and the general holiday magic to become 24/7.[fn:189]
+memories and the general holiday magic to become 24/7.[fn:194]
 
 When I'm in Nature I feel wonderful---albeit as an orphan with an
 impostor syndrome. When I'm back in society I feel awful. And I would
@@ -6036,8 +6112,8 @@ various birches.
 \\
 
 [fn:181] A folktale illustration from British Victorian artist [[https://en.wikipedia.org/wiki/Arthur_Rackham][Arthur
-Rackham]] bursting with that wild, edgy, woodsy Germanic pagan-of-yore
-spirit for his Victorian audience. \\
+Rackham]] gratuitously bursting with that wild, edgy, woodsy Germanic
+pagan-of-yore spirit for his eagre Victorian audience. \\
 [[file:images/CatskinArthurRackam.png]] \\
 \\
 
@@ -6054,20 +6130,35 @@ simple life is Grant Wood's /[[https://en.wikipedia.org/wiki/American_Gothic][Am
 and refuse? Possibly mankind's biggest blunder was committed by Lot by
 ducking into [[https://en.wikipedia.org/wiki/Zoara][Zoar]], the first town spared the fire and brimstone hail.
 
-[fn:185] Below a scene from [[https://en.wikipedia.org/wiki/Sibylle_von_Olfers][Sibylle von Olfers]]' /The Princess in the
+[fn:185] Shippey's [[https://en.wikipedia.org/wiki/The_Road_to_Middle-Earth][The Road to Middle-Earth]] describes Tolkien's
+linguistics research and how this influenced his fantasy
+writings. More about Tolkien below...
+
+[fn:186] This time Arthur Rackham takes us deep into the dense and
+gloomy and now witch-infested German forest \\
+[[file:images/Hansel-and-gretel-rackham.jpg]] \\
+\\
+
+[fn:187] ...roughly translated as crispy-sweet witch due to her
+gingerbread-and-candy abode.
+
+[fn:188] Wild bumblebee Sibylle \\
+[[file:images/SibylleVonOlfers.png]] \\
+\\
+
+[fn:189] Below a scene from Sibylle von Olfers' /The Princess in the
 Forest/ \\
 [[file:images/SibylleVonOlfersStarChildren.jpg]] \\
 \\
 
-[fn:186] My namesake ancestors came to the New World from Germany in
-1711 at the behest of Queen Anne who rescued us from Catholic
-persecution on the Continent. Conrad Weiser was among these Protestant
-Germans and, having learned to speak Mohawk as a boy, was in the thick
-of white-Native negotiations and conflicts throughout the
-region in the times leading up to the American Revolution ... upon
-which Cooper melodramatically fictionalised.
+[fn:190] From the 1937 Hollywood /Heidi/ starring Shirley Temple \\
+[[file:images/HeidisOpinionFrankfurt.png]] \\
+\\
 
-[fn:187] Animism encompasses beliefs that all material phenomena have
+[fn:191] *Heimat*: loosely translates to /home/ or /homeland/, and has
+been tied to ideals of unity and identity in one's homeland.
+
+[fn:192] Animism encompasses beliefs that all material phenomena have
 agency, that there exists no categorical distinction between the
 spiritual and physical world, and that soul, spirit, or sentience
 exists not only in humans but also in other animals, plants, rocks,
@@ -6075,10 +6166,10 @@ geographic features (such as mountains and rivers), and other entities
 of the natural environment. Examples include water sprites, vegetation
 deities, and tree spirits, among others. (From Wikipedia [[https://en.wikipedia.org/wiki/Animism][Animism]].)
 
-[fn:188] Feel free to read [[https://en.wikipedia.org/wiki/Elves_in_Middle-earth][this Wikipedia article]], but as is nearly
+[fn:193] Feel free to read [[https://en.wikipedia.org/wiki/Elves_in_Middle-earth][this Wikipedia article]], but as is nearly
 everything about Tolkien, it is fraught with scholarship-bound
 contradictions.
 
-[fn:189] Bringing the suburban to the wilderness... \\
+[fn:194] Bringing the suburban to the wilderness... \\
 [[file:images/NewYorkerCover07-02-2012.jpg]] \\
 \\
