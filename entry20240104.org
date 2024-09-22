@@ -3276,7 +3276,7 @@ And so, all the night-tide, I lie down by the side
 #+end_verse
 
 #+begin_export html
-<a href="https://julianpeterscomics.com/annabel-lee/" target="_blank"><img src="./images/ForTheMoonAL.jpg" width="740" alt="Norther Lights"></a>
+<a href="https://julianpeterscomics.com/annabel-lee/" target="_blank"><img src="./images/ForTheMoonAL.jpg" width="740" alt="Annabel Lee"></a>
 <span class="cap">Annabel Lee from Julian Peters Comics</span>
 #+end_export
 
@@ -3298,10 +3298,10 @@ delivers in his /Annabel Lee/ our new sort of Dark Muse.[fn:124]
 
 ** Emily Brontë's (unintended?) worldview
 
-#+begin_verse
-Normie girl: Do you *always* have to wear black?
-Goth girl: I'll stop wearing black when I find something *darker*.
-#+end_verse
+#+begin_export html
+<a href="https://en.wikipedia.org/wiki/Peak_District" target="_blank"><img src="./images/PeakDistrictMoorland.jpg" width="825" alt="Heather"></a>
+<span class="cap">Heather on high...</span>
+#+end_export
 
 Here I will simply and plainly state (gush) that Emily Jane Brontë is
 the very centre of my Dark Muse. Through just a handful of her poems
@@ -3641,129 +3641,159 @@ Tolkien takes us to his nighttime Lothlorien elves, H.P. Lovecraft's
 to cosmic demons, but Brontë to a pure, almost metaphysically neutral
 Dark.
 
-I've often wondered why I cannot get on board with more modern
-poetry. Why do I now insist only on my few German and English Romantic
-Era principals? And then why do I not spend much time on Wordsworth?
-Well, I do love the English take on Romanticism, but besides Poe and
-Dickinson, I have no attachment to American Romanticism, or
-/Transcendentalism/[fn:141]. Why? Let's look at some quotes from Henry
-David Thoreau
-
-#+begin_quote
-Live in each season as it passes; breathe the air, drink the drink,
-taste the fruit, and resign yourself to the influence of the earth. \\
-\\
-Heaven is under our feet as well as over our heads.
-#+end_quote
-
-Very well indeed, but Thoreau is not resigning himself as Emily does
-as she stands frozen to her stormy moorland spot. He is advocating for
-auspicious choices, commendable posturing, an enlightened attitude,
-but he is not under a tyrant's spell, he is not at a sepulchre by the
-sea by night. Likewise, [[https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson]]'s greatly lauded /[[https://en.wikipedia.org/wiki/Nature_(essay)][Nature]]/
-(and primary influence for Thoreau's Walden Pond hermitage) where he
-waxes philosophical about nature. In the book-length essay he says
-things like
-
-#+begin_quote
-Therefore, that spirit, that is, the Supreme Being, does not build up
-nature around us, but puts it forth through us.
-#+end_quote
-
-or
-
-#+begin_quote
-The aspect of nature is devout. Like the figure of Jesus, she stands
-with bended head, and hands folded upon the breast. The happiest man
-is he who learns from nature the lesson of worship.
-#+end_quote
-
-This is all very nice, but then came the two projects inspired
-thereof, namely, Thoreau and [[https://en.wikipedia.org/wiki/Charles_Stearns_Wheeler][Charles Stearns Wheeler]] who both tried
-their nineteenth-century version of "off the grid," resulting in
-(pardon my blasphemy) soap-bubbly impressionisms of Thoreau's
-/Walden/. Again, with this American nature swooning I'm just not
-seeing, hearing a hard-pressed starving little bat like my Haworth
-Emily poetising about Dark. Droste and the Brontë sisters express an
-intensity, something of the desperation of life oozes out of their
-Nature. But Emerson does show poetising in such lines as these
-
-#+begin_quote
-From the earth, as a shore, I look out into that silent sea. I seem to
-partake its rapid transformations: the active enchantment reaches my
-dust, and I dilate and conspire with the morning wind.
-#+end_quote
-
-Yes, I can begin to relate, simply due to the power of /Poesie/ over
-polemic and prose. But the brain and the heart must be in balance,
-i.e., the brain cannot exceed the heart. Which quickly happens with
-the whole Transcendentalism thing---just like Coleridge and the Jena
-Set's intellectualizations. And I must ask again, Where is Dark in all
-this?
-
-Let me quickly mention Robert Frost's /[[https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening][Stopping by Woods on a Snowy
-Evening]]/ by famous Robert Frost. This would be my Exhibit A of nature
-vague and impressionistic, thus, inconsequential. Yes, /the woods are
-lovely, dark and deep/ and the place and mood are similar to Keller's
-/Winternacht/, but Frost's poetising nature seems to go nowhere except
-some dutiful resignation about promises to keep and fatalistic musing
-about how many miles he must go before being allowed to sleep. He
-presents nature up in a classic liminal phase nighttime mystical
-magnum mysterium ambience, /but then he doesn't go anywhere worth
-going/ as does Keller, Droste, and Brontë! Aaagh!
-
 *** I'll come when thou art saddest...
 
-Christianity has held the ember of spirituality since Euro-pagan
-times, but has never seemed to know what to do with it. As I say,
-Protestantism seem to cut the metaphysical down even closer to the
-bone. Piety, reverence, holiness---all just a holding pattern while in
-extra-nature human civilization. But then Nature and Dark become
-participatory again when the Night darkened round Emily.
+Christianity has held the torch of spirituality ever since it buried
+Euro-paganism after the fall of the Roman Empire ... though it has
+never figured out what to do with this torch other than march around
+demanding us to fall in behind. One obvious issue is
+metaphysics---what is it and how much should there be in lieu of our
+burgeoning materialism based on science and technology? And as I say,
+Protestantism cut the metaphysical down even closer to the bone that
+had Catholicism from animist paganism. And yet Christian piety,
+reverence, holiness---doesn't it all just add up to a holding pattern
+while we go through our increasingly civilized, abstracted
+extra-nature lives? But as I just described, Nature and Dark became
+participatory in a new way when the Night darkened round Emily.
 
-This is from a letter Emily Dickinson, age twenty-nine, wrote to her
-cousin Louise Norcross in January, 1859
-
-#+begin_quote
-...and you and I might tug for a life, and never accomplish it, but no
-one can stop our looking on, and you know some cannot sing, but the
-orchard is full of birds, and we all can listen...
-#+end_quote
-
-Does God smile upon our tugging at life? Perhaps Amherst Emily is
-merely saying there are more ways to participate in life. But Haworth
-Emily is speaking of a very fatalist Calvinist attitude that only when
-we are suffering can we know we are not fools. Only when we are
-saddest, alone, joyless, in the dark, at the end does God come for
+In /I’ll come when thou art saddest/, Haworth Emily is hearing a very
+punitive, severe, grim God who would seem to arrive only in the
+human's most dire moments, when /real feeling has entirely unbiased
+sway/. Only when we are saddest, alone, joyless, in the dark, close to
+our demise does the supreme better come to His lesser for
 consultation. Only then do the strange sensations roll as precursors
-to God's "sterner" power. For how else may our better deal with our
-foolishness other than with sternness?
+to a "sterner" power. Which leaves us to believe all previous times
+are clouded, ambiguous, dominated by willfulness, if not
+foolishness. In any event, Haworth Emily plumbs a new depth. A new
+dimension is opened to life's precariousness, to the eternal enigma of
+free will.
 
-And so we see a Brontëan doom graduated from common gothic
-gloom-and-doom melodrama. God is not drama of any sort, but the
-keenest of reality we can know. And yet we must perceive it before any
-sign of redemption and forgiveness as the most complete and utter
-doom.
+Has anyone ever spoken of God in a more consequentially unrelentingly
+and austere way?  Perhaps God is gentle and compassionate---but she
+does not hide away awful, miserable, grim, desperate as necessary
+precursors for this particular visitation. Here we have suffering and
+demise lowering our human folly and waywardness, scrapping our
+conceits, smashing our will ... to open our soul for that flood of
+strange sensations heralding God. "You're in a desperate
+moment. Control of your life has flown. Now we can get down to
+business," says God. Emily opens out in these eighty-seven words
+harrowing implications as to the nature of our relationship with our
+maker---to be sure, that we are like a dog that has broken his leash
+and run wild, but now in his hour of need, must as returned to his
+master.
 
-I say this is Calvinism, fateful and doomy, because there is no Jesus,
-no
+Surely Haworth Emily had heard preachers thunder from the pulpit of
+God's terrible wrath as they quoted various violent passages from the
+Old Testament. But the God she describes has arrived to calmly discuss
+His will, to introduce His sterner power towards that end. Doom
+certainly, but this Brontëan version is graduated from common gothic
+melodrama. God is not drama of any sort, but the keenest of reality we
+can know, a death-bed event most consequential. Still, the human is
+/before/ any sign of redemption and forgiveness, and so threaten him
+the most complete and utter doom... Let me say, there is little of the
+"good new" of Jesus in the Brontëan world. Somewhat surprising that.
 
+I come away believing no one sees God quite like she did, no one in or
+out of scripture has described a more ominous, material meeting of God
+and man. But then with whom could she have ever spoken about such
+things? Her cleric father? Doubtful. Too much the Church of England
+company man.[fn:141] Charlotte, Anne? Perhaps. And yet some impasse might have
+prevented that, antagonisms, codependency ruts, as we might now
+say. After all, she hid most of her poetry from the world. Here is
+another insight into her mind, a poem called /The Philosopher/
+
+#+begin_verse
+'Enough of thought, philosopher!
+Too long hast thou been dreaming
+Un[en]lightened, in this chamber drear,
+While summer’s sun is beaming!
+Space-sweeping soul, what sad refrain
+Concludes thy musings once again?
+
+'"Oh, for the time when I shall sleep
+Without identity.
+And never care how rain may steep,
+Or snow may cover me!
+No promised heaven, these wild desires
+Could all, or half fulfil;
+No threatened hell, with quenchless fires,
+Subdue this quenchless will!"
+
+'So said I, and still say the same;
+Still, to my death, will say---
+Three gods, within this little frame,
+Are warring night; and day;
+Heaven could not hold them all, and yet
+They all are held in me;
+And must be mine till I forget
+My present entity!
+Oh, for the time, when in my breast
+Their struggles will be o’er!
+Oh, for the day, when I shall rest,
+And never suffer more!
+
+'I saw a spirit, standing, man,
+Where thou dost stand---an hour ago,
+And round his feet three rivers ran,
+Of equal depth, and equal flow---
+A golden stream---and one like blood;
+And one like sapphire seemed to be;
+But, where they joined their triple flood
+It tumbled in an inky sea
+The spirit sent his dazzling gaze
+Down through that ocean's gloomy night;
+Then, kindling all, with sudden blaze,
+The glad deep sparkled wide and bright---
+White as the sun, far, far more fair
+Than its divided sources were!
+
+'And even for that spirit, seer,
+I’ve watched and sought my life-time long;
+Sought him in heaven, hell, earth, and air,
+An endless search, and always wrong.
+Had I but seen his glorious eye
+ONCE light the clouds that wilder me;
+I ne'er had raised this coward cry
+To cease to think, and cease to be;
+I ne'er had called oblivion blest,
+Nor stretching eager hands to death,
+Implored to change for senseless rest
+This sentient soul, this living breath---
+Oh, let me die---that power and will
+Their cruel strife may close;
+And conquered good, and conquering ill
+Be lost in one repose!'
+#+end_verse
+
+I won't say here is a counter-example, though it belies a very strong
+willed person---who will make her mental and spiritual breakthrough or
+fall into despair. She will resolve her three-way cognitive
+dissonance, or insist on oblivion. What then are these three rivers
+this self-loathing philosopher speaks of?  Presumptuous of me to
+assume they are Dark, Nature, and Christianity. But I have no doubt
+her mind was, indeed, wracked by conflicting thoughts, cognitive
+dissonances, which she could not always bear serenely. Though this
+willfulness is not that of egotism or pettiness. She berates fate,
+God, eternity for not giving her at least one moment of the eternal
+harmony of her three rivers united. Honest petulance.
 
 *** I would have touched the heavenly key...
 
 ...or, I would have put more faith, more stock in Jesus, or in
 salvation while living, or in the balm and salve of the tantalising
-promises of Heaven. But she could not mouth the supposed "good news"
-of Christ. Bliss might be fleetingly known while on Earth, but woe and
-doom must be endured to the bitter end, as a expurgate of pride,
-foolishness, and sinfulness. And then not Heaven but Earth is her
-Heaven---as God has so constructed our earthly "starter"
-experience. If you want to make God laugh, tell Him your plans, or
-/der Mensch denkt, der Gott lenkt/.
+promises of Heaven. But again, she could not mouth the supposed "good
+news" of Christ. Bliss might be fleetingly known while on Earth, but
+woe and doom must be endured to the bitter end, as a expurgate of
+pride, foolishness, and sinfulness, as the fate of a race too weak,
+too unworthy of even glimpses of heavenly bliss.
 
-[[https://en.wikipedia.org/wiki/Reginald_Heber][Reginald Heber]]'s /Holy, Holy, Holy! Lord God Almighty!/[fn:142] would only
-have been mouthed by Haworth Emily, as she seemingly eschewed any
-indulgence of earthy hope,
+Then not Heaven but Earth shall be her Heaven---as God has so
+constructed our earthly "starter" experience.
+
+[[https://en.wikipedia.org/wiki/Reginald_Heber][Reginald Heber]]'s /Holy, Holy, Holy! Lord God Almighty!/ would
+only have been mouthed by Haworth Emily, as she seemingly eschewed any
+indulgence of imaginings of heaven and God's majesty while serving out
+her earthly sentence
 
 #+begin_verse
 Holy, holy, holy! Lord God Almighty!
@@ -3787,11 +3817,16 @@ Holy, holy, holy! merciful and mighty!
 God in three Persons, blessed Trinity!
 #+end_verse
 
-...nor this sort of Christian triumphalist boosterism.
+Of course any singing of this would have been an emotional experience
+for believers. Dutiful Anne would have sung full-throated. Charlotte
+perhaps less so. Emily, yes, only mouthed. No coward soul was hers,
+faith so very strong---but then this Christian triumphalist
+boosterism, this perfunctory marching behind the Christian torch
+probably left her in a state of moved but stunned ennui.[fn:142] Oh,
+to feel humility to God, and yet such pitiful helplessness and
+confusion as to purpose.
 
-
-Along came one and threaded
-a very convoluted path between 
+And so Emily would wish for nothing more than what she had of Nature. 
 
 
 
@@ -3800,7 +3835,6 @@ I have made a rather bitter discovery, namely, that mankind is largely
 wandering about clueless---/seriously/ clueless.
 
 
-POEH Zen full-time, Tibetan half-time. But EB Byron
 
 
 
@@ -4225,7 +4259,7 @@ until a final settlement is reached, /or/ (literally) a way of living.
 Latin for /it follows/.
 
 [fn:24]  See [[https://en.wikipedia.org/wiki/Emily_Dickinson][here]] for a quick biography. \\
-[[file:images/EmilyDickinson.png]]
+[[file:images/EmilyDickinson2.jpg]]
 \\
 \\
 
@@ -4672,14 +4706,12 @@ apparition seen by [[https://en.wikipedia.org/wiki/Hubertus][Saint Hubertus]]. \
 [[file:images/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg]] \\
 \\
 
-[fn:141] Here's what Wikipedia says: /Transcendentalism emerged from
-English and German Romanticism, the Biblical criticism of Johann
-Gottfried Herder and Friedrich Schleiermacher, the skepticism of David
-Hume, and the transcendental philosophy of Immanuel Kant and German
-idealism./ Nice...
+[fn:141] I can see the Reverend Patrick coming away from a theological
+discussion with his braincase daughters theatrically shaking his head,
+muttering, "Oh, my daughters!" to hearty laughter.
 
-[fn:142] [[https://youtu.be/2qCmtUhiKcA?si=12R2dDiYdqwRZ-GG][This version]] would have cringed out the Christian minimalist
-B-sisters...
+[fn:142] And yet [[https://youtu.be/2qCmtUhiKcA?si=12R2dDiYdqwRZ-GG][this version]] might very well have cringed out all
+three of the Christian minimalist B-sisters...
 
 [fn:143] Wicked Witch of the West in stealth mode... \\
 [[file:images/The_Wizard_of_Oz_Margaret_Hamilton_1939_No_1.jpg]] \\
@@ -4716,87 +4748,23 @@ more working-class world than other tourist Meccas.
 
 [fn:152] ...from his /Childe Harold's Pilgrimage/.
 
-[fn:178] DEFINITION NOT FOUND.
+[fn:179] ...and many of those were theology students come to study the
+Swiss Protestant movement, i.e., Zwingli and the Anabaptists.
 
-[fn:177] Retrenchment towards what, exactly? I'm reminded of Orwell's
-/1984/.
+[fn:178] Jokingly I claim to have been /verdeutscht/, or "germanised,"
+the prefix /ver-/ usually shading negative, e.g., /ver/-dorben
+meaning ruined. But then I found out Luther had coined the term back
+in the sixteenth century to describe his translation of the Bible from
+Latin into German.
 
-[fn:176] And of course the joke, Want to make God laugh? Tell Him your
-plans. Or the German, /Der Mensch denkt, der Gott lenkt/ or, The human
-thinks, God steers.
+[fn:177] A [[https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle][conversion of Paul]] reference.
 
-[fn:175] ...which according to AncestryDNA is in roughly equal
-proportions.
+[fn:176] See [[https://en.wikipedia.org/wiki/Positive_feedback][this discussion]] for the general idea of /positive feedback/.
 
-[fn:174] I contend libertarianism is simply a new form of liberalism,
-that is to say, liberalism has gotten so big that leftism no longer can
-contain it all.
+[fn:175] [[https://youtu.be/gUevJ492LSw?si=A4qJKnf4LX_d4zlE][This]] is a tolerable scene in the otherwise typically hideous
+/The Favourite/ depiction of Queen Anne.
 
-[fn:173] Emily Brontë as a modern, filled-out "cottagecore emo girl"
-per [[https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html][this]] Slate review. No need to watch, just read [[https://en.wikipedia.org/wiki/Emily_(2022_film)#Plot][the plot]] for full
-cringe. \\
-[[file:images/Emily2022.jpg]] \\
-\\
-
-[fn:172] ...discussed below...
-
-[fn:171] Platonic as opposed to romantic-sexual love was seen in the
-past as a higher, deeper, quasi-sacred form of love, i.e., the love
-going on in heaven between the saints and angels brought down to
-Earth. Today, however, we are made to understand by the Freudians that
-the human can only ever be a crazed sex monkey, thus, any other view
-is delusional puerile. Desensitisation then becomes the only answer to
-"sexual hangups."
-
-[fn:170] Sometimes the apologists throw in the towel to complete
-absurdism. Consider [[https://en.wikipedia.org/wiki/Brutalist_architecture][Brutalism]] where obvious ugliness is sold as high
-architectural art.
-
-[fn:169] Perhaps see [[https://youtu.be/6TK9c-caEcw?si=VfMnEZFDX9QXrIPX][Bertrand Russell on his meeting with Vladimir
-Lenin in 1920]]. A Fabian, "brochure" leftist meets real-life leftism...
-
-[fn:168] /Deus sive Natura/, the slogan of Baruch Spinoza's pantheism:
-the view that god and nature are interchangeable, or that there is no
-distinction between the creator and the creation.
-
-[fn:167] *Pathetic* from Middle French /pathetique/ "provoking emotion,"
-borrowed from Late Latin /pathēticus/ "affecting the emotions," borrowed
-from Greek /pathētikós/ "capable of feeling, emotional, receptive,
-passive, i.e., not pathetic as we today use it to mean sad and
-contemptible.
-
-[fn:166] Woolf in the 1920s \\
-[[file:images/VWoolf.jpg]] \
-\\
-
-[fn:165] Paul's First Epistle to the Corinthians 13:12.
-
-[fn:164] Romans 3:23: For all have sinned, and come short of the glory of God.
-
-[fn:163] Perhaps watch [[https://youtu.be/cs4CQx5Zk_E?si=hCrszLjHzfaXTn6l][An English Woman Who Becomes a Buddhist Monk!]]
-to see what happens when the West and East wrestle for dominance. This
-is seen by many in the West as a great story of women's rights. As an
-outsider Diane Perry fights against Tibetan Buddhist tradition and
-gains concessions for women. But seen from a different angle, this is
-simply misguided cultural pollution---best of intentions or not...
-
-[fn:162] A good example would be the critically-acclaimed film
-/[[https://en.wikipedia.org/wiki/Shakespeare_Wallah][Shakespeare Wallah]]/, which deals with the sudden irrelevance of
-English culture in post-British Raj India.
-
-[fn:161] British writer Anthony Burgess once told of his experience of
-the British military turning a blind eye to opium use amongst the
-troops stationed in Southeast Asia due to the overwhelming alienation
-and dysphoria they suffered there.
-
-[fn:160] Interesting how the whole African-American "roots" thing has
-all but died away. And Middle Eastern in the form of Islamic
-fundamentalism also has passed its peak and is seeing heavy push-back
-in America and Europe.
-
-[fn:159] "White Eurocentric kitchen? Haven't been there in years..."
-
-[fn:158] According to Wikipedia, [[https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory][Cultural Marxism]] is a scurrilous
+[fn:174] According to Wikipedia, [[https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory][Cultural Marxism]] is a scurrilous
 far-right conspiracy theory. I merely use it as a catch-all for what
 indeed would seem to be a broad and thoroughly amoral, nihilist attack
 on Western culture and values in the classic agitprop Marxist
@@ -4804,18 +4772,88 @@ sense. Anti-Western sentiment is not some planned political
 campaign, rather, a long-in-the-making descent from a Western zenith
 such as the British Victorian Era. More as we go along...
 
-[fn:157] [[https://youtu.be/gUevJ492LSw?si=A4qJKnf4LX_d4zlE][This]] is a tolerable scene in the otherwise typically hideous
-/The Favourite/ depiction of Queen Anne.
+[fn:173] "White Eurocentric kitchen? Haven't been there in years..."
 
-[fn:156] See [[https://en.wikipedia.org/wiki/Positive_feedback][this discussion]] for the general idea of /positive feedback/.
+[fn:172] Interesting how the whole African-American "roots" thing has
+all but died away. And Middle Eastern in the form of Islamic
+fundamentalism also has passed its peak and is seeing heavy push-back
+in America and Europe.
 
-[fn:155] A [[https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle][conversion of Paul]] reference.
+[fn:171] British writer Anthony Burgess once told of his experience of
+the British military turning a blind eye to opium use amongst the
+troops stationed in Southeast Asia due to the overwhelming alienation
+and dysphoria they suffered there.
 
-[fn:154] Jokingly I claim to have been /verdeutscht/, or "germanised,"
-the prefix /ver-/ usually shading negative, e.g., /ver/-dorben
-meaning ruined. But then I found out Luther had coined the term back
-in the sixteenth century to describe his translation of the Bible from
-Latin into German.
+[fn:170] A good example would be the critically-acclaimed film
+/[[https://en.wikipedia.org/wiki/Shakespeare_Wallah][Shakespeare Wallah]]/, which deals with the sudden irrelevance of
+English culture in post-British Raj India.
 
-[fn:153] ...and many of those were theology students come to study the
-Swiss Protestant movement, i.e., Zwingli and the Anabaptists.
+[fn:169] Perhaps watch [[https://youtu.be/cs4CQx5Zk_E?si=hCrszLjHzfaXTn6l][An English Woman Who Becomes a Buddhist Monk!]]
+to see what happens when the West and East wrestle for dominance. This
+is seen by many in the West as a great story of women's rights. As an
+outsider Diane Perry fights against Tibetan Buddhist tradition and
+gains concessions for women. But seen from a different angle, this is
+simply misguided cultural pollution---best of intentions or not...
+
+[fn:168] Romans 3:23: For all have sinned, and come short of the glory of God.
+
+[fn:167] Paul's First Epistle to the Corinthians 13:12.
+
+[fn:166] Woolf in the 1920s \\
+[[file:images/VWoolf.jpg]] \
+\\
+
+[fn:165] *Pathetic* from Middle French /pathetique/ "provoking emotion,"
+borrowed from Late Latin /pathēticus/ "affecting the emotions," borrowed
+from Greek /pathētikós/ "capable of feeling, emotional, receptive,
+passive, i.e., not pathetic as we today use it to mean sad and
+contemptible.
+
+[fn:164] /Deus sive Natura/, the slogan of Baruch Spinoza's pantheism:
+the view that god and nature are interchangeable, or that there is no
+distinction between the creator and the creation.
+
+[fn:163] Perhaps see [[https://youtu.be/6TK9c-caEcw?si=VfMnEZFDX9QXrIPX][Bertrand Russell on his meeting with Vladimir
+Lenin in 1920]]. A Fabian, "brochure" leftist meets real-life leftism...
+
+[fn:162] Sometimes the apologists throw in the towel to complete
+absurdism. Consider [[https://en.wikipedia.org/wiki/Brutalist_architecture][Brutalism]] where obvious ugliness is sold as high
+architectural art.
+
+[fn:161] Platonic as opposed to romantic-sexual love was seen in the
+past as a higher, deeper, quasi-sacred form of love, i.e., the love
+going on in heaven between the saints and angels brought down to
+Earth. Today, however, we are made to understand by the Freudians that
+the human can only ever be a crazed sex monkey, thus, any other view
+is delusional puerile. Desensitisation then becomes the only answer to
+"sexual hangups."
+
+[fn:160] ...discussed below...
+
+[fn:159] Emily Brontë as a modern, filled-out "cottagecore emo girl"
+per [[https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html][this]] Slate review. No need to watch, just read [[https://en.wikipedia.org/wiki/Emily_(2022_film)#Plot][the plot]] for full
+cringe. \\
+[[file:images/Emily2022.jpg]] \\
+\\
+
+[fn:158] I contend libertarianism is simply a new form of liberalism,
+that is to say, liberalism has gotten so big that leftism no longer can
+contain it all.
+
+[fn:157] ...which according to AncestryDNA is in roughly equal
+proportions.
+
+[fn:156] And of course the joke, Want to make God laugh? Tell Him your
+plans. Or the German, /Der Mensch denkt, der Gott lenkt/ or, The human
+thinks, God steers.
+
+[fn:155] Retrenchment towards what, exactly? I'm reminded of Orwell's
+/1984/.
+
+[fn:154] DEFINITION NOT FOUND.
+
+[fn:153] Here's what Wikipedia says: /Transcendentalism emerged from
+English and German Romanticism, the Biblical criticism of Johann
+Gottfried Herder and Friedrich Schleiermacher, the skepticism of David
+Hume, and the transcendental philosophy of Immanuel Kant and German
+idealism./ Nice...
