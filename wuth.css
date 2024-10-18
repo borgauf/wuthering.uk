@@ -473,6 +473,11 @@ pre.fullwidth > code {
     clear:both;
 }
 
+p.myindent {
+    text-indent: 0em;
+    /* font-size: 3.2em;Th */
+}
+
 span.newthought {
     font-variant: small-caps;
     font-size: 1.2em;
