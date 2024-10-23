@@ -100,38 +100,47 @@ wuthering.uk@gmail.com
 
 ** Preface
 
-@@html:<p class="myindent">@@I dread the question, How did you come up with /Emily of Wolkeld/?
-simply because there is no real answer. I might say EoW simply came
-out of me while in trance states, hence, I was just the scribe. But of
-course that is an exaggeration. Then of course, How could you, an
-68-year-old American man, possibly think you are qualified to write
-about a 19-year-old English earl's daughter?  That's by far
-tougher. This question contains three issues,@@html:</p>@@
+@@html:<p class="myindent">@@@@html:<span class="cap3">@@I dread the
+question, How did you come up with@@html:</span>@@ /Emily of Wolkeld?/
+simply because there is no great answer. I might say EoW flowed out of
+me while in trance states, hence, I was just the scribe. Yes, I would
+go into a "zone," though not so different from any actor assuming a
+role. Then of course, How could you, an old (sixty-eight) American man,
+possibly think you are qualified to write about an English earl's and
+a German baron's daughter both of nineteen years of age?  That's by far
+tougher. This question contains four issues,@@html:</p>@@
 
-+ I'm male,
-+ I'm not English by birth,
++ I'm not nineteen,
++ I'm not female,
++ I'm not English or German by birth,
 + and I'm not an aristocrat.
 
 Oh but I am forty percent English, forty percent German (the rest
-Celtic/Scottish) by blood per AncestryDNA, and I might just have a
-drop or two of German aristocracy in me. My namesake ancestors were
-some sort of patrician family who as early adopters of Luther were on
-the run from the Catholics for two centuries until Queen Anne of
-Britain in 1711 took pity on us and brought us over to the
-Colonies. And from my times in Europe---Germany and Switzerland---I
-did have encounters with German aristocrats who impressed me with
-their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can imagine the whole topic of
-aristocracy was completely /terra incognita/ for an American, but over
-the years my exposure to the Old World and its ways have fundamentally
-altered me. And so a deep Old World perspective is what I'm trying to
-put forth with EoW.
+Celtic/Scottish) by blood per AncestryDNA. And I might just have a
+drop or two of German aristocracy left in me. My namesake ancestors
+were some sort of patrician family who as early adopters of Luther
+were chased about Europe by the Catholics for two centuries until
+Queen Anne of Britain in 1711 took pity on us and brought us over to
+the Colonies. And from my years as a young man in Europe---Germany and
+Switzerland---I did have encounters with German aristocrats who
+impressed me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can imagine the
+whole topic of aristocracy was complete /terra incognita/ for an
+American; but over time my exposure to the Old World and its ways have
+fundamentally altered me. And so a deep Old World perspective is what
+I'm trying to put forth with EoW. Next, I would insist being an older
+male does not disqualify me from writing about young females of my
+species. After all, we have only male and female, and we study each
+other constantly incessantly. Good writers have often written
+believably when describing humans of both sexes.
 
 Why I chose to forego traditional publishing is also a good
 question. The first and foremost reason is, quite simply, the
-gatekeepers of the trad publishing world won't let me in. The second
-reason is this [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web page is so much more conducive
-to this work, allowing me to place /sidenotes/ exactly beside a point
-in the text as needed---and yes, they are often needed with EoW.
+gatekeepers of the trad publishing world won't let me in. I won't
+(can't) speculate as to why. The second
+reason is rendering EoW in this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web
+page is so much more natural, as it allows me to place
+/sidenotes/ exactly beside a point in the text as needed---and yes,
+they are often needed with EoW.
 
 ** Part One: In Seasons of Thy Absence
 

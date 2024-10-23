@@ -82,6 +82,11 @@ span.cap2 {
     /* margin-left: -2em; */
 }
 
+span.cap3 {
+    font-variant: small-caps;
+    font-size: 107%;
+}
+
 span.lgray {
     color:lightgray;
 }
@@ -475,6 +480,8 @@ pre.fullwidth > code {
 
 p.myindent {
     text-indent: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
     /* font-size: 3.2em;Th */
 }
 
