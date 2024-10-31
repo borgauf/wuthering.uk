@@ -25,9 +25,10 @@
 #+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
 #+HTML_HEAD_EXTRA: pre.example {clear: none; }
 #+HTML_HEAD_EXTRA: </style>
+#+INCLUDE: "./header.org" :minlevel 1
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
-#+EXPORT_FILE_NAME: index.html
+#+EXPORT_FILE_NAME: preface.html
 #+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
 # #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
 # #tex:imagemagick # this makes MathJax work
@@ -58,40 +59,24 @@
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 
+
 @@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
-[[file:images/InlandSeaDType4.png]]
+[[file:images/WutheringKunstlerBanner4.png]]
 \\
 \\
-/Correspondence/ \\
-\\
-WUTHERING.UK \\
-P.O. Box 1302 \\
-Grand Marais, MN, 55604 \\
-USA \\
-\\
-wuthering.uk@gmail.com
 @@html:</span>@@
-
-#+begin_export html
-<img src="./images/WutheringKunstlerBanner.png" alt="Title" class=".wtitle">
-#+end_export
-
-# * #+begin_export html <img src="./images/Wuthering10.png"
-# alt="Title" class=".wtitle"> <span class="cap">Wuthering Explainer,
-# January, 2024</span> #+end_export
-
-** Inaugural essay
-
-January through September, 2024
-
-* About the Dark Muse
+\\
+\\
+* About the Dark Muse; Inaugural Essay
 
 #+begin_export html
 <img src="./images/inlandseagmharbour20220414_2.png" width="730" alt="Harbour view out to sea">
 <span class="cap">The Great Inland Sea: most conductive of the Dark Muse</span>
 #+end_export
+
+January through September, 2024
 
 ** To begin
 

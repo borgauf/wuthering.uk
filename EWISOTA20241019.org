@@ -27,7 +27,7 @@
 #+HTML_HEAD_EXTRA: </style>
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
-#+EXPORT_FILE_NAME: emilyofwolkeld1.html
+#+EXPORT_FILE_NAME: emilyofwolkeld.html
 #+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
 # #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
 # #tex:imagemagick # this makes MathJax work
@@ -69,52 +69,61 @@
 @@html:<label for="mn-demo" class="margin-toggle"></label>
 <input type="checkbox" id="mn-demo" class="margin-toggle">
 <span class="marginnote">@@
-[[file:images/WutheringKunstlerBanner2.png]]
+[[file:images/WutheringKunstlerBanner4.png]]
 \\
 \\
-/Correspondence/ \\
-\\
-WUTHERING.UK \\
-P.O. Box 1302 \\
-Grand Marais, MN, 55604 \\
-USA \\
-\\
-wuthering.uk@gmail.com
 @@html:</span>@@
-
-
+\\
+\\
 * Emily of Wolkeld
 
 ** Preface
 
-@@html:<p class="myindent">@@@@html:<span class="cap3">@@I dread the
-question, How did you come up with@@html:</span>@@ /Emily of Wolkeld?/
+@@html:<p class="myindent">@@@@html:<span class="cap3">@@How did you
+come up with Emily of Wolkeld@@html:</span>@@? I dread the question,
 simply because there is no great answer. I might say EoW flowed out of
-me while in trance states, hence, I was just the scribe. Yes, I would
-go into a "zone," though not so different from any actor assuming a
-role. Then of course, How could you, an old (sixty-eight) American man,
+me while in trance states, hence, I was just the scribe. Or this is a
+mash-up of all the lovely young people who've given me hope for the
+next generation. That's good too.@@html:</p>@@
+
+I often peruse the mainly digital/AI artwork on the mainly amateur art
+website [[https://www.deviantart.com/][DeviantArt.com]]. If I have the "safe filter" on, I can mostly
+be assured not to get any spicy, gory disturbing macabre horrific
+content. One thing I've noticed is how many of these mainly teen and
+twenty-something artists are creating, with the help of AI, downright
+angelic saintly, innocent, melancholic, old-soul portraits of young
+women. It's almost as if these are the ghosts of women past staring at
+me with their forlorn looks. Here is an example of an AI-generated
+girl who could be a model for my Emily Whitmore \\
+\\
+#+begin_export html
+<a href="https://www.deviantart.com/caravaggioex/art/Wisconsin-1090902938" target="_blank"><img src="./images/EoWinField1.jpg" width="820" alt="Emily in field"></a>
+<span class="cap">Art by CaravaggioEx@DeviantArt</span>
+#+end_export
+
+Then of course, How could you, a sixty-eight year-old American man,
 possibly think you are qualified to write about an English earl's and
-a German baron's daughter both of nineteen years of age?  That's by far
-tougher. This question contains four issues,@@html:</p>@@
+a German baron's daughter both of nineteen years of age? That's by far
+tougher for its directness. This question contains four problems,
 
 + I'm not nineteen,
 + I'm not female,
-+ I'm not English or German by birth,
-+ and I'm not an aristocrat.
++ I'm English and German but not by birth,
++ and not since the 1500s have we been aristocrats.
 
 Oh but I am forty percent English, forty percent German (the rest
-Celtic/Scottish) by blood per AncestryDNA. And I might just have a
-drop or two of German aristocracy left in me. My namesake ancestors
-were some sort of patrician family who as early adopters of Luther
-were chased about Europe by the Catholics for two centuries until
-Queen Anne of Britain in 1711 took pity on us and brought us over to
-the Colonies. And from my years as a young man in Europe---Germany and
-Switzerland---I did have encounters with German aristocrats who
-impressed me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can imagine the
-whole topic of aristocracy was complete /terra incognita/ for an
-American; but over time my exposure to the Old World and its ways have
+Celtic/Scottish) per AncestryDNA. And I might have a drop of German
+aristocracy left in me. My namesake ancestors were some sort of
+patrician family who as early adopters of Luther were chased about
+Europe by the Catholics for two centuries. And then in 1711 Queen Anne
+of Great Britain took pity on us and brought us over to the
+Colonies. And then from my years as a young man in Europe---Germany
+and Switzerland---I did have encounters with German aristocrats who
+impressed me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can imagine, the
+whole topic of aristocracy was a complete /terra incognita/ for an
+American; but over time my exposure to the Old World have
 fundamentally altered me. And so a deep Old World perspective is what
-I'm trying to put forth with EoW. Next, I would insist being an older
+I'm trying to put forth with EoW. I would also insist being an older
 male does not disqualify me from writing about young females of my
 species. After all, we have only male and female, and we study each
 other constantly incessantly. Good writers have often written
@@ -122,12 +131,18 @@ believably when describing humans of both sexes.
 
 Why I chose to forego traditional publishing is also a good
 question. The first and foremost reason is, quite simply, the
-gatekeepers of the trad publishing world won't let me in. I won't
-(can't) speculate as to why. The second
-reason is rendering EoW in this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web
-page is so much more natural, as it allows me to place
-/sidenotes/ exactly beside a point in the text as needed---and yes,
-they are often needed with EoW.
+gatekeepers of the trad publishing world apparently don't want me
+around. Countless manuscripts I have sent---and received either
+nothing or rejections. I won't (can't) speculate as to why. The second
+reason is rendering EoW in this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web page is
+so much more natural, as it allows me to place /sidenotes/ exactly
+beside a point in the text as needed---and yes, they are often needed
+with EoW.
+
+I can guarantee you've never read anything even close to EoW. Many
+have written stories about aristocrats, but nothing ever like
+this. EoW is definitely an /anti-Downton Abbey/ for sure. And I'll just
+leave it at that. Please get started.
 
 ** Part One: In Seasons of Thy Absence
 
@@ -585,17 +600,18 @@ branches of Wolkeld Wood about. Glimpses of the dark manor flashed in
 and out of sight.
 
 Gazing intently at the hall, she again mused over all the British film
-and television she had consumed: the popular /Downton Abbey,/the very
+and television she had consumed: the popular /Downton Abbey/, the very
 many period films. She had tried hard to balance staring with reading,
 but the screen versions were so alluring, so /addictive/. She and
-Annette had felt great affinity to Jane Campion's 2009 /Bright Star/ and
-especially the Cary Fukunaga version /Jane Eyre/ from twenty-eleven. They were
-a new sort of British period depiction. Rather than inviting the modern
-viewer to feel superior---/triumphalist/ as Annette called it---they
-drew the viewer in as an equal to the characters, subordinate to their
-thought patterns and mores. Still, the modern artistic liberties would
-have confused if not shocked any audience from those times. Of this
-Annette was grimly certain. Emily gave a small laugh.
+Annette had felt great affinity to Jane Campion's 2009 /Bright Star/
+and especially the Cary Fukunaga version /Jane Eyre/ from
+twenty-eleven. They were a new sort of British period
+depiction. Rather than inviting the modern viewer to feel
+superior---/triumphalist/ as Annette called it---they drew the viewer
+in as an equal to the characters, subordinate to their thought
+patterns and mores. Still, the modern artistic liberties would have
+confused if not shocked any audience from those times. Of this Annette
+was grimly certain. Emily gave a small laugh.
 
 Fantasy was another amazing offering of modern Britain: Rowling,
 Tolkien, Neil Gaiman, Susanna Clarke's overwhelming /Jonathan Strange &
@@ -952,7 +968,7 @@ what a great relief it was to simply be with her and speak proper
 English. They finally laughed.
 
 As she came to know, the studious German had since the fifth grade
-poured heart and soul into learning English, /Oxford /English, as the
+poured heart and soul into learning English, /Oxford/ English, as the
 Germans sometimes called British English. And what Emily heard on that
 day was indeed such a lovely sounding language, so real and comforting.
 Indeed, her Anna Elisabeth Franziska Adolphine Wilhelmine Louise Maria
@@ -1020,7 +1036,7 @@ Happy laughter.
 what you were saying. No, we just can't fathom their minds today. So
 much has been lost."
 
-A small sigh came from /Freiin /Annette. "We can only scavenge what
+A small sigh came from /Freiin/ Annette. "We can only scavenge what
 they've left us. And pray. I scavenge and pray."
 
 "We mustn't let go."
@@ -2245,7 +2261,7 @@ architecture for that spot on the planet.
 "Our lane was important once," said Emily, glancing back. "Now it's
 hardly used. They don't come to us as much as we to them."
 
-"They can't avoid us. We're the old /Schloß/ on the main square. And
+"They can't avoid us. We're the old /Schloß/[fn:3] on the main square. And
 we're now maintaining the church just across from us, if you remember."
 
 "What are you going to do with the inner courtyard?"
@@ -2769,9 +2785,9 @@ there for me---in my darkest hour."
 
 "As you me," said Annette softly. "Providence."
 
-"/Die Fügung Gottes/."[fn:3]
+"/Die Fügung Gottes/."[fn:4]
 
-"/Genau/."[fn:4]
+"/Genau/."[fn:5]
 
 Silence.
 
@@ -2812,7 +2828,7 @@ They drifted on in silence to the soft musical roll of the fast-flowing
 race. The cobblestone had turned back to gravelly scraps of compacted
 cinders and ancient tarmac, and the grade steepened a few more degrees.
 
-"Annette, dear, /Shall Earth no more inspire thee/?"[fn:5]
+"Annette, dear, /Shall Earth no more inspire thee/?"[fn:6]
 
 "Yes, yes," said Annette, laughing softly, "Let me see ... /Thy mind
 is ever moving in regions dark to thee; recall its useless roving---come
@@ -2830,7 +2846,7 @@ Annette finally continued: "You were the first true friend I'd ever
 had."
 
 "And you mine. And I shouldn't have complained about all the things you
-had me memorise /auf Deutsch/."[fn:6]
+had me memorise /auf Deutsch/."[fn:7]
 
 Laughter.
 
@@ -2847,7 +2863,33 @@ stove. I’ve thrown myself into Latin, German classics and such by
 candlelight. Sometimes I feel restless and all mewed up, but then I
 get into a zone and, yes, it just feels /timeless/, I must say."
 
-"Any restoration since my visit?"
+"Timeless---" murmured Emily.
+
+"Yes, and lately I think about German culture, and how the Nazis, as
+well as modernism have disrupted it."
+
+"Explain."
+
+"Yes, well, Mother had me read a long article by the /Der Spiegel/
+founder Rudolf Augstein. He goes on and on about the Nazi Era, but
+then he says at the end that the Nazis also gravely disrupted, damaged
+German culture. So, yes, we had a very wonderful culture, the envy of
+the world before modernism began corrupting it. Then the horrible
+attempt by the Nazis to stamp out modernism just made everything
+worse. I feel I must thoroughly investigate German culture up to the
+derailment, and then perhaps try to figure out how it might be
+revived."
+
+“Epic!” quipped Emily.
+
+Laughter.
+
+“No, really, that sounds fantastic!” said Emily. “I wish you success. And now that you
+mention it, I should do the same for English Romanticism.”
+        
+Silence.
+
+“Any restoration since my visit?” spoke up Emily finally.
 
 "Oh, some on the kitchen. We'd like to do more events, and having a
 functioning kitchen would be nice." Annette sucked her teeth. "After all
@@ -2900,7 +2942,7 @@ Silence.
 your Hildegard recordings?"
 
 "On my laptop. Which is at school," replied Annette sharply. "But I
-shan't hear her /artificially/ again. /C'est tout dans le passé/."[fn:7]
+shan't hear her /artificially/ again. /C'est tout dans le passé/."[fn:8]
 
 Emily laughed softly. A quiet joy carried her along, her feet almost off
 the ground. Swept along by this feeling of happy quietude, she spoke
@@ -3089,9 +3131,9 @@ itself to words, does it then."
 
 "I suppose it was good for my brain to be confronted with just such a
 /challenging/ situation. After all that, /ma vie en Allemagne est si
-prévisible/."[fn:8]
+prévisible/."[fn:9]
 
-"Anything else positive you'd like to say, /eure gnädige Freiin/?"[fn:9] said
+"Anything else positive you'd like to say, /eure gnädige Freiin/?"[fn:10] said
 Emily in an upbeat tone.
 
 "About Kansas? I suppose it was nice to be around people doing normal,
@@ -3113,7 +3155,7 @@ Emily continued: "I suppose it's not very clear what's public and what's
 private in a conservation area."
 
 "Tourism has spun completely out of control. It's just too easy for
-people to /flitz/[fn:10] about these days," said Annette. "They do
+people to /flitz/[fn:11] about these days," said Annette. "They do
 their online scheming, then they pile into their motorised ships and
 set sail to where the foxes say good night. I just /hate/ it! Tourism
 is---"
@@ -3137,7 +3179,7 @@ mystique."
 
 "She was an odd sort of a mystic, wasn't she though."
 
-"/Gleichmut, Gelassenheit/," added Annette.[fn:11] "Such an unearthly
+"/Gleichmut, Gelassenheit/," added Annette.[fn:12] "Such an unearthly
 quietude to her. The look of another world."
 
 "I don't think she was simple-minded. She had a an understanding of
@@ -3280,7 +3322,7 @@ thinking about it!"
 
 "I'll have to investigate," said Annette.
 
-"Annette, /mon petit chou/,[fn:12] is it a crime to want just /this/?" Emily
+"Annette, /mon petit chou/,[fn:13] is it a crime to want just /this/?" Emily
 gestured grandly to the land around her.
 
 "No, my dearest Emily, certainly not."
@@ -3387,7 +3429,7 @@ Laughter, then a thoughtful silence.
 
 "But isn't it odd how we're still on about fairies?" said Annette. "I
 suppose we shouldn't go looking too closely for fairies or gingerbread
-houses with their /Knusperhexen/[fn:13] lest we find them."
+houses with their /Knusperhexen/[fn:14] lest we find them."
 
 "Lest we find them," repeated Emily mock ominous.
 
@@ -3640,7 +3682,7 @@ mother's generation was the first to give it a rest. Thank God I was
 spared." She wheezed out a big, obviously impatient sigh and waved a
 dismissive hand.  "All of that was well out of fashion by the time I
 was born." She paused then continued: "So we were talking about
-Emily's rather /triste/[fn:14] poem."
+Emily's rather /triste/[fn:15] poem."
 
 "Yes, and you were after my artistic licence," said Emily, again in a
 softer, and yet still serious tone. "You needn't worry about me, Gran.
@@ -3941,7 +3983,7 @@ Wind flowing around them. Sounds subtle and layered.
 
 Emily suddenly laughed brightly. "And what about the Baroness Annette
 von der Surwitz, would she go back?" she asked, then stopping. "If there
-were a time machine, would you go back, /meine liebe Freiin/?"[fn:15]
+were a time machine, would you go back, /meine liebe Freiin/?"[fn:16]
 
 The tall German took a long step ahead, stopped, and turned to her
 friend. She inflated her chest and replied, "I would go back. I would go
@@ -4067,10 +4109,10 @@ idealism evaporate and leave me in---"
 "Yes, in utter and complete terror," cut in Annette, waving
 theatrically.
 
-"/Mir wäre Himmelangst/?"[fn:16] said Emily, testing a German phrase she had
+"/Mir wäre Himmelangst/?"[fn:17] said Emily, testing a German phrase she had
 recently learned.
 
-"/Himmelangst ohne Unterlass/,[fn:17] indeed!" replied Annette. "It wouldn't be
+"/Himmelangst ohne Unterlass/,[fn:18] indeed!" replied Annette. "It wouldn't be
 a game, that's for sure. We couldn't just step out whenever something
 went wrong. Like you said, a small cut could turn into an
 amputation---or worse. They didn't even know what germs were until Koch
@@ -4233,7 +4275,7 @@ Annette continued: "So before human buildings, bats were in tight
 harmony with nature, completely integrated with everything around them.
 But now they're in a sort of /trans/-bat state. They've gone beyond
 their naturally circumscribed boundaries. They're cheating, they're
-gaming the system, as you say. /Schwindel/."[fn:18]
+gaming the system, as you say. /Schwindel/."[fn:19]
 
 "In any event, causing imbalances," said Emily. "Suddenly one species is
 doing so much better and enjoying more dominance. I suppose nature can
@@ -4363,7 +4405,7 @@ spiritual plane, of communing with God. Soft acknowledging laughter.
 "Really though," continued Annette and shook her fists. "If you can get
 into this Buddhist cosmic bliss of theirs, /and/ do it right in the
 middle of our destructive modern materialist world, then somehow it's
-pointless. There is no making modern urban /extra-/nature life good. I
+pointless. There is no making modern urban /extra/-nature life good. I
 won't accept it."
 
 "The Brontës weren't cheating," said Emily. "And they paid dearly.
@@ -4377,7 +4419,7 @@ Annette quickly replied: "In this age I must consciously choose one from
 many paths, /then/ I must bring forth discipline to stick to it. I make
 a decision, a choice, then I have to gather the Herculean discipline to
 stay the course. The whole process is unnatural. Oh, girl, you've hit
-upon a great conundrum indeed, this whole /thriving /thing outside of
+upon a great conundrum indeed, this whole /thriving/ thing outside of
 nature."
 
 "It was so obvious back in America when I'd see all these fat, stupid
@@ -5050,13 +5092,13 @@ Alice.
 "Do you speak any dialect?" asked Emily.
 
 "No, I'm afraid it's dying out," said Alice. "My grandparents could
-speak it, but we never learned it. I speak /Hochdeutsch/.[fn:19] I was in an
+speak it, but we never learned it. I speak /Hochdeutsch/.[fn:20] I was in an
 immersion school in Winnipeg, /aber, wissen Sie, hier habe ich so gut
-wie keine Gelegenheit zu üben/."[fn:20]
+wie keine Gelegenheit zu üben/."[fn:21]
 
-"/Ja, dann müßen wir uns mal treffen/," said Emily.[fn:21]
+"/Ja, dann müßen wir uns mal treffen/," said Emily.[fn:22]
 
-"/Ja, machen wir das. Gut, gut./"[fn:22]
+"/Ja, machen wir das. Gut, gut./"[fn:23]
 
 Soft laughter, then silence, awkward.
 
@@ -5435,9 +5477,9 @@ Annette growled in support. "Oh but the /Schadenfreude/ when one of us
 slips up!" She punctuated this statement with a sardonic laugh. "We've
 got a princess in Bavaria who's fallen into a real codependency rut
 with the press, spouting all sorts of right-wing nonsense just to play
-the /Trotzkopf/[fn:23] around them. I suppose I pity her. That could
+the /Trotzkopf/[fn:24] around them. I suppose I pity her. That could
 be me one day dangling off the end of their knives. /Daß der Trotzkopf
-nicht wegrollt/."[fn:24] Annette pointed to her head.
+nicht wegrollt/."[fn:25] Annette pointed to her head.
 
 Grim laughter.
 
@@ -5463,7 +5505,7 @@ They're a fringe movement that wants a German monarchy again."
 Annette laughed sardonically. "Gosh is right. Some of us have played up
 to them, and it's really set us all back, made us look terrible."
 
-"/Sie blamieren sich/.[fn:25] Is that right?" said Emily testing her German.
+"/Sie blamieren sich/.[fn:26] Is that right?" said Emily testing her German.
 
 "Oh yes, they're embarrassing us all right. A Jacobite uprising in the
 twenty-first century, indeed."
@@ -5484,7 +5526,7 @@ correcting bold attempts at each other's languages.
 wouldn't have a clue how to /externalise/ it---in /this/ era." She
 held her hands over the ground in front of her.
 
-"/Que sais-je/?"  said Annette, quickly followed by, "Montaigne."[fn:26]
+"/Que sais-je/?"  said Annette, quickly followed by, "Montaigne."[fn:27]
 
 "/Exactement/," replied Emily.
 
@@ -5651,7 +5693,7 @@ Rueful laughter.
 Emily continued: "We always come back to this simpler reverence and
 faith. That part is still here." She clasped her hand to her chest.
 "It's basic, is it not? Like I was trying to explain to Gran, trying
-to explain why I want a /simpler /Christianity. When Jane Eyre had her
+to explain why I want a /simpler/ Christianity. When Jane Eyre had her
 simple little life out on the moor with the Rivers family---"
 
 "Yes, and why did it end?" interjected Annette. "Because St John
@@ -5661,7 +5703,7 @@ insisted on being a missionary in India, of all places."
 faith."
 
 "Most assuredly!" said Annette. "Very in favour of him just remaining
-the local vicar, staying /plugged in /locally."
+the local vicar, staying /plugged in/ locally."
 
 "Moor House it was called. Oh that place, that setting!" exclaimed
 Emily. "And how she described that lonely moor. She put it into one huge
@@ -5682,16 +5724,16 @@ yes, only if we keep belief at this /country/ level."
 "Unsupposing, unlearned, yes, indeed, /rural/" replied Emily.
 
 "At the emotional, feeling level," said Annette. "Rossetti creates
-/emotional/ attachment. That's how it becomes personal and /wirksam./"
+/emotional/ attachment. That's how it becomes personal and /wirksam/."
 
-"/Wirksam /as in---in something that /works /on us?"
+"/Wirksam/ as in---in something that /works/ on us?"
 
 "Yes," replied Annette, "as in it has a deeper effect on us."
 
-"Yes, yes," said Emily. "We should feel a thing more than puzzle it out
-with logic. Really, my dear Nette, faith must be/ felt. /And somehow it
-must be around wildness, God's setting. And darkness is a catalyst as
-well."
+"Yes, yes," said Emily. "We should feel a thing more than puzzle it
+out with logic. Really, my dear Nette, faith must be /felt/. And
+somehow it must be around wildness, God's setting. And darkness is a
+catalyst as well."
 
 Expectant silence.
 
@@ -5734,13 +5776,13 @@ God. We're too much fools to think God favours us."
 yes indeed, I'm just too much of a fool to handle any direct boon from
 God."
 
-"/Encore exactement!"/ exclaimed Annette immediately.
+"/Encore exactement/!" exclaimed Annette immediately.
 
 "What then is relevant about Christ?"
 
 Annette seemed to dodge this question, but then quoted, "/My influence
 o'er thee stealing, grief deepening, joy congealing, shall bear thy soul
-away./"
+away/."
 
 "Haworth Emily," said Emily. "Yes, brilliant. Just a few poetic words
 say so much more than tomes of sermons."
@@ -5763,7 +5805,7 @@ Wind.
 Emily felt her skin prickling at some odd spike of fright.
 
 "Doom," spoke up Annette. "Like a soldier in battle---his duty demanded.
-Safety, let alone /thriving,/ as you say, completely off the table. I
+Safety, let alone /thriving/, as you say, completely off the table. I
 am a servant, a soldier of God. Meaning I am expendable on this earthly
 battlefield. And only in some better world might I realise this supposed
 salvation. But not here, not here."
@@ -5789,49 +5831,38 @@ Soft, self-conscious laughter.
 through the Holy Spirit to be, as Haworth Emily said, /e'er over us
 stealing/, stealing only because we are such fools so much of the time."
 
-"I'm a fool," said Annette. "Which renders me mostly incapable of God's
-subtle grace. Let me quote that whole bit after /The night is darkening
-round me. /It's really the centre of everything these days." She
-breathed in and began
+"I'm a fool," said Annette. "Which renders me mostly incapable of
+God's subtle grace. Let me quote that whole bit after /The night is
+darkening round me./ It's really the centre of everything these days."
+She breathed in and began
 
+#+begin_verse
 I'll come when thou art saddest,
-
 Laid alone in the darkened room;
-
 When the mad day's mirth has vanished,
-
 And the smile of joy is banished
-
-From evening's chilly gloom.
+From evening's chilly gloom
 
 I'll come when the heart's real feeling
-
 Has entire unbiased sway,
-
 And my influence o'er thee stealing,
-
 Grief deepening joy congealing,
-
-Shall bear thy soul away.
+Shall bear thy soul away
 
 Listen 'tis just the hour,
-
 The awful time for thee;
-
 Dost thou not feel upon thy soul
-
 A flood of strange sensations roll,
-
 Forerunners of a sterner power,
-
 Heralds of me?
+#+end_verse
 
 Emily sighed loudly. "Not the stuff of Sunday sermons, is it then?
 And---and I simply must wait for this awful time for me. And when that
 time, when that moment finally arrives, and the flood of strange
 sensations roll ... then may begin sanctification."
 
-"/Fürwahr, fürwahr/," replied Annette quickly. "He waits patiently and
+"/Fürwahr, fürwahr/," replied Annette quickly.[fn:28] "He waits patiently and
 steals in only when my grief is deepening, my joy congealing. He'll
 not come until my heart's real feeling has entire unbiased sway. Yes,
 once again, our Brontë has it figured out."
@@ -5840,24 +5871,20 @@ once again, our Brontë has it figured out."
 
 "No, indeed!" exclaimed Annette. "What do you have of hers to this?"
 
-Emily stopped, got out her headlamp, her /Emily Dickinson,/ and paged
+Emily stopped, got out her headlamp, her /Emily Dickinson/, and paged
 along until she found
 
+#+begin_verse
 Let down the bars, O Death!
-
 The tired flocks come in
-
 Whose bleating ceases to repeat,
-
 Whose wandering is done.
 
 Thine is the stillest night,
-
 Thine the securest fold;
-
 Too near thou art for seeking thee,
-
 Too tender to be told.
+#+end_verse
 
 Charged air. Crackling silence. Emily put away book and light and the
 peers paced on.
@@ -5873,9 +5900,9 @@ just a few bounds Amherst Emily's caught up with Haworth Emily!"
 Laughter.
 
 "Of course, of course Christ's compassion and righteousness," said
-Annette at last. "But I'll wander /ichbezogen,/ wrapped up in myself
-until those last moments. I can't help myself. This /Ichbezogenheit /is
-a rot I'll never root out. Really, I can't."
+Annette at last. "But I'll wander /ichbezogen/,[fn:29] wrapped up in
+myself until those last moments. I can't help myself. This
+/Ichbezogenheit/[fn:30] is a rot I'll never root out. Really, I can't."
 
 "But then---"
 
@@ -5885,7 +5912,7 @@ a rot I'll never root out. Really, I can't."
 
 Annette laughed ruefully brightly. "Yes, death and night. /Precious balm
 drips from thy hand out of its bundle of poppies. Thou upliftest the
-heavy-laden wings of the soul. /That would be night he's on about, not
+heavy-laden wings of the soul/. That would be night he's on about, not
 God." She then turned her face to the darkening sky and cried out, "You
 are the same! Somehow you're all the same!"
 
@@ -5897,7 +5924,7 @@ are the same! Somehow you're all the same!"
 Emily moaned again with impatience. "I can see her, Jane Eyre, out on
 the moor, twilight approaching. /The night is darkening round me, the
 wild winds coldly blow. But a tyrant spell has bound me and I cannot,
-cannot go. /What is this beguiling tyrant spell out on the moor at
+cannot go/. What is this beguiling tyrant spell out on the moor at
 darkness, the spell always lurking, entrancing us---before death finally
 comes?"
 
@@ -5908,21 +5935,21 @@ Silence. Wind. Creaking, rubbing branches.
 Laughter.
 
 Emily felt a chill roll through her body, though beads of sweat had
-formed on her brow. "Your Christian namesake Annette von Droste and her
-/Knabe im Moor. /I remember you had me read it back in Kansas."
+formed on her brow. "Your Christian namesake Annette von Droste and
+her /Knabe im Moor/. I remember you had me read it back in Kansas."
 
 "Yes, but we never discussed it," said Annette windily. "Let me try a
 translation of the first stanza: /How ominous it is to cross the
 moor ... when its haze, its mists writhing like phantoms ... bind
 and weave through the low growth ... and up comes a springlet beneath
 every step ... a hissing singing from the ground ... How eerie it is
-to cross the moor when the reeds rustle in the breezes... ."/
+to cross the moor when the reeds rustle in the breezes/..."
 
 Silence and listening for the German fen.
 
 "A place perfectly forsaken," spoke-whispered Emily.
 
-"So /ominously/ forsaken, /frighteningly /forsaken!" shot back Annette.
+"So /ominously/ forsaken, /frighteningly/ forsaken!" shot back Annette.
 "Void of anything human. It's the old idea of wilds as wastes, as pagan
 and sinister. And then along comes the errant peasant boy who falls into
 a panic so far away from his village. The moorlands just past
@@ -5966,7 +5993,7 @@ simple peasant life."
 "Fear---or at least the grimness of a starving bat out on the twilight,
 even if she for just a moment can gaze out transfixed and muse soberly
 over what her final hours will be like. /Wir sind schließlich alle
-gleich ausgesetzt. /We're all in the same boat."
+gleich ausgesetzt/. We're all in the same boat."
 
 Silent humans. Crackling, buzzing surroundings in Emily's ears.
 
@@ -5981,7 +6008,7 @@ Muse. I suppose they're not out on the heath enough."
 
 Laughter.
 
-"They must sense something, they /must,/" said Emily. "But they don't
+"They must sense something, they /must/," said Emily. "But they don't
 know what to do with it. They scratch the itch, but they don't know
 where the itch comes from."
 
@@ -5991,7 +6018,7 @@ part I can't stand at all!"
 
 Silence for thought.
 
-"Robert dragged me to a band at the Wave Goth. /Furchtbar! /The singer
+"Robert dragged me to a band at the Wave Goth. /Furchtbar!/ The singer
 started by saying in a big, ominous voice, /die Nächte, die Alpträume, o
 weh, o weh!/"
 
@@ -6001,9 +6028,9 @@ Laughter.
 
 "Really though," continued Annette, "would you make a song out of
 Haworth Emily's /And childhood's flower must waste its bloom beneath the
-shadow of the tomb?"/
+shadow of the tomb?/"
 
-"That's from /I saw thee, child, one summer day?"/
+"That's from /I saw thee, child, one summer day?/"
 
 "Yes, she being gloomy doomy," replied Annette. "But for heaven's sake
 it's not a game!"
@@ -6019,15 +6046,15 @@ Laughter.
 
 Emily continued: "Well, I once tried reading a book supposedly about
 modern goth---and it just got more annoying the more I read. It
-/completely /missed the Dark Muse and kept listing out all sorts of
+/completely/ missed the Dark Muse and kept listing out all sorts of
 petty, silly, peripheral nonsense. The author was insisting it all
-started as an offshoot of the punk movement. He spent a paragraph or two
-on Walpole and Radcliff and gothic fiction and all that, but then he
-just went on and on about all the bands and fashion."
+started as an offshoot of the punk movement. He spent a paragraph or
+two on Walpole and Radcliff and gothic fiction and all that, but then
+he just went on and on about all the bands and fashion."
 
 "Sometimes I swear it's almost conspiratorial how they're missing,
-avoiding the Dark Muse," said Annette. "Why, /why /then do you like this
-dark stuff? I just want to shake them!"
+avoiding the Dark Muse," said Annette. "Why, /why/ then do you like
+this dark stuff? I just want to shake them!"
 
 "They're trying it on as another modern lifestyle," said Emily in a
 forlorn tone. "They'll move on to something else soon enough."
@@ -6041,9 +6068,9 @@ a game!"
 Emily murmured affirming, then the pair trudged along quiet in their
 thoughts.
 
-"And all the black!" began Annette again. "Wearing black meant something
-completely different back in the day. It meant you were opposing worldly
-fashions and cleaving to Christian piousness. It was
+"And all the black!" began Annette again. "Wearing black meant
+something completely different back in the day. It meant you were
+opposing worldly fashions and cleaving to Christian piety. It was
 /anti/-ostentatious. It wasn't cheek. It wasn't rebellion. It wasn't,
 ‘Look at me, aren't I outrageous?'"
 
@@ -6063,12 +6090,12 @@ not decadence."
 
 Silence as they moved along in the penultimate darkness.
 
-"Do you remember Anne's poem /Confidence?" /asked Annette.
+"Do you remember Anne's poem /Confidence/?" asked Annette.
 
 "I'm sure I've read it."
 
 "/Far as this earth may be from yonder starry skies; remoter still am I
-from Thee. Yet Thou wilt not despise. /She's speaking to God."
+from Thee. Yet Thou wilt not despise/. She's speaking to God."
 
 "Girl, I never cease to be amazed at how much you've memorised!"
 
@@ -6086,41 +6113,36 @@ Laughter.
 
 "But would anyone at the Wave Goth get it?" said Annette. "Some perhaps,
 but most would lack the patience. No my dear, it was mostly just silly
-revelry. Like a dark /Carnival. /I suppose it's better than nothing, but
+revelry. Like a dark /Carnival/. I suppose it's better than nothing, but
 I need more than just the trappings of dark."
 
 Silence.
 
-Once more the odd call of a fox. But then Annette quoted by heart
+Once more the odd call of a fox. But then Annette quoted Emily Brontë by heart
 
+#+begin_verse
 Fall, leaves, fall; die, flowers, away;
-
 Lengthen night and shorten day;
-
 Every leaf speaks bliss to me
-
 Fluttering from the autumn tree.
-
 I shall smile when wreaths of snow
-
 Blossom where the rose should grow;
-
 I shall sing when night's decay
-
 Ushers in a drearier day.
+#+end_verse
 
 Soft murmuring.
 
 "My oh my, this dark thing!" exclaimed Annette. "It's so mysteriously
 attractive! Why then, why?!"
 
-"Because it's mysteriously attractive!" exclaimed Emily.
+"Because it's---mysteriously attractive!" exclaimed Emily.
 
 Laughter.
 
-"We're stuck with the three shelves," said Emily at last. "I can't /just
-/go to church, I can't /just /do goth. And I can't run around in the
-woods as a Tolkien elf, either."
+"We're stuck with the three shelves," said Emily at last. "I can't
+/just/ go to church, I can't /just/ do goth. And I can't run around in
+the woods as a Tolkien elf, either."
 
 Annette gave a sardonic guffaw. "Like when I'm in the Harz. Sometimes I
 just want to be a Tolkien elf and never come back." And then in a
@@ -6156,8 +6178,8 @@ we followed where they were supposedly out in nature and off the grid
 and---"
 
 "But somehow making state-of-the-art videos about how primitive and
-back-to-nature they were?" completed Annette. "The whole /cottagecore
-/thing."
+back-to-nature they were?" completed Annette. "The whole /Cottagecore/
+thing."
 
 Laughter.
 
@@ -6213,7 +6235,7 @@ while. The earlier tension, the foreboding had evaporated and Emily
 revelled in a feeling of lightness, her blood flowing.
 
 "/And in the name of the bee, and of the butterfly, and of the breeze,
-amen!" /proclaimed Emily. "Amherst Emily."
+amen!/" proclaimed Emily. "Amherst Emily."
 
 Joyful laughter.
 
@@ -6256,14 +6278,15 @@ I shouldn't have to do orals. Your turn to come to me!"
 "But promise you'll visit me," said Annette in almost a whisper.
 "Promise me you will."
 
-"Oh, I shall indeed!"
+"Oh, I shall indeed!" \\
+\\
 
 After tearful farewells at the Penrith station the next day Emily came
 back to the lodge, packed a lunch, and hiked all through the rest of the
 day. It was surely fifteen miles, starting by wandering the high, windy
 fells to the north-west. She observed a few sheep farmers driving the
-last of their sheep out of their /hefts, /their specific grazing
-ranges/, /down to the lambing inbye pens. She did not recognise anyone,
+last of their sheep out of their /hefts/, their specific grazing
+ranges, down to the lambing inbye pens. She did not recognise anyone,
 and she knew to stay clear of the complex, highly coordinated round-up.
 Trying to lean into her father's "let them see the new lady of the land"
 advice seemed ill-advised. She then ghosted about the trails and lanes
@@ -6294,21 +6317,22 @@ previous Christmas. Her rain shell was guaranteed dryness, but she
 wanted to face the elements like someone from the nineteenth century
 would have. And besides, it just looked cool.
 
-The following day she stopped in at the bookshop-café, which did have a
-name, /Parnassus, /supposedly after a bookshop from Judith Franke's Cape
-Cod home town. The proprietress was not there, a relief, as she did not
-need any special attention. In fact she was confused and upset after
-waking and hearing the news from Gran that her father had taken off for
-London in the early hours. She felt slighted that no one ever told her
-of his comings and goings. Gran, however, insisted she herself had been
-told only that morning. He had taken his BMW SUV and had packed for a
-long stay. Business, pleasure? Apparently business. Gran said he was
-talking with an investment firm. About what? A job. A job? Yes, a job.
+The following day she stopped in at the bookshop-café, which did have
+a name, /Parnassus/, supposedly after a bookshop from Judith Franke's
+Cape Cod home town. The proprietress was not there, a relief, as she
+did not need any special attention. In fact she was confused and upset
+after waking and hearing the news from Gran that her father had taken
+off for London in the early hours. She felt slighted that no one ever
+told her of his comings and goings. Gran, however, insisted she
+herself had been told only that morning. He had taken his BMW SUV and
+had packed for a long stay. Business, pleasure? Apparently
+business. Gran said he was talking with an investment firm. About
+what? A job. A job? Yes, a job.
 
 She received a card from Annette two days following. The front picture
 depicted a section of Philipp Otto Runge's /Genien/: three chubby,
 mesmerised cherubs hovering around a mysterious point of light. Included
-was a letter, along with a /Scherenschnitt, /paper cutting art of a
+was a letter, along with a /Scherenschnitt/, paper cutting art of a
 currant branch that she said was after a Runge original. Their agreement
 was for each person to write in their mother tongue. Emily was proud
 that she had not needed to look up one single word.
@@ -6316,7 +6340,7 @@ that she had not needed to look up one single word.
 Annette reported their church was putting the /Türmer/, the watchtower
 trumpeter, on hold. She also said another peer family had visited them,
 including a son, who was just a year older. He was nice looking, but a
-crashing bore and a hopeless /Spießer, /by which Annette meant he was a
+crashing bore and a hopeless /Spießer/, by which Annette meant he was a
 clueless and tedious philistine. She complained about the whole
 "breeding" overtones of their encounter, the unspoken pressure to
 seriously consider each other for a peer match. Her parents, whom she
@@ -6327,16 +6351,17 @@ finger as she offered it a carrot on the first day back. She also
 mentioned her brother had been in attendance---and had actually hit it
 off with the visiting family's daughter. Robert, Marta, and Annette had
 given a recorder concert on their final evening together. The weather
-had been unseasonably sunny and warm, the Harz far too dry... .
+had been unseasonably sunny and warm, the Harz far too dry...
 
 The first thing Emily did upon returning home that evening was to start
 a letter to Annette. At dinner she was finally able to extract more
 details from her grandmother about her father's mission to London.
 Apparently he was to receive a full partnership in a big investment
 firm, including a large bonus. And yes, this was mainly to offset the
-looming expenses.
-
-Dearest Annette,
+looming expenses. \\
+\\
+/Dearest Annette,/ \\
+\\
 
 /As I write this I don't know whether to be angry and start smashing
 things or to simply fall into uppgivenshetssyndrom and remain in bed
@@ -6354,63 +6379,53 @@ back online," no doubt as another money-making theme park for the
 Downton Abbey tourists. So there it is: A fortune must be raised. Ad
 astra per aspera indeed./
 
-I know I shouldn't read so much into this, but I can't help but writhe
+/I know I shouldn't read so much into this, but I can't help but writhe
 in anguish. Now I wonder how far he will sink back into his old persona.
 What is to become of the whole "manorial revival" we had all hoped for?
 What can I tell Alice and Haggitt? They won't be pleased. Maybe Uncle
-Thomas and Gran can sort something out for them.
+Thomas and Gran can sort something out for them./
 
-Please don't worry about me. I only mean to inform. I'm probably
+/Please don't worry about me. I only mean to inform. I'm probably
 overreacting, i.e., Germans aren't the only ones who verzeissen all
 their problems. Good luck with school. I'll close with a poem that
-popped out of one really solid Jane-on-her-lane walk:
+popped out of one really solid Jane-on-her-lane walk:/
 
+#+begin_verse
 Dark purple sky, early Spring evening descends.
-
 Flashing orange sparks, feathery white ash, glowing blue coals.
-
 Lay down, fall into a deep slumber
-
 Under the oak beside the cold, dark brook.
 
 Wake to blowing rain.
-
 Grey and keen, this Spring morn.
-
 Low clouds rolling ragged before the front.
 
 Twisted pear trees of the forgotten orchard.
-
 Wet overgrown grasses, brambles
-
 Conceal worm-hole fruit.
 
 Forth along the lonely home-lane
-
 Crooked and narrow, rent deep into the land.
-
 Barely sight ahead, none past thicket border of
-
 Gnarled beech, leaning oak, ancient yew.
 
 As the darkening sky falls
-
 At the end of the day,
-
 To know what is ahead
-
 By what was along the way.
+#+end_verse 
+\\
+/Et in Arcadia ego,/ \\
+\\
+/Greatest love and affection, your Emily/ \\
+\\
 
-Et in Arcadia ego,
-
-Greatest love and affection, your Emily
-
-Emily wanted answers to the big question---whether this meant the end of
-their farming plans---but something told her not to push and pry, not
-yet. If I'm confused, Gran can't be any less, she reasoned. Better to
-starve a need, a want, to leave a burning question unanswered at a time
-like this. In other words, patience. What would Annette say? No, no
-phone calls.
+The impatient Emily wanted answers to the big question---whether this
+meant the end of their farming plans---but something told her not to
+push and pry, not yet. If I'm confused, Gran can't be any less, she
+reasoned. Better to starve a need, a want, to leave a burning question
+unanswered at a time like this. In other words, patience. What would
+Annette say? No, no phone calls.
 
 What would her namesake Emily Brontë do? After all, they had managed
 wayward Brother Branwell. So why not go and ask her?! Of course! A trip
@@ -6418,13 +6433,13 @@ to Haworth! Two sharp laughs: one for how splendid the idea was, second
 at the sheer amazement that she had never, not once ever, been there
 before...
 
- ... where she would finally meet Emily Brontë. Though little hope of
+ ...where she would finally meet Emily Brontë. Though little hope of
 a pleasant chat with a charming nineteenth-century /hôtesse de salon/.
 More and rather a tense stand-off with an emotionally troubled,
-physically done-in wretch. /Scrawny: /crude but accurate. Yes, Haworth
+physically done-in wretch. /Scrawny/: crude but accurate. Yes, Haworth
 Emily would be charging along her moorland path with Wolkeld Emily
 struggling to keep up. At last Wolkeld Emily would grab Haworth Emily's
-/scrawny /arm, turn her around, grab both of her cold, bony hands in her
+/scrawny/ arm, turn her around, grab both of her cold, bony hands in her
 strong, warm ones---and what? What could she say, what would she do in
 that moment? Hug her? Not hardly. Haworth Emily would not understand the
 whole modern hugging thing. No frivolous hugging back then. Nothing
@@ -6475,16 +6490,17 @@ any Dark Muse behind their goth costumes and music.
 
 The Dark Muse.
 
-No takers in Kansas. She recalled one reading of the Brontës' poetry to
-Mary and her extended family while on a Thanksgiving retreat to the
-Schrag's ranch. Emily Brontë's /No coward soul is mine /elicited polite,
-but clearly patronizing smiles---from adolescents, as well as adults.
-She had tried once again at a Schrag get-together in Manhattan. Irene's
-reaction had been particularly galling. The tall, angular ingénue had
-given it her daft little smile, then fell immediately back into one of
-her space-outs. Peter was worse, showing obvious annoyance. Irene's twin
-brother, with his anxious self-absorption, "wasn't into poetry." She
-remembered having been completely deflated.
+No takers in Kansas. She recalled one reading of the Brontës' poetry
+to Mary and her extended family while on a Thanksgiving retreat to the
+Schrag's ranch. Emily Brontë's /No coward soul is mine/ elicited
+polite, but clearly patronizing smiles---from adolescents, as well as
+adults.  She had tried once again at a Schrag get-together in
+Manhattan. Irene's reaction had been particularly galling. The tall,
+angular ingénue had given it her daft little smile, then fell
+immediately back into one of her space-outs. Peter was worse, showing
+obvious annoyance. Irene's twin brother, with his anxious
+self-absorption, "wasn't into poetry." She remembered having been
+completely deflated.
 
 Perhaps not knowing the full history of her audience, their trials and
 traumata, kept outsiders like her from a full understanding of their
@@ -6492,7 +6508,7 @@ tastes and proclivities. No, the rhythm, the soul of a community could
 not be picked up without deep and long personal involvement with its
 people and history. Something had put them off stilted, flowery,
 /old-fashioned/ poetry. What could it have been? Apparently, all the
-world is /not /a stage; for if it were, the scripts, going back
+world is /not/ a stage; for if it were, the scripts, going back
 generations, could be found, all the lines of all the parts for all the
 previous acts could be read, the full plot at last puzzled out.
 
@@ -6500,7 +6516,7 @@ Emily Whitmore, late of Wolkeld, would often close her eyes and take
 slow, diaphragm-deep breaths through her nose, exhaling slowly. As on
 this evening up in her room, her candles glowing, wind bursts sounding
 in the dark outside. Script or no, America seemed positively allergic to
-the past. Missing was the concept of /doom,/ how mistakes---however
+the past. Missing was the concept of /doom/, how mistakes---however
 initially small---might grow, snowballing as time marched on. To
 Americans, lines were breakable, fresh starts not just possible but
 desirable, routinely prescribed, unquestioned, even expected.
@@ -6520,70 +6536,46 @@ The weaving analogy had come from Annette. She had once said we cannot
 be separated from the time-locked weaving of our ancestors, that we
 carry over the threads from the past and must "weave down" any mistakes
 in our own lives as best we can. Emily had to smile at Annette's
-inventive German term /herunterweben;/ Germans made a sport of inventing
+inventive German term /herunterweben/; Germans made a sport of inventing
 new words. And it was only from this "weaving down" that we may come to
 some sense of fulfilment and completion, although with the inevitable
 imperfection, our own, as well as inherited sins reaching back into the
 past, sins never excised, only woven down. And with that tiny bit of
 something resolved, she put pen to paper for her own /In Remembrance:/
 
+#+begin_verse
 And from bygone generations I have surely more than blood.
-
 The loom, the wrapped bolt a shared past, holds me taunt.
-
 And try though I may, little hope there is finding out,
-
 Capturing this force of past souls and blood.
-
 For no sooner is some design of
-
 Art, music, words offered than opens
-
 A far greater twilit space echoing the past.
-
 Alas, that these modern conceits must all fail us;
-
 For the Muses range far above, behind, and beyond---
-
 From the heart out to the eternal sea, sky, land,
-
 And everywhere and forever between,
-
 Subtle to mystical to rapturous.
 
 Woe, the tarried songbird whose weakening wings
-
 In late November portend death's evening hour,
-
 Life's requisite warmth finally dissipated,
-
 Her once vast blue space closing dark,
-
 The mysterious frontiers setting up,
-
 The shadowy boundary closing... .
 
 That we humans may touch,
-
 Stroke the dark velvet curtains
-
 Long before we slip the concealed gaps.
-
 Death would have all such anticipation quiet---
-
 All suppositions. vain assurances flashing then quit,
-
 All expectations rattling, echoing lastly towards stillness
-
 Leaving friends to carry on in dutiful remembrance,
-
 That those, at graveside, must as best they can
-
 Face the darkness and resolutely reach out
-
 Beyond the day's anguish and sadness
-
 To God and the blessed everlasting.
+#+end_verse
 
  ... as it always has been---and shall be again, once we are finally
 beyond this crudded-up modern age! But no more. Sign, fold letter and
@@ -6593,10 +6585,10 @@ card---came to her mind's eye. Fresh anguish from the thought of her
 mother lying much too soon in the ground. "Cold in the ground." She
 spoke the words aloud. Time as a cure? No, it had not yet weakened her
 grief, the low-level virus for the duration. Of course there is no
-chivvying, indeed, no/ processing /grief. How utterly cheap to
-intentionally process grief! Grief and anguish woven down into life,
-tightly wrapped onto the necessarily bumpy bolt. Trust and balm that no
-unquiet sleepers slumbered in His quiet earth.
+chivvying, indeed, no /processing/ grief. How utterly cheap to
+intentionally /process/ grief! Grief and anguish woven down into life,
+tightly wrapped onto the necessarily bumpy bolt. Trust and balm that
+no unquiet sleepers slumbered in His quiet earth.
 
 What of Heraclitus' dead touching upon the living sleeping? Cannot the
 waking living directly touch one another? She pushed out a hard groan.
@@ -6608,11 +6600,12 @@ glance or expression. And our own purest inner thoughts? Why are they so
 rarely brought forth and shared these days? If humanity survives these
 times, this seemingly intentional cancelling and debasement of culture
 and soul, future generations will look back and wonder /what was wrong
-with us! /Another sigh.
+with us/! Another sigh.
 
 Living, breathing Annette would be very happy to hear about a trip to
 Haworth. Annette! Gad! No more heavy letters until the poor girl's
-school year is over once and for all!
+school year is over once and for all! \\
+\\
 
 The motor of her father's black 1967 Citroën DS hummed reassuring, the
 handling eerily floating-smooth. For decades their mechanic in Carlyle
@@ -6638,8 +6631,8 @@ potentially death-dealing trees almost touchable from the window. In
 contrast, modern Kansas highway verges usually extended at least ten
 yards back to a property fence; not atypically, wide ditches on both
 sides, never a tree in any of that. American interstate highways were
-even more land-profligate, a typical interstate /width---/tarmac,
-verges, and media---the /length /of a football pitch. She recalled the
+even more land-profligate, a typical interstate /width/---tarmac,
+verges, and media---the /length/ of a football pitch. She recalled the
 large mowing tractors that kept it all lawn-neat. How many millions of
 idle acres does America have tied up in its interstates? she wondered.
 But then America's fetish for gigantic kept lawns was unique in the
@@ -6653,7 +6646,7 @@ routinely spoiled by tasteless billboards, ugly buildings, abandoned,
 decaying commercial and industrial sites, and, of course, the seemingly
 endless sprawl of bland, monotone suburbs, as well as all the "big-box"
 stores and chains that served them. In just those seven years she had
-noticed the relentless expansion of suburbs, and now /ex-/urbs, taking
+noticed the relentless expansion of suburbs, and now /ex/-urbs, taking
 over more and more of the countryside---rolling out in all directions
 from every population node across the starkly picturesque but apparently
 champion-less Flint Hills. It was so nice to not see any of that mess
@@ -6729,8 +6722,8 @@ the pub---to be hit with a wall of raucous voices and loud Celtic music
 on the audio system. It was noon and the place was relatively full, and
 from the look and feel, not one local soul in the place. She glanced
 demurely about---no one took notice of her---then up to see written on a
-wooden beam a /Jane Eyre /quote: /I am a free human being with an
-independent will. /Indeed. She turned and left immediately, water
+wooden beam a /Jane Eyre/ quote: /I am a free human being with an
+independent will/. Indeed. She turned and left immediately, water
 welling in her eyes. So far, Haworth was literature tourism at its
 cloying, appropriating worst.
 
@@ -6746,16 +6739,15 @@ where, back in the day, improperly buried bodies had contaminated the
 local water wells thus fetching more corpses in a viscous feedback loop.
 Expectancy was surging. She felt an urge to go down and inspect the
 graves, but again she stopped. She pulled her pocket E.B. out of her
-messenger bag and paged to /Start not upon the minster wall, /noting the
+messenger bag and paged to /Start not upon the minster wall/, noting the
 last stanza:
 
+#+begin_verse
 What though our path be o'er the dead
-
 They slumber soundly in the tomb
-
 And why should mortals fear to tread
-
 The pathway to their future home?
+#+end_verse
 
 No, no, one does not tread the pathway to one's future home on a sunny
 day in a place overrun with gawking, nattering tourists. Any
@@ -6781,11 +6773,11 @@ She could see the parsonage museum directly ahead. However, she stopped,
 turned around, and headed back towards Main Street again. No good
 visiting the Brontë's hallowed home on an empty, growling stomach.
 Almost running, she rounded the corner and headed briskly down Main to
-/Haworth Wholefoods./
+/Haworth Wholefoods/.
 
 The shop was English village tight and dense, nothing like the expansive
 retail spaces she had known in America. And that meant warm and cosy, a
-sort of English /hygge/ or/ coorie. /She was greeted by a statuesque
+sort of English /hygge/ or /coorie/. She was greeted by a statuesque
 young woman of Nordic heritage standing behind the counter. Ah yes,
 ready-made vegan pasties. Smallish, she gathered up three, along with a
 bottle of kombucha, and drifted back to the counter where again she
@@ -6844,7 +6836,7 @@ washed-out blue sky above, classic Emily would flatly reply, "Yes, I am
 going there, but I can suffer no strange company. Good day."
 
 Modern Emily had to smile at her broad thoughts. Oh why had she not come
-with Annette? To sit on this very bench and /meckern /in German with
+with Annette? To sit on this very bench and /meckern/ in German with
 Annette would have been heavenly, she thought. Her shoulders sagged and
 she sighed. The horse and cart suddenly reappeared, now hauling a sporty
 young couple in matching football jerseys. Both passenger faces exuded
@@ -6903,37 +6895,39 @@ carefully meted out their softly spoken words seemed. To everyone's
 relief, social justice warrior Mary had the common sense not to
 interfere.
 
-Enchantingly authentic-original was the Italianate. The ceilings were at
-least twelve feet high. The floors were hardwood, scarred and marked in
-various Kandinskian geometric pattern. The completely bare walls---their
-sect followed a very strict interpretation of "graven images"---showed
-the most intricate networks of cracks and bruises in the greyish-cream
-plaster, a faux marble of sorts. Emily could not stop staring at the
-walls. It was as if elite European clay plaster restorers had balanced
-classic and modern on a knife edge, masterfully leaving no trace of such
-intent. The original sash windows were tall and narrow with upper and
-lower panes of the original wavy-translucent glass. The transom windows
-over the doors were a medicine-bottle blue glass. Heating was by wood
-stoves, a huge wood-burning stove in the kitchen for cooking. Electric
-lights and a refrigerator were their only noticeable concessions to
-modernity. Having once visited Florence, Italy, with her mother, Emily
-felt as if she had walked into a surreal, dreamlike, anti-Florentine
-/casa/. To be sure, it was bygone American life as /in situ /as it could
-be.
+Enchantingly authentic-original was the Italianate. The ceilings were
+at least twelve feet high. The floors were hardwood, scarred and
+marked in various Kandinskian geometric pattern. The completely bare
+walls---their sect followed a very strict interpretation of "graven
+images"---showed the most intricate networks of cracks and bruises in
+the greyish-cream plaster, a faux marble of sorts. Emily could not
+stop staring at the walls. It was as if elite European clay plaster
+restorers had balanced classic and modern on a knife edge, masterfully
+leaving no trace of such intent. The original sash windows were tall
+and narrow with upper and lower panes of the original wavy-translucent
+glass. The transom windows over the doors were a medicine-bottle blue
+glass. Heating was by wood stoves, a huge wood-burning stove in the
+kitchen for cooking. Electric lights and a refrigerator were their
+only noticeable concessions to modernity. Having once visited
+Florence, Italy, with her mother, Emily felt as if she had walked into
+a surreal, dreamlike, anti-Florentine /casa/. To be sure, it was
+bygone American life as /in situ/[fn:31] as it could be.
 
 She sighed, pulled her journal out of her bag and put her Mont Blanc
-Meisterstück (a graduation gift from Chris) to work:
-
-Dear 21st-century Haworth:
-
-1. The forlorn, gloomy, pallid, lonely, bleak, morose, melancholic Dark
-Romantic once distilled by the Brontës from their tiny Haworth and the
-surrounding desolate, misty, windswept Yorkshire semi-wilderness cannot
-be packaged and sold in the modern age, not to this Emily at least. Your
-intentionality is antithetical to the subtleties that once moved
-pastor's daughters to write such grand works... .
-
-2... . or I am jealous and don't want to share... .
+Meisterstück (a graduation gift from Chris) to work: \\
+\\
+/Dear 21st-century Haworth:/ \\
+\\
+/1. The forlorn, gloomy, pallid, lonely, bleak, morose, melancholic Dark
+Romantic once distilled by the Brontës from their tiny Haworth and
+the surrounding desolate, misty, windswept Yorkshire
+semi-wilderness cannot be packaged and sold in the modern age, not
+to this Emily at least. Your intentionality is antithetical to the
+subtleties that once moved pastor's daughters to write such grand
+works/... \\
+\\
+/2. or I am jealous and don't want to share.../ \\
+\\
 
 The great irony of her Missouri trip welling up so clear and strong just
 then struck her as more than just droll. As she sat on a bench in the
@@ -6954,8 +6948,8 @@ The severest disappointment passed, the open space an effective
 distraction. She smiled and again took deep, relaxed breaths, marvelling
 at the land, the sky above---but then she frowned, pouted even. No doubt
 spoiled on the Lake District's highlands, the real Yorkshire seemed too
-modest, too low. But no, no, films, modern /films /had no right to tell
-her what this should be. How preposterous! /This /was the real Haworth
+modest, too low. But no, no, films, modern /films/ had no right to tell
+her what this should be. How preposterous! /This/ was the real Haworth
 moor. And if here wasn't windswept moorlandish enough, well, too bad!
 She laughed at her silliness, but then another negative thought
 considered itself welcome. Oh, what was her crazy father doing? she
@@ -6969,15 +6963,14 @@ almost the entire slope to her left. Not so much of it on that last
 stretch of her Jane Lane (and supposedly planted, not native?), but
 here, /here/ it was proper wide and thick, though a mottled brown and
 green, not expected to bloom for months. Out came her E.B. and to /The
-Sun Has Set:/
+Sun Has Set/:
 
+#+begin_verse
 ... In all the lonely landscape round
-
 I see no sight and hear no sound
-
 Except the wind that far away
-
 Comes sighing o'er the heathy sea
+#+end_verse
 
 Finally something real, the myriad stalks like connective tissue back to
 her heroes. But again a lingering tinge of irony and disappointment
@@ -6993,18 +6986,19 @@ way of loose stone and broken tarmac. This became a rocky path less than
 a mile later.
 
 Any sort of nature and remoteness was a tonic for her heart, as it
-suppressed and obviated the whirring, logic-mongering side of her mind.
-A burgeoning wonderment did gently unfold as the heather held for whole
-stretches, indeed, like thick sea foam floating along beside her on the
-treeless slopes. She stepped off the the trail to touch the rough, wiry
-growth, and in that moment Elation entered her. /Look up!/ said Elation,
-and she did, directly up into the vast sky above. Had Elation been
-saving this? In any case, she seemed to be lifted off the ground ...
-or the loss of her peripheral sight of the ground had been enough to
-bring on a brief instance of weightlessness. And for a brief moment she
-felt the emptiness and endlessness, a being there and not being
-anywhere, something surely her Haworth Emily must have experienced. She
-stumbled on a rock and her visionspace closed back down.
+suppressed and obviated the whirring, logic-mongering side of her
+mind.  A burgeoning wonderment did gently unfold as the heather held
+for whole stretches, indeed, like thick sea foam floating along beside
+her on the treeless slopes. She stepped off the the trail to touch the
+rough, wiry growth, and in that moment Elation entered her. /Look up/!
+said Elation, and she did, directly up into the vast sky above. Had
+Elation been saving this? In any case, she seemed to be lifted off the
+ground ...  or the loss of her peripheral sight of the ground had been
+enough to bring on a brief instance of weightlessness. And for a brief
+moment she felt the emptiness and endlessness, a being there and not
+being anywhere, something surely her Haworth Emily must have
+experienced. She stumbled on a rock and her visionspace closed back
+down.
 
 The blue of this sky was not like any blue she had seen in Kansas---a
 place, after all, with no shortage of sky. She decided to call it
@@ -7016,20 +7010,20 @@ and menacing blackness, frighteningly low and directly overhead. This
 was Yorkshire Black, a dominant colour capable of clearing any shallow
 tourist commotion.
 
-She recalled her /Le théâtre de le vallon:/ the country sky, their
+She recalled her /Le théâtre de le vallon/: the country sky, their
 clouds only layered gauze, the pulsing winds rending it all apart to
 reveal---what then? Annette had once used a truly magical German
-expression: /Eigengrau. /Roughly translated it meant "self-grey," or
+expression: /Eigengrau/. Roughly translated it meant "self-grey," or
 that singular, anti-depth, not-really-darkness one sees behind closed
 eyelids. No, the void behind the tattered gauze should not be the
 reassuring astronomical blackness of outer space, free and open to
 scientific probing, or worse, science fiction; rather, the
-indescribable, sightless, strangely glowing-vibrating /Eigengrau.
-/Again, here was an example of science and its fiction so utterly
-inadequate. Just then she was buffeted by a strong blast of wind. She
-increased her pace, her heart and mind at last empty and free of the
-day's consternations, reset to this wild location. Yes, finally, she
-mused, good Brontëan conditions!
+indescribable, sightless, strangely glowing-vibrating
+/Eigengrau/. Again, here was an example of science and its fiction so
+utterly inadequate. Just then she was buffeted by a strong blast of
+wind. She increased her pace, her heart and mind at last empty and
+free of the day's consternations, reset to this wild location. Yes,
+finally, she mused, good Brontëan conditions!
 
 Just coming over a rise, she encountered a large group of chattering
 Asians making an excited scurry back to Haworth. Hurry now! she did not
@@ -7052,14 +7046,14 @@ non-Asian to be sure, wrapped in a blanket, fast asleep in the thick
 grass beside the water.
 
 She edged closer to him and intentionally away from the tourists. For
-some strange reason she considered him her responsibility. In any case,
-the Asians avoided that corner of the site, none even glancing over at
-her. No doubt they had noticed this spectacle of a sleeping man in the
-wilds and assumed he was some derelict or drunk. A large thunderclap
-brought squeals and pronouncements in the majority's tongue, sending
-them off back down the trail, leaving her and the stranger alone. And
-just as she squatted down to rouse him, she felt and saw big drops of
-rain.
+some strange reason she considered him her responsibility. In any
+case, the Asians avoided that corner of the site, none even glancing
+over at her. No doubt they had noticed this spectacle of a sleeping
+man in the wilds and assumed he was some derelict or drunk. A large
+thunderclap brought squeals and pronouncements in the majority's
+tongue, sending them off back down the trail, leaving her and the
+stranger alone. And just as she squatted down to rouse him, she felt
+and saw big drops of rain.
 
 "Sir, hello, sir?" she exclaimed loudly. "It's starting to rain, sir."
 
@@ -7245,7 +7239,7 @@ brilliant Canadian chap. He believes all modern mental illness comes
 from the complexities of modern life, and we're not really to blame. So
 much is beyond our control. The pressure builds up and up, and it seems
 nothing can ever be sorted out. And that's when a person's
-/predilections, /or /susceptibilities /come to the fore. It's like a
+/predilections/, or /susceptibilities/ come to the fore. It's like a
 balloon overfilled with air, until some slight imperfection on the
 surface gives way."
 
@@ -7258,9 +7252,9 @@ band is squeezing my brain. I hate them, but"---and then he sighed with
 his whole body---"I do need to come in and tidy up a bit. I must
 apologise, I'm a bit smelly and greasy right now."
 
-"You've come this whole way /on foot?"/ asked Emily in a quiet tone.
+"You've come this whole way /on foot?/" asked Emily in a quiet tone.
 
-"I'm not sure. Some,/ most /of it for certain."
+"I'm not sure. Some, /most/ of it for certain."
 
 "Shouldn't you just report in? Someone must be worried."
 
@@ -7297,7 +7291,7 @@ shinier and glittier---until I was, yes, on another plane. I packed some
 things and walked all that night in the snow. I headed northwards
 following it---like the Andersen fairy tale."
 
-"/The Snow Queen?"/
+"/The Snow Queen?/"
 
 He glanced over at her and smiled. "Indeed, like Kai with a sliver of
 madness caught in my eye. Ha! Very good!" He then wiggled his nose and
@@ -7389,9 +7383,10 @@ grandmother was about. But was he carrying a weapon?
 Brontë fan, and he's made a /proper/ pilgrimage: He walked all the way
 from Herefordshire---in his, ah, special attire."
 
-"Hello, Mr /ap /Harry," sang-spoke Lady Susanna in a cool, soft, guarded
-voice. She offered her hand, albeit in slow motion, glancing back and
-forth between granddaughter and visitor with a plastered-on smile.
+"Hello, Mr /ap/ Harry," sang-spoke Lady Susanna in a cool, soft,
+guarded voice. She offered her hand, albeit in slow motion, glancing
+back and forth between granddaughter and visitor with a plastered-on
+smile.
 
 "Glad to meet you, ma'am!" gushed John, taking and then shaking Gran's
 hand too vigorously.
@@ -7430,7 +7425,7 @@ this with a short, embarrassed laugh.
 
 "Yes, ma'am."
 
-"Well, I know the name /ap Harry /comes from long ago. It makes me
+"Well, I know the name /ap Harry/ comes from long ago. It makes me
 wonder what you and your family might be called nowadays."
 
 "Ma'am, I shouldn't involve my family. As I say, I shouldn't be so far
@@ -7546,8 +7541,8 @@ up and headed for the phone again.
 
 "Have you had enough to eat?" said Emily.
 
-"Oh, I'm stuffed!" replied James.
-
+"Oh, I'm stuffed!" replied James. \\
+\\
 The guest spent the night in the adjacent carriage house. The next
 morning James and Emily enjoyed a late but solid brunch of eggs, ham,
 toast, and coffee, although Mrs Colby's staring unnerved Emily slightly.
@@ -7578,8 +7573,8 @@ you like."
 "However long I stay, I insist on paying my way," replied James in a
 soft, gently insistent voice. "Let me do some work for you."
 
-"Nonsense," shot back Emily, but then remembered the German word/
-Sachleistung,/ their word for payment-in-kind.
+"Nonsense," shot back Emily, but then remembered the German word
+/Sachleistung/, their word for payment-in-kind.
 
 Silence, finally broken by James: "I've never just me been so far
 north---except on holidays---and I'd like to get a good look at
@@ -7753,7 +7748,7 @@ Lake District! Now I know what all the fuss is about."
 Silence---perhaps a bit awkward, but now a soft, even shy holding back,
 she thought. Another pang of shame came and went for getting defensive
 over Germans. Though she quickly returned to a warm gladness. It was
-simply/ nice /to speak in a civil, intelligent, gracious way with
+simply /nice/ to speak in a civil, intelligent, gracious way with
 another human being---one English soul to another.
 
 "Well, James, what would you like to talk about now?" said Emily, but
@@ -7864,7 +7859,7 @@ Silence.
 "Not a single one wants any real discussion!" he continued. "They all
 see my wandering as the thing needs curing---certainly not /explored/."
 
-"The wandering, the clothes/. /They're not interested in why?"
+"The wandering, the clothes. They're not interested in why?"
 
 "No! Actually, come to think of it, one did ask. But when I tried to
 give her my reasons, she got all whinging and dismissive. As I'm saying,
@@ -8101,17 +8096,17 @@ mysterious. It's a sort of mediation of the unknown. Am I making sense?"
 therapists all seem to be about defeating the unruly child. They want
 the adult to leave the bad boy behind. But really truly, I now believe
 my life is linked to my ability to absorb poetry. My best shot is
-grasping Browning and the rest of them. Poetry raises my /emotional /IQ
-when the words sink in and stir me."
+grasping Browning and the rest of them. Poetry raises my /emotional/
+IQ when the words sink in and stir me."
 
 "Very well said, sir." At that she grabbed her backpack and pulled out
 her leather-bound journal. She rapidly paged through the front until she
 found the Keats' quote from the film /Bright Star/. She read aloud, /A
 poem needs understanding through the senses. The point of diving in a
-lake is not immediately to swim to the shore, but to /be/ in the lake,
-to luxuriate in the sensation of water. You do not /work/ the lake out.
+lake is not immediately to swim to the shore, but to/ be /in the lake,
+to luxuriate in the sensation of water. You do not/ work /the lake out.
 It is an experience beyond thought. Poetry soothes and emboldens the
-soul to accept mystery./
+soul to accept mystery/.
 
 James smiled knowingly. He had been looking down, but then he looked
 over at her and their eyes met and locked. And yet she remained her
@@ -8129,7 +8124,7 @@ She gave a knowing laugh. "For once I don't care. It's simply
 beautiful." She hummed and shifted in her chair. "It comes after Fanny
 Brawne is asking how to analyse, work out a poem."
 
-"No, no, you can't /work out /a poem as if it were a maths problem."
+"No, no, you can't /work out/ a poem as if it were a maths problem."
 
 "It's the most magical thing when I read a poem and it moves me," said
 Emily.
@@ -8185,7 +8180,7 @@ He laughed in an animated, although chill way, again so completely
 unlike the previous day's boyish persona. "This world, dear Emily! These
 times!" He glared forward into space, his jaw muscle tense. "It's such a
 awful mess out there!" he half-whispered through gritted teeth. "/It's
-not human./"
+not human/."
 
 "Yes," she muttered---and then she left... .
 
@@ -8208,7 +8203,7 @@ She was back. The swoon, the narcoleptic trance had passed, and, behold!
 her new guide was right before her. Then oddly enough she caught his
 body odour, surprisingly pleasant in its naturalness, mixed with perhaps
 wood smoke. Had he huddled over a fire on his trek up to Haworth?
-Somehow his presence /and /his scent worked symbiotically. /Kiss me,
+Somehow his presence /and/ his scent worked symbiotically. /Kiss me,
 please/---was a fleeting thought---which again took its place before
 their spiritual altar. James seemed to notice this process and smiled.
 "Do you keep it up every day?" he asked, his eyes turning to the journal
@@ -8234,27 +8229,20 @@ laughed. He laughed.
 
 "All right then, you shall hear my latest poem."
 
+#+begin_verse
 Bluest stained glass---
-
 Silver shield before kneeling knight.
-
 Bluest sky deep and empty---
-
 Above grey stone chapel,
-
 Above moorland lonely.
 
 Sun long set,
-
 Candles guttering,
-
 Chill evening descended,
-
 Deep blue to empty black.
-
 Knight floating in darkened glass,
-
 Starry expanse over desolate moorland.
+#+end_verse
 
 She looked up to meet his eyes.
 
@@ -8333,8 +8321,8 @@ lap. "I have my special moments. And they're only about here." She
 looked up, as if seeing the highlands about them.
 
 "I'm a country boy," said James raising his eyebrows. "I could never
-manage a city. I just just start bouncing off all the concrete with all
-the crazy people. I never calm down."
+manage a city. I just---just start bouncing off all the concrete with
+all the crazy people. I never calm down."
 
 Soft laughter.
 
@@ -8353,7 +8341,7 @@ Emily spoke: "Trees have roots. We should /follow/ their example."
 Soft laughter as they again met and locked eyes.
 
 "And if I stayed anywhere else for long, I suppose I'd be a traitor to
-/my /land, my Herefordshire," said James in his soft, melodious
+/my/ land, my Herefordshire," said James in his soft, melodious
 baritone.
 
 "I suppose so."
@@ -8437,48 +8425,38 @@ could you separate yourself from Wolkeld?"
 "Probably not."
 
 "Of course not," he said with a grunt. He sucked his teeth and
-continued: "When I'm with my family my /real /self has nowhere to go,
-nothing to connect to. So where is my/ real/ self? What even is my/
-real/ self? I've gravitated to the locals and manual labour---but that's
-not a permanent solution, either. It's modern times and all, but we're
-deeper in class differences than ever."
+continued: "When I'm with my family my /real/ self has nowhere to go,
+nothing to connect to. So where is my /real/ self? What even is my
+/real/ self? I've gravitated to the locals and manual labour---but
+that's not a permanent solution, either. It's modern times and all,
+but we're deeper in class differences than ever."
 
 Silence as the clouds switched from dark to light, and back to dark
 again. Their eyes met and held. But then she broke off his gaze and
-reached in her bag and pulled out her E.B., thumbing quickly to/ A
-Sudden Chasm of Ghastly Light./ She picked up towards the end:
+reached in her bag and pulled out her E.B., thumbing quickly to /A
+Sudden Chasm of Ghastly Light/. She picked up towards the end:
 
+#+begin_verse
 An undefined, an awful dream,
-
 A dream of what had been before;
-
 A memory whose blighting beam
-
 Was flitting o'er me ever more.
 
 A frightful feeling frenzy born---
-
 I hurried down the dark oak stair;
-
 I reached the door whose hinges torn
-
 Flung streaks of moonshine here and there.
 
 I pondered not, I drew the bar,
-
 An icy glory caught mine eye,
-
 From that wide heaven where every star
-
 Stared like a dying memory.
 
 And there the great Cathedral rose,
-
 Discrowned but most majestic so,
-
 It looked down in serene repose
-
 On its own realm of buried woe.
+#+end_verse
 
 "Emily Brontë," she said with a sigh.
 
@@ -8579,7 +8557,7 @@ about?!" They turned back north and walked swiftly up the street, James
 with his arm around Emily's shoulder, her arm around his waist. Emily
 proceeded to describe her one and only encounter with Haggitt and Alice
 as the frozen world around them began to stir again. "Very well, but he
-seemed intent on violence. And what was he on about---/remember what I
+seemed intent on violence. And what was he on about--- /remember what I
 told you/? I don't like the sound of that."
 
 Emily took a few deep breaths and willed herself back down to earth. "I
@@ -8650,7 +8628,7 @@ of mine said. Emily, dear, we need to clear that up as well."
 "We own places, like the Crowder cottage. But the Sulleys and the
 Wilsons---as well as the Prices and the Baileys and the rest of the
 farming folk round here---have long-term contracts and agreements, what
-amounts to ownership of lands and properties. Which means /they /do the
+amounts to ownership of lands and properties. Which means /they/ do the
 farming, and we mind our own business."
 
 "Didn't you and Grandfather---"
@@ -8738,7 +8716,7 @@ Emily and James looked at one another again, this time holding one
 another's gaze. Without realising it, they had also reached out and
 taken the other's hand. James inhaled and fixed the dowager countess in
 his gaze. "Lady Whitmore," said James, "this poor chap thinks I'm the
-cause of his eviction. That's /not /how I want things."
+cause of his eviction. That's /not/ how I want things."
 
 "Where will they stay?" asked Emily quickly, wanting to break up their
 staring contest.
@@ -8765,7 +8743,8 @@ Paris.
 
 "One of our finest efforts was building a cruck-frame barn from scratch
 based on a very old Worcestershire barn. And then I moved in. That's
-where I hang my hat." He smiled broadly, head held high.
+where I hang my hat." He smiled broadly, head held high. \\
+\\
 
 "We need to talk," said Gran who was waiting for her at the door.
 
@@ -8773,7 +8752,7 @@ Emily had just returned from taking James to the Penrith station. They
 had decided it would be best for him to return home. She still glowed
 from their two parting kisses. The first kiss came when they got to the
 platform, the second when they broke their tight embrace after the final
-whistle had blown. /Contra mundum/? /Contra mundum./
+whistle had blown. /Contra mundum/? /Contra mundum/.
 
 She took a deep breath and nodded. "Yes, we do," she replied forcefully,
 upping the severity ante.
@@ -8887,14 +8866,14 @@ gaze.
 "What? Who?"
 
 "Her name is also Catherine, Catherine Deruthyn. Wealthy family, the
-father's a /for lifer/. She's been through two husbands since your
+father's a /for-lifer/. She's been through two husbands since your
 father first dated her older sister back in college." Gran rolled her
 eyes.
 
-"Oh."
-
-Dearest Annette,
-
+"Oh." \\
+\\
+/Dearest Annette,/ \\
+\\
 /I am a beachcomber on a night-tide shore. Above me is a close, starry
 dome---now joined by a new twinkling gem, lowest, nearest: my love
 ascended. Around me formless void, though no fear, no woe, only needs
@@ -8905,25 +8884,22 @@ brighter for the new star's ray. Habit this stooped labour. Dare I
 stand, turn, and face my star? I needn't. Let the starlight on my back
 suffice for now. Here in this dark place Death's eternal long gaze, I
 clasp my hands in voiceless, wordless and sincerest prayer, so quick to
-settle me, and for a time I am indeed settled./
-
+settle me, and for a time I am indeed settled./ \\
+\\
 /Right. If love has inspired so much poetry, why am I sitting here
 lyric-less? I can only think of night and all the better lines from long
 ago. I suppose love has made me sanguine about Death. Novalis inspired
-by the death of Sophie von Kühn to praise the Night:/
-
+by the death of Sophie von Kühn to praise the Night:/ \\
+\\
+#+begin_verse
 Wears not everything
-
 That inspires us
-
 The colour of the Night?
-
 She sustains thee mother-like,
-
 And to her thou owest
-
 All thy glory.
-
+#+end_verse
+\\
 /Then the new cut rose: Initially beautiful, thereafter dried and
 desiccated, lost forever its initial beauty and fragrance. Once
 affording a glimpse of perfection, only reminiscent thereafter. Beauty
@@ -8935,26 +8911,26 @@ love's promise, those slightest quickenings of things necessarily rare
 and formerly peripheral. Yes, in this moment I may have some of love's
 bliss, of roses' beauty, but I know I will cherish with a larger, more
 mature heart memories thereof, echoes sent down life's long, clouded
-memory hall as the true and lasting blessings./
-
-There again! So fatalistic to anticipate love's bloom faded---and muse
+memory hall as the true and lasting blessings./ \\
+\\
+/There again! So fatalistic to anticipate love's bloom faded---and muse
 like an old laudanum-tipping spinster its memory! I'm just frightened of
 love is all. Though some real resignation: James and his love may take
 me where they will; but within me is this brief wholeness fresh in the
 moment's focus, inevitably to fade out to time's surrounding
 horizon---come what may with the man. Truly with all things sublime, the
 bright crystallisation now before me will necessarily dissolve back into
-grey solution later.
-
-I gave you a quick rundown of what happened in my last letter. I hope it
+grey solution later./ \\
+\\
+/I gave you a quick rundown of what happened in my last letter. I hope it
 made sense. I was rushing to prepare for the drive. And drive I
 did---thanks, as Gran says, to the Beech Cuts, i.e., when they gutted
 the British rail system, i.i.e.e., it would have taken forever per
 train, ergo, I got the car. Yes, we drove in Kansas, but that was a walk
 in the park compared to these roads! I hate what the horseless carriage
 has done to us, the next worst consumer technology after the interneted
-devices.
-
+devices./ \\
+\\
 /It's now four days later and I've returned from Westnor, having met his
 family. I told you their relations were strained and how they've
 commercialised their properties---to James' great sadness and mental
@@ -8966,14 +8942,15 @@ all! Though in such bizarre circumstances it was much easier for James
 to explain how things would be from then on. Believe me when I say I had
 been nervous! But in the end his parents were like lap-cats---all
 bullies being cowards underneath. To be sure, something about seeing us
-together changed them. I think they were happy for us!/
-
-I wouldn't be troubling you so close to your orals, but as you said
+together changed them. I think they were happy for us!/ \\
+\\
+/I wouldn't be troubling you so close to your orals, but as you said
 before, the written portion went so well. Take your time responding.
 Can't wait to visit you. Would James be welcome? He wants to see
-Germany, meet Germans to, and I quote, "reduce prejudices."
-
-Greatest love and affection, your Emily
+Germany, meet Germans to, and I quote, "reduce prejudices."/ \\
+\\
+/Greatest love and affection, your Emily/ \\
+\\
 
 "Sorry, Lady Em---about the paddy the other day," announced Haggitt,
 looking at her askance from the table.
@@ -8984,7 +8961,7 @@ Parnassus.
 
 Despite Gran discouraging words, she still felt a responsibility, having
 made a promise to do something on his behalf. Whatever her role would be
-in her new old home, she would be a /responsible /person, not someone
+in her new old home, she would be a /responsible/ person, not someone
 who bent with the breezes. At least that was the plan. This was noblesse
 oblige territory for her. Haggitt had wanted involvement in some version
 of manorial monarchism---as did she---and she would not simply fade into
@@ -9106,21 +9083,25 @@ how much they've suffered because of us."
 Silence. Haggitt was put on the spot to actually listen to something
 someone else had to say. Begrudgingly, impatiently, he replied, "Yeah,
 sure, go on then." Emily had to laugh at his latest rude bomb---which he
-seemed to find amusing, also laughing. "No, go on, /milady, /I'm
+seemed to find amusing, also laughing. "No, go on, /milady/, I'm
 listening."
 
 Amazingly, he was smiling, though again intent on watching the street.
 Pretending not to notice, she proceeded to read a quote from /Jonathan
 Strange & Mr Norrell/ she had copied into her journal:
 
-/There is nothing else in magic but the wild thought of the bird as it
+#+begin_quote
+@@html:<p class="myindent">@@
+There is nothing else in magic but the wild thought of the bird as it
 casts itself into the void. There is no creature upon the earth with
 such potential for magic. Even the least of them may fly straight out of
 this world and come by chance to the Other Lands. Where does the wind
 come from that blows upon your face, that fans the pages of your book?
 Where the harum-scarum magic of small wild creatures meets the magic of
 Man, where the language of the wind and the rain and the trees can be
-understood, there we will find the Raven King./
+understood, there we will find the Raven King.
+@@html:</p>@@
+#+end_quote
 
 "Raven King?" he said with clear and obvious sarcasm. She watched
 him---until he looked back at her. "Yeah, so what do you want me to
@@ -9253,7 +9234,7 @@ already unruly head of hair. She studied the patterns, the textures, the
 shades and could only marvel in silence at the great depths of her
 personal path-tunnel. Everything man-made, everything indoors seemed in
 comparison a mean, obvious counterfeit void of /Seligkeit/. Yes, she
-thought, /Seligkeit:/ the catch-all German word for bliss, happiness,
+thought, /Seligkeit/: the catch-all German word for bliss, happiness,
 salvation, beatitude, rapture all at once.
 
 Coming to where the shaggy old orchard rose up on either side, she
@@ -9387,7 +9368,7 @@ plainly, they want him to chuff off as well."
 Thomas and Jodie, and Todd and Jenny? What do Timmy's parents say?"
 
 "Clive and Anna? Ha! He's burnt that bridge down and pissed on the
-ashes."
+ashes. Excusing my language, your ladyship."
 
 "Right..." She sighed loudly.
 
@@ -9580,7 +9561,7 @@ you mean?"
 days."
 
 "And the environmentalists!" exclaimed Jodie. "The latest thing they're
-on about is /carbon storage. /Now, what on earth does that mean, a
+on about is /carbon storage/. Now, what on earth does that mean, a
 person might ask?"
 
 "I'm not familiar," said Emily.
@@ -9592,15 +9573,15 @@ Jodie, eyes-wide-open ironical. "That's what it means."
 always complained about the water quality, the run-off from our fields."
 
 "And it can't be any of the native trees, mind you," said Jodie. "No,
-it's more of those Christmas tree farms as they grow faster and /capture
-/more stuff out the air."
+it's more of those Christmas tree farms as they grow faster and
+/capture/ more stuff out the air."
 
 "Then there's farmers wanting beef cattle," added Thomas, waving his
 hand.
 
-"Oh but then the tree-huggers are on /our /side, because they don't want
-the continental cattle on account of /their/ carbon footprint," said
-Jodie, waving her hand. "We go round and round."
+"Oh but then the tree-huggers are on /our/ side, because they don't
+want the continental cattle on account of /their/ carbon footprint,"
+said Jodie, waving her hand. "We go round and round."
 
 Laughter.
 
@@ -9665,7 +9646,7 @@ Police finally came in. Almost got violent."
 
 Silence. Thomas continued, however, in a more serious tone: "The farm
 incomes round here are pitiful. We can laugh about Timmy's notions and
-all, but really now, if you're not for living /very /poor, you cannot
+all, but really now, if you're not for living /very/ poor, you cannot
 make a go of it here just as a farmer.
 
 "Think what a new family would have to pay for just a small little
@@ -9875,7 +9856,7 @@ something truly diabolical.
 In an instant she was across the stream and heading off to the right
 into the forest. If they did come back---there being at least three of
 them---they might guess her plan and set off looking for her. No indeed,
-the forest was /not /a good place to be caught by a pack of men. She
+the forest was /not/ a good place to be caught by a pack of men. She
 halted and listened. Nonetheless, the lane was probably no safer, being
 so deserted. Out on the road they might grab her and drag her into their
 vehicle. Total darkness wouldn't be for hours, but the light was already
@@ -10001,12 +9982,12 @@ Again, Emily hesitated, but finally said, "They were a bit rude."
 "No, dear, you did what you thought best after being sexually assaulted
 by men on a lonely road."
 
-"No, they didn't get out of the car---a"
+"No, they didn't get out of the car---"
 
-"Yes, Emily, that's sexual assault to verbally attack you with crude,
-sexual language. When men behave in a manner that can be construed as
-threatening, it's criminal---especially the situation you've just
-described. Did you get their registration number?"
+"Yes, Emily, dear, that's sexual assault to verbally attack you with
+crude, sexual language. When men behave in a manner that can be
+construed as threatening, it's criminal---especially the situation
+you've just described. Did you get the registration number?"
 
 "I---I believe it was a London number; the first letter was an L."
 
@@ -10099,7 +10080,7 @@ of Wolkeld's daughter. This is your home. Were this another era, this
 would quite literally be /your/ valley!"
 
 "And let me just say," spoke up Ellen from the rear, "in another age,
-these pigs would be in your dungeon ... ah, do you have a dungeon,
+these pigs would be in your dungeon ... ah, do you still have a dungeon,
 ma'am?"
 
 Laughter, but just then Emily remembered that her father and his new
@@ -10273,7 +10254,7 @@ She shot the earl a "you weren't kidding" look, then refocused on Emily.
 
 "Very well, I'll call you Jocelyn---if you have no objections."
 
-/Jocelyn /trilled again with her attack-laugh but with less air. She
+/Jocelyn/ trilled again with her attack-laugh but with less air. She
 glared at Emily, then over at Stanley Whitmore who stood tight by her
 side wearing what probably was an "I told you so" ironic smirk. Gran
 moved up beside Emily---and there they stood, like principals and
@@ -10536,7 +10517,7 @@ It's in a terrible state."
 
 "She sure as shit did," he replied matter-of-factly.
 
-"/I /didn't know till last night."
+"/I/ didn't know till last night."
 
 Laughter, clearly sardonic on Stephan's part.
 
@@ -10641,7 +10622,7 @@ that phrase?" Marit turned to Stephan.
 
 "There's something about a piece of wood on your shoulder?"
 
-"A /chip /on your shoulder. Don't carry a /chip/ on your shoulder," he
+"A /chip/ on your shoulder. Don't carry a /chip/ on your shoulder," he
 replied once again in an unmistakeably patronising tone.
 
 "Yeah, don't let stuff from the past sit on your shoulder."
@@ -10695,10 +10676,10 @@ Stephan laughed. "She was dating this hipster, and---"
 slapping at him.
 
 "Why? Okay, so this is New York, Greenwich Village. Check. And lover
-boy's wearing his /Future Farmers of America /jacket. Check. And smoking
-Lucky Strikes. Check. And drinking Grain Belt Beer. Check. And talking
-crap at his /really dangerous/ biker bar that wasn't at all because
-nobody was there except loser hipsters like him!"
+boy's wearing his /Future Farmers of America/ jacket. Check. And
+smoking Lucky Strikes. Check. And drinking Grain Belt Beer. Check. And
+talking crap at his /really dangerous/ biker bar that wasn't at all
+because nobody was there except loser hipsters like him!"
 
 "/Night Train/," added Marit. "Cool place."
 
@@ -10708,11 +10689,11 @@ nobody was there except loser hipsters like him!"
 then to Emily: "I made him shave it off before we came over. Got tired
 of kissing a man with an animal living on his face."
 
-"/Smitty./ Oh, and who was the guy that ate the raw meat?"
+"/Smitty/. Oh, and who was the guy that ate the raw meat?"
 
 "Trace," said Marit, laughing.
 
-"Oh, yeah. /Trace. /Direct from Montana. Smitty's best friend. Wore a
+"Oh, yeah. /Trace/. Direct from Montana. Smitty's best friend. Wore a
 beat-up cowboy hat and a shearling coat, and always seemed to have a
 ziplock bag of raw buffalo and elk liver. Yep! Raw elk liver and beer!
 Yum!"
@@ -10781,8 +10762,8 @@ Soviet era in Estonia. It's just my opinion, but there's nothing to be
 gained by running around waving old bills to be paid. The person who
 owes you is usually disappeared into the past. Yeah, so when my first
 agency was being stupid to me, I could have told Interpol. The same
-thing: Authorities came and wanted me to make a statement, to make, to/
-press /charges."
+thing: Authorities came and wanted me to make a statement, to make, to
+/press/ charges."
 
 "You didn't?"
 
@@ -10809,7 +10790,7 @@ tone.
 "Yes, at a /parole/ hearing. So the prison officials asked the man if he
 was sorry for what he had done. He had done something bad. But he said
 he had not thought about it since he was so busy dealing with what
-society, what the prison was doing to /him /in the meantime."
+society, what the prison was doing to /him/ in the meantime."
 
 Emily smiled, looking down at the road, then over to Stephan, who gave
 Marit another condemning smirk.
@@ -10830,7 +10811,7 @@ They began walking again. A chilly wind was blowing, but they had just
 turned off the road to a smaller lane leading south into the forest. The
 tall conifers filtered the wind down to whispering sounds.
 
-"So maybe you can't /make /someone feel sorry for what they've done,"
+"So maybe you can't /make/ someone feel sorry for what they've done,"
 Stephan continued when no one had responded. "Guilt tripping doesn't
 work." He sighed demonstratively.
 
@@ -10889,7 +10870,7 @@ against a certain bone on her face or neck or somewhere. I saw that in a
 documentary."
 
 "And with that she decided she didn't like jazz. Wow. Helen /fucking/
-Keller didn't dig jazz. I'm heartbroken."
+Keller didn't dig jazz. I'm heartbroken!"
 
 Stephan had said this in his most sarcastic tone yet. Both Emily and
 Marit eyed Stephan warily.
@@ -10917,10 +10898,10 @@ The tussle finally ended and they resumed their march.
 
 "Why? How do you mean why?"
 
-"/Yes,/ why? Please explain. It's fucking boring to me!" His tone was
-unmistakeably harsh-impatient, once again pushing her to the edge of her
-patience. Marit feigned another attack, but he showed combat readiness
-and she instead glared and scowled.
+"/Yes/, why? Please explain. It's fucking boring to me!" His tone was
+unmistakeably harsh-impatient, once again pushing her to the edge of
+her patience. Marit feigned another attack, but he showed combat
+readiness and she instead glared and scowled.
 
 "What am I supposed to say to that?" replied Emily with anger in her
 tone.
@@ -10943,8 +10924,9 @@ in recognisable ways. It's not pushing me, not rushing at me. /I/ have
 to go to /it/. I'm not being overwhelmed, run over."
 
 Stephan guffawed loudly and waved his hand dismissively. "Bullshit.
-What's wrong with being overwhelmed? I love being blown away, /run over
-/by music. Who the hell doesn't want to be blown away by great music?"
+What's wrong with being overwhelmed? I love being blown away, /run
+over/ by music. Who the hell doesn't want to be blown away by great
+music?"
 
 "Stephan!" exclaimed Marit, a balled fist held under his nose. "Really,
 leave her alone!"
@@ -10962,9 +10944,9 @@ Marit rushed her beau and slugged him on the arm. "Ouch!" he cried,
 jumping back, pouting.
 
 "She was an abbess in twelfth-century Germany," continued Emily in an
-even, precise tone, "and she was a composer. She said music /must/
-/float like a feather on the breath of God/, and, so yes, that's what I
-think music should do."
+even, precise tone, "and she was a composer. She said music must
+/float like a feather on the breath of God/, and, so yes, that's what
+I think music should do."
 
 "What a crock! I've paid good money to have my soul absolutely shredded
 by some of jazz's greats. You should come out of your convent and try
@@ -11293,9 +11275,9 @@ voice.
 
 "Oh, to start your internship?"
 
-"Not yet, but I need to get the /hell/ away from Stephan! I am /so
-/tired of his codependence bullshit with his mother. He's what you call
-a /jähzorniges Muttersöhnchen /in German---which I can't really
+"Not yet, but I need to get the /hell/ away from Stephan! I am /so/
+tired of his codependence bullshit with his mother. He's what you call
+a /jähzorniges Muttersöhnchen/ in German---which I can't really
 translate into English. Because I can't think straight! Aaaagh!"
 
 "You speak German?"
@@ -11442,7 +11424,7 @@ Emily regretted not having a mobile device. "Say, do you have a phone?"
 and handed it over to her passenger.
 
 Emily dialled the lodge's number and waited nervously. On the fifth tone
-Gran picked up: "Wolkeld Lodge,'" sounded her reassuring voice.
+Gran picked up: "Wolkeld Lodge," sounded her reassuring voice.
 
 "Yes, Gran, it's me. Is the coast clear?"
 
@@ -11525,7 +11507,7 @@ his white horse, and then /he/ gets swept away. At the end of the story
 the townspeople believe his ghost is still on the dike. Anyway, it's a
 creepy story when you're just a little kid."
 
-"I grew up with /Harry Potter /and /Lord of the Rings/ and /The
+"I grew up with /Harry Potter/ and /Lord of the Rings/ and /The
 Hobbit/."
 
 "Me too!"
@@ -11562,7 +11544,7 @@ good. I know it will."
 "I wish you success. I've never seen the American West Coast."
 
 "My father's business took him to the States practically every month.
-Yeah, we went there all the time. Los Angeles is /not /like its
+Yeah, we went there all the time. Los Angeles is /not/ like its
 reputation. But it's a very strange place for a European, for sure. It's
 like landing on Mars."
 
@@ -11675,7 +11657,7 @@ Emily spoke: "Perhaps Jobs knew deep down he wasn't being very nice, and
 some part of him regretted it."
 
 "Have you ever seen the movie /Untergang/ about Hitler's last days in
-Berlin? I think it's called /Downfall /in English."
+Berlin? I think it's called /Downfall/ in English."
 
 "No," replied a surprised Emily.
 
@@ -11695,7 +11677,7 @@ Marit continued: "You know, I learned Hitler was an artist ... and he
 was a vegetarian ... and he loved animals and children. And one of the
 first things he did when he got power was to ban animal experimentation.
 I know all this because Stephan and his dad are Hitler-obsessed. So the
-question is, why did Hitler have this other /Führer /side?"
+question is, why did Hitler have this other /Führer/ side?"
 
 "We'll never know. Why does any man do what he does?" Emily sharply
 inhaled and sighed.
@@ -11829,9 +11811,9 @@ engage in some version of what she saw in those hideous animations. But
 she would be in love with that man. And some commitment such as marriage
 would have been set up as a framework for that love. Then it wouldn't
 seem like a crude, ugly animal act, rather, a wonderful, joyous
-sacrament from God... . "Women are not sex objects for men to sexually
+sacrament from God... "Women are not sex objects for men to sexually
 relieve themselves on whenever they please," sounded a voice in her
-head... . Mary had said that... .
+head. Mary had said that...
 
 "You okay?" said Marit.
 
@@ -11845,9 +11827,10 @@ allowed.
 Extramarital sex. It had become standard procedure in the years
 separating Gran's and her youth. Personally, she could not imagine the
 depths of self-loathing such a transgression would bring on.
-Self-loathing indeed. Such a cruel cycle in the modern world: the woman
-apprehensive, invariably not wanting it so soon or so casually, but the
-man pressing in order to reach some "breakthrough," some plateau as a
+Self-loathing indeed. Such a cruel cycle in the modern world: the
+woman apprehensive, invariably not wanting it so soon or so casually,
+often thinking the minute she relents he'll just move on, but the man
+pressing in order to reach some "breakthrough," some plateau as a
 couple.
 
 She could not imagine Stephan going along with "not now" for very long.
@@ -11859,7 +11842,7 @@ And then came a terrible thought: Was James just a good wooer? Was he
 leading her on? No, no, no! Leave off the paranoia, she admonished
 herself, and leave off the judging as well. You've never had a real
 relationship with a man and you have no idea what really happens.
-Still... .
+Still...
 
 They hiked on in silence. And then like a flipped switch, her attention
 was completely captured by the expansive sky and water. This was
@@ -11895,7 +11878,7 @@ beds of flowers and tea rose bushes.
 
 She had once discussed insignificance with Annette in a letter exchange.
 Annette had included a poem from the Romantic poet Karoline von
-Günderrode, /Wandel und Treue. /The German was straightforward enough
+Günderrode, /Wandel und Treue/. The German was straightforward enough
 for her to follow: The feminine character Violet, demanding constancy,
 loyalty, and fidelity, while the masculine Narcissus sought beauty,
 perfection, and pleasure, always quick to move on to the next
@@ -11907,7 +11890,7 @@ versus the instinctual search for beauty. And yet at times, she noted,
 we find ourselves strangely detached and outside of back-and-forth
 tensions of Violet and Narcissus, freed of the turmoil of our daily
 lives. /It is then we are truly alone in the universe and miniscule, but
-certainly not insignificant, for we are face-to-face with God./
+certainly not insignificant, for we are face-to-face with God/.
 
 The sky was an endless expanse of variegated greys, though towards the
 horizon she could just perceive beams of pale sunlight playing on
@@ -11941,27 +11924,19 @@ and spacious was this place they had briefly shared.
 That night she was still in that strange zone, and before turning in she
 wrote a poem:
 
+#+begin_verse
 Be the village, fields, mountains
-
 A body's home,
-
 Then to leave home, fields, wilds:
-
 The soul to quit body and place,
-
 Whither, it knows not.
-
 Let home, surroundings, places go on,
-
 I hold Death's hand
-
 And we face the darkness;
-
 For dark is the universe---
-
 Universe never any place,
-
 No place ever again home.
+#+end_verse
 
 It was early when she awoke. Rather than go downstairs she wrote a few
 overdue letters. But by the time she did go down it was already ten
@@ -12018,8 +11993,9 @@ table. She broke eye contact and stared off into space.
 
 "No!" Emily turned and ran out of the kitchen. She raced up to her room
 and threw herself on her bed. She cried softly, as though no one should
-hear. An hour later she stopped crying and simply stared ahead unseeing.
-
+hear. An hour later she stopped crying and simply stared ahead
+unseeing. \\
+\\
 She sat up with a start. It was dark. She had slept the day away.
 Surprised, shocked even, she rubbed her face vigorously with her hands,
 and, without thinking, reached for her steel water bottle on the night
@@ -12042,21 +12018,21 @@ of airlifting the equipment in, there was no other way. But---but what
 was Gran's game? Emily had talked enough about how dear the lane was to
 her, about its magic, its hold on her. In a daze she drifted over to her
 writing table and, as a solemn ritual, lit the three candles of her
-lantern. She sat down and began a letter to Annette.
-
-Dearest Annette,
-
-Got your letter the other day, and I'm very happy for you that your
+lantern. She sat down and began a letter to Annette. \\
+\\
+/Dearest Annette,/ \\
+\\
+/Got your letter the other day, and I'm very happy for you that your
 exams have gone so well and that you're exempt from orals. Happy to hear
 about your upcoming dressage adventure in Aachen too. Some day you'll
-compete yourself, no?
-
-Unfortunately, I have some bad news. Please grab onto something solid:
+compete yourself, no?/ \\
+\\
+/Unfortunately, I have some bad news. Please grab onto something solid:
 My father has remarried---on the sly, without telling me. A proper
 church wedding is to come I'm told, although I shan't be there. As much
 as I love her, Gran is like a mother cat who never taught her kitten to
 deal properly with rodents. And now a big she-rat has caught him. The
-woman is in one word /vile/. Her background is money and temporary
+woman is in one word/ vile. /Her background is money and temporary
 peerage. Apparently the younger sister of an old girlfriend of Father's,
 of all things. On our first encounter the other night I thought she was
 simple-minded or just drunk. But when they spoke of renovating Wolkeld
@@ -12064,15 +12040,16 @@ Hall, she kept throwing sly looks my way, as if taunting me. This,
 however, isn't the bad part. The horrible part is they will need to
 destroy all the border vegetation on Jane Lane and pave it anew, all
 that to get the heavy equipment up. I've been crying all day---and even
-now it's all I can do not to soak this page.
-
-Yes, I shall come visit you, so gladly, but only for a weekend due to
+now it's all I can do not to soak this page./ \\
+\\
+/Yes, I shall come visit you, so gladly, but only for a weekend due to
 all this upheaval. You'd prefer after Aachen? No, I probably won't bring
 James. I'm thinking that might be a bit awkward for us just now. And
 something interesting just happened to me that I'll tell you about when
-I visit.
-
-Greatest love and affection, your Emily
+I visit./ \\
+\\
+/Greatest love and affection, your Emily/ \\
+\\
 
 "I can't believe the Park would allow this," moaned Emily. She had come
 down and rummaged a few leftovers from the refrigerator. Lady Susanna
@@ -12096,11 +12073,11 @@ the upper is---"
 
 "No matter!" cut in Emily. "This is exactly what Beatrix Potter wanted
 to preserve! And all the people coming here and thinking the Park
-preserves things /exactly /like our lane!"
+preserves things /exactly/ like our lane!"
 
 "I know, I know you have your memories."
 
-"And it's all just for him and---and that /woman /to go up there and
+"And it's all just for him and---and that /woman/ to go up there and
 play /Downton Abbey/." She motioned with her free hand to the north.
 
 "Now, dear, that's /not/ how it is."
@@ -12149,7 +12126,7 @@ as well."
 your grandfather died, I took on as much ownership as possible---so your
 father wouldn't have the entire estate counted on his inheritance bill
 all at once. But we couldn't hide the Hall forever. Now there are two
-huge bills: the tax /and /the renovations on the Hall."
+huge bills: the tax /and/ the renovations on the Hall."
 
 "The Hall /has/ to be renovated in this way? Really? We're being forced
 to do this?"
@@ -12180,17 +12157,18 @@ money."
 "We dare not interfere lest it all fall apart again," completed Emily
 flatly.
 
-Emily returned to her room and began writing in her journal:
-
-/ There is a small, twisted tree trying to grow on a spot where no such
+Emily returned to her room and began writing in her journal: \\
+\\
+/There is a small, twisted tree trying to grow on a spot where no such
 trees may really thrive. Its odd little buds and leaves are withered by
-a constant cold gale./
-
-/ Ultimately, we are only the keepers of memories. Real things cannot be
-maintained, cannot be secured against the ravages of time and change./
-
-/ I feel as though I am riding on the edge, the cusp of something huge
-and monstrous. Not a very nice ride./
+a constant cold gale./ \\
+\\
+/Ultimately, we are only the keepers of memories. Real things cannot be
+maintained, cannot be secured against the ravages of time and change./ \\
+\\
+/I feel as though I am riding on the edge, the cusp of something huge
+and monstrous. Not a very nice ride./ \\
+\\
 
 "Hello?" said the low, cool female voice. The overseas connection
 sounded jarringly clear, as if the call was local.
@@ -12220,7 +12198,7 @@ your advice."
 for this fall?"
 
 "Oh, that's wonderful! By all means come and we'll get you in somewhere.
-/Mi casa es tu casa./"
+/Mi casa es tu casa./"[fn:32]
 
 "Are you sure?"
 
@@ -12240,8 +12218,8 @@ top of my head, Tufts and Penn and---oh, oh, let me ask around."
 
 "So when would you like to come? I've got a fairly full schedule till
 later this summer, but almost everything's right here in Boston, just a
-few short trips around to the galleries... ."
-
+few short trips around to the galleries..." \\
+\\
 There was nothing for her to do but wait. June came in and remained cool
 and clammy, clouds and fog more than sun, growth duly arrested. A
 strange mood, hard and bitter, had settled over both land and human. She
@@ -12274,7 +12252,7 @@ alder and birch, sought out a place on the moss-covered ground, and laid
 down. She had no mind of getting dirty or crawled upon by insects.
 
 A bitter smile came to her face. Sadness is a curious self-absorbed
-/aloofness,/ she thought as she studied the tiny, spiky moss clumps at
+/aloofness/, she thought as she studied the tiny, spiky moss clumps at
 eye level. Distracting was the rich and spicy scents of the timeless
 humus. She ran her hand over the moss, eventually lovingly.
 
@@ -12321,16 +12299,16 @@ bring to a close her desperate insistence to be heard, seen, accepted,
 promoted. Such a mercy, she thought, so strangely reassuring.
 
 Once further down the lane she felt the world gently shift back into
-place. "/Merci, ma chère mère./"
-
+place. "/Merci, ma chère mère/."[fn:33] \\
+\\
 It was late morning when Emily arrived at the Wernigerode train station.
 A beaming Annette greeted her and their tight embrace quickly produced
 tears.
 
-"/Na, Mädchen/?" said Annette finally. "/Die Emily Whitmore,"/ she
+"/Na, Mädchen/?" said Annette finally. "/Die Emily Whitmore/," she
 announced to their surroundings.
 
-Emily had no answer---because there wasn't one. /Well, girl?/ might be
+Emily had no answer---because there wasn't one. /Well, girl/? might be
 explained as a quick, punchy, German rhetorical question-statement of
 affirmation and felicitation upon meeting a female friend.
 
@@ -12338,7 +12316,7 @@ They stored Emily's backpack in Annette's old Mercedes diesel and took
 off on foot towards the centre of town arm-in-arm, leaning into one
 another. Emily insisted on German, which she had been practising
 intensely for the past week by reading out loud from German books and
-magazines---especially her /Oxford Book of German Verse---/but also by
+magazines---especially her /Oxford Book of German Verse/---but also by
 memorising various phrases, as well as lines of poetry and song lyrics.
 
 They eventually found their way to the old town, made obvious by the
@@ -12356,10 +12334,10 @@ real, unfiltered Annette, which, along with the strong beer, was quite
 the bracing tonic for someone with flagging spirits.
 
 Full, if not bloated, they wandered around the heart of the old town,
-mainly the pedestrians-only /Füßgängerzone./ This included the main
+mainly the pedestrians-only /Füßgängerzone/. This included the main
 square with its distinctive double-peaked medieval town hall. Annette
 mentioned how the city had suffered minimal damage during the war,
-mainly due to a /Wehrmacht /commander who had disobeyed orders to resist
+mainly due to a /Wehrmacht/ commander who had disobeyed orders to resist
 the oncoming American troops. Instead, he surrendered, and thereby
 avoided an artillery bombardment and much suffering and death. "He's the
 extremely rare sort of war hero we recognise---someone who disobeyed."
@@ -12392,11 +12370,11 @@ the former GDR had been a crazy quilt of the regrettable new and the
 rundown old.
 
 To Emily it all seemed geared for, catering to Harz tourism. Her host
-had not been kidding when she said her corner was a mini-mob-scene. This
-was only the start of the summer, but the unseasonably hot, dry, sunny
-weather had driven hoards of people up to the relative coolness of the
-low-slung, geologically ancient German /Mittelgebirge/ and their shady
-forests.
+had not been kidding when she said her corner was a
+mini-mob-scene. This was only the start of the summer, but the
+unseasonably hot, dry, sunny weather had driven hoards of people up to
+the relative coolness of the low-slung, geologically ancient German
+/Mittelgebirge/[fn:34] and their shady forests.
 
 Hot, hot weather was gripping the continent. July had not even arrived
 and a sun that did not warm but burn stood high in the sky over the
@@ -12425,11 +12403,11 @@ house ran a mill race, and on its opposite side grew a dense wall of
 tall spruce trees. In fact, almost all three sides of the house were
 forested. The forth side, buffered by the garden, faced the modest
 cobblestone town square, and directly across stood their ancestral
-/Schloß /and the church.
+/Schloß/ and the church.
 
 Emily's spirits had taken a full one-eighty since the morning, and it
-was on such a high note that she met Annette's parents. As /Freiherr
-/Herbert and/ Freifrau /Sibylle entered the house, the baroness called
+was on such a high note that she met Annette's parents. As /Freiherr/
+Herbert and /Freifrau/ Sibylle entered the house, the baroness called
 out loudly that a load of hay had just arrived. "Come help Goerz with
 the hay!" But when they saw Emily, they cried out and rushed over to
 heartily shake her hand, Germans, as Emily knew, being serious
@@ -12496,7 +12474,7 @@ of the first-floor ceiling removed, milking stations and other dairy
 equipment taking up the smooth, clean, concrete floor.
 
 Soon a young female farm hand, Käthe as Annette addressed her, appeared,
-followed by eighteen brown Fleckvieh cows. Together they led each cow
+followed by eighteen brown [[https://en.wikipedia.org/wiki/Fleckvieh][Fleckvieh]] cows. Together they led each cow
 into its station and clamped the neck loops tight. Hay and a feed mix
 were spread out into their troughs, then Surge-style milking canisters
 were hung from straps on each cow's back directly underneath the udder.
@@ -12509,7 +12487,7 @@ keep her standing and not let her lie down until she's good and closed
 up. That's probably where it came from."
 
 Annette apologised and introduced her to Emily. "This is Käthe
-Kreßlinger, /Diplom /agriculture science. She's the dairy expert here.
+Kreßlinger, /Diplom/ agriculture science. She's the dairy expert here.
 She helped us get certified for raw milk."
 
 Emily and the intensely earnest-looking young woman shook hands,
@@ -12537,11 +12515,11 @@ and her mother washed and hosed down the equipment and the milking
 parlour's floor. The cleaning took just as much time as the milking.
 Emily pitched in with the scrubbing and hosing of the floor.
 
-"We must keep an extremely low bacteria count or/ zack! /the authorities
-shut us down," said the /Freifrau /with a demonstrative clap of her
-hands. "But it's worth the extra effort. The quality and taste of raw
-milk is so superior to pasteurised, homogenised milk. I'd say ours is
-some of the best milk on the planet."
+"We must keep an extremely low bacteria count or /zack!/ the
+authorities shut us down," said the /Freifrau/ with a demonstrative
+clap of her hands. "But it's worth the extra effort. The quality and
+taste of raw milk is so superior to pasteurised, homogenised milk. I'd
+say ours is some of the best milk on the planet."
 
 Annette was nodding in agreement. "We think we're seeing a real movement
 for raw dairy. When we're in the house, I'll have you taste store-bought
@@ -12589,7 +12567,7 @@ white, while the window wall was exposed bare rubble stone. Below, the
 floor was red brick covered in colourful rag rugs. Annette's only
 decoration indulgence was an eclectic constellation of prints and
 paintings placed around the tall, deeply recessed window. Emily
-recognised reproductions of Rossetti's /Annunciation /and /Beata
+recognised reproductions of Rossetti's /Annunciation/ and /Beata
 Beatrix/, Stokes' /St. Elizabeth spinning wool for the poor/,
 mini-portraits of Droste-Hülshoff, Tieck, and Novalis, a constellation
 of small wooden Eastern Orthodox icons, and a small photograph of a nun.
@@ -12625,8 +12603,8 @@ deny the idea has crossed my mind."
 "To join a convent or at least become an oblate."
 
 Emily was slightly surprised by this unforced admission and laughed
-nervously. "Really? Aren't we a bit young? Isn't that for /after /we've
-crashed on the rocks of love at least once?"
+nervously. "Really? Aren't we a bit young? Isn't that for /after/
+we've crashed on the rocks of love at least once?"
 
 Bright laughter.
 
@@ -12681,15 +12659,15 @@ noblesse oblige to not just, yes, follow urges."
 "What?!" asked Annette, laughing along in anticipation.
 
 "Well, as long as we're on the subject, back in Kansas---back in Kansas
-I did have a very, shall we say, /involved /dream. And when I woke up I
+I did have a very, shall we say, /involved/ dream. And when I woke up I
 was so frightened that I turned on every light in the room and read the
 Bible until dawn."
 
 Laughter followed by silence.
 
 Annette spoke: "Yes, back in Kansas. In Kansas I remember girls
-/bragging/ about losing their virginity. They talked about parties where
-they met older men. Do you remember?"
+/bragging/ about losing their virginity. They talked about parties
+where they met older men. Do you remember?"
 
 "I remember," said Emily in a forlorn tone.
 
@@ -12704,7 +12682,7 @@ emotionally to ‘shop around.'"
 
 "Do you think young men are?"
 
-"No one is," replied Annette. "It's all about /desensitisation, /isn't
+"No one is," replied Annette. "It's all about /desensitisation/, isn't
 it though. Mother and I were having this discussion the other day." She
 looked off into the past.
 
@@ -12721,7 +12699,7 @@ just---brilliant!"
 
 Laughter, Annette waving off the compliment.
 
-"No, Mother has this whole/,/ as the Americans say, /freak-out/ view of
+"No, Mother has this whole, as the Americans say, /freak-out/ view of
 humanity. She says human sexuality is basically a freak-out, and it's
 natural to be apprehensive about it, to /cringe/ from it."
 
@@ -12751,7 +12729,7 @@ Silence. Finally the peers looked at one another and laughed.
 
 Again silence, sober but relieved and serene.
 
-Annette finally continued: "Oh, she has her whole ‘freak-out' theory.
+Annette finally continued: "Oh, she has her whole freak-out theory.
 She believes history is as often as not shaped by collective
 non-rational outbursts and stampedes. For instance, America's
 Prohibition was spearheaded by women's movements, namely the Women
@@ -12769,7 +12747,7 @@ sexualisation in society."
 "Oh, Europe is completely amoral, completely desensitising. Let's not
 kid ourselves on that one. No really, there's an ennui, a soul sickness
 throughout the West. There's this broad nihilist pall upon us. I see
-women here just as /verbogen /as they were in America."
+women here just as /verbogen/[fn:35] as they were in America."
 
 "All the normalising of depravity and perversion," whispered Annette.
 "And then us cleaving to God out of revulsion."
@@ -12883,20 +12861,20 @@ suppose I would. But only with God as my master would I consider it."
 "Well," Annette pursed her lips and wiggled her nose. "I'm sure what God
 wants would feel right in my heart. The Holy Spirit would lead me. What
 I felt in my heart and---and elsewhere would be---/im seligen
-Einklang/. Only then."
+Einklang/.[fn:36] Only then."
 
 "Yes, yes," muttered Emily quietly, resolutely.
 
 Warm smiles, then spots observed around the room.
 
 But then Annette giggled behind her hand. "Oh, do you remember
-/Brideshead /when Lady Marchmain was against Lady Julia marrying that
+/Brideshead/ when Lady Marchmain was against Lady Julia marrying that
 paltering, idiot Rex?"
 
 "Yes!" Emily laughed gleefully. And then in a stilted voice: "/And I'm
-sure he'll have very unpleasant children./"
+sure he'll have very unpleasant children/."
 
-And then in unison, "/They always revert./"
+And then in unison, "/They always revert/."
 
 Laughter, they rocking and joining hands for support.
 
@@ -12919,16 +12897,16 @@ more wistfully and gave a sigh-hum.
 laughed. "Yes, rather foolproof, isn't it? It's only when we're truly
 suffering that we can enter a state of less foolishness."
 
-"/I'll come when thou art saddest,/" said Emily, quoting the Emily
+"/I'll come when thou art saddest/," said Emily, quoting the Emily
 Brontë.
 
 "Indeed," said Annette.
 
 Silence.
 
-Annette continued: "But Cordelia as a model. I'd say she faced herself
-in the mirror one day and repeated Corinthians about putting away
-childish things. As we all must."
+Annette continued: "But Cordelia as a model for sure. One day she
+faced herself in the mirror and repeated Corinthians about putting
+away childish things. As we all must."
 
 "As I must."
 
@@ -13020,7 +12998,7 @@ Laughter.
 "/I don't grieve for the impossible/," said Emily glumly. "Remember who
 said that?"
 
-"Yes, Tom Pinch in /Martin Chuzzlewit./ Although I didn't find it in the
+"Yes, Tom Pinch in /Martin Chuzzlewit/. Although I didn't find it in the
 book," replied Annette, wearing a smirk.
 
 "I'm sure he did grieve for Mary. Mightily."
@@ -13057,8 +13035,8 @@ Von der Surwitz laughter.
 
 "And your farming is going well?"
 
-"Well enough," answered the baron. "The market for organic /heritage
-/goods is holding up---just. And we made it through the
+"Well enough," answered the baron. "The market for organic /heritage/
+goods is holding up---just. And we made it through the
 pandemic---just."
 
 "The inflation has been tough," added the /Freifrau/. "The connoisseurs
@@ -13122,7 +13100,7 @@ visit. It was exiting to be in a foreign land and negotiating its
 language. As the meal wound down, the baron pushed back from the table
 and studied each of the women in turn. "So if everyone's had enough to
 eat, why don't we remove to the front room? I'll get that bottle of
-/Kräuterlikör/ I bought today."
+/Kräuterlikör/[fn:37] I bought today."
 
 The front saloon was a miniature version of a German country manor main
 hall. The fireplace wall was covered top to bottom with hunting trophies
@@ -13143,14 +13121,14 @@ shop that specializes in herbs. It's said to be inspired, /stolen/, from
 the /Elixir Végétal/ of the Grande Chartreuse monastery in France. They
 tell me it contains over one hundred medicinal-tonic herbs, all native
 to the Harz region. Very well, but they could have stopped at fifty and
-I wouldn't have known the difference. /Also, prosit!"/
+I wouldn't have known the difference. /Also, prosit!/"
 
 Laughter, and the company all downed their medicine. Emily had to wince
 at the sharp flowery-grassy-rooty-leafy-barky taste.
 
 "So, where were we?" asked the baron.
 
-"Mother was about to explain her /Peasant Visits the City /theory to
+"Mother was about to explain her /Peasant Visits the City/ theory to
 Emily," said Annette.
 
 "Annette credits you all the time," said Emily as she put her glass down
@@ -13162,7 +13140,7 @@ The baroness bowed her head in acknowledgement, smiling. "Well, it's
 very simple. The peasant goes to the city---and is immediately oppressed
 by the alien coldness, the outright ugliness all around him. He goes to
 the museum---and can't understand the strange things he sees on the
-walls. He's seeing /modernism /and he doesn't like or understand it."
+walls. He's seeing /modernism/ and he doesn't like or understand it."
 
 Silence.
 
@@ -13173,7 +13151,7 @@ follow. He's like a horse, and the horse is a herd animal and needs a
 herd leader. But if there is no suitable leadership, he becomes agitated
 and unmanageable. This happens gradually. There isn't any one event. For
 example, by the end of the nineteenth-century anything we might call
-legitimate culture was dead, the /fin de siècle/."
+legitimate culture was dead, the /[[https://en.wikipedia.org/wiki/Fin_de_si%C3%A8cle][fin de siècle]]/."[fn:38]
 
 The baron shrugged. "As you've enlightened us before, dear, modernism
 started as social commentary," he said to his wife.
@@ -13181,8 +13159,8 @@ started as social commentary," he said to his wife.
 "It did," said the baroness. "It tried to deal with the exploitation,
 the alienation and isolation of the people, all the disruption brought
 on by industrialisation going on everywhere. But at some point it all
-became fatalistic, defeatist, /nihilist/. And then it seemed the/
-/degeneration was accepted, almost in a /Schadenfreude/ way, especially
+became fatalistic, defeatist, /nihilist/. And then it seemed the
+degeneration was accepted, almost in a /[[https://en.wikipedia.org/wiki/Schadenfreude][Schadenfreude]]/ way, especially
 after the First World War. Post-war art became aggressively absurdist
 and disturbing---openly obscene, even."
 
@@ -13191,7 +13169,7 @@ Murmurs of agreement.
 The baroness continued: "Try to imagine aliens from another planet
 visiting us in medieval times and seeing nothing but religious icons,
 then returning after the First World War and seeing Weimar Germany's
-so-called /Neue Sachlichkeit/, New Objectivity. Quite a shock that would
+so-called /[[https://en.wikipedia.org/wiki/New_Objectivity][Neue Sachlichkeit]]/, New Objectivity. Quite a shock that would
 be."
 
 At that she rose and left the room. When she returned, she was carrying
@@ -13200,6 +13178,8 @@ lap to a bookmarked page at the beginning. "Let me quote you one of the
 Weimar Era's most /celebrated/ artists, Georg Grosz." She cleared her
 throat and read:
 
+#+begin_quote
+@@html:<p class="myindent">@@
 My drawings expressed my despair, hate, and disillusionment. I drew
 drunkards; puking men; men with clenched fists cursing at the moon. I
 drew a man, face filled with fright, washing blood from his hands. I
@@ -13211,6 +13191,8 @@ soldiers without noses; war cripples with crustacean-like steel arms;
 two medical soldiers putting a violent infantryman into a strait-jacket
 made of a horse blanket. I drew a skeleton dressed as a recruit being
 examined for military duty. I also wrote poetry.
+@@html:</p>@@
+#+end_quote
 
 Grim murmurs as she held up the book and paged through a few of his most
 grotesque and disturbing pieces.
@@ -13256,7 +13238,7 @@ baroness. "The First World War was a proletariat war through and
 through. Europe was seething with social and labour unrest. Communists,
 nihilist-anarchists stalked the Continent preaching revolt and seeking
 targets. They were very much a murderous criminal element. The Sarajevo
-assassination was one of many. Do you remember the /Sissi /films with
+assassination was one of many. Do you remember the /Sissi/ films with
 Romy Schneider and Karlheinz Böhm?"
 
 "I know, I know," muttered Annette, "they were very sugar-coated."
@@ -13284,7 +13266,7 @@ Wilhelm with his arm complex."
 
 Laughter. Although Emily wasn't getting the references.
 
-"And yet anyone will tell you the common man suffered /far /more under
+"And yet anyone will tell you the common man suffered /far/ more under
 us than the industrialists," said Annette.
 
 "Yes, democracy," mused the baron. And then in English he added: "And
@@ -13322,13 +13304,13 @@ Remarkable too was how much mother and daughter were alike in style and
 intellectual prowess. She marvelled at how the baroness had gone to
 America and earned /two/ PhDs at a prestigious university in a language
 not her own. She could not even imagine being an exchange student at
-Annette's /Gymnasium./
+Annette's /Gymnasium/.
 
 Lady Sibylle continued: "I was very fortunate to have a good
-/Doktorvater/ at Rutgers who let me explore things from this odd angle
+/Doktorvater/[fn:39] at Rutgers who let me explore things from this odd angle
 of mine."
 
-"Tell Emily your /legend space /theory, dear," said the baron to his
+"Tell Emily your /legendspace/ theory, dear," said the baron to his
 wife.
 
 "Oh, must I? I've dominated the discussion and nearly brought everyone
@@ -13349,7 +13331,7 @@ Laughter.
 
 "No, please, tell her your theory," exclaimed Annette.
 
-"Very well, then. It's very simple, actually. A /legend space/ is a
+"Very well, then. It's very simple, actually. A /legendspace/ is a
 place of myths and legends outside of linear time. So when we hear the
 gospel of the loaves and fishes in Matthew, we can imagine ourselves
 there. We relive it---handing out napkins, perhaps. Or in the Arthurian
@@ -13404,7 +13386,7 @@ added, "Well, perhaps not. But seriously, we don't seem to have any
 takers for good old-fashioned /manorial monarchism/ around here."
 
 "Every day we're dealing with suspicion," said Annette with a pout of
-dejection/. /"After all these years."
+dejection. "After all these years."
 
 "But this lad you're describing knows from instinct about legend
 space," spoke up Baron Herbert, nodding and smiling. "He's figured out
@@ -13435,7 +13417,7 @@ with liqueur. "To the sacred gift!" he proposed.
 time and relished the taste and the glow.
 
 "This is a bit off the topic," began the baroness again, "but recently
-we ran into an old /Gymnasium /teacher of mine."
+we ran into an old /Gymnasium/ teacher of mine."
 
 "Sabine Eggers," said the baron.
 
@@ -13567,7 +13549,7 @@ talking about what they would like to improve about themselves. The
 young man said he wanted to improve his character and be a more
 honourable person. But the /Ossi/ girl looked at him aghast---and that
 was the end of their relationship! Why? Because all her life she had
-been taught that /fascists /talk that way, /fascists/ talk of honour and
+been taught that /fascists/ talk that way, /fascists/ talk of honour and
 duty and character and such."
 
 "Really," said Emily.
@@ -13587,14 +13569,14 @@ complex world as this."
 At first, the host family seemed stumped, but then Baron Herbert clapped
 his hands and said, "Very well then, let's start with your poetry
 /penchant/. Explain to them your enchantment. Then we might begin to
-explain why they are so /dis-/enchanted."
+explain why they are so /dis/-enchanted."
 
 Bright laughter.
 
 When it was finally over two hours later, Emily was exhausted, but proud
 of herself for keeping up in German. That night her dreams were very
-intense, and completely unfathomable... .
-
+intense, and completely unfathomable... \\
+\\
 Emily and Annette rose early the next morning and ate big bowls of
 /Müsli/ with fresh berries and fruit and their own raw milk yogurt. As
 before, Annette insisted on tea, a "Frisian" blend of Darjeeling, Assam,
@@ -13615,16 +13597,22 @@ women suspected of heresy, witchcraft, or general waywardness. Over time
 a fable took form of witches flocking to the Brocken every April
 thirtieth, the eve of St. Walpurga's Day. Goethe cemented this
 /Walpurgisnacht/ association for modern readers by including a wild
-account in his most famous play /Faust./ Emily knew about the Brocken
+account in his most famous play /Faust/. Emily knew about the Brocken
 from reading the German children's book /Die kleine Hexe/, or, /The
 Little Witch/ by Otto Preußler as part of her German training. The Harz
 and Brocken were also at the centre of an influential work by Germany's
 most celebrated poet, Heinrich Heine, who in his /Harz Travels/ said:
+\\
 
+#+begin_quote
+@@html:<p class="myindent">@@
 The mountain somehow appears so Germanic stoical, so understanding, so
 tolerant, just because it affords a view so high and wide and clear. And
 should such mountain open its giant eyes, it may well see more than we,
 who like dwarfs just trample on it, staring from stupid eyes.
+@@html:</p>@@
+#+end_quote
+
 
 The real place and its unique physical phenomena had always invited
 superstition. For one, its flat, bald, alpine summit lay just above the
@@ -13870,7 +13858,7 @@ with it. Or---or I'd become a neurotic mess!"
 Laughter.
 
 "Then you know exactly what I'm talking about. And that, Lady Emily of
-Wolkeld, is why we /subjects /keep you around."
+Wolkeld, is why we /subjects/ keep you around."
 
 More relieving laughter atop the excited murmuring of the eavesdropping
 stream.
@@ -13908,7 +13896,7 @@ following Grete Hermann's example."
 
 "She was a mathematician and physicist in the early twentieth century.
 Out-thought some of the top men in quantum physics. Then she went into
-/Pedagogik."/
+/Pedagogik/."
 
 "Have you discussed any of this with your parents?"
 
@@ -13984,7 +13972,7 @@ The two peers stared into one another's eyes, then down at the water.
 Annette continued: "But Emily, dearest Emily, you, you have a depth
 that I can only imagine. I need to finally start working on depth
 somehow---after getting so lost in breadth. /Naturbetrachtung ist
-endlos/,[fn:27] as Goethe said, and that makes it pointless---at least
+endlos/,[fn:40] as Goethe said, and that makes it pointless---at least
 for me. Science can never be a substitute for culture, and humanity is
 not humanity without the highest culture we can manage.
 
@@ -14007,58 +13995,52 @@ the fictional Lady Cordelia Flyte? Was the idealistic side of her
 powerful mind overpowering the common sense side?
 
 But then she had to grin. Their last topic had been Annette's recent
-trip to Frankfurt on the Oder for the funeral of a great-uncle---already
-forgotten was his long /von /and /zu /hyphenated name. She had to giggle
-at how her /Freiin/ had complained about the whole tasteless affair in
-her comically pouty, petulant German way. The uncontrollable giggle
-became a laugh, although with another tear leaking out. Apparently this
-"New Age ninny" of a Great-aunt had tried to "lighten the mood" in ways
-Annette had found repugnant and distasteful. The final insult had been
-the colour of the hearse: pink, of all things! But would the uncle have
-wanted a pink hearse? was only thing she could think of to say. Annette
-had bowed her head and said, yes, probably. Another giggle-to-laugh
-outbreak. At times Annette could be a parody of herself. Such were the
-nervous conversations right before momentous partings. But now to the
-dining car, she thought. A /Sauerbraten/ and a good Pils to wash it down
-would do just fine.
+trip to Frankfurt on the Oder for the funeral of a
+great-uncle---already forgotten was his long /von/ and /zu/ hyphenated
+name. She had to giggle at how her /Freiin/ had complained about the
+whole tasteless affair in her comically pouty, petulant German
+way. The uncontrollable giggle became a laugh, although with another
+tear leaking out. Apparently this "New Age ninny" of a Great-aunt had
+tried to "lighten the mood" in ways Annette had found repugnant and
+distasteful. The final insult had been the colour of the hearse: pink,
+of all things! But would the uncle have wanted a pink hearse? was only
+thing she could think of to say. Annette had bowed her head and said,
+yes, probably. Another giggle-to-laugh outbreak. At times Annette
+could be a parody of herself. Such were the nervous conversations
+right before momentous partings. But now to the dining car, she
+thought. A /Sauerbraten/ and a good Pils to wash it down would do just
+fine.
 
 She lingered for a while with her coffee. She had just finished a short
 commemorative poem entitled /From a Grandniece To Her Great-aunt At Her
-Great-uncle's Funeral:/
+Great-uncle's Funeral/:
 
+#+begin_verse
 You see, dear Auntie,
-
 Day is all supposes,
-
 Night but only a few.
-
 Night quietly closes
-
 Day's great to-do.
-
 Lost on the Day,
-
 I wait for deepest Night,
-
 for Darkness and I must
-
 Decline clamant Light.
+#+end_verse
 
 She had also scribbled down
 
+#+begin_verse
 Do human lamps burn too bright
-
 In Nature's once gentle night?
-
 False brightness extended
-
 Holy darkness rescinded?
+#+end_verse
 
  ... and then nothing else. Good, that's a start. She placed the cap
 on her Meisterstück and returned it and her journal to her bag. The sun
 was falling below the skyline in the west as the train rolled on to
-Hannover.
-
+Hannover. \\
+\\
 She stood beside a glittering river. A bright, wide valley stretched out
 before her, high alpine mountains climbed steeply on either side. Down
 in this valley was the start of a bright, sunny morning. And yet the
@@ -14067,8 +14049,8 @@ between, evergreen forests slumbered in permanent twilight.
 
 She walked into a great hall with an oversized bloody hare in her arms.
 Shock, her eyes wide and blank, not sure if she had killed it. A servant
-girl wearing a blank expression came and took the hare from her.
-
+girl wearing a blank expression came and took the hare from her. \\
+\\
 Emily awoke to bright light bombing through her window. She sat up and
 stared out in amazement. The dream had been so vivid, though no time to
 think about it or write it down! She had an appointment with Haggitt and
@@ -14117,55 +14099,81 @@ they shook hands, each gripping hard.
 [fn:2] What does a shipwreck mean to me if God is the sea? as Annette
 had taught her.
 
-[fn:3] The providence of God
+[fn:3] castle, manor, palace
 
-[fn:4] Exactly
+[fn:4] The providence of God
 
-[fn:5] Poem by Emily Brontë.
+[fn:5] Exactly
 
-[fn:6] in German
+[fn:6] Poem by Emily Brontë.
 
-[fn:7] It's all in the past.
+[fn:7] in German
 
-[fn:8] My life in Germany is so predictable.
+[fn:8] It's all in the past.
 
-[fn:9] your gracious Baroness
+[fn:9] My life in Germany is so predictable.
 
-[fn:10] to dash, whizz about
+[fn:10] your gracious Baroness
 
-[fn:11] equanimity, serenity
+[fn:11] to dash, whizz about
 
-[fn:12] my little darling
+[fn:12] equanimity, serenity
 
-[fn:13] Play on words to describe the wicked witch from /Hänsel and
+[fn:13] my little darling
+
+[fn:14] Play on words to describe the wicked witch from /Hänsel and
 Gretel/. /Knusperig/ means crunchy, crispy, i.e., like the witch's
 gingerbread house.
 
-[fn:14] archaic for sad, sorrowful, melancholy
+[fn:15] archaic for sad, sorrowful, melancholy
 
-[fn:15] my dear baroness
+[fn:16] my dear baroness
 
-[fn:16] I'd be deathly afraid
+[fn:17] I'd be deathly afraid
 
-[fn:17] deathly afraid without end
+[fn:18] deathly afraid without end
 
-[fn:18] swindle, con game
+[fn:19] swindle, con game
 
-[fn:19] High German
+[fn:20] High German
 
-[fn:20] but you know I have almost no opportunity to practice [my German].
+[fn:21] but you know I have almost no opportunity to practice [my German].
 
-[fn:21] Yes, then we must meet now and again.
+[fn:22] Yes, then we must meet now and again.
 
-[fn:22] Yes, let's. Good.
+[fn:23] Yes, let's. Good.
 
-[fn:23] figurative for a contrarian.
+[fn:24] figurative for a contrarian.
 
-[fn:24] [be careful] that your contrarian head doesn't [get detached
+[fn:25] [be careful] that your contrarian head doesn't [get detached
 and] roll away.
 
-[fn:25] They embarrass themselves.
+[fn:26] They embarrass themselves.
 
-[fn:26] What do I know? Famous quote from French philosopher Montaigne.
+[fn:27] What do I know? Famous quote from French philosopher Montaigne.
 
-[fn:27] Nature observation is endless.
+[fn:28] (archaic) truly
+
+[fn:29] egocentric, (literally, me-referring)
+
+[fn:30] egocentrism
+
+[fn:31] (Latin) situated in the original place
+
+[fn:32] My house is your house.
+
+[fn:33] Thank you, my dear mother.
+
+[fn:34] German Central Uplands; low mountain range
+
+[fn:35] twisted, distorted
+
+[fn:36] in blissful harmony
+
+[fn:37] herbal liqueur
+
+[fn:38] end of the century, or figuratively, end of an era
+
+[fn:39] Doctorate advisor
+
+[fn:40] Nature observation is endless.
