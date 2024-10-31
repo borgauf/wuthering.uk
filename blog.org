@@ -83,7 +83,7 @@ class="marginnote">@@
 Here I've gotten my website up and running and I immediately want to
 go cold-turkey from the internet. Ironic, hypocritical? For quite a
 few years now I've noticed how the internet has totally changed me, my
-daily habits and routines, and I fear not for the better.
+daily habits and routines, and I fear not for the better. I
 
 
 #+INCLUDE: "./footer.org" :minlevel 1
