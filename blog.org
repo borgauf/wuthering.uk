@@ -80,10 +80,29 @@ class="marginnote">@@
 
 * The Great Internet Detox
 
-Here I've gotten my website up and running and I immediately want to
-go cold-turkey from the internet. Ironic, hypocritical? For quite a
-few years now I've noticed how the internet has totally changed me, my
-daily habits and routines, and I fear not for the better. I
+Here I've finally gotten my website up and running and I immediately
+want to go cold-turkey from the internet. Ironic for sure.
+
+Let's be honest, the internet is one step forward and two steps
+backward for most of us. For quite a few years now I've noticed how
+the internet has totally changed me, my daily habits and routines, and
+I know I'm suffering for it, i.e., what I've gotten out of it lags
+behind the negative consequences.[fn:1] And so I want to "get off the
+internet/screen." But of course that's not entirely possible in this
+day and age---unless we live like an off-grid, offline hermit in the
+woods. Hence, I want to "mainly" get off, by which I mean I will
+
++ only be on to do work-related things
++ one daily check only email or phone messages
++ absolutely no "social media" e.g., Facebook, Instagram, X/Twitter, etc.
+
+
+
 
 
 #+INCLUDE: "./footer.org" :minlevel 1
+
+* Footnotes
+
+[fn:1] There is no end to the hand-wringing of experts about the
+deleterious effects of too much internet screen time.
