@@ -25,6 +25,7 @@
 #+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
 #+HTML_HEAD_EXTRA: pre.example {clear: none; }
 #+HTML_HEAD_EXTRA: </style>
+#+INCLUDE: "./header.org" :minlevel 1
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+EXPORT_FILE_NAME: emilyofwolkeld.html
@@ -54,7 +55,7 @@
 # #+STARTUP: logdrawer # This makes pictures appear in buffer
 #+STARTUP: inlineimages
 #+STARTUP: fnadjust
-
+#+OPTIONS: html-postamble:nil
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 # #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; } </style>
@@ -14089,6 +14090,8 @@ they shook hands, each gripping hard.
 "Yes, milady," he said calmly and quietly.
 
 "Very well," she said.
+
+#+INCLUDE: "./footer.org" :minlevel 1
 
 * Footnotes
 

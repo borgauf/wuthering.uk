@@ -150,6 +150,12 @@ h1 {
     line-height: 1.4em;
 }
 
+span.blogtop {
+    position: relative;
+    top: -52px;
+    line-height: 0em;
+}
+
 h2 {
     font-size: 170%;
     line-height: 1.4em;
@@ -374,6 +380,16 @@ a:link::-moz-selection {
 img {
     max-width: 200%;
     padding-top: 15px;
+}
+
+span.blogimage  {
+    position: relative; 
+    top: -40px;
+}
+
+img.blogpic  {
+    position: relative; 
+    top: 0em;
 }
 
 .sidenote,

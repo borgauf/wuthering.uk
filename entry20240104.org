@@ -55,7 +55,7 @@
 # #+STARTUP: logdrawer # This makes pictures appear in buffer
 #+STARTUP: inlineimages
 #+STARTUP: fnadjust
-
+#+OPTIONS: html-postamble:nil
 #+OPTIONS: html-style:nil
 # #+BIBLIOGRAPHY: ref plain
 
@@ -4238,6 +4238,8 @@ emphasizing cycles over clocks---that too. Lost and found and lost
 again is a basic cycle as well. But at the end of the day my Dark Muse
 remains mouldering, smoldering, waiting, waiting for something. For
 now at least I cannot go, I cannot go.
+
+#+INCLUDE: "./footer.org" :minlevel 1
 
 * Footnotes
 

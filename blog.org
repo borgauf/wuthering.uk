@@ -28,7 +28,7 @@
 #+INCLUDE: "./header.org" :minlevel 1
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
-#+EXPORT_FILE_NAME: index.html
+#+EXPORT_FILE_NAME: blog.html
 #+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
 # #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
 # #tex:imagemagick # this makes MathJax work
@@ -68,26 +68,22 @@
 
 @@html:<label for="mn-demo" class="margin-toggle"></label> <input
 type="checkbox" id="mn-demo" class="margin-toggle"> <span
-class="marginnote">@@ \\
-\\
-\\
-\\
-\\
+class="marginnote">@@
 [[file:images/WutheringKunstlerBanner4.png]] \\
-\\
-Wuthering.UK \\
-P.O. Box 1302 \\
-Grand Marais, MN, 55604 \\
-USA \\
-\\
-wuthering.uk@gmail.com @@html:</span>@@
+[[file:images/blogbanner1.png]]
 
 * 
 
-\\
-\\
-\\
+#+begin_export html
+<span class="blogtop"><img src="./images/BlogInlandSea.png" width="800" alt="Harbour view out to sea"></span>
+#+end_export
 
-[[file:images/DarkInlandSeaHomePage2.png]]
+* The Great Internet Detox
 
-# #+INCLUDE: "./footer.org" :minlevel 1
+Here I've gotten my website up and running and I immediately want to
+go cold-turkey from the internet. Ironic, hypocritical? For quite a
+few years now I've noticed how the internet has totally changed me, my
+daily habits and routines, and I fear not for the better.
+
+
+#+INCLUDE: "./footer.org" :minlevel 1
