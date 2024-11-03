@@ -75,33 +75,37 @@ class="marginnote">@@
 * 
 
 #+begin_export html
-<span class="blogtop"><img src="./images/BlogInlandSea.png" width="800" alt="Harbour view out to sea"></span>
+<span class="blogtop"><img src="./images/BlogInlandSea.png" width="750" alt="Harbour view out to sea"></span>
 #+end_export
 
 * The Great Internet Detox
 
 Here I've finally got my website up and running and I immediately want
-to go cold-turkey from the internet? Ironic for sure. But if I am
-supposedly on some sort of back-to-nature nostalgia trip, or as some
-have called it, "[[https://en.wikipedia.org/wiki/Cottagecore][Cottagecore]]," then I should not pretend to be like
-some Henry David Thoreau back in his offline, off-grid cottage in the
-woods, all while running a very connected, high-tech online presence.
+to go cold-turkey from the internet? Ironic for sure. Though I'm not
+sure I should start immediately. But really, if I am supposedly on
+some sort of back-to-nature nostalgia trip, or as some have called it,
+"[[https://en.wikipedia.org/wiki/Cottagecore][Cottagecore]],"[fn:1] then I should not pretend to be like I'm Henry David
+Thoreau back in his offline/off-grid cottage in the woods, all while
+running a very plugged-in, connected, high-tech online presence.
 
 Let's be honest, the internet has proven to be one step forward and
 two steps backward for most of society. I've noticed how being online
 has changed me, my daily habits and routines, and I know I'm suffering
 for it, i.e., what I've gotten out of it lags far behind the negative
-consequences.[fn:1] And so I want to "get off the internet/screen."
-But of course that's not entirely possible in this day and
-age---unless we live like an off-grid, offline hermit in the
-woods. Hence, I want to "mainly" get off, by which I mean I will
+consequences.[fn:2] And so I want to "get off the internet and avoid
+screens...
+
+...but of course that's not entirely possible in this day and
+age---unless we actually do live like an off-grid, offline hermit in
+the woods. Hence, I want to "mainly" get off, by which I mean I will
 
 + only be online to do absolutely necessary work-related things
 + one daily check of only email, phone, or messages
 + absolutely no "social media" e.g., Facebook, Instagram, X/Twitter, etc.
 + no online reference or research
 + no online entertainment
-+ only the most absolute bare necessities from online stores
++ only the most absolute bare necessities from online stores, i.e., no
+  browsing shopping.
 
 Of course this may seem draconian, especially the bit about no
 reference or research online. Why? Because the temptation to keep
@@ -148,5 +152,10 @@ last hurdle to absolute perfection.
 
 * Footnotes
 
-[fn:1] There is no end to the hand-wringing of experts about the
+[fn:1] [[file:images/Taylor_Swift_Eras_Tour_Folklore_act_2.jpg]] \\
+Taylor Swift up on the roof of her cottage in the forest---but not
+really... \\
+\\
+
+[fn:2] There is no end to the hand-wringing of experts about the
 deleterious effects of too much internet screen time.
