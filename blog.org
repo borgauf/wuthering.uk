@@ -78,13 +78,92 @@ class="marginnote">@@
 <span class="blogtop"><img src="./images/BlogInlandSea.png" width="750" alt="Harbour view out to sea"></span>
 #+end_export
 
+
+* The Great Stall-out
+
+/The Jetsons/ was an animated sitcom from 1962-63 showing us what
+future space-age suburban life would be like. I was a little kid back
+then and we all thrilled to each episode. So exciting, so cool it was
+to think about all the great technological advancements just around
+the corner. But when the film /The Graduate/ came out in 1967 dealing
+head-on with vapid, dysfunctional, existential meaningless
+middle-class suburban life, something had changed and modern life was
+mysteriously suspect, expectations seriously downgraded.[fn:1] Sure,
+we limped along for the next decades with progress, even "futurism,"
+but the space race seemed stuck in those largely meaningless space
+shuttle launches, the push to get kids into STEM tanked, and the only
+truly positive sci-fi, /Star Trek/ gave it up with the early
+cancellation of /Enterprise/ in 2005.[fn:2] Odd how
+humans---narrative-based as we are---have had no real positive,
+futuristic storytelling to latch onto since those halcyon 1960s.
+
+And so I ask, How can technologically, materialistically forward not
+be the way forward anymore? Think about it. Humans strove for
+centuries to reach the science and technology pinnacle we had achieved
+by the 1960s---with even more amazing advances right around the
+corner! But for some reason the air started leaking out of the tires,
+positive thinking about the future waned, and many of us became
+doubters, questioning and even rejecting the high-tech, the
+materialism, the progress, the wealth, the modernism. And so today we
+are gripped by an anomie, an ennui of seemingly unknown origins.[fn:3]
+
+You might say progress is still humming along. The iPhone is version
+16, the electric vehicles are beginning to get solid-state batteries,
+wind and solar are much cheaper than any fossil fuel, huge rockets are
+now grabbed by mechanical chopsticks upon reentry, and the computing
+world is roaring forward with AI, robotics, quantum computing. And yet
+I can see the peak, i.e., the end of this mad rush. The spirit is
+surely waning, the dynamism just about to crash and burn. Oh yes, a
+small elite core are still driving on with their amazing
+overachieving, but the man on the street could care less. Complexity
+grows, technology rocks---but the average citizen is regressing back
+to a medieval level of knowledge and education.
+
+Indeed, we're stalling out. And all sorts of quasi-nostalgia peddlers
+are coming out of the woodwork to entice the masses into---into what
+exactly? But then if the way forward is not forward as we've defined
+it for literally centuries, then what are we doing, /where are we
+going/? Ever since this unbelievable, impossible to have predicted sea
+change of progress stalling out, I've noticed everything slowly coming
+unraveled in society. Now I see the predictions of the cyberpunk
+near-future dystopian stories coming true, all while things still seem
+to be functioning, suburbs are occupied, and modern high-tech
+materialism is still on track. And yet people are heading to various
+nostalgic exit doors. My boys grew up in the 2000s with /Lord of the
+Rings/ and /Harry Potter/, two vaguely medieval nostalgia trips.[fn:4]
+Then the fantasy wave, all of it set in some quasi-past, typically a
+parallel Medieval Age. This alongside very grimy, depressing dystopian
+near-future "cyberpunk" sci-fi basically slamming the door on the
+future. No more Jetsons and no more positive Utopian sci-fi. But then
+The Powers That Be tried to slam the nostalgia door with /Game of
+Thrones/, which wanted the Medieval Age to be awful horrible. But it's
+too late. The modern world is paralyzed in ennui and great confusion
+over what direction we should go. Basically, the entire Muslim world
+is reaching for something bygone. The main radical factions are all
+some version of primitivists. Then all the autocrats doing Backwards
+like Putin et al. Alas. And no, Elon Musk isn't going to revive some
+Jetsons futurism.
+
+This is really crazy when you think about it. Consider how
+scientifically advanced the Covid vaccines were. To hear the science
+behind the mRNA is to marvel at how so much advancement came together
+so perfectly. Never before had a vaccine been rolled out so quickly
+and had such off-the-charts efficacy. But then came the huge
+irrationalist backlash, the all but superstitious opposition
+demonizing the vaccines. So many people these days have become
+degenerate, disenchanted, dysfunctional, depressed, cynical, addicted,
+etc. all because they've somehow missed the progress bus. Why is all
+this amazing progress not taken up by more people and used as a
+springboard to amazing lives and Utopian pursuits? Crazy weird this
+situation. Don't know how it will end.
+
 * The Great Internet Detox
 
 Here I've finally got my website up and running and I immediately want
 to go cold-turkey from the internet? Ironic for sure. Though I'm not
 sure I should start immediately. But really, if I am supposedly on
 some sort of back-to-nature nostalgia trip, or as some have called it,
-"[[https://en.wikipedia.org/wiki/Cottagecore][Cottagecore]],"[fn:1] then I should not pretend to be like I'm Henry David
+"[[https://en.wikipedia.org/wiki/Cottagecore][Cottagecore]],"[fn:5] then I should not pretend to be like I'm Henry David
 Thoreau back in his offline/off-grid cottage in the woods, all while
 running a very plugged-in, connected, high-tech online presence.
 
@@ -92,7 +171,7 @@ Let's be honest, the internet has proven to be one step forward and
 two steps backward for most of society. I've noticed how being online
 has changed me, my daily habits and routines, and I know I'm suffering
 for it, i.e., what I've gotten out of it lags far behind the negative
-consequences.[fn:2] And so I want to "get off the internet and avoid
+consequences.[fn:6] And so I want to "get off the internet and avoid
 screens...
 
 ...but of course that's not entirely possible in this day and
@@ -152,10 +231,28 @@ last hurdle to absolute perfection.
 
 * Footnotes
 
-[fn:1] [[file:images/Taylor_Swift_Eras_Tour_Folklore_act_2.jpg]] \\
+[fn:1] Contrast /The Graduate/ with /2001: A Space Odyssey/ (1969),
+which depicted human technological advancement as a quasi-mystical
+destiny.
+
+[fn:2] And no, /Star Wars/ was always just a "lite" version of
+dystopian cyberpunk.
+
+[fn:3] /anomie/: lack of the usual social or ethical standards in an
+individual or group. \\
+/ennui/: a feeling of listlessness and dissatisfaction arising from a
+lack of occupation or excitement.
+
+[fn:4] Most fail to see that the "wizarding world" was really just a
+Medieval Age holdover running parallel to the "muggle" modern
+world. The so-called /Misuse of Muggle Artifacts Office/ underlined
+how the wizarding world saw human technology as just so many
+artifacts, i.e., curious but inferior. 
+
+[fn:5] [[file:images/Taylor_Swift_Eras_Tour_Folklore_act_2.jpg]] \\
 Taylor Swift up on the roof of her cottage in the forest---but not
 really... \\
 \\
 
-[fn:2] There is no end to the hand-wringing of experts about the
+[fn:6] There is no end to the hand-wringing of experts about the
 deleterious effects of too much internet screen time.
