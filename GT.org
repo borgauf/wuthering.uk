@@ -1,0 +1,141 @@
+#+TITLE: 
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+HTML_HEAD_EXTRA: <style>
+#+HTML_HEAD_EXTRA: article > div.org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: article > section .org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
+#+HTML_HEAD_EXTRA: pre.example {clear: none; }
+#+HTML_HEAD_EXTRA: </style>
+#+INCLUDE: "./header.org" :minlevel 1
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: goshen.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+# #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; } </style>
+# #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px;} p { text-indent: 2em; } </style>
+#+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; }  p > .margin-toggle  { text-indent: 0em; }</style>
+#+HTML_HEAD: <style> p > .sidenote  { margin-top: 0px; margin-bottom: 0px; text-indent: -1em; }</style>
+#+HTML_HEAD: <style> p > .marginnote { text-indent: 0em; }</style>
+#+HTML_HEAD: <style> p.verse { margin-top: -5px; margin-bottom: -5px; text-indent: 0em; }</style>
+# #+HTML_HEAD: <style> p.blockquote { text-indent: -1em; }</style>
+
+@@html:<label for="mn-demo" class="margin-toggle"></label> <input
+type="checkbox" id="mn-demo" class="margin-toggle"> <span
+class="marginnote">@@
+[[file:images/WutheringKunstlerBanner4.png]]
+
+* 
+
+#+begin_export html
+<span class="blogtop"><img src="./images/Paznauer7.jpg" width="750" alt="Paznauer Tal"></span>
+#+end_export
+
+* Goshen, Tennessee
+
+@@html:<p class="myindent">@@@@html:<span class="cap3">@@I think the Nilis Family was crazy.@@html:</span>@@ They were from Belgium, and how they
+wound up in Goshen, Tennessee, nobody seemed to know for sure.
+Supposedly, the father had a cousin here and it was the cousin's house;
+but nobody had ever laid eyes on either of them. So it was just the
+mother Digna, the girl Seega, and her younger brother Dirk who was my
+age ever living there. Dirk told me they were from Antwerp and
+/Ant-werp/ meant "hand throw" in their language, because a long time ago
+some guy had cut off his hand and thrown it in the river...@@html:</p>@@
+
+Seega was real cute, but weird, too. All the guys were scared of her,
+even the football players. She was tall and skinny and looked like
+those models in the fashion magazines. "Poor child's half-starved,"
+said Mama.  Seega wore black outfits and listened to weird music and
+always seemed mad at everybody. "Grim," said Papa. Dirk was just the
+opposite. He was real nice and really good looking, to boot. "Magnetic
+personality," said Mama. "Born salesman," said Papa. The girls at
+school pestered him---even the older ones---but he was real
+shy. Anyways, we were only freshmen and just barely knew what girls
+were for in that way.
+
+Their house, a great big old Victorian, was on Colonial Street just
+east of the square. Folks said the whole street was haunted. The story
+goes that towards the end of the war the Yanks rounded up a bunch of
+Nathan Bedford Forrest's boys and shot them right there on the street
+because they were supposed to have been war criminals,
+marauders. Since then, people have seen "Forrest's ghosts" wandering
+all round that part of town---up to the courthouse, in and out of the
+old houses...
+
+Talk of haints made Papa angry, though. He was the Lutheran minister in
+town. It was a real fight each year just to have Halloween and carve
+pumpkins and go trick-or-treating. He was always saying Halloween was
+pagan and ought to be ignored by Christians. Mama usually came in on our
+side, and he'd let us go trick-or-treating and carve one pumpkin.
+
+And it was just after Halloween when the trouble started. We heard that
+Digna had "taken sick" and had to go to a special hospital in Nashville.
+Then the judge decided Seega and Dirk should live with us! That first
+evening Mama and Papa asked us to stay in our rooms while they talked
+private with Seega and Dirk in the living room. But soon we heard Seega
+shouting in her funny-sounding English, then the front door slam. When I
+came out, there was poor Dirk just staring ahead. He didn't talk anymore
+after that. He ate and dressed himself and used the bathroom all right;
+but he acted like he couldn't see or hear me.
+
+The next week the sheriff and the doctor came to take Dirk to the
+hospital in Nashville. Before they left, the sheriff asked Mama to go
+over to their old house on Colonial Street---because everybody knew
+that's where Seega was hiding---and "have a talk with that little
+lady." Mama went, but when she came back she looked all shook up. When
+she finally said something, she said Seega had gone crazy and was
+screaming over and over, /this place does not exist!/ Then Mama
+wouldn't talk anymore---not the next day nor the next. It went on for
+over a week like that, her just staring into space. Finally, she had
+to go to Nashville, too. She came back before Christmas, but she was
+different somehow: sad, quiet mostly, hollow-eyed. Once she whispered
+to me that Seega was right, that Goshen didn't really exist. I got
+real afraid and cried. Nothing was ever the same again after that.
+
+#+INCLUDE: "./footer.org" :minlevel 1

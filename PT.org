@@ -1,34 +1,117 @@
-My /Betreuer,/ my sponsors that is, all sat there with their hard, cold,
-blank faces and wouldn't say anything.
+#+TITLE: 
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+HTML_HEAD_EXTRA: <style>
+#+HTML_HEAD_EXTRA: article > div.org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: article > section .org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
+#+HTML_HEAD_EXTRA: pre.example {clear: none; }
+#+HTML_HEAD_EXTRA: </style>
+#+INCLUDE: "./header.org" :minlevel 1
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: paznauer.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+# #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; } </style>
+# #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px;} p { text-indent: 2em; } </style>
+#+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; }  p > .margin-toggle  { text-indent: 0em; }</style>
+#+HTML_HEAD: <style> p > .sidenote  { margin-top: 0px; margin-bottom: 0px; text-indent: -1em; }</style>
+#+HTML_HEAD: <style> p > .marginnote { text-indent: 0em; }</style>
+#+HTML_HEAD: <style> p.verse { margin-top: -5px; margin-bottom: -5px; text-indent: 0em; }</style>
+# #+HTML_HEAD: <style> p.blockquote { text-indent: -1em; }</style>
 
-“I'm supposed to . . . when you have the power to . . .”
+@@html:<label for="mn-demo" class="margin-toggle"></label> <input
+type="checkbox" id="mn-demo" class="margin-toggle"> <span
+class="marginnote">@@
+[[file:images/WutheringKunstlerBanner4.png]]
+
+* 
+
+#+begin_export html
+<span class="blogtop"><img src="./images/Paznauer7.jpg" width="750" alt="Paznauer Tal"></span>
+#+end_export
+
+* The Paznaun Valley
+
+@@html:<p class="myindent">@@@@html:<span class="cap3">@@My
+/Betreuer/, my sponsors that is@@html:</span>@@, all sat there with their hard, cold,
+blank faces and wouldn't say anything.@@html:</p>@@
+
+"I'm supposed to ... when you have the power to..."
 
 No answer.
 
 Still no answer.
 
-Finally, “Change it to something else,” one said glibly.
+Finally, "Change it to something else," one said glibly.
 
-“You will be shown later,” said another.
+"You will be shown later," said another.
 
 I wasn't told or shown anything, but the days seemed to go faster, and I
-did finally get out of that creepy forest. . . .
+did finally get out of that creepy forest...
 
 The last thing I remember was the Alps in central Austria, hiking up
 that high valley south of Sankt Anton, getting caught in a freak summer
-snowstorm, and then falling off a cliff face down into a /Kessel, /a
-snow-lined cirque valley far above the treeline/./ Luckily, the
+snowstorm, and then falling off a cliff face down into a /Kessel/, a
+snow-lined cirque valley far above the treeline. Luckily, the
 bowl-like wall of snow curved so gradually that I was able to slide to
 the bottom without tumbling or landing hard.
 
-I stumbled out of the /Kessel,/ picked my way through a /Felsensee, /a
-“lake” of glacial till rocks and boulders, then started following a
-fast-moving river, milky-turquoise from rock dust. The storm had cleared
-and I could see the Paznaun Valley far, far below. I followed along the
-river until I came to the edge of a forest. Battered and wasted, I
-crawled under a downed spruce and fell asleep. But more snow came during
-the night. Dreaming that I was buried in an avalanche, I woke up in a
-panic and ran mad into the dark forest.
+I stumbled out of the /Kessel/, picked my way through a
+/Felsensee/, a "lake" of glacial till rocks and boulders, then started
+following a fast-moving river, milky-turquoise from rock dust. The
+storm had cleared and I could see the Paznaun Valley far, far below. I
+followed along the river until I came to the edge of a
+forest. Battered and wasted, I crawled under a downed spruce and fell
+asleep. But more snow came during the night. Dreaming that I was
+buried in an avalanche, I woke up in a panic and ran mad into the dark
+forest.
 
 I don't know how long I was in that strange forest---it seemed like a
 very long time---but I eventually got out and followed a trail down to a
@@ -39,21 +122,21 @@ from the light angles that it was no longer summer. The weather was
 overcast. A cold rain and sleet began to fall.
 
 In the middle of the square stood a life-sized statue of the Virgin
-Mary; a pipe sticking out of the base filled a stone trough with water.
-I looked up at the Virgin, and she looked down at me with her loving but
-mournful expression, arms held open, hands palm-up in that Virgin Mary
-gesture of holy invitation. /Hail /Mary, /full/ of grace . . . /Blessed
-/art thou among women. I stuck my hands under the running water, but
-couldn't feel anything---not the cold, not the water hitting my hands.
-Odd.
+Mary; a pipe sticking out of the base filled a stone trough with
+water.  I looked up at the Virgin, and she looked down at me with her
+loving but mournful expression, arms held open, hands palm-up in that
+Virgin Mary gesture of holy invitation. /Hail/ Mary, /full/ of grace
+... /Blessed/ art thou among women. I stuck my hands under the
+running water, but couldn't feel anything---not the cold, not the
+water hitting my hands. Odd.
 
 I kept going and found a rustic farmhouse /Pension/ on the edge of town.
 I reached for the door . . . but then I was already inside. Weird. At
-the front table, the /Stammtisch, /sat the proprietor, his wife, and
+the front table, the /Stammtisch/, sat the proprietor, his wife, and
 their two little girls. At a back corner table sat two women. One of the
 women might have glanced my way, but the family seemed not to have
-noticed me coming in. /“Servus!”/ I said to the /Stammtisch./ No
-response. I went over to the women. “Hello, ladies?” They seemed not to
+noticed me coming in. /"Servus!/" I said to the /Stammtisch/. No
+response. I went over to the women. "Hello, ladies?" They seemed not to
 see or hear me, either.
 
 So I was dead. The fall had killed me after all. I sighed. All right
@@ -78,29 +161,29 @@ begged off a second.
 
 And then the man began telling a story about a dead stranger they had
 found below a mountain that summer. For some reason I couldn't
-understand him properly. What was wrong? His Tyrolean accent was thick,
-but not that thick. He simply wasn't making sense. It was like he was
-befuddled or half-witted. Was I not supposed to hear this---or was I
-messing him up somehow with my ghostly presence? I caught something
-about a body. My body? Did they recover my body? Such a gruesome
-thought: my cold and broken corpse lying below the sheer face of the
-/Sperrhorn./ Or maybe they found me in the forest/./ I'm now sure I'd
-spent a long time in there.
+understand him properly. What was wrong? His Tyrolean accent was
+thick, but not that thick. He simply wasn't making sense. It was like
+he was befuddled or half-witted. Was I not supposed to hear this---or
+was I messing him up somehow with my ghostly presence? I caught
+something about a body. My body? Did they recover my body? Such a
+gruesome thought: my cold and broken corpse lying below the sheer face
+of Sperrhorn Mountain. Or maybe they found me in the forest. I'm
+now sure I'd spent a long time in there.
 
 Helga and Ulrike listened politely, but at the same time negotiated the
 bill, gathered their things, and moved for the door. The stocky man
 seemed to compare the weather outside with the conditions in his story,
 but I don't think he was coming through for them either. Finally, they
-could only smile at him and he at them. They said goodbye/,/ and he bid
+could only smile at him and he at them. They said goodbye, and he bid
 them a safe journey.
 
 Again, the /Betreuer/ just stared and wouldn't answer my questions. When
-I finally shut up, one pointed and said, “Stick with the women.”
+I finally shut up, one pointed and said, "Stick with the women."
 
 Helga and Ulrike stood under the eaves of the pension, mostly out of the
 wind-driven sleet. Ulrike seemed ready, but Helga mumbled something
 about needing a minute or two. Looking up the slope, I could see a
-dusting of snow on the dark evergreens. The /Sperrhorn, /however, was
+dusting of snow on the dark evergreens. The Sperrhorn, however, was
 totally obscured by the low cloud ceiling.
 
 I noticed the women's eyes. The older had light-gray eyes, the younger
@@ -117,7 +200,7 @@ liberal coating to Ulrike's. She rubbed the excess from her hands onto a
 rag from the pocket of her wool climbing knickers and put away the tin.
 She straightened up and tightened her dark green Loden cape around her
 middle with a wide leather belt. Last, she struggled into her rucksack
-and was set to go. /Frauenrituale erledigt./
+and was set to go. /Frauenrituale erledigt/.[fn:1]
 
 I was shown some of their past. Earlier that summer, around the time I
 fell, Helga had been found wandering dazed and starved in the mountains
@@ -134,12 +217,12 @@ the Bavarian Forest village of Schlabach on the Bohemian border.
 
 I saw Ulrike on a plane crossing the Atlantic, then at Gisela's
 apartment in Munich, then on a train heading eastward into the Bavarian
-hinterlands. She looked local wearing /Kniebundhose, /climbing knickers,
+hinterlands. She looked local wearing /Kniebundhose/, climbing knickers,
 and long stockings. Ulrike the American had become Ulrike the
-/Urdeutsche/, and I noticed how all the people long confused over their
-own “Germanity” around her were awed. As the forests became thicker and
+/Urdeutsche/,[fn:2] and I noticed how all the people long confused over their
+own "Germanity" around her were awed. As the forests became thicker and
 the terrain hillier, she seemed to get more /urdeutsch/, looking out the
-window like a proud, regal medieval/ Gräfin/ off to some fateful
+window like a proud, regal medieval /Gräfin/[fn:3] off to some fateful
 counsel.
 
 I guess you'd call Helga a witch. I saw her wandering in forests during
@@ -159,21 +242,21 @@ to learn plant magic from Helga. She had decided to be with Helga in the
 German mountains when the clocks started running backwards.
 
 I asked the /Betreuer/ about time. As usual, they only stared at me.
-Finally, one spoke: “No time. Just distance. There is a center, and
-moving away gives the illusion of time.”
+Finally, one spoke: "No time. Just distance. There is a center, and
+moving away gives the illusion of time."
 
-I asked if the women could really see me. “They shouldn't!”
+I asked if the women could really see me. "They shouldn't!"
 
-Oh, okay. I'll try to be more /careful. /Geez. . . .
+Oh, okay. I'll try to be more /careful/. Geez...
 
 I saw Ulrike getting off a bus in tiny Schlabach. Helga's parents met
-Ulrike at the stop: “Sep” a retired insurance executive, and “Bärbel” a
+Ulrike at the stop: "Sep" a retired insurance executive, and "Bärbel" a
 housewife. The tall American shoved her backpack into the back seat of
 their VW Golf and climbed in beside it, sitting with her long legs
 angled sideways. The weather was overcast and chilly, chunks of low
 cloud sitting on top of the high forested ridge straight ahead. Sep
 drove like a typical psycho German, flying eastward on a narrow, winding
-road heading right up into the dark woods of the /Fluchtberg, /the
+road heading right up into the dark woods of the /Fluchtberg/, the
 highest point in the Bavarian Forest. Ulrike held onto the sides of the
 front seat for dear life.
 
@@ -193,18 +276,18 @@ in the doorway and sprang out of the car almost before Sep had halted.
 The tall woman bounded up the steps and wrapped the petite woman in a
 bear hug. Sep and Bärbel gave each other worried glances.
 
-“We should talk,” said Helga to Ulrike in a quiet, deliberate voice, out
+"We should talk," said Helga to Ulrike in a quiet, deliberate voice, out
 of earshot of her parents.
 
-“Sure. Where?”
+"Sure. Where?"
 
-“/I want to show you a special spot,/” said Helga theatrically for her
+"/I want to show you a special spot/," said Helga theatrically for her
 parents to hear. At that she took Ulrike's hand and breezed by them.
-“/Ulrike and I are going to take a little walk,”/ she shouted back at
+"/Ulrike and I are going to take a little walk/," she shouted back at
 them.
 
-“Don't be long, dear,” said Bärbel, showing a toothy smile. “Supper will
-be soon.”
+"Don't be long, dear," said Bärbel, showing a toothy smile. "Supper will
+be soon."
 
 Sep pulled out his /Handy/ and dialed his lawyer.
 
@@ -214,51 +297,51 @@ upstream through the forest on the well-worn way, Ulrike drinking in the
 wild surroundings---greeting the giant spruce and beech.
 
 Torrid Helga finally stopped beside a pool fed by a small cascade. She
-sat down /plumps /on an overlooking rock, pulled off her hood, inhaled
+sat down /plumps/ on an overlooking rock, pulled off her hood, inhaled
 deeply, exhaled slowly. Heavy mists were now moving down the slope,
 droplets large enough to quickly wet the exposed face. A hint of night
 had crept into the scene. Ulrike stared out into the forest wide-eyed.
-Eventually, Helga cleared her throat and spoke: “I'm very grateful you
-came.”
+Eventually, Helga cleared her throat and spoke: "I'm very grateful you
+came."
 
-“Helga, what happened?” said Ulrike turning to face her friend.
+"Helga, what happened?" said Ulrike turning to face her friend.
 
-The older woman studied the younger up and down. “Come, sit down,” she
+The older woman studied the younger up and down. "Come, sit down," she
 said.
 
-Ulrike sat down on a nearby log. Helga stared at the coursing water for
-a long while before she spoke. “The doctors . . . you disrupted them
-somehow. I know it was you. They were going to try to destroy me again,
-but you stopped them.”
+Ulrike sat down on a nearby log. Helga stared at the coursing water
+for a long while before she spoke. "The doctors ... you disrupted them
+somehow. I know it was you. They were going to try to destroy me
+again, but you stopped them."
 
-“Yes,” said Ulrike softly. Then she told Helga about her bad dream the
-previous night at Gisela's place. “How long were you---?”
+"Yes," said Ulrike softly. Then she told Helga about her bad dream the
+previous night at Gisela's place. "How long were you---?"
 
-“Doesn't matter. But I can't stay here any longer. I must leave.”
+"Doesn't matter. But I can't stay here any longer. I must leave."
 
-“Yes.”
+"Yes."
 
 Helga crossed her arms and looked up into the depth of the mists. She
-looked over at Ulrike and gave her a wan smile. “Coming?”
+looked over at Ulrike and gave her a wan smile. "Coming?"
 
-“Where to?”
+"Where to?"
 
-“Austria,” replied Helga in a whisper. “Paznaun Valley.”
+"Austria," replied Helga in a whisper. "The Paznaun Valley."
 
-“Sure.”
+"Sure."
 
 The drips had become a soft, steady rain. Helga looked up again and
-laughed gleefully. “Look at all this!” She was like a child in the
+laughed gleefully. "Look at all this!" She was like a child in the
 world's largest candy store.
 
 The two were quiet for a long while watching the forest, the stream, the
-mist, the rain. “We should go back,” whispered Helga, standing. “We'll
-eat, then go. I've got some gear for you so you won't look so American.”
+mist, the rain. "We should go back," whispered Helga, standing. "We'll
+eat, then go. I've got some gear for you so you won't look so American."
 
-“I look American?”
+"I look American?"
 
-“Yeah, but just a bit. Not much, though. No, really, you /project
-/German.” Smiling big, she leaned back and let the soft rain soak her
+"Yeah, but just a bit. Not much, though. No, really, you /project
+/German." Smiling big, she leaned back and let the soft rain soak her
 hair and face. Then like a little cat she was up and bounding back
 downstream.
 
@@ -273,29 +356,30 @@ stomped down the soggy trail after the flitting and bounding Helga. She
 sent greetings from the Northern Wisconsin woods out into the
 surroundings.
 
-I asked the /Betreuer /about sending out greetings into the forest.
-“Elven greetings?” asked one. I didn't know. But no answer anyway. . . .
+I asked the /Betreuer/ about sending out greetings into the forest.
+"Elven greetings?" asked one. I didn't know. But no answer anyway...
 Sure, I was allowed to ask them anything, anytime, but they hardly
-answered me. All right, if they couldn't show me any respect or tell me
-what was going on, I would just keep bothering them with whatever came
-into my mind.
+ever answered me. All right, if they couldn't show me any respect or
+tell me what was going on, I would just keep bothering them with
+whatever came into my mind.
 
 But I wasn't totally in the dark. The forest had told me a few things.
 First, I had a new appreciation for just how anxious forests could be
-around humans. I now realized how incredibly dominant humans were on the
-land, the immense physical presence of my former species and how
+around humans. I now realized how incredibly dominant humans were on
+the land, the immense physical presence of my former species and how
 relentlessly they pushed and crowded the wild places, and how that
-wasn't good. The forests wanted to be as big and nurturing as possible,
-but humans just kept cutting them down and pretending it didn't matter.
-In the past hundred, hundred-fifty years, the human race had grown to be
-massive. Now they were /mass /society, and nothing good was going to
-come of that. I could see that clearly enough.
+wasn't good. The forests wanted to be as big and nurturing as
+possible, but humans just kept cutting them down and pretending it
+didn't matter.  In the past hundred, hundred-fifty years, the human
+race had grown to be massive. Now they were /mass/ society, and
+nothing good was going to come of that. I could see that clearly
+enough.
 
 Personally, I was doing fine. I felt light and feathery like a spirit
-should. I remembered Byron's plea not to be /. . . a link reluctant in a
-fleshy chain, classed among creatures . . . when the soul can flee, and
+should. I remembered Byron's plea not to be /...a link reluctant in a
+fleshy chain, classed among creatures ... when the soul can flee, and
 with the sky, the peak, the heaving plain of ocean or the stars mingle
-and not in vain./ Right. I was no longer part of the fleshy chain, not
+and not in vain/. Right. I was no longer part of the fleshy chain, not
 classed among creatures anymore. That meant I could stay outside
 forever. And yes, I would mingle with the peaks, forests, the rain, the
 clouds, the stars, and not in vain. Nope, no mortal coil needing to go
@@ -304,9 +388,9 @@ back indoors anymore. /What a relief!/
 I imagined breathing in the cold autumn air. I guess I was nostalgic for
 my lungs. I could now remember how they had both popped and collapsed
 like toy balloons from the force of hitting the ice floor of that
-/Kessel./ I caught a brief glimpse of the intense pain at each gasp.
-Yes, I did crawl a long way . . . into that crazy forest where I finally
-died and then drifted around lost and confused for a long time. . . .
+/Kessel/. I caught a brief glimpse of the intense pain at each gasp.
+Yes, I did crawl a long way ... into that crazy forest where I finally
+died and then drifted around lost and confused for a long time...
 
 The women were ready, but seemed to hesitate under the pension's
 protective overhang. Helga adjusted Ulrike's cape, binding it like she
@@ -315,7 +399,7 @@ be falling in slow-motion. Sleet drove most mortals indoors. Heavy,
 wind-driven sleet always sent humans scurrying---blasts of cold and wet
 against the doors and windows of factories, offices, houses, trains,
 planes, automobiles---back into dead, sterile interior spaces where
-their gadgets and computers ran day and night. . . . But no more for me.
+their gadgets and computers ran day and night... But no more for me.
 I now had the rolling clouds, the streams and rivers. I had all this for
 myself---this wonderful /wetness/ balanced between cloud and fog, rain
 and snow. And the dark, the shadows were like a deliciously exciting
@@ -334,33 +418,34 @@ corner of Lower Bavaria into the Austrian Alps proper. They slept
 outside mostly. I traced their route from the eastern edge of the
 Bavarian Forest, down to the Allgäuer Alps, over the Austrian border
 south of Oberstdorf, across two more Tyrolean valleys, and over the
-/Sperrhorn /pass into the Paznaun Valley.
+Sperrhorn Pass into the Paznaun Valley.
 
 Where were they going? They couldn't walk forever---the hiking season
 was long over, and really bad weather was not far away.
 
-Just then a group of ghost children trooped by. These were /Hütekinder,
-/children from the valley's poorest mountain peasant families returning
-from Germany where they had been servants and farmhands well over a
-century ago. They were dressed in their Sunday /Tracht /finest, bundles
-of belongings on their backs. Helga and Ulrike set off behind the little
-spirits. I followed. I had no idea what I was supposed to do, but I
-wanted to see it through to something. I admired Ulrike's willpower to
-block out the voices telling her to abandon Helga and go back home.
+Just then a group of ghost children trooped by. These were
+/Hütekinder/, children from the valley's poorest mountain peasant
+families returning from Germany where they had been servants and
+farmhands well over a century ago. They were dressed in their Sunday
+/Tracht/ finest, bundles of belongings on their backs. Helga and
+Ulrike set off behind the little spirits. I followed. I had no idea
+what I was supposed to do, but I wanted to see it through to
+something. I admired Ulrike's willpower to block out the voices
+telling her to abandon Helga and go back home.
 
 I asked the /Betreuer/ where those voices came from---because I could
 now see they weren't from the person thinking them. As usual, I got no
 reply. But this time I stood my ground and glared back at them. I
-started shouting, “Hey! Hey! Hey!” over and over again. Finally, one
+started shouting, "Hey! Hey! Hey!" over and over again. Finally, one
 waved impatiently for me to stop.
 
-“All right, all right! It's like with an artificial knee or hip. Germs
+"All right, all right! It's like with an artificial knee or hip. Germs
 migrate to it and start growing because there's no proper circulation.
 Same thing: There's too much inanimate, artificial stuff these days. Bad
-things fester and grow in it. All right? /Verstanden?/” They all looked
+things fester and grow in it. All right? /Verstanden?/" They all looked
 at me like I should have known this already.
 
-The women were following alongside the /Ochsenwand /massif, the north
+The women were following alongside the /Ochsenwand/ massif, the north
 side of the Paznaun, always staying on the wildest forest paths well
 above the Trisanna River and any of the villages or farmsteads. We were
 back under the trees again and partially shielded from the wind and
@@ -380,22 +465,22 @@ tiny village of Gruftleben, a hamlet straddling the deep Gruft River
 gorge flowing madly down into the Trisanna miles below. Time to come out
 of the forest and deal with people again.
 
-Dusk had come on rather fast. The gorge was like a deep gash on the back
-side of the town square. The women leaned against a railing and gazed
-down into the abyss. Layers of polished ice were still just visible on
-the rocks directly below, but it was too dark to see the thundering
-waters deeper down. Ulrike looked over at Helga, who shot back a smirk
-and laughed. Then Ulrike laughed. They grabbed their packs and proceeded
-across the cobblestone square to a small /Gasthaus /with exposed timber
-framing and small windows with thick, distorting glass panes/.
-/“Fabulous goulash soup here,” said Helga.
+Dusk had come on rather fast. The gorge was like a deep gash on the
+back side of the town square. The women leaned against a railing and
+gazed down into the abyss. Layers of polished ice were still just
+visible on the rocks directly below, but it was too dark to see the
+thundering waters deeper down. Ulrike looked over at Helga, who shot
+back a smirk and laughed. Then Ulrike laughed. They grabbed their
+packs and proceeded across the cobblestone square to a small
+/Gasthaus/ with exposed timber framing and small windows with thick,
+distorting glass panes. "Fabulous goulash soup here," said Helga.
 
-“Are we staying here?”
+"Are we staying here?"
 
-“No. Up to the old castle ruins to meet the ghost princess.” Helga
+"No. Up to the old castle ruins to meet the ghost princess." Helga
 winked at Ulrike.
 
-“Good.”
+"Good."
 
 The /Zur Oberhexe/ was an inn like from some past fairy mystical age:
 dull white plaster walls, rough, exposed timbers, candles the only
@@ -411,14 +496,14 @@ a dark beer. When the waitress returned with the drinks, Helga made sure
 to talk in her Lower Bavarian dialect. I could feel the room go softer
 at hearing her German hillbilly.
 
-“So how's the Princess?” said Helga in her thickest hick accent.
+"So how's the Princess?" said Helga in her thickest hick accent.
 
-“Oh, she's her old self,” said the young woman. She was wearing black
-lipstick and had black fingernails. “You folks heading up that way?”
+"Oh, she's her old self," said the young woman. She was wearing black
+lipstick and had black fingernails. "You folks heading up that way?"
 
-“Yeah. Pay our respects.”
+"Yeah. Pay our respects."
 
-“Restock the wood if you burn any.” The strapping young woman acted
+"Restock the wood if you burn any." The strapping young woman acted
 nonchalant, but stared hard at her guests
 
 Right. It was like she had suspended time and turned the place into an
@@ -427,30 +512,30 @@ staring at them, and she felt herself falling into a gray abyss,
 horrifying except that she was strangely numbed and lobotomized. Helga
 shook her arm and the spell glitched.
 
-“Sure thing,” said Helga to the now very menacing waitress, grinning
+"Sure thing," said Helga to the now very menacing waitress, grinning
 /Oberhexe/-like.
 
 Helga ordered goulash soup, cheese and bread. Ulrike ordered the same.
 
-“Best goulash soup in the land!” said Helga with a big smile.
+"Best goulash soup in the land!" said Helga with a big smile.
 
-“That it is,” said the hulking woman, but now in an offhanded,
+"That it is," said the hulking woman, but now in an offhanded,
 disinterested voice.
 
-After the waitress had gone, Helga said in a low voice, “Isn't this a
-nice place?”
+After the waitress had gone, Helga said in a low voice, "Isn't this a
+nice place?"
 
-“Yeah, I guess so,” replied Ulrike looking around once more, her eyes
-big. “Who are these people?”
+"Yeah, I guess so," replied Ulrike looking around once more, her eyes
+big. "Who are these people?"
 
-“/Unseresgleichen. /Our sort. Feels good, doesn't it?”
+"/Unseresgleichen/. Our sort. Feels good, doesn't it?"
 
-“Riiight,” muttered Ulrike, still a bit shaken.
+"Riiight," muttered Ulrike, still a bit shaken.
 
-Helga grinned at Ulrike, who finally smiled back. “I think they like
-us,” she whispered.
+Helga grinned at Ulrike, who finally smiled back. "I think they like
+us," she whispered.
 
-/Hexenfreude./
+/Hexenfreude/.[fn:4]
 
 Again outside, Helga and Ulrike felt the bite of their coldest night
 yet, the icy wind driving the fine snow against their faces. It was
@@ -475,11 +560,11 @@ with the Austrian Catholic mentality.
 The women were only a hundred or so meters inside the forest when
 suddenly the wind and the snow stopped, the branches of the evergreens
 froze in mid-sway, and the river went dead silent! They grabbed onto
-each other, looking all around with big eyes. I had learned from my time
-in the forest just to go with it, that the whooshing feeling inside your
-guts would pass. . . . And just as quickly it was over. The wind and
-snowfall, the swaying, whispering fir trees, the echoing river resumed.
-The women hugged and cried for a while, then went on.
+each other, looking all around with big eyes. I had learned from my
+time in the forest just to go with it, that the whooshing feeling
+inside your guts would pass... And just as quickly it was over. The
+wind and snowfall, the swaying, whispering fir trees, the echoing
+river resumed.  The women hugged and cried for a while, then went on.
 
 Another kilometer up through the forest and they were at a footbridge.
 We crossed the narrower but louder-than-ever gorge very carefully, the
@@ -518,17 +603,17 @@ herself. The door swung open and Helga motioned for Ulrike to come.
 Inside, the interior was taken up mainly by a winding staircase, but
 against the far wall was a small fireplace, wood stacked nearby.
 
-“Who was that?” said Ulrike.
+"Who was that?" said Ulrike.
 
-“The Princess. Every night she watches from the top for her lover,” said
-Helga in a conspiratorial stage whisper, then more cheerily, “Shall we
-make ourselves at home?”
+"The Princess. Every night she watches from the top for her lover," said
+Helga in a conspiratorial stage whisper, then more cheerily, "Shall we
+make ourselves at home?"
 
 I immediately felt sorry for this princess. I had my freedom, but
 apparently many spirits don't. And so they just wile away the centuries
 doing some repetitive task right near where they had died. I asked the
-/Betreuer/ about the princess, and they said, “Sure, go right up and say
-hello!” But then they all had rather mischievous looks, some of them
+/Betreuer/ about the princess, and they said, "Sure, go right up and say
+hello!" But then they all had rather mischievous looks, some of them
 grinning openly, and that told me right away not to, that it was
 probably /a really bad idea/ to go up and see this poor woman.
 
@@ -543,78 +628,78 @@ fine---under an overhang, in a deserted hut.
 Helga passed a flask of her special French /Elixir Végétal/ herbal
 liqueur to Ulrike, who took a swig and passed it back.
 
-“There's so much to be grateful for,” said Helga as she poked at the
-flames with a stick, “and I am grateful.”
+"There's so much to be grateful for," said Helga as she poked at the
+flames with a stick, "and I am grateful."
 
-“Yes, me too,” said Ulrike softly.
+"Yes, me too," said Ulrike softly.
 
 The wind whistled through the cracks in the door and the fire popped and
 hissed. Helga took another hit, grimaced as she swallowed, and frowned.
-“I'm grateful all right.”
+"I'm grateful all right."
 
-“Yes,” said Ulrike even more softly to the fire.
+"Yes," said Ulrike even more softly to the fire.
 
 The older woman poked more forcefully with her stick, making the sparks
-fly. She grunted and said, “I go into a different world. Like we did
+fly. She grunted and said, "I go into a different world. Like we did
 back there in the forest. But sometimes I come out hard and I'm like a
 stone falling out of the sky, like a baby bird that's jumped out of the
 nest and can't really fly. Sometimes there's a goddamn cat waiting
-below.”
+below."
 
-“Right.”
+"Right."
 
-“Magic, Ulrike, magic.”
+"Magic, Ulrike, magic."
 
-“Yes, magic.”
+"Yes, magic."
 
-“It's just in your head---until it can't be just in your head. And then
-what do you do?”
+"It's just in your head---until it can't be just in your head. And then
+what do you do?"
 
 Silence. The wind blew bits of ash and sparks out onto the floor.
 
-“So, /junge/ Ulrike, do you think I want to go back?”
+"So, /junge/ Ulrike, do you think I want to go back?"
 
-Ulrike seemed to start. “No, no,” she hissed-whispered.
+Ulrike seemed to start. "No, no," she hissed-whispered.
 
 Helga laughed, then Ulrike. They each took another hit off the flask.
 Ulrike waited for Helga to say something, but the smaller woman remained
-silent. Then at last she spoke: “Yeah, yeah, what do you do? Mostly
+silent. Then at last she spoke: "Yeah, yeah, what do you do? Mostly
 guesswork since the Romans. All these centuries and centuries of
 guessing. Everyone pretty much lost and confused. Trying to maintain
 something. Trying to follow the wild muse, the spirits out in the wild
-places.”
+places."
 
-“Yes, true,” said Ulrike, her voice tight.
+"Yes, true," said Ulrike, her voice tight.
 
-“Just imagine, they were hunted, put to death for this.”
+"Just imagine, they were hunted, put to death for this."
 
 Ulrike quickly glanced over at Helga, then quickly back to the fire.
 
-“They were betrayed, murdered---probably to the very last person. . . .
-Bless them all.” Helga rose and put more wood on the fire, sat down
-again, and was silent. A tear rolled down her cheek. “And here I am.
-Here we are. Here we have little Helga and Ulrike the Tall!”
+"They were betrayed, murdered---probably to the very last person. . . .
+Bless them all." Helga rose and put more wood on the fire, sat down
+again, and was silent. A tear rolled down her cheek. "And here I am.
+Here we are. Here we have little Helga and Ulrike the Tall!"
 
 Ulrike grunted, but kept staring into the flames.
 
-“I don't know. I don't know what I've got here anymore,” mumbled Helga.
+"I don't know. I don't know what I've got here anymore," mumbled Helga.
 
 Actually, Ulrike was being silent until she was sure that some weird
-strangeness had drifted through and gone. Then she finally said, “You
-need time to sort things out.”
+strangeness had drifted through and gone. Then she finally said, "You
+need time to sort things out."
 
-“No, Ulrike, the sorting is done. There will be no more Helga sitting up
+"No, Ulrike, the sorting is done. There will be no more Helga sitting up
 in her cottage on the mountain being a witch. I can't live like that
 anymore. I can't go in and out, back and forth anymore. I won't let them
 take me back to Regensburg. Do you understand? Never again. I'd rather
-face a medieval inquisitor than those doctors.”
+face a medieval inquisitor than those doctors."
 
 Ulrike grunted. She knew about gaslighting. She had faced down her
 suburban-based family who incessantly pounded away at her nature thing.
 
-Helga sighed. “I was different as a child. Then at puberty I got special
+Helga sighed. "I was different as a child. Then at puberty I got special
 sensitivities. Then what? I don't know. But here I am now. Yeah, here I
-am. It's been great, though. Can't really complain.”
+am. It's been great, though. Can't really complain."
 
 Then I saw Ulrike from her late teen years standing in a forest by the
 Brule River in Northern Wisconsin on a bright, late summer day. She
@@ -636,16 +721,16 @@ poured out and all down her face. But then the doe and especially the
 fawns came to her and nuzzled and licked her face, as if to say they
 were sorry.
 
-Helga spoke: “So when our money runs out, I'll wait till it's dark, take
-off my clothes, and go as high up in the mountains as I can.” She passed
+Helga spoke: "So when our money runs out, I'll wait till it's dark, take
+off my clothes, and go as high up in the mountains as I can." She passed
 the flask.
 
-“Then you'll come down and put your clothes back on,” said Ulrike, after
+"Then you'll come down and put your clothes back on," said Ulrike, after
 a big swig.
 
-“No I won't!” Helga grabbed the flask away and took a big swig herself.
+"No I won't!" Helga grabbed the flask away and took a big swig herself.
 
-“Then I'll come /drag/ you down, girl!” shouted Ulrike, grabbing Helga's
+"Then I'll come /drag/ you down, girl!" shouted Ulrike, grabbing Helga's
 wrist and pulling the flask away.
 
 I saw how dominant-strong Ulrike was just then. And it was strangely
@@ -657,8 +742,22 @@ then reaching a probing hand into my world. I had sensed how her hand,
 her forearm had ceased to be flesh and blood, instead, ghostly like
 mine. And when she pulled it back, something of our world went with her.
 
-The women looked at each other with comical, ironic /Possenreißer/
+The women looked at each other with comical, ironic /Possenreißer/[fn:5]
 expressions and laughed loudly. But just then the trapdoor far above
 banged and rattled loudly.
 
-“Oops,” whispered Helga, “we're making too much noise.”
+"Oops," whispered Helga, "we're making too much noise."
+
+#+INCLUDE: "./footer.org" :minlevel 1
+
+* Footnotes
+
+[fn:1] Women's ritual finished
+
+[fn:2] proto-Germanic
+
+[fn:3] countess
+
+[fn:4] Witch's delight
+
+[fn:5] buffoonish
