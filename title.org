@@ -90,4 +90,9 @@ wuthering.uk@gmail.com @@html:</span>@@
 
 [[file:images/DarkInlandSeaHomePage2.png]]
 
+#+begin_quote
+To that ethereal throng have not each of us the right to stealthily
+belong? ---Emily Dickinson
+#+end_quote
+
 # #+INCLUDE: "./footer.org" :minlevel 1
