@@ -80,8 +80,8 @@ class="marginnote">@@
 * The Paznaun Valley
 
 @@html:<p class="myindent">@@@@html:<span class="cap3">@@My
-/Betreuer/, my sponsors that is@@html:</span>@@, all sat there with their hard, cold,
-blank faces and wouldn't say anything.@@html:</p>@@
+/Betreuer/, my sponsors that is@@html:</span>@@, all sat there with
+their hard, cold, blank faces and wouldn't say anything.@@html:</p>@@
 
 "I'm supposed to ... when you have the power to..."
 
