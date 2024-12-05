@@ -89,56 +89,57 @@ next generation. That's good too.@@html:</p>@@
 
 I often peruse the mainly digital/AI artwork on the mainly amateur art
 website [[https://www.deviantart.com/][DeviantArt.com]]. If I have the "safe filter" on, I can mostly
-be assured not to get any spicy, gory disturbing macabre horrific
-content. One thing I've noticed is how many of these mainly teen and
-twenty-something artists are creating, with the help of AI, downright
-angelic saintly, innocent, melancholic, old-soul portraits of young
-women. It's almost as if these are the ghosts of women past staring at
-me with their forlorn looks. Here is an example of an AI-generated
-girl who could be a model for my Emily Whitmore \\
+be assured not to get any spicy sexy or gory disturbing macabre
+horrific content. One thing I've noticed is how many of these mainly
+teen and twenty-something artists are creating, with the help of AI,
+downright angelic saintly, innocent, melancholic, old-soul portraits
+of young women. It's almost as if these are the ghosts of women past
+staring at me with their forlorn looks. Here is an example of an
+AI-generated girl who could be a model for my Emily Whitmore \\
 \\
 #+begin_export html
-<a href="https://www.deviantart.com/caravaggioex/art/Wisconsin-1090902938" target="_blank"><img src="./images/EoWinField1.jpg" width="820" alt="Emily in field"></a>
+<a href="https://www.deviantart.com/caravaggioex/art/Wisconsin-1090902938" target="_blank"><img src="./images/EoWinField1.jpg" width="800" alt="Emily in field"></a>
 <span class="cap">Art by CaravaggioEx@DeviantArt</span>
 #+end_export
 
 Then of course, How could you, a sixty-eight year-old American man,
 possibly think you are qualified to write about an English earl's and
-a German baron's daughter both of nineteen years of age? That's by far
-tougher for its directness. This question contains four problems,
+a German baron's daughter, both of nineteen years of age? That's by
+far a tougher question, exposing four problems,
 
 + I'm not nineteen,
 + I'm not female,
 + I'm English and German but not by birth,
 + and not since the 1500s have we been aristocrats.
 
-Oh but I am forty percent English, forty percent German (the rest
-Celtic/Scottish) per AncestryDNA. And I might have a drop of German
-aristocracy left in me. My namesake ancestors were some sort of
-patrician family who as early adopters of Luther were chased about
-Europe by the Catholics for two centuries. And then in 1711 Queen Anne
-of Great Britain took pity on us and brought us over to the
-Colonies. And then from my years as a young man in Europe---Germany
-and Switzerland---I did have encounters with German aristocrats who
-impressed me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can imagine, the
-whole topic of aristocracy was a complete /terra incognita/ for an
-American; but over time my exposure to the Old World have
-fundamentally altered me. And so a deep Old World perspective is what
-I'm trying to put forth with EoW. I would also insist being an older
-male does not disqualify me from writing about young females of my
-species. After all, we have only male and female, and we study each
-other constantly incessantly. Good writers have often written
-believably when describing humans of both sexes.
+Oh but I am /forty percent/ English, /forty percent/ German (the rest
+Celtic/Scottish) per AncestryDNA. And yes, I might have a drop or two
+of German aristocracy left in me, as my namesake ancestors were some
+sort of patrician family who, as early adopters of Luther, were
+subsequently chased about Europe by the Catholics for two centuries,
+until in 1711 Queen Anne of Great Britain took pity on us and brought
+us over to the Colonies. And then from my years as a young man in
+Europe---Germany and Switzerland---I did have encounters with German
+aristocrats who impressed me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can
+imagine, the whole topic of aristocracy was a complete /terra
+incognita/ for an American; but over time my exposure to the Old World
+fundamentally altered me. Hence, a deep Old World perspective is what
+I'm trying to gather together and put forth with EoW. I would also
+insist being an older male does not disqualify me from writing about
+young females of my species. After all, we have only male and female,
+and we study each other constantly incessantly. Good writers have
+often written believable characters of both sexes.
 
 Why I chose to forego traditional publishing is also a good
 question. The first and foremost reason is, quite simply, the
 gatekeepers of the trad publishing world apparently don't want me
-around. Countless manuscripts I have sent---and received either
-nothing or rejections. I won't (can't) speculate as to why. The second
-reason is rendering EoW in this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web page is
-so much more natural, as it allows me to place /sidenotes/ exactly
-beside a point in the text as needed---and yes, they are often needed
-with EoW.
+around. Countless manuscripts have been sent to them, which received
+either nothing or rejections. I won't (can't) speculate as to why,
+although I have my suspicions. The second reason is rendering EoW in
+this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web page is so much more natural, as
+it allows me to place /sidenotes/ exactly beside a point in the text
+as needed, which I find handier than having to jump to the end---and
+yes, they are often needed with EoW.
 
 I can guarantee you've never read anything even close to EoW. Many
 have written stories about aristocrats, but nothing ever like
@@ -168,7 +169,7 @@ Oculos Levavi@@html:</span>@@@@html:</p>@@
 Florence Susanna Catherine Margaret Whitmore@@html:</span>@@ wanted to
 put on a dress for the cold, sleeting Cumbrian spring morning, though
 it had to be something loose and hardy, something in which a person
-could work.  She had been thinking of the larger-than-life portrait of
+could work. She had been thinking of the larger-than-life portrait of
 her great-great-grandmother up in cold, damp, dark Wolkeld Hall: Lady
 Jane Whitmore, Countess of Wolkeld, poised and serene in her sleek
 silk dress. “I am a woman, I am feminine, and that is something
@@ -3887,7 +3888,7 @@ down from the mossy spanning branches.
 
 "Please don't apologize. That last bit was quite inspirational."
 
-"Oh, I shouldn't stoop to fighting with her," said Emily dolefully.
+"Oh, I was so frustrated, I just spit something out," said Emily dolefully.
 
 "I think the wine invited the devil to the conversation."
 
@@ -3895,13 +3896,13 @@ down from the mossy spanning branches.
 
 "But you meant what you said about your mother."
 
-"I did." Emily groaned and shook her fists in frustration. "I know it
+"Yes, I did." Emily groaned and shook her fists in frustration. "I know it
 sounds mad, but I /want/ that life back then---"
 
-"You mean back in Brontëan times, the first half of the nineteenth."
+"What? You mean back in Brontëan times? You mean the first half of the nineteenth."
 
 "Yes! For one, my mother would have been properly grieved, /formally/
-by all. Andrea was wonderful, but I could never get past the feeling
+by all. Andrea was a godsend, but I could never get past the feeling
 we were /processing/ grief. Death and grief process you, not you
 them!"
 
@@ -7011,7 +7012,7 @@ and menacing blackness, frighteningly low and directly overhead. This
 was Yorkshire Black, a dominant colour capable of clearing any shallow
 tourist commotion.
 
-She recalled her /Le théâtre de le vallon/: the country sky, their
+She recalled her /Le théâtre de la combe/: the country sky, their
 clouds only layered gauze, the pulsing winds rending it all apart to
 reveal---what then? Annette had once used a truly magical German
 expression: /Eigengrau/. Roughly translated it meant "self-grey," or
@@ -14089,7 +14090,7 @@ they shook hands, each gripping hard.
 
 "Yes, milady," he said calmly and quietly.
 
-"Very well," she said.
+"Very well," she replied.
 
 #+INCLUDE: "./footer.org" :minlevel 1
 

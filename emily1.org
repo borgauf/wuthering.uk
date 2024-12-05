@@ -121,26 +121,29 @@ drop or two of German aristocracy left in me. My namesake ancestors
 were some sort of patrician family who as early adopters of Luther
 were chased about Europe by the Catholics for two centuries until
 Queen Anne of Britain in 1711 took pity on us and brought us over to
-the Colonies. And from my years as a young man in Europe---Germany and
-Switzerland---I did have encounters with German aristocrats who
-impressed me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]]/. As you can imagine the
-whole topic of aristocracy was complete /terra incognita/ for an
-American; but over time my exposure to the Old World and its ways have
-fundamentally altered me. And so a deep Old World perspective is what
-I'm trying to put forth with EoW. Next, I would insist being an older
-male does not disqualify me from writing about young females of my
-species. After all, we have only male and female, and we study each
-other constantly incessantly. Good writers have often written
-believably when describing humans of both sexes.
+the Colonies. But then as a young man I spent just under a decade in
+Europe---Germany and Switzerland---where I did have encounters with
+German aristocrats, impressing, /confounding/ me with their /[[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse
+oblige]]/. As you can imagine, the whole topic of aristocracy was
+complete /terra incognita/ for an American; but over time my exposure
+to the Old World and its ways fundamentally altered me. And so a deep
+Old World perspective is what I'm trying to put forth with EoW. Next,
+I would insist being an older male does not disqualify me from writing
+about young females of my species. After all, we have only male and
+female, and we study each other constantly incessantly constantly
+forever. Good writers have often written believably when describing
+their fellow humans of both sexes.
 
 Why I chose to forego traditional publishing is also a good
 question. The first and foremost reason is, quite simply, the
 gatekeepers of the trad publishing world won't let me in. I won't
-(can't) speculate as to why. The second
-reason is rendering EoW in this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web
-page is so much more natural, as it allows me to place
-/sidenotes/ exactly beside a point in the text as needed---and yes,
-they are often needed with EoW.
+(can't really) speculate as to why. The second reason is rendering EoW
+in this lovely [[https://www.edwardtufte.com/][Edward Tufte]] [[https://edwardtufte.github.io/tufte-css/][format]] web page is so much more natural,
+as it allows me to place /sidenotes/ exactly beside a point in the
+text as needed and not, so annoyingly, at the bottom of the page or
+back of the book---and yes, they are often needed with EoW.
+
+Enjoy.
 
 ** Part One: In Seasons of Thy Absence
 
@@ -188,7 +191,7 @@ found stiff and slow but still alive.
 To step back from the hectic modern world. To play some part
 on this gloomy day in such a remote corner of the
 world. “Lambs and ewes,” she whispered, smiling. To go down to
-the inbye lambing pens, the tracts of various shapes and sizes
+the /inbye/ lambing pens, the tracts of various shapes and sizes
 separated by ancient dry stone walls all around tiny Wolkeld
 village. Or to make the long hike up to the fells, the high,
 treeless slopes launching skyward beyond North Hill where ewes

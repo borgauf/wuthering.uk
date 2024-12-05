@@ -1,0 +1,1133 @@
+#+TITLE: 
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+HTML_HEAD_EXTRA: <style>
+#+HTML_HEAD_EXTRA: article > div.org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: article > section .org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
+#+HTML_HEAD_EXTRA: pre.example {clear: none; }
+#+HTML_HEAD_EXTRA: </style>
+#+INCLUDE: "./header.org" :minlevel 1
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Holcombe.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+# #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; } </style>
+# #+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px;} p { text-indent: 2em; } </style>
+#+HTML_HEAD: <style>p { margin-top: 0px; margin-bottom: 0px; text-indent: 2em; }  p > .margin-toggle  { text-indent: 0em; }</style>
+#+HTML_HEAD: <style> p > .sidenote  { margin-top: 0px; margin-bottom: 0px; text-indent: -1em; }</style>
+#+HTML_HEAD: <style> p > .marginnote { text-indent: 0em; }</style>
+#+HTML_HEAD: <style> p.verse { margin-top: -5px; margin-bottom: -5px; text-indent: 0em; }</style>
+# #+HTML_HEAD: <style> p.blockquote { text-indent: -1em; }</style>
+
+
+@@html:<label for="mn-demo" class="margin-toggle"></label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/WutheringKunstlerBanner4.png]]
+\\
+\\
+@@html:</span>@@
+\\
+\\
+* Holcombe
+
+/Just string together the good parts, a few from the odd corners of the
+mundane world, a few from the ancestors, a few from cloudy old memories,
+the rest from Faerie. . . ./
+
+Althea Alice and Andrew Alexander Holcombe were sixteen-year-old twins
+of above-average height and willowy build, with translucent pale skin,
+fine brownish hair, noble faces, and intelligent hazel eyes with barely
+noticeable brown central heterochromia iridum. Thea and Drew, as they
+were called, lived in a large Victorian townhouse called Sattelsby House
+in the tiny village of Maidenswell, along with their guardian, Miss
+Janet “Nette” Ruttelsburger, and their amazing
+great-great-great-great-aunt, Bernice Sattelsby, amazing firstly because
+she was a ghost.
+
+Thea and Drew were, for all intents and purposes, orphans. Their one
+living parent, the airline pilot James “Jimbo” Holcombe, had left the
+family six year previous. He was now based in Barcelona, Spain, with his
+model-actress girlfriend Serena---just Serena, no last name. He
+supported his children financially, but rarely visited, and when he
+did---always with Serena---things were invariably forced and awkward.
+James Holcombe, thirty-nine years of age, was the very model of a
+dashing airline captain. Unfortunately he had the mind of a teenage boy.
+
+Far more tragic for the twins had been the death of their beloved
+mother, Jocelyn Kate Sattlesby-Holcombe. It had been almost three years
+since her mysterious death while cross-country skiing in the nearby
+Leister Hills. The evidence strongly suggested she had been forced off a
+cliff by a snowmobile. A local man was questioned; however, “fellow
+citizens” vouched for his other whereabouts that afternoon. She had been
+a beloved professor of English at nearby Saint Aginore College and was
+sorely missed by Saint Aggie community.
+
+The tiny hamlet of Maidenswell sat high up on the dun Silurian limestone
+bluffs of the Leister River, just across from the much larger “full
+service” town of Torndale. Maidenswell had been named for a spring-fed
+pool bubbling out of a cleft of the high palisades. The original
+settler's daughters had played in the grotto, often coming home wet and
+muddy, making fretful mother and father angry, prompting them to invent
+the ironic name.
+
+It was just after the First Difficulties with Britain when the
+hotel-slash-health spa was built around the springs, the waters having
+gained fame as "restorative," based on the testimony of experts of the
+time. "Send'em up the ledge!" became the spa's catchphrase. The Hotel
+Leister was soon followed by a proper square of little shops and
+boutiques, anchored by a five-hundred-seat theater, which hosted
+concerts, operas, plays, lectures, and public debates. By the Civil
+War, Maidenswell had become a popular resort spot and boasted
+important residents and a constant stream of prominent visitors.
+
+Although reaching Maidenswell had always been difficult. Not only was
+the village high up on the sixty-foot river palisades, but surrounded
+directly to the North by a ring of steep hills, the Cottbain Ridge,
+usually referred to as the /Meniscus/ due to its shape. To "go up the
+ledge" during the horse-and-buggy age, one crossed the Leister River
+from Torndale over the narrow, covered Leister Street Bridge, continued
+on catalpa-tree-lined Leister Street through Leister Park, climbed up
+the tight switchbacks, finally passing through the ornate wrought iron
+Leister Gate. Steep, narrow, suitable for traffic no bigger than a
+modest supply wagon, the brick paver lane served as the only way into
+Maidenswell---until a modern road was finally built by the WPA during
+the Great Depression coming over the Meniscus from the northwest. As
+lifting Leister Street up had been a considerable investment and feat of
+engineering in the late eighteenth century, Maidenswell Road, or County
+12, was no less an effort in the early nineteen-thirties as it wound,
+climbed, and dipped its way southward over the Meniscus' steep and
+rugged terrain.
+
+Finally Maidenswell had met the Automobile Age. Finally the village
+could reconstitute, update itself. But no, there would not be a second
+boom, as only a trickle of tourism came following World War II. Try as
+they would, the boosters, the real estate brokers, the history buffs
+could not revive the all but abandoned, mostly boarded up and
+deteriorating ghost town. Probably the most ominous death knell was
+the storied hotel closing for good in 1967. And so below the hulking
+wooded hills, above the languid river, perched a once quaint village
+slipping past the modern world and into forgottenness. Or so the
+outside world thought...
+
+Sattelsby House lay at the end of Sattelsby Row, the first street
+inside Leister Gate, running eastward parallel the cliff edge and
+perpendicular to Leister Street. The Row had been built in the
+village's post-Civil War heyday by the children's
+great-great-great-great-uncle, Colonel Franklin Sattelsby, in fact,
+Aunt Bernice's husband. The townhouses, although not identical, were
+complementary: all three-storied, all very neat and understated Second
+Empire: facades of smooth, dark-red, proper facing brick,
+trimmed modestly with the local limestone, sash windows long and
+narrow, handsome slate-covered Mansard roofs from which dormer windows
+protruded. Ornate Victorian wrought-iron fences separated the
+properties from each other and from the brick sidewalk, the small
+green space between house and lane once devoted to flower beds,
+ornamental trees, small patches of lawn; however now mostly wilded
+perennials, berry brambles, twisted, hops-strangled fruit and hardwood
+trees. (Various rumors circulated as to whom had introduced the highly
+aggressive hops vines to Maidenswell, the blame typically landing upon
+the “swarthy German immigrants.) Sattelsby House was the farthest
+eastern house of the row and, due to the angle, its southern wall
+built flush against the high bluffs. Across of paver-brick Sattelsby
+Row to the north were matching mews originally meant for the row's
+horses and servants. The two-story mew directly across from Sattelsby
+House was now used as a garage for the family's black 1957 Mercedes
+W189 Saloon, the only working automobile in the village,
+incidentally. Why the old Benz was the only working automobile will be
+explained shortly.
+
+As mentioned earlier, Mrs Bernice Agnes Sattelsby, née Graipes, truly
+was a ghost and had been the original lady of the Sattelsby House. On
+one sunny spring afternoon nearly one-hundred-and-fifty years ago, the
+forty-one-year-old woman had fallen out of the second-story window of
+the master bedroom, spun-bounced twice on the cliff face and landed in
+the crown of an ancient hawthorn tree, most serious of her injuries a
+broken neck. Her death had been ruled accidental as a bottle of
+ammonia solution had been found on the sill, a cleaning rag still
+smelling of ammonia clutched tightly in her hand. The servants
+corroborated, saying the Missus had insisted on cleaning the outside
+of the windows herself after finding unsatisfactory the recent efforts
+of a window cleaning service from Torndale comprised of recent Irish
+or German immigrants, the servants only able to agree they seemed,
+sounded "foreign."
+
+Aunt Bernice was not an ephemeral or translucent spirit as one reads
+about in books or perhaps has encountered on occasion, rather, a ghost
+of uncommonly robust presence and visual integrity, which meant she
+could appear (for those to whom she wished to appear) almost real and
+life-like, albeit dressed in her original Victorian Era attire.
+
+Aunt Bernice first appeared on the night of Jocelyn
+Sattelsby-Holcombe's funeral in the front parlor after all the
+mourners had left, which was roughly midnight. She calmly and
+matter-of-factly introduced herself to Thea, Drew, and Nette,
+announcing she would take over as the twins' music, Latin,
+and Greek tutor. Being a ghost, her slightly shimmering presence had a
+certain cachet, her distant and echoey words gravitas, and, as a
+result, no objections were raised. This was needed support, as Jimbo
+and Serena had left immediately after the funeral service that
+afternoon, not staying for the burial, having hardly spoken to anyone
+the whole time other than the family lawyer, leaving poor
+Nette---until then Jocelyn's helper-slash-babysitter---wondering how
+to proceed, the children, of course, all the more stricken.
+
+Nette Ruttelsburger, thirty-two, PhD, her dissertation in Early
+Romantic German poetry, had taken a German instructor position at
+Saint Aggie two years previous to Jocelyn's death. The instructor
+position was not tenure track, and yet she abandoned her pursuit of a
+professorship, not interested in interviewing for tenured positions at
+schools in Saskatchewan, South Dakota, and Florida. Simply put, she
+had never before in her life felt so at home as in the Leister Valley,
+had so many good friends, nor such a caring mentor, soul mate, and
+confidant as Jocelyn. As her position was only half-time, she helped
+out with chores, errands, and babysitting at Sattelsby House. And
+after Jocelyn's death, she gladly became the children's
+guardian---once absentee Jimbo finally had overcome his resentment and
+suspicions of her. As with so many things concerning Maidenswell, the
+strangest fate had brought her to and held her at Sattelsby House.
+
+Nette was tall and thin,[fn:1] her expressive eyes toffee-brown, her
+smooth, straight hair starkly varied dark and flaxen strands. No, she
+would insist, she did not streak her hair; it was naturally that
+way. She was darkly-inclined in philosophy and dress, distrustful the
+modern parts of the modern world, and largely dismissive of
+rationalism or naturalism, leaning more towards mysticism. Indeed, her
+attire was vaguely goth, but in recent years less "industrial" and
+more nineteenth-century, largely due to Aunt Bernice's influence, as
+well as less need to make a rebellious visual statement to the world
+or the psychic ghosts of her troubled childhood back in Zanesville,
+Ohio.
+
+Nette did get on well with the ghosts, plural: with Aunt Bernice, as
+well as with a young but long-deceased young man by the name of Henry
+Lyman Whitherfield. Nette had met Henry one night at the Maidenswell
+cemetery---a cozy but lonely place as Henry would describe his "portal."
+Henry had been a "theatre person" in life, and in death was, as he
+described himself, a "concierge of the Beyond." He too was a ghost of
+visual integrity and able to move all about Maidenswell environs---in
+addition to travelling to all sorts of Beyond's interesting places.
+However, there was often conflict between Henry and Aunt Bernice. It was
+his trips into Beyond that distressed the more mature Aunt Bernice, as
+he was wont to bring back the queerest fish imaginable to an already
+metaphysically-strained situation. In addition, Aunt Bernice did not
+approve of his relationship with Nette, as they engaged in conjugal
+intimacy in, as the senior woman described it, a metaphysically fraught
+way. Nette, however, was not opposed to what amounted to leaving her
+body to have Henry. In general, various mysterious complications had
+arisen from Henry and Bernice's presence as substantial spirits in
+Maidenswell, namely, that Maidenswell itself had become decidedly more
+/insubstantial./
+
+Define /insubstantial./ Apparently, there existed a metaphysical inverse
+relationship between, on the one hand, ghosts gaining persistence and
+consequence in our world, and, on the other hand, Maidenswell slipping
+out of our world and its modern rationalism. No matter how far up, down,
+in, or out the mysterious universe had been pushed, the paranormality of
+Maidenswell was not supposed to be. And so as "bluff ghost activity"
+increased markedly beginning that night of the funeral, the village of
+Maidenswell began a steep decline in fixed dimensionality, spatial
+consistency, and uniform temporal direction. In short, the place had
+become more /fey,/ as the people of the area once often said. Besides
+Nette and the twins, there were still a few other live inhabitants. And
+yet it was as if they had forfeited their true independent existences
+and fallen into enchanted versions of themselves. All was acquiescence
+in Maidenswell.
+
+For a few mundane matters, all things relying on electrical-magnetic
+physics had failed village-wide and could not be made to work again,
+which beyond electrical equipment and appliances included cell and
+internet and their devices. Likewise, automotive engines would
+mysteriously die and could not restart. And only one telephone of the
+old landline type still worked and was connected to the outside world,
+namely, the Sattelsby House phone.
+
+Define functioning phone. Functioning in a crackling, circumscribed sort
+of way, for example, allowing an outside connection only in those times
+when something truly important needed to be discussed. In general, the
+only consistent exception to these anomalies was Sattelsby House itself
+where humans and spirits enjoyed full "interstate" communion, able to
+carry on fairly well vis-à-vis the random debilitating metaphysical
+eddies and vortexes besetting the rest of the village. It was as if
+Maidenswell had been placed in a time machine---and had landed badly
+half-in, half-out of the past, half-in, half-out of physics, though
+strangely purposeful in manners related to the Sattelsby clan.
+
+And so as our story begins, Maidenswell was far more of a ghost town
+than is imaginable, present, visible to the outside world, yet
+inexplicably unknown, unknowable . . . in spite of the insistent
+intrusiveness of modern era and its ability to machine-learn, big-data,
+and Google-Street-View anything everything everywhere . . . in spite of
+the modern era's relentless drive to turn any place with the least bit
+of nostalgic charm, uniqueness, or substance into an overrun,
+overdeveloped, overpriced mob scene. To be sure, there was a mystical
+pall, nothing short of a /spell /of unknown origin or purpose over
+Maidenswell.
+
+We could go on for many more pages, if not chapters, exploring
+Maidenswell's paranormality, as well as some of the adventures the
+children got up to with Henry---and we shall at some later time,
+Maidenswell's metaphysics being, after all, one of our main topics. But
+a more pressing problem has arisen, namely, that the father, Jimbo, has
+thundered down from on high that Thea and Drew are to attend the public
+high school in Torndale starting in the fall. Yes, /that /high school
+for any of you familiar with it, or, for that matter, acquainted with
+any dysfunctional American public high school. The call came just
+yesterday, and at first poor Nette argued and tried to reason with
+mulish Jimbo, but she knew from experience it was best to hold her
+tongue when Captain J descended into his block-and-spew debate style as
+he continued the plod of his general theme, as could be gleaned from,
+"My children will not be spoiled! They'll go out into the real world and
+take their lumps! Sink or swim! Just like I did! /Carpe diem!" /Henry
+noted later that he had never cared for the phrase /carpe diem/, and had
+always found those who used it to be braying asses. And so she fell into
+a trance muttering yes, yes, I see, I see until she let slip "gang
+activity." And to be sure, Jimbo seemed nonplussed for a second or two
+upon having this phrase land upon his ear from across the progressively
+darkening Atlantic, though he managed a quick recovery to resume
+justifying his edict all the more. Perverse as his logic might seem to
+us, he was certain that a setting promising substandard education and
+the threat of violence would be invaluably constructive and formative
+for his children.
+
+Bad as his latest meddling was,
+
+Aunt Bernice and Henry were naturally in an uproar. Aunt Bernice could
+not let it rest, and on the following day she called Jimbo back,
+representing herself, as she had before with some success, as that
+wealthy aunt of Jocelyn's, up from "the city" for a visit. And as she
+could not actually hold a phone for any length of time, young Drew held
+it for her while she pleaded their case for almost an hour. We will not
+rehash the entire discussion, but suffice it to say Aunt Bernice argued
+against the children attending a public high school, offering as "a
+widow of considerable means" to provide the best tutors
+year-round---just as she, Nette, Henry, and various Saint Aggie faculty
+had been doing with his tacit approval for the past years. Alas, but
+this offer was rejected. At the very least it was humorous to hear her
+attempts at modern slang---humorous enough to realize that such a prim
+and proper other-century lady had gathered in as much modern slang in
+the first place. Jimbo, somewhat calmer than the previous evening, would
+still not reconsider, adamant that his twins would not become, as he
+repeated ad nauseam, "namby-pamby," that "mixing it up" with the locals
+would cure their shyness and prissiness.
+
+"I'm afraid he means it," said ruefully smirking Nette after Drew had
+hung up for Aunt Bernice.
+
+"Indeed," exclaimed Henry, arching his eyebrows and staring ahead.
+
+It was a stormy and unseasonably cool night in late August, possibly due
+to all the additional metaphysical instability the extended interstate
+contact between an off-site real-world person and a Maidens Head ghost
+might have brought about. The whole group, twins, Nette, Aunt Bernice,
+and Henry, were sitting in the well-appointed Victorian front parlor. A
+"cheery" fire burned in the fireplace for mortals not used to
+fifty-degree temperatures during what should have been the warmest time
+of the year. For a good long while they could only stare into the
+flames, each in their own way perplexed by the awkward skew of the
+fulminant bad news.
+
+"What's so bad about the high school?" asked Thea to break the
+oppressive silence, albeit meekly since she already knew the answer was
+a foregone of a foregone.
+
+"We hardly know it," said Drew in knee-jerk support "We've only ever
+driven through on our way to Regis Gloom and Saint Aginore."
+
+The twins traded nervous glances.
+
+Silence but for the crackling fire.
+
+Thea shrugged. "And we can't go to the Regis Gloom high school?"
+
+"No," said Nette, "wrong district."
+
+"Torndale is a---" began Nette, but she did not complete her thought as
+Aunt Bernice's frown and narrowed eyes suggested she not.
+
+"Let's not discuss this any longer in front of the children,"
+command-suggested Aunt Bernice. She eyed the other adults once again
+sharply, and then turning to the children, "Will you excuse us adults?"
+
+"Yes, Aunt Bernice," mumbled Thea and Drew together, whereupon the rose
+and left for the saloon-slash-music room. Soon a Brillon de Jouy piece
+for piano and harpsichord could be heard.
+
+As afternoon drifted into evening, the ghosts spoke hardly tenderly
+about Torndale. They had known it from its rough, mean mill town days,
+to its gangster-bootlegger days, to its modern boom times when, seven
+years previous, it had become the site of a new medium-security prison.
+The town was soaked in opiates and methamphetamine, and the over half of
+the prison population were drug offeners. There was no doubt in ghost
+minds that Torndale was a cursed location.
+
+As a clouded, premature twilight descended, the group finally was quiet
+and thoughtful. The fire popped and hissed, while scattered raindrops
+hit the tall windows. "I'm of these times," said Nette finally, looking
+first at Henry, then at Aunt Bernice. "I suppose I can't see all of what
+you see."
+
+Henry lifted his hands while shrugging his shoulders. "We see doom. It
+is what drove us to God," he said, and then to Aunt Bernice, "We daren't
+extend ourselves to Torndale."
+
+"Indeed, no," exclaimed Aunt Bernice. "There is no crossing that river
+for us."
+
+Nette's eyes darted from ghost to ghost. At times she would just behold
+them as they shimmered. Other times she could talk to them for hours,
+effectively pumping them for anything they could say about their era.
+"Care to elaborate?"
+
+"As we've told you, the Leister is a barrier," said Henry finally, with
+an obvious tone of evasiveness.
+
+"And---/why/?" pressed Nette with a hint of sarcasm.
+
+"Doom, suffice it to say," said Henry ruefully.
+
+"Very well, doom," replied Nette, pulling an ironically exaggerated
+face.
+
+Suddenly, Henry flew up out of his chair (as only a ghost can) and
+exclaimed, "Oh come now, let's not give up hope so soon! Maybe things
+will turn out for the better. After all, the children have no corporeal
+friends their own age. Perhaps they'll find some nice young folks down
+there." But at that very moment a bolt of lightening struck nearby with
+a horrendous ear-splitting crash, followed in less than a second by a
+window-shaking boom of thunder. "No?" said Henry sheepishly, looking out
+the window.
+
+Nette laughed, albeit nervously. The children rushed back into the
+parlor with wide eyes. Aunt Bernice, however, had hidden her face. She
+had often said Maidenswell would someday be cleaved off the bluffs by
+lightening (or some other natural disaster) and thrown down into the
+river. She claimed knowledge of geology reports which speculated the
+village's thirty-acre half-circle of land rested on a Swiss-cheese-like
+karst formation and, as such, was riddled with caves, fissures, and
+underground streams. "Yet one more reason Maidenswell should never have
+been," she said ruefully.
+
+The twins did and did not understand what the adults were saying about
+Torndale, Thea having eavesdropped while Drew kept up the harpsichord
+part. They were of course very precocious and advanced for their age,
+but such conversations only excited their minds in a literal way,
+awakening, of course, nothing deeper, nothing experiential.
+
+"No matter what, it will be an adventure," said Thea, smiling meekly.
+
+The adults in unison shot her a stern look, guessing she had listened in
+on their conversation.
+
+"We met the Marksteiners last week, continued Thea. "They seemed nice.
+Maybe we can practice our German with them."
+
+"Yes, yes," said Henry, grinning from ear to ear. "As you said, they
+were very impressed that you spoke so well."
+
+"Thanks to Nette," said Drew, who had rejoined the group. He then
+thanked Nette for her dedicated tutelage in German, which, as he said,
+had paid for itself in one brief but exhilarating conversation with
+native speakers.
+
+"Who are these Marksteiners?" asked Aunt Bernice.
+
+"They're from Germany," replied Nette, brightly for her. "The father
+took over the auto parts factory, you know."
+
+"What sort of factory?" asked Henry.
+
+"Horseless buggy parts," replied Nette. "Not been doing well lately. I
+guess that's why he's come."
+
+"Lambs to the slaughter," said Aunt Bernice sarcastically.
+
+"I do know the Marksteiner kids will be going to Torndale High,"
+continued Nette. "We met the mother and kids at the store last week. Got
+to practice my German! They have a seventeen-year-old daughter and a
+sixteen-year-old son. Nice-looking kids. Bright-eyed and bushy-tailed."
+
+"Bright-eyed and bushy-tailed for the ragtag and bobtail," said Aunt
+Bernice. "Lambs to the slaughter. Pearls before swine."
+
+"Oh Bernice, what do you say we cheer up a bit, eh?" said Henry.
+
+"Yes, yes. Very well," said Aunt Bernice, straightening her back. "Come
+what may, we shall persevere. Yes, we shall."
+
+"Say, Thea," said Drew. "Let's get our umbrellas and take a walk. We're
+not too late for the theater."
+
+"Let's!" replied Thea, enthusiastically.
+
+"Children, before you go---" started Henry.
+
+"Yes?" said the twins in unison.
+
+"Could you play us your Duruflé piece?"
+
+The twins looked at each other, slightly embarrassed. Drew spoke first:
+"I think Althie has the fugue half figured out, but mine's still not
+ready."
+
+"Thea?" said Henry, his head tilted to one side.
+
+The girl smiled wistfully, shrugged her narrow shoulders and went over
+to the piano, the very beautiful used Bechstein grand their father had
+bought for them last year as a reward for "toughing out" a summer camp
+for disadvantaged and "at-risk" youth. Before sitting down, she eyed
+Drew and jerked her head indicating that he should join her. He caught
+on and came to her side, sitting down gingerly on the extreme left side
+of the bench. Satisfied that moral support was near, Thea finally began
+the hauntingly contemplative basic theme of the second half of Maurice
+Duruflé's /Prelude and Fugue On the Name Alain /with her right hand.
+Soon, her left hand was weaving in a hypnotically beautiful and delicate
+answer to her right hand's repeating and expanding melody. This
+continued until the left took over a version of the melody in a new key,
+while the right added another counterpoint. In no time a very complex
+fugue had been summoned, at times becoming a masterful fantasy on the
+melody, at times dying back into its original simplicity, then to roar
+forth again with urgency. Drew filled in the foot pedal parts. Finally,
+they brought the piece to its crescendo, a final flurry up the scale and
+then powerful chords.
+
+"Marvelous, marvelous!" cheered Henry, Nette too. Both were on their
+feet, then joined by Aunt Bernice. Nette's clapping filled the room
+normally, but Henry's and Aunt Berncie's seemed to be phased and
+lost-sounding.
+
+"Isn't she amazing?" exclaimed Henry. To be sure, the power and grace of
+the piece had lifted the group's mood, as had been Henry's plan. "Now,
+Drew, you play us something."
+
+"Oh, not after that, please," said Drew, grimacing, biting his lip.
+
+"Please, Drew," pleaded Henry.
+
+"All right. All right."
+
+At that the modest youth sat back down at the Bechstein and dutifully
+made his way through his own variations of Jehan Alain's /Choral Dorien
+/and /Petite Pièce, /his sister adding the foot pedal parts on his left.
+The pace was much slower, the mood much more somber and reflective, but
+the applause and bravos just as loud from the others at the end.
+
+"You must know," began Henry after their applause, "that the children
+transcribed both of their pieces themselves from the original organ
+scores."
+
+"Oh, we're just noodling around," said Drew.
+
+"As when a sorcerer changes lead to gold!" said Henry.
+
+"Can we go now?" asked Thea with a child's pleading look.
+
+"Now you two be careful," said Nette.
+
+"Oh, I've heard tonight is special," said Henry. "Tonight, a fairy
+prince and his retinue will be in attendance. And they've been known to
+stand and attempt to sing along if the music pleases them."
+
+At that everyone laughed.
+
+"What's on tonight?" asked Nette.
+
+"Bach's St. Anne Prelude and Edwin Fischer playing Mozart's Piano
+Concerto Number Twenty-two," said Drew.
+
+"What orchestra?" asked Aunt Bernice.
+
+"It's Mannheimers, pre-Mozart, I believe."
+
+"Well, that should be interesting," said Henry.
+
+"Mr. De Quincy and Mr. Baudelaire are to be avoided," said Aunt Bernice
+admonishingly. "And at the first sign of any metaphysical trouble, you
+come right back here in quick time! This is a very unsettled evening,
+children."
+
+"Yes, Auntie," said the twins in unison, laughing. At that they quickly
+left the room.
+
+Silence flooded back into the front parlor once the children had closed
+the front door behind them. Finally Aunt Bernice said, "That atrocious
+man! That braying ass! How dare he?!"
+
+"Charles? Charles Baudelaire? Oh he's not so bad once you get to know
+him," said Henry. "He was just a bit excited that last time. He was
+actually complimenting you, Bernice."
+
+"No, no, no!" exclaimed Aunt Bernice, waving her hand. "That sorry
+excuse for a father of theirs."
+
+"He is their father, and he does pay the bills," said Nette, her eyes
+wide with irony. "And, for the most part, he has enough sense to stay
+away and let us manage things."
+
+"Indeed. Once he's thrown a bomb into the room he tends to disappear
+again," mumbled Aunt Bernice.
+
+"He insisted on that summer camp for criminally insane youth last
+summer. No great damage was done," continued Nette with a shrug. "And he
+wanted them to get jobs this summer, but we sandbagged on that long
+enough. We're not as helpless as we think we are, and neither are the
+kids."
+
+"I'll not have my niece and nephew working like common laborers. Imagine
+the shame," exclaimed Aunt Bernice.
+
+"Oh, Bernice, they'll be thick as thieves with the smart set in no
+time," said Henry, jumping from his chair again. "You underestimate
+them. Your niece and nephew positively exude class, breeding, and
+leadership, and the children of this era are positively smitten by them.
+Yes, now that I think about it, this might all turn out nicely for them
+after all. Or at least not be the disaster we expect."
+
+"Oh, Henry, Henry," said Aunt Bernice with a wave of her hand. "Precious
+little warning when your mood changes."
+
+"Music, dear lady, music," said Henry. "Music is magic. I knew it would
+cheer us all up. It has me immensely."
+
+Aunt Bernice jerked her head away in consternation, and then jerked
+back, eyes flashing. "My mood is always the appropriate mood. Never
+doubt your mood, or try and change it abruptly to suit the company."
+
+"We shouldn't have been so negative right in front of them," said Nette.
+
+"Truth might as well will out," said Henry. "But again I say, let's not
+underestimate the children."
+
+"Alas, I fear---as you can well imagine---that their qualities will only
+excite envy and resentment in the many brutes down there. And let's not
+make any mistake, Henry, it is the brutes who rule the roost. They
+always have."
+
+"I know from experience what happens to bright, sensitive kids," said
+Nette. "We live in an era when---"
+
+"Brutes? /Brutes? /Oh, will you two leave off!" cut in Henry with a
+comical scowl, stamping his foot soundlessly. "The history of the human
+race is the story of the brute yielding to civilization. Just look at
+any chieftain or war lord of the past. Eventually he must put down his
+sword and rule his people. And in order to do so he must be civilized
+and bring civilization to the fore. And then over the generations his
+line becomes more and more gentrified. And so it has been since time
+immemorial. The blood of wild, heathen Viking maidens flows in the veins
+of Elizabeth of Austria."
+
+"Did flow," added Nette. "One of the more resentful brutes stuck a file
+in her chest, if you recall."
+
+"Yes, yes," said Henry, furrowing his brow, "I did hear about that. That
+swarthy nihilist killed her just the other day."
+
+"It's been over a century," said Nette, winking, grinning sarcastically.
+
+"My it's all so confusing. I saw her just the other day."
+
+"I moved heaven and earth to get here and stay here," said Aunt Bernice
+in her most distant voice to the ebbing flames of the fireplace. "When
+their mother was murdered"---Henry and Nette shot her nervous glances,
+but didn't bring protest---"I fought many battles to come here
+substantially. It has cost a great deal---and so much still sways in the
+balance, you know---but it had to be. It just had to be!
+
+"Yes, I know the times have changed. And to a certain degree we must
+acquiesce and not become outright meddlers. But every child deserves a
+good start in life. Indeed. A child must receive a proper balance of
+emotional warmth and intellectual stimulation. Children must have a
+stable home and proper guidance. And when these things are lacking, a
+child will, often as not, grow up stunted and at great risk of going
+through life rudderless and unfulfilled. And that is why I came. I could
+not let that happen to those lovely young people of Jocelyn's. I just
+couldn't."
+
+Thea and Drew headed up steep and bending Leister Street until they
+reached the village square. There was still some light despite the heavy
+clouds. Going out into the Maidenswell night was indeed like stepping
+back in history. The theater was seemingly the focal point of a portal
+into the past. To be sure, Maidenswell seemed to relish in disobeying
+one of modern science's most cherished rules, that is, the rule against
+time travel back into the past.
+
+Torndale High School, home of the Fighting Badgers, lay on the northeast
+side of town, not far from the river. The main building had been built
+just after World War I in a style an architectural historian might in a
+generous mood call neoclassical. Again, the local limestone was in use,
+as were bruise-red bricks with corrugated surfaces. The building faced
+Locust Street, and on its far-north side stood a gymnasium which had
+been added on in the early fifties. Very little grass or shrubbery was
+to be seen as most of the grounds were covered in asphalt or gravel for
+playgrounds or parking. Indeed, from the size of the parking lots alone,
+Torndale High looked more like a factory where all the workers drove to
+work.
+
+Apparently, Jimbo's lawyer had already enrolled the children in the
+school district as a letter for an "intake interview" had arrived in
+their Torndale post office box the following Monday (Mail was no longer
+delivered to Maidenswell.). The meeting was to be with the school
+principle, a Mr. Frank Rucker, on the Thursday before the Labor Day
+weekend. School would commence on the following Tuesday.
+
+Nette and the children brainstormed about what to wear to school.
+Although Thea and Drew did not share all of Nette' goth subculture
+proclivities, she had very much influenced their dress as they also
+dressed dark, formal, and other-century. Still, Thea decided to forgo
+her black Brontéian look for what could be described as Victorian
+schoolgirl uniform: a black pleated skirt, a white blouse, knee socks,
+and a black blazer. Drew grudgingly decided to set aside his "Beau
+Brummel Off To a Funeral" look for a similar blazer, tie, and trousers
+outfit. The next day, a Friday, they made a trip in the Benz to Boston,
+first to their amazing tailor, a tall young man from Berlin, Gunther
+Schneider, who specialized in "couture d'époque par excellence." Herr
+Schneider came from a long line of clothiers, his surname in fact/ /was
+the German word for tailor/. /Nette had first met Gunther at a party at
+St. Aginore. He had recently arrived from Germany, and was wearing the
+most unique and eye-catching blend of goth and medieval clothing she had
+ever seen. Everyone was smitten by him, and his business thrived from
+the start, serving the needs of the discriminating non-modernist
+throughout the greater New England region. Yet he had to turn down the
+twins on their latest request as he could not guarantee the uniforms in
+time for school in just a week. Still, he was able to direct them to a
+competitor who kept just such uniforms in stock for the myriad of prep
+and parochial schools in the region. In luck, the children found exactly
+what they wanted and were even able to have the St. Aginore coat of arms
+stitched onto the front blazer pocket by an automated embroidery machine
+while they waited.
+
+Nette, in a moment of great ambivalence, had convinced
+
+Lieutenant Colonel, U.S. Army, retired, Franklin Pierce Rucker was
+already ten years in his position as principal of Torndale High School
+and had seen limited success in his efforts to bring discipline and
+better academic results to the troubled school. For various reasons,
+momentum could never be sustained and every victory seemed to offset by
+a new defeat. To put it mildly, he could not yet claim victory in the
+war against bad behavior and bad academics. In fact, bad kids still
+ruled the roost no matter what he did. The corner was not yet turned, as
+he would freely admit.
+
+His last permanent assignment before retiring from the Army had been
+Washington, D.C., where he had found many civilian placement firms eager
+to help the then forty-seven-year-old veteran African-American Army
+officer with an exemplary record and references from the highest levels.
+Although most of the offers were for "six-figures" and bore
+lofty-sounding titles, Franklin Rucker had learned from his military
+experience to avoid situations where duties and goals could not be
+stated in a few simple sentences. It was for that reason that Light
+Colonel Rucker had accepted the principalship at Torndale (at just under
+one-hundred-thousand per year) as the Whiltshire County school board had
+been quite clear about his duties, as well as the latitude and support
+he would be given to accomplish these tasks. Indeed, his interview with
+the board had been a very frank discussion between people who seemed to
+speak the same language and share the same views. In fact, the scheduled
+two-hour interview stretched into an all-afternoon love-fest, supper and
+drinks at the Elks Club afterwards. The board members---three men, one
+of them black, two women, one of them black, and not one of them under
+two-hundred pounds in weight, all with atrocious body mass
+indexes---made it clear that they needed a man just like Rucker to take
+control of a school with serious discipline problems. Much attention was
+given to the subject of gangs and how they dominated the community and,
+thus, the schools.
+
+Yet it wasn't until happy hour and a few stiff belts were under
+everyone's very large belts that the really frank and honest talk
+emerged, and when it did, it was as if a dam had burst. Indeed, finally
+out on the table was the real fear: race. Apparently, Torndale had seen
+an influx of blacks in the past decade, most connected familially to a
+nearby state prison which had also been completed ten years previous.
+Torndale had always been a rough town, but now race had made a bad
+situation worse.
+
+Although Light Colonel Rucker had been attached to various armored units
+during his Army career, he eventually came to be utilized as a
+troubleshooter for troop discipline and morale, especially while
+attached to USAREUR Germany, a theater notorious for its morale
+problems. Throughout the post-Vietnam seventies and into the early
+eighties, the Army in Germany had been rife with racial tension, poor
+morale, and rampant drug and alcohol abuse. However, by the mid-eighties
+the problem seemed to be in remission, and he, Rucker, based for much of
+his career at Army Headquarters in Heidelberg, Germany, was given much
+of the credit. His approach was simple and classic military: develop the
+best intelligence possible, then bring overwhelming force to bear on the
+enemy. And yet this regimen was not bearing fruit here in the civilian
+world. He could be as strict as he wanted during school hours, but peace
+and order dissolved in the afternoon when the kids left his control and
+reentered the community where they reloaded all the bad once again.
+
+And now there sat before him three of the weirdest white people he had
+ever seen. He knew white people could be down-to-earth, and he also knew
+they could be incomprehensible, from planets never charted. In Germany,
+for example, he had seen an entire nation of white people so incredibly
+white that the white Southerners back in Tennessee seemed almost
+Jamaican by comparison. And like most blacks, he instinctively
+associated such extreme whiteness with racism, for they most obviously
+were not playing along with the modern egalitarian "nobody should be
+better than anyone else" game. How could privileged, elitist whites not
+be racist? he wondered.
+
+After shaking hands and smiling bigger than he had in recent memory, he
+settled back into his oversized leather chair and launched into
+chit-chat about the unseasonably cool weather. Long purged, though, was
+the small-town Tennessee habit of making jocular, presumably
+well-intentioned racial distinctions; hence, he did not say "...and
+y'all must like it a little cooler." The next impulse he suppressed was
+to ask them if they were Addams Family fans. Instead, he gushed on about
+how smart their uniforms were, that seeing them looking so nice made him
+revisit his old idea of introducing uniforms to Torndale High, and what
+did they think of that, and would they like to be on a committee to help
+design the uniforms? His audience---having had almost no experience with
+the greater African-American America---remained wide-eyed and silent
+until Principal Rucker finally lurched on to the subject of their
+previous education. Now Nette spoke, and spoke for a good ten minutes
+straight, delineating exactly what she, Aunt Bernice, and other tutors
+had accomplished with the children in the past few years: chemistry (up
+to organic), biology, botany, Latin, Attic Greek, German, French,
+mathematics (up to linear algebra, differential equations, and
+analysis), English literature (including all of Shakespeare), and
+philosophy (including Plato, Aristotle, Kant, Hegel, Fichte, as well as
+Heidegger and Sartre). She explained how the children were accomplished
+autodidacts on the piano. She showed Colonel Rucker Drew's most recent
+thesis---hand-written, hand bound---on why the main character of
+Grimmelhausen's /Simplicisimus /exemplified Spinoza's four levels of
+human intelligence over the course of his adventures in the Thirty Years
+War. Colonel Rucker knew all about the Thirty Years War, being an avid
+amateur war historian, and he wanted to chime in, but he held his tongue
+instead, certain that Drew's thesis had nothing to do with that war's
+peculiar mix of standard battles and guerrilla-style fighting. "So you
+don't use computers?" he said finally.
+
+"No, we don't really have electricity in Maidenswell," said Nette with a
+raised eyebrow. "And besides---"
+
+"Well, you'll have plenty of opportunity to use one here!" he exclaimed,
+cutting in. "Our computer lab is top-notch. You'll have unlimited
+research capabilities right here. We have broad-band Internet, iron-clad
+filtering and security, and unlimited printing---you just pay for any
+paper past two-hundred sheets. "
+
+"Oh," said a hardly enthused Nette, and the children glanced at one
+another.
+
+The second after the Holcombes had left his office, Frank Rucker knew
+three things: One, they would stick out like the sorest thumbs the
+school had ever seen---worse even than those punky, gothy theater kids;
+two, the school had virtually nothing to offer them academically; and
+three, they would fit well into his new "weed-and-seed" program. Indeed,
+Frank Rucker's daughter was a city councilperson in Chattanooga,
+Tennessee, and was in charge of community's so-called /Weed-and-Seed/
+program, a government initiative designed to turn around bad urban
+neighborhoods. As she had explained it, first you come down heavy on the
+bad element, then you follow up immediately with good alternatives---all
+done with as much "shock and awe" as you can bring to bear. Being a
+former mechanized artillery officer, Frank Rucker felt great affinity
+for any plan employing liberal amounts of shock and awe.
+
+The problem with Torndale High was how very little there was to work
+with at the top, that is, for the seed portion of Weed and Seed. But now
+with the Holcombes---as well as the two German kids he had met that
+morning who were also academically somewhere comparable to American
+college undergraduates---he could begin to build a core of "model
+students," i.e, the "awe" of the seed part of the plan. Four good kids
+wasn't much, but he was literally fighting one kid at a time in his
+efforts to achieve better academic performance. It wouldn't be easy,
+though. The bad element, the bullies, the gang-bangers would undoubtedly
+go after them, but he and the staff would be ready. That night over
+dinner he spoke at length with his wife about the new kids and his
+plans.
+
+"But, Frank, you know the gang-bangers will be on them the minute you
+turn your back," said Louelle Rucker.
+
+"Louie, me and the faculty, the guards, hell, the janitors!
+/everybody's/ going to watch these kids like hawks."
+
+"What are they going to take? It sounds like they're ready for grad
+school at Oxford already."
+
+"They can do physics with Ted Simon, and Kathy Stockbridge's English lit
+is solid, and then Spanish, and---and they can take some stuff at
+Leister-CC. That's where Dale Ryman has taken the Thespian Club. Their
+guardian said they were taking courses at St. Aginore. We can arrange
+credit for that easy enough. I mean, that's the least of my worries." He
+waved his fork in dismissal.
+
+"You're going to give it one more year and then we're back to either DC
+or Tennessee, right?"
+
+"Right, right," said Rucker, smirking, eying his wife askance.
+
+"They're still mad as hornets over you canceling football last year.
+Pretty soon they're going to start burning crosses on our lawn."
+
+"Football players who rape and assault adults, and then lie and cover up
+don't play football," said Rucker with heat. "And girls who aren't
+ladies don't represent their school on the court, either."
+
+"This reminds me of Augsburg."
+
+"Uh-huh."
+
+"You were a lieutenant attached to that artillery outfit. Always out in
+the field. Always on maneuvers. No free time, no private life."
+
+"Uh-huh." Frank Rucker looked out across the dining room, his mind's eye
+seeing vignettes from his first permanent assignment, Augsburg, Germany,
+nineteen-seventy-three to seventy-six. He clucked his tongue and shook
+his head. "What a shit-hole! Hash smoking out in the open. Troops
+dropping dead from barbiturates and whiskey. Race riots. Black troops
+disobeying orders from white officers. Man, was that hell! Meeting you
+was the only good thing."
+
+"Back then you could send 'em off to Fort Leavenworth, Frank, but you
+don't have that kind of leverage here. And it's going to catch up to you
+someday. So why don't we go back to D.C. and you take one of those board
+member gigs where you just act nice and talk all wise and knowing?"
+
+"Louie, baby, I told you, I'm no good looking pretty in a suit. I've got
+to have a mission, a goal.... I'll sort this thing out. And besides,
+who's going to buy this house? We'd take a bath if we tried to sell
+right now."
+
+"The school board won't go for school uniforms. You know that."
+
+"But we do have a zero-tolerance of gang clothes. That was the first
+step. And the police don't let no one dressed gang-style near the
+school. No thumpity-thump-in-the-trunk in the parking lots, neither.
+Honey, it's moving in the right direction."
+
+"Another year?"
+
+"Yeah, yeah, a year." He waved his hand, smirking.
+
+"You think you can do it?"
+
+"I'm giving it my best shot."
+
+"Honey, this town's got a history. I was talking to---"
+
+"Hang on, Louie," interrupted Rucker. "You're not from rural Tennessee.
+/Every /town in the South has /history."/
+
+"No, you're right. I'm from Chicago, a utopia of racial harmony where
+the Polish and the Irish had us black folk over for dinner every Sunday
+noon."
+
+Laughter, albeit low-level.
+
+"Honey," began Rucker again, "I told you my plan. It's simple: Promote
+the hell out of the good kids. Shut down, run off, otherwise neutralize
+the bad kids. Pull as many of the in-between kids as you can into the
+good camp. Keep the test scores rising. Keep the students off the police
+report. Keep the girls in contraceptives, the boys from openly groping
+them. That's all a modern high school principal can do. That's all they
+expect. And I can do it. It's not that complicated."
+
+"I'm telling you, Frank, this is an ugly-assed town with an ugly-assed
+past."
+
+"Nothing was as bad as Augsburg, Louie. And you didn't know the South,
+neither."
+
+The tall, former beauty queen, former track star shrugged her shoulders.
+"Okay, Frank. But there's something creepy about this town. You remember
+what Mama said last winter, don't you?"
+
+"White folk don't scare me no more, Louie, and neither do their ghosts.
+That was an old Klan tactic, getting black folk all worried about ghosts
+and shit."
+
+"Okay then." She smirked at her husband. "Okay."
+
+"Come on now, we've been picking our way through the white minefield all
+our lives. And so what? So here's new wrinkle to the same old same old."
+
+The couple of thirty-five years was silent for a minute as they finished
+their supper. Finally, Louelle spoke: "You know, those Holcombe kid's
+mother was killed by one of the rednecks. Hit her going sixty on a
+snowmobile. He's doing time over at Chalter for reckless homicide."
+
+"No, I didn't know that. That's some harsh shit." Rucker looked away
+quickly.
+
+"He said it was an accident and he was drunk and all, but the evidence
+was clear he seen her and ran her down."
+
+"Lord have mercy." He sucked at his teeth loudly.
+
+"You want to hear about the witches?"
+
+"What on earth, Louie?" Rucker gave his wife an ironical look of
+surprise.
+
+"I heard the murderer's cousin's the town witch, a real nasty piece of
+work."
+
+"White trash, Louie, white trash. I know all about white trash."
+
+"Mean, nasty white trash with big-assed attitudes and guns."
+
+"So what are you saying, honey?"
+
+"I don't really know. I guess I'm saying you'll have your hands full
+this fall."
+
+"Like always. Like I don't know that?" He laughed, clapped his hands,
+and rubbed them together. "So what's for dessert?"
+
+"I'm eating cheesecake, but you're on a diet."
+
+"Oh, Louie!"
+
+"I jog four miles every other day---all year-round. You play golf once a
+week---in the summer, riding around in a cart."
+
+Rucker was silent for a time, but when his wife returned to the table
+with only one piece of cheesecake he spoke up, "And I was just hearing
+from the police chief that he thinks the race thing is settling down. So
+now you're going on about some voodoo crap."
+
+Louelle Rucker eyed her husband intently, impassively. "Some black kids
+integrate. I'm not surprised. But that doesn't make the gangs go away.
+That doesn't make the respect thing any better."
+
+"No, you're right. Damn. When I hear that thumpity-thump music?"
+
+"Uh-huh."
+
+"And I turn around and see it coming out of a white kid's car?"
+
+"Uh-huh."
+
+"Man, how times have changed!" Rucker shook his head, grinning.
+
+"Thank Hollywood for that. You remember we went to your uncle's funeral
+down in Sparta?"
+
+"Uh-huh."
+
+"And they're all talking about this or that white movie star?"
+
+"Uh-huh. Uh-huh." Rucker's smile turned to laughter. "Backwoods
+Tennessee black folk going on about some white dudes in some damn
+movie."
+
+"We've taken them over and they've taken over us. We overlap. But not
+really. And that's going to be a problem someday. So which end's up? I
+don't know. I don't know."
+
+"Me neither, Louie. Me neither. All I know is they got the door cracked
+for folks like us. The rest? The nappy-headed? Hell, everybody pretends
+they don't exist no more. Discards. Recycles. Bolos."
+
+"Unless they can play ball or do rap. Right. Or act the loud fool and
+make white folks blush and laugh."
+
+"Uh-huh. You know how white folk used to go see horror films with
+Dracula and Frankenstein and all that? Mummy and Wicked Witch? Well, now
+they just watch the mean street niggers doing their rap videos for a
+scare."
+
+"Uh-huh. Uh-huh."
+
+Laugher.
+
+"Yes sir! Promote 'ol Franklin Rucker to colonel and call civil rights a
+success! Sure enough! But we're not looking Mr. Gift Horse in the mouth,
+now are we?"
+
+"Guess not. Still got credit cards and mortgage to pay off. And I like
+driving over to Whiltshire in my Camary and buying eighteen-dollar
+cheesecake from the Coöp."
+
+"Uh-huh. Sure enough. And I want some new golf clubs. Can't quit now.
+No, sir. Can't stop now."
+
+He succeeded in Germany by getting inside the average troop's head. He
+would make the two sets of high-class whites his guinea pigs. He would
+get inside their heads, find out what made them tick and attempt to draw
+more of the students into a nucleus built around them. Would the bad
+element
+
+Chapter 2: The Embarrassment of Heaven
+
+Nette had a very strange dream early that night. She went downstairs and
+found Henry, Charles Baudelaire, and Thomas de Quincey sitting in
+silence around the fire. The men rose and bowed to her, seemingly
+nonplussed to see her in her nightgown.
+
+"Dear Nette," exclaimed Henry, whatever brings you out of your chambers
+as this hour?"
+
+All eyes went to the large wall clock, which read one-thirty-three.
+
+"I just had the strangest dream," she said wistfully.
+
+Witch: There's magic, deep magic here. Everywhere, really. But humans
+don't understand it. I don't understand it, either, but I can feel it,
+sometimes see it, and it talks to me---sometimes. But that doesn't mean
+anything. People come to me because they think I can get it for them.
+
+When I was a kid I consorted with what turned out to be an evil spirit,
+and it cost me---a lot. It possessed my brother and at a pool, he held
+me under until I passed out. For a while I was dead, and I was in the
+spirit's world. Imagine being as scared as you've ever been, all while
+being electrocuted. They brought me back, but from then on magic was
+
+Usually, the magic doesn't care about us humans. But you're up in
+Maidenswell and it's running quite a show up there. I might come up
+there sometime and take a look around, if you don't mind.
+
+#+INCLUDE: "./footer.org" :minlevel 1
+
+* Footnotes
+
+[fn:1] No hips or chest, as she would say.
