@@ -1,0 +1,105 @@
+#+TITLE:
+# Place author here
+#+AUTHOR:
+# Place email here
+#+EMAIL: 
+# Call borgauf/insert-dateutc.1 here
+#+DATE: 
+# #+Filetags: :SAGA +TAGS: experiment_nata(e) idea_nata(i)
+# #chem_nata(c) logs_nata(l) y_stem(y)
+#+LANGUAGE:  en
+# #+INFOJS_OPT: view:showall ltoc:t mouse:underline
+#+HTML_HEAD: <link rel="stylesheet" href="./wuth.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="./ox-tufte.css" type="text/css">
+#+HTML_HEAD_EXTRA: <style>
+#+HTML_HEAD_EXTRA: article > div.org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-content-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: article > section .org-src-container {
+#+HTML_HEAD_EXTRA:     width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     max-width: var(--ox-tufte-src-code-width);
+#+HTML_HEAD_EXTRA:     clear: none;
+#+HTML_HEAD_EXTRA: }
+#+HTML_HEAD_EXTRA: div.org-src-container > pre { clear: none; }
+#+HTML_HEAD_EXTRA: pre.example {clear: none; }
+#+HTML_HEAD_EXTRA: </style>
+#+INCLUDE: "./header.org" :minlevel 1
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: blog20250501.html
+#+OPTIONS: H:15 num:15 toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil
+# #+OPTIONS: prop:t # This makes MathJax not work +OPTIONS:
+# #tex:imagemagick # this makes MathJax work
+#+OPTIONS: tex:t num:nil
+# This also replaces MathJax with images, i.e., don’t use.  #+OPTIONS:
+# tex:dvipng
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [american]
+# Setup tikz package for both LaTeX and HTML export:
+#+LATEX_HEADER: \usepackqqqage{tikz}
+#+LATEX_HEADER: \usepackage{commath}
+#+LaTeX_HEADER: \usepackage{pgfplots}
+#+LaTeX_HEADER: \usepackage{sansmath}
+#+LaTeX_HEADER: \usepackage{mathtools}
+# #+HTML_MATHJAX: align: left indent: 5em tagside: left font:
+# #Neo-Euler
+#+PROPERTY: header-args:latex+ :packages '(("" "tikz"))
+#+PROPERTY: header-args:latex+ :exports results :fit yes
+#+STARTUP: showall
+#+STARTUP: align
+#+STARTUP: indent
+# This makes MathJax/LaTeX appear in buffer (UTF-8)
+#+STARTUP: entitiespretty
+# #+STARTUP: logdrawer # This makes pictures appear in buffer
+#+STARTUP: inlineimages
+#+STARTUP: fnadjust
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+# #+BIBLIOGRAPHY: ref plain
+
+
+@@html:<label for="mn-demo" class="margin-toggle"></label>
+<input type="checkbox" id="mn-demo" class="margin-toggle">
+<span class="marginnote">@@
+[[file:images/WutheringKunstlerBanner4.png]]
+\\
+\\
+@@html:</span>@@
+\\
+\\
+* Blog entry May 1, 2025
+
+#+begin_export html
+<img src="./images/LakeSuperiorIce.jpg" width="780" alt="Lake Superior Ice">
+<span class="cap">The Great Inland Sea with ice</span>
+#+end_export
+
+
+
+** Why I must leave my beloved North Shore
+
+There's the idea of the /Wechselbad/ or /[[https://en.wikipedia.org/wiki/Contrast_bath_therapy][Contrast bath therapy]]/ where
+a person immerses oneself back and forth between a hot bath and a cold
+bath. The effect is supposed to stimulate "vasodilation," thereby
+improving blood flow and healing.
+
+This is also how I describe my life here in the last county on Lake
+Superior's [[https://en.wikipedia.org/wiki/North_Shore_(Lake_Superior)][North Shore]] before Canada. I'm saying the physical place
+itself, the millions of acres of boreal forest on the northwestern
+third of the North Shore of Lake Superior is the steaming hot bath,
+while the social-psychology, the human side, is the ice-cold bath.
+
+#+begin_figure
+#+CAPTION: The North Shore of the Inland Sea; red star is Grand Marais
+[[file:images/Arrowhead1.png]]
+#+end_figure
+
+
+
+
+#+INCLUDE: "./footer.org" :minlevel 1
+
+* Footnotes
+
