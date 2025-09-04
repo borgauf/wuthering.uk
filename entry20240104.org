@@ -536,7 +536,7 @@ The soul must go by Death alone, so, it must by life, if it is a soul. \\
 ---Emily Dickinson
 #+end_quote
 
-...alluding to The soul as an entity of both life and
+...alluding to the soul as an entity of both life and
 death. Indeed. Especially death was handled so very differently back
 then. Consider Queen Victoria[fn:29] who wore mourning black from the
 time of her husband Prince Albert's death in 1861 until the end of her
@@ -4485,7 +4485,7 @@ hyperreality later. But for now, yes, Dark too often suffers from
 hyper-Dark treatments.
 
 [fn:16] ... for example, due to the Victorian shadow thrown over my
-childhood especially by my grandmother?
+childhood, especially by my grandmother?
 
 [fn:17] Look [[https://en.wikipedia.org/wiki/Emily_Bront%C3%AB][here]] for a quick biography.  \\
 [[file:images/Emily_Brontë_by_Patrick_Branwell_Brontë_restored.jpg]] \\
