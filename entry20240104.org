@@ -570,7 +570,8 @@ just not into spectacular...
 
 The fresh-cut rose elicits a simple response, but the faded rose
 another---deeper, sobering, but never "depressing," at least not for
-me. Here is something from my novel /Emily of Wolkeld/ [fn:31]
+me. Here is something pastiching the nineteenth century from my novel
+/Emily of Wolkeld/ [fn:31]
 
 #+begin_quote
 The new cut rose: initially beautiful, thereafter dried and
@@ -593,7 +594,7 @@ a pat on the back...
 
 Let's see another example of Dark get-it-or-don't, this time another
 poem from Emily Dickinson, her /There's a certain slant of
-light/[fn:32]
+light/
 
 #+begin_verse
 There's a certain Slant of light,
@@ -618,14 +619,14 @@ On the look of Death ---
 #+end_verse
 
 Let that sink in for a while... The last line includes /Death/
-capitalised.[fn:33] Again, I must emphasise how these
+capitalised.[fn:32] Again, I must emphasise how these
 nineteenth-century artists approached human mortality so differently
 than we do today. As I'm saying, this past-century view of Death has
 largely gone lost. I hope to rediscover it. I'll start by positing
 their understanding of Death was integral to their understanding of
-Nature...
+nature...
 
-** Pre-modern Nature and Death
+** Pre-modern nature and death
 
 #+begin_quote
 Travel why to Nature, when she dwells with us? Those who lift their
@@ -634,34 +635,52 @@ hats shall see her, as devout do God. \\
 #+end_quote
 
 Here are the main points towards a new and much truer understanding of
-Nature:
-+ True nature is the myriad cycles of /birth, growth, deterioration,
-  and death/ happening constantly everywhere, full stop, nothing
-  else...
+nature:
+
++ Nature is the myriad cycles of /birth, growth, deterioration,
+  and death/ happening constantly everywhere...
 + ...ergo, /nature is not a place/, no indoors versus outdoors, no
   here versus there, rather, a state of being, life and death,
   existence itself...
-+ ...ergo, no increase or degression of nature, rather, nature
++ ...ergo, no increase or decrease of nature, rather, nature
   constant ubiquitous...
-+ ...ergo, deterioration and death are integral parts of true Nature.
++ ...ergo, deterioration and death are integral parts of true nature.
 + ...and so our increasingly extra-natural, pseudo-immortal modern
-  human flies in the face of, is becoming evermore estranged from true
-  Nature.
-+ ...and finally, many Romantic Era poets tapped into real Nature---in
-  contrast to our modern aloof, triumphalist grandiosities, which
-  amount to a complete estrangement from nature as separate and
-  locational, thus, "held outside" and rendered optional.
+  trans-human flies in the face of, is becoming evermore estranged
+  from true nature.
++ Finally, many Romantic Era poets tapped into real nature...
 
-Real nature is not optional, it just is---ubiquitous, unrelenting. I
-hold that our modern, twenty-first-century understanding of nature is
-very different than /Nature/ of early-nineteenth-century poets such as
-William and Dorothy Wordsworth, John Clare, the Haworth and Amherst
-Emilies.[fn:34] I contend my principals had a unique, undoubtedly
-intuitive grasp of how nature was the ongoing struggle between, the
-entropic balance of birth and growth versus deterioration and
-death. No other creed, philosophy, religion the world over sensed,
-comprehended, and expressed this cosmic truth better than my
-principals have through their poetry.[fn:35]
+...in contrast to our modern aloof, triumphalist grandiosities, which
+amount to a complete estrangement from nature as separate and
+locational, thus, nature kept outside and rendered optional.
+
+Yes, my principals instinctively knew small-n nature and attempted in
+their own modest yet doomed ways to reach capital-N Nature. Did they
+succeed? No, but luckily they did get the barest, briefest
+glimpses. Though not that anyone ever has. But I digress. Back to what
+small-n nature is.
+
+Again, real nature is not a place, it just is---ubiquitous,
+unrelenting. I hold that our modern, twenty-first-century
+understanding of nature is very different than nature of
+early-nineteenth-century poets such as William and Dorothy Wordsworth,
+John Clare, the Haworth and Amherst Emilies.[fn:33] I contend my
+principals had a unique, undoubtedly intuitive grasp of how nature was
+the ongoing struggle between, the entropic balance of birth, growth,
+deterioration and death. No other creed, philosophy, religion the
+world over sensed, comprehended, and expressed this cosmic truth
+better than my principals have through their poetry.[fn:34] For the
+first time they faced nature directly and started to leave
+anthropocentrisms behind. Irrelevant became the typical coping
+strategies of Western and Eastern belief systems, all of which
+emphasize how the human should behave, live. And what do, e.g.,
+Christianity and Buddhism have in common? They both preach passivity,
+humility, and minimalism as behavior strategies to cope with the
+swirling vortexes caused by our species' toxic domination and
+exploitation of this planet. As one comedian said, We humans turned
+the whole planet into a one-species department store---then we started
+looting and ransacking it! Is there any point to finding "peace" in
+this horrendously bad karma?[fn:35]
 
 Take our modern indoor living environments---like modular, sealed
 /space stations/ plopped down on an alien planet compared to the
@@ -4543,20 +4562,18 @@ original crime---if it was a crime at all. One German word for doom is
 grief]]/ or the Kübler-Ross model? Grief as an emotional malfunction
 to be systematically reduced, fixed, corrected? Alas.
 
-[fn:31] Not out yet. Coming...
+[fn:31] Not out. Coming probably never ... at least not in this
+socio-political climate.
 
-[fn:32] In the third line, /Heft/ means weight, heaviness; importance,
-influence; /or/ (archaic) the greater part or bulk of something.
-
-[fn:33] Dickinson freely employed the capitalising of nouns for poetic
+[fn:32] Dickinson freely employed the capitalising of nouns for poetic
 emphasis.
 
-[fn:34] Again, my shorthand for Emily Brontë and Emily Dickinson is
+[fn:33] Again, my shorthand for Emily Brontë and Emily Dickinson is
 based on their earthly locations---Haworth, West Yorkshire, for the
 former and Amherst, Massachusetts, for the latter.
 
-[fn:35] Pointedly absent from any sort of modernist poetry is this
-underlying understanding of true Nature, and, therefore, a
+[fn:34] Pointedly absent from any sort of modernist poetry is this
+underlying understanding of true nature, and, therefore, a
 Nature-based metaphysics. Of course many celebrated poets of the
 late-19th, 20th, and 21st century have waxed deep-impressionistic,
 painting lovely impressionistic canvases. However, I'm saying they
@@ -4570,6 +4587,10 @@ dark, snowy forest space but goes much further into a metaphysical
 fairy realm. This is key, as in, this is key to why modernist poetry
 is all but useless fluff---wont to drift into irony and outright
 absurdism.
+
+[fn:35] To my mind, Thoreau with his /On Walden Pond/ only started the
+discussion and certainly did not get anywhere from small-n nature to
+capital-N Nature.
 
 [fn:36] Is it not ironic how nearly all lifeforms that attempt to
 share our modern human environments uninvited are considered invasive,
