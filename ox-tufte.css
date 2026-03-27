@@ -12,9 +12,9 @@
     /* ^ equivalent of 5em when element has 1rem font-size */
     --ox-tufte-note-line-height: 1.3;
     --ox-tufte-note-font-size: 1.1rem;
-    --ox-tufte-note-code-font-size: 1rem;
+    --ox-tufte-note-code-font-size: 1rem; 
     --ox-tufte-code-font-family: "dejavu_sans_monobook", "Liberation Mono", cmu_bright, cmu_sans_serifmedium, 'Computer Modern Serif', Consolas, Menlo, Courier, monospace;
-    --ox-tufte-code-font-size: 1.3rem;
+    --ox-tufte-code-font-size: 1.1rem;  /* I changed this. */
     --ox-tufte-code-font-size-sans: 1.2rem; /* from ".sans > code" */
     --ox-tufte-code-line-height: 1.42;
     /* values tufte.css reuses for h1,h3,h3 */
@@ -193,9 +193,8 @@ h4 {
     line-height: var(--ox-tufte-heading-line-height);
 }
 h4 {
-    font-size: 1.9rem; /* h3=1.7rem; */
+    font-size: 1.5rem; /* h3=1.7rem; */
     margin-top: 1.8rem; /* h3=2rem; */
-    font-style: normal;
 }
 
 /************************************/
@@ -294,7 +293,7 @@ article ul ul ol, article ol ol ol, article ul ol ol, article ol ul ol {
     width: calc(100% * 8 / 9); /* 40% wrt body, when 100% is 45% */
 }
 section ul, section ol, section dl {
-    padding-inline-start: calc(100% / 11);
+    padding-inline-start: calc(100% / 21);
     width: calc(100% * 10 / 11);
 }
 article ul .sidenote, article ol .sidenote,
@@ -330,7 +329,7 @@ article ol ul ol .sidenote, article ol ul ol .marginnote { /* 11/8 = 11/10 X(10/
 }
 /* fix padding issues first and make them percentages */
 article dl > dd {
-    margin-left: calc(100% / 10);
+    margin-left: calc(100% / 13); /* changed from 10 to 13 20250113 */
 }
 /* fix sidenote width and margin-right */
 article dl dt .sidenote, article dl dt .marginnote {
@@ -398,6 +397,7 @@ section pre.example {
     display: inline-block;
     max-width: 100%;
     overflow-x: auto;
+    font-size: 80%;
 }
 /* END: fix horizontal */
 
@@ -443,8 +443,10 @@ div.marginnote p {
 /* BEGIN: captions on figures */
 figure > figcaption { /* undo tufte-css tweaks, till they're better supported */
     max-width: unset;
-    float: left;
+    float: right;
     width: 100%;
+    padding-top: 1.2em;
+    text-align: center;
 }
 /* undo tufte-css tweaks, till they're better supported */
 figure.fullwidth figcaption {
@@ -466,5 +468,26 @@ article code {
     overflow-x: auto;
     max-width: 100%;
     display: inline-block;
+    color: green;
 }
 /* END: prevent side-scroll when result of inline call is long */
+
+/* article > div.org-src-container { */
+/*     width: var(--ox-tufte-content-width); */
+/*     max-width: var(--ox-tufte-content-width); */
+/*     clear: none; */
+/* } */
+
+/* article > section .org-src-container { */
+/*     width: var(--ox-tufte-src-code-width); */
+/*     max-width: var(--ox-tufte-src-code-width); */
+/*     clear: none; */
+/* } */
+
+.src-haskell {
+    max-width: 60% !important;
+    /* color: #0a6060; */
+    overflow-x: auto;
+    float: left;
+    padding-bottom: 1.0em;
+}
