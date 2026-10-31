@@ -2977,52 +2977,53 @@ house, or a swimming pool with all the water gone in the winter.
 There are other, more established, "official" definitions, but this
 will be mine. And we'll use this idea as we go.
 
-*** Gothic redux
+** Gothic redux
 
 Today the term Gothic typically refers to a style or aesthetic
 characterized by mystery, shadows, darkness, gloom, heaviness, nature
-and the supernatural as threats. **Doom** will out in a typical Gothic
-plot line---the tension between the mistakes and sins of the past
-crashing down upon, overwhelming the present. But its meaning has
-followed an ironic and twisted path...
+and the supernatural threatening. **Doom** will out in a typical Gothic
+plot line. Yes, doom where the tension between the mistakes and sins
+of the past come crashing down upon, overwhelming the present. But the
+meaning of Gothic has followed an ironic and twisted path...
 
-+ **In History and Etymology**: Originally, the term referred to the
-  Goths, an East Germanic tribe that interacted with and invaded the
++ **In History and Etymology**: Originally, Gothic meant of the Goths,
+  an East Germanic tribe that interacted with and finally invaded the
   Roman Empire. During the Renaissance, however, critics used "Gothic"
-  as a pejorative label for medieval art and architecture to the
+  as a pejorative label for the medieval art and architecture to the
   North, equating it with "barbaric" or anti-classical, e.g.,
   Greco-Roman.
   
 + **In Architecture and Art (12th–16th Centuries)**: ...specific to
-  architecture, it described the northern medieval European building
-  style, mainly cathedrals, which featured pointed arches, ribbed
-  vaults, flying buttresses, thin walls, and large stained-glass
-  windows.
+  architecture, Gothic described the northern medieval European
+  building style, mainly cathedrals, which featured pointed arches,
+  ribbed vaults, flying buttresses, thin walls, and large
+  stained-glass windows.
   
-+ **In Literature and Film (18th Century–Present)**: ...finally
-  referring to a genre of fiction (starting with Horace Walpole's /The
-  Castle of Otranto/ in 1764) that blended romance and horror. Again,
-  typically featured are remote, decaying settings such as ruined
-  castles or gloomy manors, frightening supernatural or mysterious
-  occurrences, burdened psychological states, and themes of past
-  transgressions roaring unimpeded into the present. Classic examples
-  include Mary Shelley’s /Frankenstein/ and Bram Stoker’s
-  /Dracula/. Again, doom, dread, and general unmooring from the
-  hyper-rational scientific Enlightenment control.
++ **In Literature and Film (18th Century–Present)**: ...finally,
+  Gothic referred to a genre of fiction (starting with Horace
+  Walpole's /The Castle of Otranto/ in 1764) that blended romance and
+  horror. As previously noted, featured were remote, decaying settings
+  such as ruined castles or gloomy manors, frightening supernatural or
+  mysterious occurrences, anguished, beset psychological states, and
+  themes of past transgressions bursting forth upon the
+  present. Classic examples include Mary Shelley’s /Frankenstein/ and
+  Bram Stoker’s /Dracula/. Again, doom, dread, a sort of radical
+  chemotherapy against the cancer of the hyper-rational scientific
+  Enlightenment.
   
-+ **In Music and Subculture (20th Century–Present)**: ...morphing once
-  again to describe the /goth subculture/, which congealed from
-  late-1970s into 1980s post-punk and goth rock music scene. We all
-  know goths as black-clad, made up black-and-white, vibing anguished
-  out to morbid.
++ **In Music and Subculture (20th Century–Present)**: ... Gothic now
+  used to house the /goth subculture/, which followed as "post-punk"
+  in the late-1970s, becoming a fashion and music scene into the
+  1980s. Today's goths are black-clad, made up black-and-white,
+  vibing anguished out to morbid.
 
-...but this is indeed a tortured, twisted path. How Gothic morphed
-into an adjective meaning gloom, doom, and dread; assigned to remote,
-decaying settings; evocative of melancholic or romanticized aesthetics
-is a very ironic thing. Why? In my opinion Gothic architecture was all
-along expressive and suggestive of all these later dark and
-melancholic qualities /if/ we understand what dark and melancholic are
-and where they really come from.
+...but this is indeed a tortured, twisted path. How Gothic became an
+adjective meaning gloom, doom, and dread; assigned to remote, decaying
+settings; evocative of melancholic or romanticized aesthetics, is an
+extremely ironic thing. Why? Because, in my opinion, Gothic
+architecture was all along expressive and suggestive of all these
+later dark and melancholic qualities /if/ we understand what dark and
+melancholic are and where they really come from.
 
 Let us begin by reanalysing what Gothic architecture actually brought
 to the fore---beyond the elevator pitch "pointed arches, ribbed
@@ -3032,74 +3033,92 @@ Gothic architecture, one by [[https://en.wikipedia.org/wiki/Ernst_Ferdinand_Oehm
 
 #+begin_export html
 <img src="./images/OehmeCathedralInWintertime.jpg" width="600" alt="Cathedral in Winter">
-<span class="cap">Oehme's Cathedral in Winter</span>
+<span class="cap">Oehme's moody, if not spooky Cathedral in Winter</span>
 #+end_export
 
-then a [[https://en.wikipedia.org/wiki/Caspar_David_Friedrich][Caspar David Friedrich]] work
+then a famous [[https://en.wikipedia.org/wiki/Caspar_David_Friedrich][Caspar David Friedrich]] work
 
 #+begin_export html
 <img src="./images/Friedrich-Klosterruine_Eldena.jpg" width="700" alt="Eldena Cloister Ruins">
-<span class="cap">Friedrich's Eldena Cloister Ruins</span>
+<span class="cap">Friedrich's returned-to-nature Eldena Cloister Ruins</span>
 #+end_export
 
-Here we see the intentional link between a bygone architecture style
-with all the modern connotations of Gothic. How did this happen? Let's
-see another painting from the Romantic Period
+Here we see a veiled, subtle, "dog whistle" link between the bygone
+architecture style Gothic with the modern connotations and qualities
+of Gothic. How did this happen? Let's see another painting from the
+Romantic Period
 
 #+begin_export html
 <img src="./images/CarlBlechenWaldwegbeiSpandau.jpg" width="800" alt="Waldweg bei Spandau">
-<span class="cap">Blechen's Forest way near Spandau</span>
+<span class="cap">Blechen's dim, melancholic Forest way near Spandau</span>
 #+end_export
 
-Now compare this to the actual Gothic architecture of the Cologne Cathedral
+Now compare this to the actual medieval Gothic architecture of the
+Cologne Cathedral
 
 #+begin_export html
 <img src="./images/KoelnerDomNachOsten.jpg" width="800" alt="Cologne Cathetral east side">
 <span class="cap">The nobly attempted detail of the Cologne Cathedral</span>
 #+end_export
 
-Then compare this to the natural depth, complexity, and textures of
-nature, subtle out to sublime, but always containing in a fractal
-fashion the four aspects of nature, especially the constant conflict
-between growth and decay
+Then compare this to the natural depth, complexity, and textures of a
+cedar in wild nature. This is subtle out to sublime, but always
+containing in a fractal fashion the four aspects of nature, especially
+the constant conflict between growth and decay
 
 #+begin_export html
 <img src="./images/BigCedar1.png" width="800" alt="Big white cedar">
 <span class="cap">The natural and subtle detail of a northern white cedar</span>
 #+end_export
 
-Here is the key: /Gothic clearly attempted to mirror nature's density
-and complexity./ It rejected the flat, simplified, or strictly linear
-constraints of classical, choosing to fill space with overwhelming
-detail that mimics the infinite depth of the natural world. This might
-be attributed to the religious belief that the natural world is a
-direct reflection of God’s divine order. Consider the characteristic
-ribbed vaulting and clustered columns and how they directly mimic the
-structural density of forests, with stone piers rising like tree
-trunks and branching out into complex overhead canopies.[fn:122] Then
-all the intricate tracery: The stone frameworks supporting stained
-glass windows (like rose windows) rely on dense, interlocking
-geometric patterns that mirror biological forms, such as petals,
-leaves, and shells. The the almost microcosmic density: Again, Gothic
-cathedrals were built as "microcosms," or, the entire universe in
+Here is the key: /Gothic architecture attempted to mirror nature's
+density and complexity./ It rejected the flat, simplified, or strictly
+linear constraints of classical, choosing to fill space with
+overwhelming detail that mimics the myriad depth and complexity of the
+natural world. Some attribute this to the religious belief that the
+natural world is a direct reflection of God’s divine order. Consider
+the characteristic ribbed vaulting and clustered columns and how they
+directly mimic the structural density of forests, with stone piers
+rising like tree trunks and branching out into complex overhead
+canopies.[fn:122] Then all the intricate tracery: The stone frameworks
+supporting stained glass windows (e.g., rose windows) rely on dense,
+interlocking geometric patterns that mirror biological forms, such as
+petals, leaves, and shells. Then the almost microcosmic density, i.e.,
+Gothic cathedrals were built as "microcosms," or, the universe in
 miniature. The density of statues, gargoyles, and flora carved into
 every surface was meant to represent the overwhelming abundance of
 God's creation.
 
-Very well, but how then do we get to the dark and gloomy meaning of
-Gothic? To this I again invoke my understanding of nature as myriad
-cycles of birth, growth, decay, and death. I posit this understanding
-is instinctual, although in the modern world the second half has been
-artificially suppressed.[fn:123] The connection I'm trying to make
-between the pictures above is how Gothic seemed to naturally tip to
-the dark through housing the mysterious realm of the second half of
-nature---decay and death. Believe me when I say there is a special
-mental state that arises when all four aspects of nature---birth,
-growth, decay, and death---are in play outdoors in the forest, the
-moor, on the shore, no less than /rioting/ all around you mile after
-mile.[fn:124] This state, IMHO, was captured best by Emily Brontë. It never
-occurred to her to lisp impressionistic nothings as have the modernist
-poets.
+Very well, but, still, how do we get from a medieval architectural
+vernacular to the dark and gloomy meaning of Gothic? To this I begin
+by invoking my understanding of nature as myriad cycles of birth,
+growth, decay, and death happening everywhere always. I posit this
+/nature ubiquitous/ is instinctual---although, as I say, in the modern
+world the second half, decay and death, has been artificially
+suppressed.
+
+Consider a modern American city of one million inhabitants, e.g.,
+Austin, Texas, where the urban landscape is illuminated by an
+estimated two to five /gigalumens/ of artificial light! Then consider
+this city's modernist architecture with its hyper-sterile straight
+lines, right angles, and perfect arcs---all of it illuminated by this
+alien light. I say this is rooted in a modern pathological fear and
+denial of full-on nature ubiquitous, as well as night itself.
+
+The connection I'm trying to make between the pictures above is how
+Gothic seemed to naturally tip to the dark and gloomy of night, along
+with the decay and death of nature ubiquitous. Gothic, simply by
+imitating nature, brought in /all/ of nature, which includes the
+mysterious darkness, decay, and death. Believe me when I say there is
+a special mental and emotional state that arises when all four aspects
+of nature---birth, growth, decay, and death---are in play outdoors in
+the forest, the moor, on the shore, all of it /rioting/ all around you
+mile after mile.[fn:123] But in today's world, the decay and death
+part have been so suppressed that their reintroduction,
+reconsideration tends to rush in, to overshadow the lighter birth and
+growth half. This state, IMHO, was captured best by Emily Brontë. It
+never occurred to her to lisp impressionistic nothings as have the
+modernist poets.
 
 
 [the bringing indoors of nature's second half]
@@ -3124,7 +3143,7 @@ timeless, but then was often seen as all too twee nostalgic. What then
 is going on with nostalgia? What are we doing when we are nostalgic?
 
 The Brontë sisters languished in obscurity most of their
-lives,[fn:125] but as they gradually gained popular recognition in the
+lives,[fn:124] but as they gradually gained popular recognition in the
 latter half of the eighteenth century, Victorian Neo-Romantics kept up
 with portraying a softer, kinder Britain separate from the capitalist
 industrialist, imperialist militarist reality. Miss Jane Eyre,
@@ -3171,7 +3190,7 @@ Britain longed for by the nostalgia-heavy, Romanticism-influenced
 Pre-Raphaelites. Great ruing and regretting permeated Victorian
 parlour society vis-à-vis the real world, spurring them to search the
 earlier Romantic Era and to see in nature vitality and
-salvation. Notice to the right Millais' /The Blind Girl/.[fn:126] This
+salvation. Notice to the right Millais' /The Blind Girl/.[fn:125] This
 was the down-home England they sought and idealised over the harsh
 realities of colonialism and imperialism, the horrific suffering of
 the urban industrial wastelands Charles Dickens came to chronicle over
@@ -3218,7 +3237,7 @@ on the part of MacPherson.
 Arthur Conan Doyle believed in fairies. Julia Margaret Cameron, half
 of her life spent after 1850, conjured nostalgia in her
 ground-breaking photography with its soft-focus and historical
-themes.[fn:127] Nostalgia, originally a medical condition,[fn:128]
+themes.[fn:126] Nostalgia, originally a medical condition,[fn:127]
 morphed into the social-psychological phenomenon of idolising the
 past, vulgar nostalgia selectively reviving, reanimating hoped-for
 aspects of the past. Nostalgia's motivation? Again, eighteenth-century
@@ -3248,7 +3267,7 @@ about home. Ursula Le Guin said an adult is not a dead child, rather a
 child that survived. But can that child in us take a faery
 hand-in-hand and return to the water and the wild?  Faerie as a
 hyper-idealised European homeland paralleling Abrahamic
-Middle-eastern Eden? Consider Elizabeth Siddal, (1829 - 1862)[fn:129]
+Middle-eastern Eden? Consider Elizabeth Siddal, (1829 - 1862)[fn:128]
 model, artist, poetess, her /Gone/
 
 #+begin_verse
@@ -3352,7 +3371,7 @@ an egregious desensitisation regime spreading throughout society. And
 so they threw /re-sensitisation/ at it. The stereotypical middle-class
 industrialist rising during the Enlightenment was a pragmatic
 utilitarian who, after absorbing the message of Adam Smith's /The
-Wealth of Nations/ (1776), had shucked off [[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]],[fn:130]
+Wealth of Nations/ (1776), had shucked off [[https://en.wikipedia.org/wiki/Noblesse_oblige][noblesse oblige]],[fn:129]
 the New Testament beatitudes, and any lingering other-century
 nostalgia and sentimentality to forge ahead as the consummate
 self-reliant individualist who was laser-focused on financial
@@ -3375,7 +3394,7 @@ there is no end; and much study is a weariness of the flesh. \\
 #+end_quote
 
 And yet academe's version of so-called Romanticism is still a very big
-elephant in the middle of our darkly-inclining room.[fn:131] And so
+elephant in the middle of our darkly-inclining room.[fn:130] And so
 what to do with this beast wont to obfuscate, to blunt and talk to
 death the work of my genial, gifted principals? When not /completely/
 missing the Dark Muse point, academia wants to pigeonhole it as gothic
@@ -3413,7 +3432,7 @@ principals, helped talk Romanticism into existence---the Jena Set,
 Coleridge, Germaine de Staël, Emerson in America, et al.---but again,
 I believe the actual principals were far-sighted, inward-gazing,
 quasi-timeless unicorns not following guidelines nor living up to
-anybody's expectations.[fn:132] ... and most certainly they did not
+anybody's expectations.[fn:131] ... and most certainly they did not
 "write to spec" or pastiche, as was fairly obviously the case with
 gothic horror novelists. /And so I say once more sifting through all
 the academic chaff gets us nowhere versus simply reading and silently
@@ -3432,7 +3451,7 @@ unfortunately wore both creator and explainer hats: Samuel Taylor
 Coleridge and Edgar Allan Poe. With them we see how their creations
 might take us into the ephemeral mists of Romanticism's subtleties and
 sublimities, while their intellectualizations and pontifications
-thereof only sound windy, if not shrill out to ridiculous.[fn:133] And
+thereof only sound windy, if not shrill out to ridiculous.[fn:132] And
 yet the urban salons of the time necessarily trafficked in rational,
 left-brain talk and copy. And this is for me the /crisis of
 Romanticism/, i.e., the huge divide between the creators and their
@@ -3450,7 +3469,7 @@ than a day, with imitations instantly springing up like mushrooms
 after rain. However, in the closing years of the eighteenth century
 there just seemed to be something in the air, which, fatefully, came
 to be called Romanticism, called so first by Jena Set founder
-Friedrich Schlegel[fn:134] The prima facie seeds were works from
+Friedrich Schlegel[fn:133] The prima facie seeds were works from
 Coleridge and Wordsworth's collaboration /Lyrical Ballads/ (first
 edition) appearing in 1798 and Novalis' /HttN/ in 1800. And yet my
 principle principal, Emily Brontë, wrote decades later and arguably
@@ -3464,7 +3483,7 @@ Germany between 1898 and 1899, but were there only to save money and
 perhaps learn German. They apparently had no idea of Novalis or Jena
 Romanticism starting up at that time!
 
-What is called /Early German Romanticism/[fn:135] began when Novalis'
+What is called /Early German Romanticism/[fn:134] began when Novalis'
 /HttN/ burst upon the scene in the very first year of the nineteenth
 century. Clear to me, however, is that /HttN/ was a one-off that came
 out of the blue, thus, certainly not intentional, positioned for, or
@@ -3472,7 +3491,7 @@ tailored to any specific trend or agenda. Contrast this with Goethe's
 play /[[https://en.wikipedia.org/wiki/Iphigenia_in_Tauris_(Goethe)][Iphigenia in Tauris]]/ (versions in 1779, 1781, 1786), based on
 Euripides' original, and specifically meant to showcase Goethe's ideal
 of modern classicism, i.e., his and Friedrich Schiller's [[https://en.wikipedia.org/wiki/Weimar_Classicism][Weimar
-Classicism]].[fn:136] Enter the /Jena Set/, centred around the Schlegel
+Classicism]].[fn:135] Enter the /Jena Set/, centred around the Schlegel
 brothers, August Wilhelm and Friedrich, along with August's wife
 Caroline, who seized upon the mostly absentee Novalis as their boy
 wonder /Liebling/ mascot---and the conflation of producer and
@@ -3494,7 +3513,7 @@ theorising and intellectualisations. Alas.
 
 /[[https://en.wikipedia.org/wiki/Dark_Romanticism][Dark Romanticism]]/ (DR) would be an even more unfortunate academe box
 sporting the adjective dark. At its centre was supposedly [[https://en.wikipedia.org/wiki/Edgar_Allan_Poe][Edgar Allan
-Poe]].[fn:137] Alas but the Wikipedia description of DR trots out all
+Poe]].[fn:136] Alas but the Wikipedia description of DR trots out all
 the negative stereotypes of Dark. As one biographer noted, Poe
 struggled all his short adult life to make a living as a writer and
 poet. One supposed quote of his said
@@ -3600,7 +3619,7 @@ virtuous woman Leanore. Allow me, please.
 And so here I want to make a very important point about my principals,
 to be sure, /that they were only vessels,/ those particular mortals
 the Muses chose to be their emissaries. This angle is well developed
-in the Hollywood film /[[https://en.wikipedia.org/wiki/Amadeus_(film)][Amadeus]]/ where Mozart[fn:138] was depicted as
+in the Hollywood film /[[https://en.wikipedia.org/wiki/Amadeus_(film)][Amadeus]]/ where Mozart[fn:137] was depicted as
 an immature, outta-control brat, while all the same the conduit of
 heavenly music. As alluded above, Novalis was likely just such a
 boy-wonder Amadeus sort, Poe often enough mercurial, Emily Brontë
@@ -3775,7 +3794,7 @@ I would add that Poe, of my principle principals, was undoubtedly the
 best educated and informed. He would have known Greek mythology best,
 i.e., all about [[https://en.wikipedia.org/wiki/Thanatos][Thanatos]], Nyx, Hypnos, the Underworld and, in general,
 the classic Greek proto-gothic take on death and night. And yet he
-delivers in his /Annabel Lee/ our new sort of Dark Muse.[fn:139]
+delivers in his /Annabel Lee/ our new sort of Dark Muse.[fn:138]
 
 ** Emily Brontë's (unintended?) worldview
 
@@ -3788,11 +3807,11 @@ Here I will simply and plainly state (gush) that Emily Jane Brontë is
 the very centre of my Dark Muse. Through just a handful of her poems
 she embodies for me the heart and soul of what I consider /base/ Dark
 and /real/ Romanticism. But as mentioned above, she has largely been
-left out of any Romanticism boxing or packaging.[fn:140]
+left out of any Romanticism boxing or packaging.[fn:139]
 
 Though many are surprised when I say forget her book /Wuthering
 Heights/, which for me is just stock old-school gothic, however
-artistically potent we may find it.[fn:141] I said this before---and,
+artistically potent we may find it.[fn:140] I said this before---and,
 yes, it may seem odd and counter-intuitive---but prose, loaded down
 with depictions of human mundanity as it must be, is doomed, as it
 simply cannot do for Dark what poetry can. Likewise, Poe lost much
@@ -3806,20 +3825,20 @@ as always, YMMV, your mileage may vary...
 
 Of course there's no denying the human being is very
 narrative-oriented. Basically, we crave /original time/ mythology. But
-a telling, a story must be of legend import and gestalt;[fn:142]
+a telling, a story must be of legend import and gestalt;[fn:141]
 otherwise, it runs the risk of being confusing, misleading, that is to
 say /false/ legend, exciting our psychic legend receptor sites,
 stirring up archetypes, only to lead us hither and thither, but in the
 end doing us no real service for all the innervation. Which eventually
-can only lead to burnout and collective madness.[fn:143] What?!
+can only lead to burnout and collective madness.[fn:142] What?!
 Really? Yes! And where did I get such a crazy idea? From a Native
 American on the Blackfoot Reservation many years ago who adamantly
 insisted his people's traditional legends were true and not just
-children's fairy tales. He insisted[fn:144] our white-man science was
+children's fairy tales. He insisted[fn:143] our white-man science was
 pointless and told us nothing worth knowing, and, worse!, that our
 fictional novels, plays, and films were /false legends/, and that we
 were a bunch of hapless, delusional fools chasing after false
-legends![fn:145] Not kidding. But as has (thankfully!) often happened
+legends![fn:144] Not kidding. But as has (thankfully!) often happened
 in my life, this encounter knocked another layer of scales from my
 eyes and light shined through, connections and eurekas ensued.
 
@@ -3850,10 +3869,10 @@ in so doing you will hopefully be able to make this magical Negative
 Capability suspension of Nature, Dark, and Christianity hover above
 your own heart and mind. Problematic, however, is how some forty-four
 of her poems are referencing her [[https://en.wikipedia.org/wiki/Paracosm][paracosm]], her fantasy land
-/[[https://en.wikipedia.org/wiki/Gondal_(fictional_country)][Gondal]]/,[fn:146] and without any surviving backstory, they are
-obscure and cannot really be fathomed today.[fn:147] Still, the
+/[[https://en.wikipedia.org/wiki/Gondal_(fictional_country)][Gondal]]/,[fn:145] and without any surviving backstory, they are
+obscure and cannot really be fathomed today.[fn:146] Still, the
 remaining poems are gold. I will now single out three key (non-Gondal)
-poems[fn:148]
+poems[fn:147]
 
 + /The night is darkening round me/ (once more),
 + /I'll come when thou art saddest/ and
@@ -3953,7 +3972,7 @@ something of some incomprehensible Beyond.
 
 Indeed, if she were truly marginal and bat-like, not so very anchored,
 not so bought into the "real," mundane world, if she had /shunned the
-common paths that other run/,[fn:149] then this twilight storm across
+common paths that other run/,[fn:148] then this twilight storm across
 the previously benign wastelands would surely have confronted her with
 a compelling alternative to the profane, real world. Instead of an
 "everywhere," mapped and ultimately dominated by humans, she glimpses
@@ -3971,8 +3990,8 @@ vulnerability, and ultimately transport.
 *** Von Droste-Hülshoff's versus Brontëan Nature 
 
 The German poetess [[https://en.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff][Annette Freiin von Droste zu Hülshoff]] (1797 -
-1848)[fn:150] in her /Der Knabe im Moor/ (/The boy on the moor/ first
-appearing in 1842)[fn:151] likewise speaks of Nature's power as
+1848)[fn:149] in her /Der Knabe im Moor/ (/The boy on the moor/ first
+appearing in 1842)[fn:150] likewise speaks of Nature's power as
 darkness descends. However, Droste means to bring to us the /fear/ of
 nature as a superstitious peasant lad would experience it. Here is my
 free prose translation of the first stanza
@@ -4052,17 +4071,17 @@ do, nor go where they cannot go, nor understand what they cannot
 understand/. For all intents and purposes, the moorlands are full of
 evil after dark, full stop. No attempt at disabusing the commoner of
 superstitions is really possible. Droste's is a stasis attitude, thus,
-keep things simple and steady is the mantra of the day.[fn:152]
+keep things simple and steady is the mantra of the day.[fn:151]
 
 We may contrast this with Emily Brontë's more Protestant-influenced
 understanding of her heath. Hers was not the immemorial Catholic
 peasant mentality, rather, that of an informed Protestant cleared of
-the eisegesis,[fn:153] post-scripture metaphysics supposedly
+the eisegesis,[fn:152] post-scripture metaphysics supposedly
 dominating Catholicism. To give an indication of how different
 Catholics and Protestants are on metaphysical phenomena, consider how
 thousands of saints are officially recognised by the Catholic
 church---most having qualified as saintly due to some metaphysical,
-paranormal religious experience.[fn:154] Saintless Protestants, on the
+paranormal religious experience.[fn:153] Saintless Protestants, on the
 other hand, would seem to exclude anything paranormal miraculous not
 mentioned directly in the Old or New Testament of the Bible. Here is
 Günter Grass from his novel /The Flounder/ speaking of a priestess of
@@ -4172,13 +4191,13 @@ private death-bed event of the utmost consequence. Still, the human is
 and so is threatened by this truest doom... And most strikingly,
 /there is little to none of the "good news" of Jesus in this corner of
 the Brontëan world/. Emily no truck with Christ; Charlotte no truck
-with missionaries;[fn:155] Anne floating passive and resigned...
+with missionaries;[fn:154] Anne floating passive and resigned...
 
 I believe no one sees God quite like Haworth Emily did, no one in or
 out of scripture has described a more ominous and material meeting of
 God and man. But then with whom could she have ever spoken about such
 things? Her cleric father? Doubtful, he too much the Church of England
-company man.[fn:156] Charlotte, Anne? Perhaps. And yet some impasse
+company man.[fn:155] Charlotte, Anne? Perhaps. And yet some impasse
 might have prevented that, antagonisms, /codependency/ ruts as we might
 now say. After all, she hid most of her poetry from the world. Here is
 another insight into her mind, a poem called /The Philosopher/
@@ -4321,7 +4340,7 @@ Dutiful Anne would have sung properly. Charlotte perhaps less so. But
 Emily might have only mouthed the words. No coward soul was hers,
 faith so very strong---but then this Christian triumphalist
 boosterism, this perfunctory marching behind the Christian torch
-probably left her in a state of ennui.[fn:157]
+probably left her in a state of ennui.[fn:156]
 
 Of course Emily's wish for nothing more than what she had of precious
 Nature on Earth might have been a literary device, a poetising not
@@ -4415,7 +4434,7 @@ out-of-the-blue those series were, we all seemed to "get" the premise
 and laugh along with the recurring goths-versus-normies gag. Likewise, the
 biggest film of my childhood, /[[https://en.wikipedia.org/wiki/The_Wizard_of_Oz][The Wizard of Oz]]/ had many gothic
 themes, especially the Wicked Witch of the West, her very creepy
-flying monkeys and castle.[fn:158]
+flying monkeys and castle.[fn:157]
 
 My teen years were influenced mainly by the progressive Woodstock Era
 memes, especially the music of the day, the only Dark exposure coming
@@ -4448,7 +4467,7 @@ Individual Training), I received my permanent assignment to West
 Germany. My first location was far out on the Bohemian frontier, deep
 in the /[[https://en.wikipedia.org/wiki/Bavarian_Forest][Bavarian Forest]]/ where the Army and Air Force operated a small
 mountaintop electronic eavesdropping post near the tiny village of
-[[https://en.wikipedia.org/wiki/Rimbach,_Upper_Palatinate][Rimbach]].[fn:159] We were less than one hundred Americans "on the
+[[https://en.wikipedia.org/wiki/Rimbach,_Upper_Palatinate][Rimbach]].[fn:158] We were less than one hundred Americans "on the
 economy," which meant we had no base nor barracks, rather, lived out
 amongst the locals. My rooms were with a farmer family in a house just
 below the /haunted/ Lichteneck [[https://de.wikipedia.org/wiki/Burg_Lichteneck_(Oberpfalz)][castle ruins]] overlooking the wild,
@@ -4470,7 +4489,7 @@ For the first time in my life I was not plugged into the all-consuming
 American social-psychology spew and its blighting, domineering,
 Zeitgeist-wrangling media. Everything around me felt old, /very/ old,
 the local Bavarians connected to something else, perhaps a fairytale
-that was now in suspended animation.[fn:160] And when I was handed a
+that was now in suspended animation.[fn:159] And when I was handed a
 copy of /Lord of the Rings/ and I first learned of Hobbits and the
 Shire, yes, I thought, this is the Shire! As Fall turned into Winter I
 spent every free moment hiking the forested ridge trails. It was as if
@@ -4511,7 +4530,7 @@ humans here frustrate me with their obstinate cluelessness, especially
 their pointedly anti-Dark attitudes. Pictures may be worth thousands
 of words, but our Dark vibe up here must be experienced to be truly
 appreciated. I routinely get tiny glimpses of the shadow and magic
-realm just for looking out at my moonlit /Inland Sea/[fn:161] over the
+realm just for looking out at my moonlit /Inland Sea/[fn:160] over the
 treetops of dark spruce and gnarled, bare aspen. As Haworth Emily has
 taught me, Nature is the original Dark.
 
@@ -4520,7 +4539,7 @@ more sea-like than any lake. To my thinking, a lake is much smaller
 and much---plainer, simpler. The enormity of our Inland Sea means she
 is often violent like any sea or ocean of saltwater. No friendly
 little puddle for beer-and-brats picnickers, speedboat and jet ski
-riffraff is she.[fn:162] To be sure, one senses a mighty présence on
+riffraff is she.[fn:161] To be sure, one senses a mighty présence on
 her shores, often dark and moody, if not angry and malevolent on a
 stormy night. This lady has her /moods/, which demand respect.
 
@@ -4532,10 +4551,10 @@ as with the American West, Alaska, or Hawaii with their "natural
 wonders" postcard vistas every few miles. /See the USA in your
 Chevrolet/ skipped the North Shore. A deep moodiness often prevails,
 setting up the Dark Muse subtle-to-sublime pathway. But as I'm saying,
-Dark Musers like myself are thin on the ground in this place.[fn:163]
+Dark Musers like myself are thin on the ground in this place.[fn:162]
 Which might have a silver lining in that I have a perfect laboratory
 to test whether the Dark Muse is /nature or nurture/. For example, if
-I see no past-century architecture,[fn:164] if I have no like-minded
+I see no past-century architecture,[fn:163] if I have no like-minded
 community to mutually re-enforce nighttime proclivities, then any Dark
 musing must come from the actual place itself, hence, nature over
 nurture, right?
@@ -4580,7 +4599,7 @@ Zeitgeist churn.
 
 But then what are we supposed to be doing up here? Legions of tourists
 spend their vacation time and money here. If I'm getting Dark vibes, I
-won't pretend to know what they are getting out of this place.[fn:165]
+won't pretend to know what they are getting out of this place.[fn:164]
 And as I'm saying, many decide to be here permanently, thus, begin
 their North Shore lives of expectation---that their childhood memories
 of singing Kumbaya around the campfire and the general vacation magic
@@ -4624,7 +4643,7 @@ traditional, human-powered boats? But then what would the offending
 hooligan from his world of NASCAR, "contemporary" country music, and
 cheap American beer hope to achieve with his little protest action?
 Are we all just lost in these endless opaque labyrinths of recursive
-symbols, stand-ins, and derivative hyperreality?[fn:166] What is porn
+symbols, stand-ins, and derivative hyperreality?[fn:165] What is porn
 and what is real?  Yes, indeed, this is the North Shore resort town
 theatre I experience daily.
 
@@ -4634,9 +4653,9 @@ dazzling striking amazing. This is a lower-key for sure. Wealthy
 people are here; but this is certainly not the ostentatious, celebrity
 scene like, e.g., Jackson Hole, Wyoming, nor dynastic "old money"
 like, e.g., Newport, Rhode Island. No, we're not in that
-league.[fn:167] A memorable advertisement poster for Arrowhead tourism
+league.[fn:166] A memorable advertisement poster for Arrowhead tourism
 showed a twilit Boundary Waters wilderness lake with the tagline
-"Stirred not shaken."[fn:168] I'm sure some have their own sort of
+"Stirred not shaken."[fn:167] I'm sure some have their own sort of
 Dark Muse moments, but then lack the cultural background to process
 (embellish?) and formally identify them as such. For example, our
 so-called northern lights, the aurora borealis, give pause, are
@@ -4715,7 +4734,7 @@ But only spirit wandering wide
 Through infinite immensity.
 #+end_verse
 
-And here's something similar from [[https://en.wikipedia.org/wiki/Lord_Byron][Byron]][fn:169]
+And here's something similar from [[https://en.wikipedia.org/wiki/Lord_Byron][Byron]][fn:168]
 
 #+begin_verse
 I live not in myself, but I become				
@@ -4751,7 +4770,7 @@ In closing, I doubt Grand Marais will ever be my sepulchre by the
 sea. I may eventually move on to where the cemeteries are bigger, the
 buildings older, the people more openly darkly-inclined. Or just find,
 wherever they may be, a niche amongst those who acknowledge there can
-be a darkness in the day and a lightness arriving at twilight.[fn:170]
+be a darkness in the day and a lightness arriving at twilight.[fn:169]
 But here is so much of Nature if I will keep after her. And in so
 chasing Nature, I in my own modern-era way embrace the "dark half" as
 well---deterioration and Death.
@@ -5255,85 +5274,83 @@ consolidated the German states from 300 down to 39.
 [[file:images/FriedrichLostFrenchSoldier.png]] \\
 \\
 
-[fn:122] Is this not the pagan "sacred grove" brought indoors?
+[fn:122] Is this not a life-sized model of the pagan "sacred grove"
+brought into the city?  Mature Eastern White Pines where I live can
+reach heights of 100 to 150 feet (30 to 45 meters), which is
+remarkably similar to the vault height of the Cologne Cathedral, which
+stands at roughly 142 feet (43.35 meters). I'm saying walking through
+a mature forest of Eastern White Pines (unfortunately rare) feels very
+much like standing inside the Cologne Cathedral.
 
-[fn:123] Consider a modern American city of one million inhabitants,
-e.g., Austin, Texas, where the urban landscape is illuminated by two
-to five /gigalumens/ of artificial light. At some level I consider
-this rooted in a modern pathological fear and denial of Night. Then
-consider all the modernist architecture illuminated by this alien
-light with its hyper-sterile straight lines, right angles, and perfect
-arcs. Alas...
+[fn:123] Forests naturally have attenuated light due on this huge
+stage of life and death---where the shadows grow fast and pool to
+darkness as the sun tends to the horizon. This alone...
 
-[fn:124] Forests naturally have attenuated light due to this huge riot
-of life and death---where the shadows grow fast and pool to darkness
-as the sun tends to the horizon. This alone...
-
-[fn:125] Oddly enough, the Brontës are completely left out of many key
+[fn:124] Oddly enough, the Brontës are completely left out of many key
 academic analyses of Romanticism. For example, Abrams' /The Mirror and
 the Lamp/, Beach's /The Concept of Nature in Nineteenth-Century
 English Poetry/, and Berlin's /The Roots of Romanticism/ make no
 mention of them!
 
-[fn:126] Millais' /The Blind Girl (1854-56)/ \\
+[fn:125] Millais' /The Blind Girl (1854-56)/ \\
 [[file:images/MillaisTheBlindGirl1854-56.jpg]] \\
 \\
 
-[fn:127] Alethea, by Julia Margaret Cameron (1872) \\
+[fn:126] Alethea, by Julia Margaret Cameron (1872) \\
 [[file:images/Alethea,_by_Julia_Margaret_Cameron.jpg]] \\
 \\
 
-[fn:128] *Nostalgia*, from Latin, literally means /[[https://en.wikipedia.org/wiki/Homesickness][homesickness]]/ and
+[fn:127] *Nostalgia*, from Latin, literally means /[[https://en.wikipedia.org/wiki/Homesickness][homesickness]]/ and
 was an acknowledged medical condition in the 1800s.
 
-[fn:129] Elizabeth Eleanor Siddall, ca. 1860; the original "super model"
+[fn:128] Elizabeth Eleanor Siddall, ca. 1860; the original "super model"
 for the  Pre-Raphaelite painters. \\
 [[file:images/Siddal-photo.jpg]] \\
 \\
 
-[fn:130] Luke 12:48: /For unto whomsoever much is given, of him shall
+[fn:129] Luke 12:48: /For unto whomsoever much is given, of him shall
 be much required: and to whom men have committed much, of him they
 will ask the more./
 
-[fn:131] Again, the Romantic Era is typically fenced between the years
+[fn:130] Again, the Romantic Era is typically fenced between the years
 1800 and 1850.
 
-[fn:132] ...e.g., the Brontës were pastor's daughters in rural West
+[fn:131] ...e.g., the Brontës were pastor's daughters in rural West
 Yorkshire with little exposure to (taint from?) the cultural and
 literary buzz of the cities.
 
-[fn:133] Again, today we have the concept of left-brain, right-brain,
+[fn:132] Again, today we have the concept of left-brain, right-brain,
 as often enough nothing else can describe this split-personality
 confusion. The best ideas about left-right brain are those of Iain
 McGilchrist. Try [[https://www.youtube.com/watch?v=hK7XG3t2nFg&list=PLqBHk3itxyPDKFnwj8-SmlwHra64cCrky&pp=iAQB][these]].
 
-[fn:134] [[https://engines.egr.uh.edu/english-romanticism/what-romanticism][This]] will save you some googling. Again, note especially the
+[fn:133] [[https://engines.egr.uh.edu/english-romanticism/what-romanticism][This]] will save you some googling. Again, note especially the
 tortured, left-brained origin of the term /romantic/.
 
-[fn:135] For what it's worth, German Romanticism can be broken down
+[fn:134] For what it's worth, German Romanticism can be broken down
 into Jena, Heidelberg, then Berlin Romanticism based largely on the
 principle artists.
 
-[fn:136] Again, Goethe would criticise Romanticism harshly, but
+[fn:135] Again, Goethe would criticise Romanticism harshly, but
 attempted to bridge proto-Romanticm /Sturm und Drang/ with his new
 classicism.
 
-[fn:137] Daguerreotype of Poe 1849 \\
+[fn:136] Daguerreotype of Poe 1849 \\
 [[file:images/Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg]]
 
-[fn:138] Child Wolfgang and sister Maria Anna \\
+[fn:137] Child Wolfgang and sister Maria Anna \\
 [[file:images/Wolfgang_amadeus_mozart_1756_j_hi.jpg]] \\
 \\
 
-[fn:139] Academe is also wont to play around with Freud's [[https://en.wikipedia.org/wiki/Death_drive][death drive]]
+[fn:138] Academe is also wont to play around with Freud's [[https://en.wikipedia.org/wiki/Death_drive][death drive]]
 (/Todestrieb/), another red herring completely antithetical to
 everything I'm about here with WutheringUK. If anyone didn't get
 feelings and poetisation as my principals saw it, that would be
 Sigmund Freud.
 
-[fn:140] ...a blessing perhaps?
+[fn:139] ...a blessing perhaps?
 
-[fn:141] Let me finally mention here that the word /wuthering/ is
+[fn:140] Let me finally mention here that the word /wuthering/ is
 "Northern" dialect for the wind blowing; from late Middle English
 /whither/, /wuther/ "rush, make a rushing sound", probably of
 Scandinavian origin; or /whithering/ comes from the Old Norse and
@@ -5341,18 +5358,18 @@ means roaring like the wind on a stormy day. This is the sort of
 /wuthering/ I'm using in my title /WutheringUK/, i.e., I'm not
 referencing the book.
 
-[fn:142] /Gestalt/ in the sense of form, pattern,
+[fn:141] /Gestalt/ in the sense of form, pattern,
 configuration. Perhaps as well legends are comprised of /atoms/ of
 legend stuff, etc. More on "legend receptor sites" later.
 
-[fn:143] Case in point is Goethe's /The Sorrows of Young Werther/
+[fn:142] Case in point is Goethe's /The Sorrows of Young Werther/
 (first print 1774) which supposedly unleashed a wave of suicides of
 young men who identified all too closely with the story's male
 protagonist who commits suicide after losing at love.
 
-[fn:144] ...forcefully, poking me in the chest with his finger!
+[fn:143] ...forcefully, poking me in the chest with his finger!
 
-[fn:145] Compare perhaps with the [[https://en.wikipedia.org/wiki/Mircea_Eliade#Philosophy][Mircea Eliade]] "terror of history"
+[fn:144] Compare perhaps with the [[https://en.wikipedia.org/wiki/Mircea_Eliade#Philosophy][Mircea Eliade]] "terror of history"
 concept where, literally, the linear progression of time and history
 is meaningless when compared to the mythical sacred times of
 origin. In effect, mundane life is meaningless, thus, its accumulation
@@ -5360,102 +5377,102 @@ of "events" are also meaningless, even oppressive destructive for
 those still trapped in linear time and a strictly mundane
 interpretation of life and reality.
 
-[fn:146] An Emily Brontë Gondol poem \\
+[fn:145] An Emily Brontë Gondol poem \\
 [[file:images/EBGondalPoem1844.png]] \\
 \\
 
-[fn:147] Imagine reading Tolkien's /Lord of the Rings/ poems without
+[fn:146] Imagine reading Tolkien's /Lord of the Rings/ poems without
 any knowledge of his Middle Earth or the /Lord of the Rings/ story...
 
-[fn:148] Enjoy [[https://youtu.be/wjxZ-VbUihI?si=ei3UwASvoRQgbVW0][this Unthanks Sisters version]].
+[fn:147] Enjoy [[https://youtu.be/wjxZ-VbUihI?si=ei3UwASvoRQgbVW0][this Unthanks Sisters version]].
 
-[fn:149] ...as per her poem /Plead for me/
+[fn:148] ...as per her poem /Plead for me/
 
-[fn:150] Baroness Annette von Droste-Hülshoff \\
+[fn:149] Baroness Annette von Droste-Hülshoff \\
 [[file:images/Annette-von-droste.jpg]] \\
 \\
 
-[fn:151] Gerhard Wedepohl's illustration for /Der Knabe im Moor/ \\
+[fn:150] Gerhard Wedepohl's illustration for /Der Knabe im Moor/ \\
 [[file:images/Knabe_im_Moor.jpg]] \\
 \\
 
-[fn:152] Sometimes I can't help but feel America is just a land of
+[fn:151] Sometimes I can't help but feel America is just a land of
 lost peasants who have failed at rising above peasant ignorance and
 can't figure out where to go other than into evermore materialism,
 i.e., the exercise of peasant hoarding...
 
-[fn:153] ...reading into Biblical scripture what one subjectively
+[fn:152] ...reading into Biblical scripture what one subjectively
 wants to believe, as opposed to /exegesis/, which purportedly is
 exactly what the original author meant.
 
-[fn:154] The well-known German liqueur /[[https://en.wikipedia.org/wiki/J%C3%A4germeister#Label][Jägermeister]]/ features a stag
+[fn:153] The well-known German liqueur /[[https://en.wikipedia.org/wiki/J%C3%A4germeister#Label][Jägermeister]]/ features a stag
 with a glowing crucifix between its antlers, which originated from an
 apparition seen by [[https://en.wikipedia.org/wiki/Hubertus][Saint Hubertus]]. \\
 [[file:images/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg]] \\
 \\
 
-[fn:155] ...based on her unflattering portrayal of St John Rivers'
+[fn:154] ...based on her unflattering portrayal of St John Rivers'
 drive to be a missionary in India in /Jane Eyre/.
 
-[fn:156] I can see the Reverend Patrick coming away from a theological
+[fn:155] I can see the Reverend Patrick coming away from a theological
 discussion with his braincase daughters theatrically shaking his head,
 muttering, "Oh, my daughters!" to hearty laughter.
 
-[fn:157] And yet [[https://youtu.be/2qCmtUhiKcA?si=12R2dDiYdqwRZ-GG][this version]] might very well have cringed out all
+[fn:156] And yet [[https://youtu.be/2qCmtUhiKcA?si=12R2dDiYdqwRZ-GG][this version]] might very well have cringed out all
 three of the Christian minimalist B-Sisters...
 
-[fn:158] Wicked Witch of the West in stealth mode... \\
+[fn:157] Wicked Witch of the West in stealth mode... \\
 [[file:images/The_Wizard_of_Oz_Margaret_Hamilton_1939_No_1.jpg]] \\
 \\
 
-[fn:159] Depiction of Rimbach some six hundred years prior. Note the
+[fn:158] Depiction of Rimbach some six hundred years prior. Note the
 red star just below the castle, my digs. \\
 [[file:images/lichteneck_ap2.jpg]] \\
 \\
 
-[fn:160] ...but aren't all fairy tales in suspended animation "until
+[fn:159] ...but aren't all fairy tales in suspended animation "until
 further notice," e.g., Merlin supposedly biding his time in some pit
 or inside a hawthorn tree?
 
-[fn:161] Really though, calling her /Lake/ Superior is like calling
+[fn:160] Really though, calling her /Lake/ Superior is like calling
 Einstein a high school graduate.
 
-[fn:162] Wetsuits de rigueur. Even in summer a dunk in her longer than
+[fn:161] Wetsuits de rigueur. Even in summer a dunk in her longer than
 ten minutes can lead to hypothermia ... at least on the North
 Coast. Although the south beaches of Wisconsin and Michigan can be
 swimmable in the height of summer. However, global climate change may
 be altering this. Alas.
 
-[fn:163] ...or if they're here they're hiding very well.
+[fn:162] ...or if they're here they're hiding very well.
 
-[fn:164] Our little cemetery looks nothing like the Cimetière du
+[fn:163] Our little cemetery looks nothing like the Cimetière du
 Père-Lachaise, Paris, France \\
 [[file:images/Pere_Lachaise_Chemin_Errazu.jpg]] \\
 \\
 
-[fn:165] ...though they do seem to "stay connected" \\
+[fn:164] ...though they do seem to "stay connected" \\
 [[file:images/NewYorkerCover03-02-2015.png]] \\
 \\
 
-[fn:166] French semiotician and social theorist Jean Baudrillard
+[fn:165] French semiotician and social theorist Jean Baudrillard
 argues in /Simulacra and Simulation/ that a simulacrum is not a copy of
 the real, but becomes truth in its own right: the hyperreal. According
 to Baudrillard, what the simulacrum copies either had no original or
 no longer has an original, since a simulacrum signifies something it
 is not, and therefore leaves the original unable to be located.
 
-[fn:167] The Great Lakes tourist scene has always been a grittier,
+[fn:166] The Great Lakes tourist scene has always been a grittier,
 more working-class world than other tourist Meccas.
 
-[fn:168] A flip of the James Bond martini quip?
+[fn:167] A flip of the James Bond martini quip?
 
-[fn:169] ...mad, bad, and dangerous to know Lord Byron from his
+[fn:168] ...mad, bad, and dangerous to know Lord Byron from his
 /Childe Harold's Pilgrimage/.
 
-[fn:170] /...But could the day seem dark to me because the night was
+[fn:169] /...But could the day seem dark to me because the night was
 fair?/ asked Haworth Emily.
 
-[fn:171] Quick preliminary, much more later: The term Romanticism
+[fn:170] Quick preliminary, much more later: The term Romanticism
 followed a twisted path beginning with the Latin /romant/, or, "in the
 Roman manner", thus, not at all our current use of the word as a
 synonym of lovey-dovey stuff. In general, bundling what I'm trying to
